@@ -25,7 +25,7 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-The 59th annual meeting of the Association for Computational Linguistics (ACL) will take place in Thailand..</b>.
+<b>The 59th annual meeting of the Association for Computational Linguistics (ACL) will take place in Thailand..</b>.
 
 ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.
 
@@ -36,57 +36,57 @@ ACL is the premier conference of the field of computational linguistics, coverin
     <tbody>
         <tr>
             <td style="width: 40%;">Completion of START Global Profile</td>
-            <td style="width: 30%;">Monday</td>
+            <td style="width: 30%;">Wednesday</td>
             <td>December 9, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Completion of ACL2021 Reviewer and Chair/Author Information Form</td>
-            <td style="width: 30%;">Monday</td>
+            <td style="width: 30%;">Wednesday</td>
             <td>December 9, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Submission deadline<br/>(<i>long &amp; short papers</i>)</td>
-            <td style="width: 30%;">Monday</td>
+            <td style="width: 30%;">Wednesday</td>
             <td>December 9, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Paper review rebuttal period<br/></td>
-            <td style="width: 30%;">Wednesday &ndash; Monday</td>
+            <td style="width: 30%;">Friday &ndash; Monday</td>
             <td>February 12 &ndash; 17, 2021</td>
         </tr>
         <tr>
             <td style="width: 40%;">Student Research Workshop Submission deadline<br/></td>
             <td style="width: 30%;">Friday</td>
-            <td>March 6, 2021</td>
+            <td>March 5, 2021</td>
         </tr>       
         <tr>
             <td>Notification of acceptance<br/>(<i>long &amp; short papers</i>)</td>
             <td>Friday</td>
-            <td>April 3, 2020</td>
+            <td>April 2, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
           <td>Friday</td>
-          <td>April 24, 2021</td>
+          <td>April 23, 2021</td>
         </tr>
         <tr>
             <td>Proceedings publication</td>
             <td>Friday</td>
-            <td>June 19, 2021</td>
+            <td>June 18, 2021</td>
         </tr>        
         <tr>
             <td>Tutorials</td>
             <td>Sunday</td>
-            <td>July 5, 2021</td>
+            <td>July 4, 2021</td>
         </tr>        
         <tr>
             <td>Main conference</td>
-            <td>Monday &ndash; Wednesday</td>
+            <td>Tuesday &ndash; Thursday</td>
             <td>July 6 &ndash; 8, 2021</td>
         </tr>        
         <tr>
             <td>Workshops and Co-located conferences</td>
-            <td>Thursday &ndash; Friday</td>
+            <td>Friday &ndash; Saturday</td>
             <td>July 9 &ndash; 10, 2021</td>
         </tr>        
 </tbody>
