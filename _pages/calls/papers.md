@@ -9,15 +9,15 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<sub>**ACL 2020**  
-Seattle, Washington, USA  
-July 5-10, 2020  
-[http://acl2020.org](http://acl2020.org)
+<sub>**ACL 2021**  
+Bangkok  
+July 5-10, 2021  
+[http://acl2021.org](http://acl2021.org)
 
 <br>
-<span style="font-weight: bolder;font-size: larger;">NEW DEVELOPMENTS FOR THE SECOND CFP (ACL2020)</span>
+<span style="font-weight: bolder;font-size: larger;">CALL FOR PAPER (ACL2021)</span>
 
-We have several exciting and important developments in the ACL2020 conference that we want to highlight at the top of the second call for papers:
+We have several exciting and important developments in the ACL2021 conference that we want to highlight at the top of the first call for papers:
 
 1. Reviewer and Author Profile Signup <br/>
 2. Paper Templates <br/>
@@ -27,36 +27,30 @@ We have several exciting and important developments in the ACL2020 conference th
 
 <b>1. Special Instructions for Reviewer and Author Signup: </b> <br/>
 
- As our field has grown considerably over the last five years, it is important that our reviewing process scales accordingly.  For the ACL2020 conference, we are creating a new review process with a goal to better manage conflict of interest (COI) and better match submissions with appropriate reviewers.  The big picture is that authors and reviewers must create or update a Global Profile and fill out the ACL2020 Reviewer/Author Information Form.  
+ As our field has grown considerably over the last five years, it is important that our reviewing process scales accordingly.  For the ACL2021 conference, we are creating a new review process with a goal to better manage conflict of interest (COI) and better match submissions with appropriate reviewers.  The big picture is that authors and reviewers must create or update a Global Profile and fill out the ACL2021 Reviewer/Author Information Form.  
 
 <b>Global Profile: </b> please fill out this form in order to compute conflicts of interest and better match papers with appropriate reviewers.
 
-[https://www.softconf.com/acl2020/super/scmd.cgi?ucmd=updateProfile](https://www.softconf.com/acl2020/super/scmd.cgi?ucmd=updateProfile)  
+[https://www.softconf.com/acl2021/super/scmd.cgi?ucmd=updateProfile](https://www.softconf.com/acl2021/super/scmd.cgi?ucmd=updateProfile)  
 
-<b>ACL2020 Reviewer/Author Information Form: </b>this allows us to better match papers with the best reviewers:
-
-[https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WV1_1tZ1K-JCmL49YyhKe89UQTczV0xMNVhZSzhaWjVaNzJIS0U2MzNXUy4u](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WV1_1tZ1K-JCmL49YyhKe89UQTczV0xMNVhZSzhaWjVaNzJIS0U2MzNXUy4u)
-
-A blog post including more detailed instructions and commonly asked questions will be found here: [https://acl2020.org/blog/author-reviewer-profile/](https://acl2020.org/blog/author-reviewer-profile/)
-
-<b>2. Paper Submission and Templates: </b>Submission is electronic, using the Softconf START conference management system.  The submission site is now available at: [https://www.softconf.com/acl2020/papers/](https://www.softconf.com/acl2020/papers/)
+<b>2. Paper Submission and Templates: </b>Submission is electronic, using the Softconf START conference management system.  The submission site is now available at: [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/)
 
 Both long and short papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines)
 
-Style sheets (Latex, Word) are available here: [http://acl2020.org/downloads/acl2020-templates.zip](http://acl2020.org/downloads/acl2020-templates.zip)
+Style sheets (Latex, Word) are available here: [http://acl2021.org/downloads/acl2021-templates.zip](http://acl2021.org/downloads/acl2021-templates.zip)
 
-And the Overleaf template is also available here: [https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd)
+And the Overleaf template is also available here: [https://www.overleaf.com/latex/templates/acl-2021-proceedings-template/zsrkcwjptpcd](https://www.overleaf.com/latex/templates/acl-2021-proceedings-template/zsrkcwjptpcd)
 
-<b>3. Theme: </b>As 2020 quickly approaches, we felt this was a great time to reflect on the state of the field of NLP, as well its future, with a special Theme track.  We hope you consider submitting a paper!  You can find details here: [https://acl2020.org/blog/theme/](https://acl2020.org/blog/theme/)
+<b>3. Theme: </b>As 2021 quickly approaches, we felt this was a great time to reflect on the state of the field of NLP, as well its future, with a special Theme track.  We hope you consider submitting a paper!  You can find details here: [https://acl2021.org/blog/theme/](https://acl2021.org/blog/theme/)
 
-<b>4. Archival and Dual Submissions </b> an be a bit tricky.  We outline what is acceptable and what isn’t on this blog: [https://acl2020.org/blog/arxiv-papers-double-submissions/](https://acl2020.org/blog/arxiv-papers-double-submissions/)
+<!--b>4. Archival and Dual Submissions </b> an be a bit tricky.  We outline what is acceptable and what isn’t on this blog: [https://acl2020.org/blog/arxiv-papers-double-submissions/](https://acl2020.org/blog/arxiv-papers-double-submissions/) -->
 
-<b>5. Publication Date: </b>The official publication date is <b>June 19, 2020</b>, just over two weeks before the conference begins.  On this date the proceedings are made available in the ACL Anthology, and will be indicated as such in the ACL Anthology bibliographic records.  The official publication date may affect the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACL Anthology after the conference is over, the official publication date remains the first day of the conference.)
+<b>4. Publication Date: </b>The official publication date is <b>June 19, 2021</b>, just over two weeks before the conference begins.  On this date the proceedings are made available in the ACL Anthology, and will be indicated as such in the ACL Anthology bibliographic records.  The official publication date may affect the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACL Anthology after the conference is over, the official publication date remains the first day of the conference.)
 
 <br>
 <span style="font-weight: bolder;font-size: larger;">Call For Papers - Main Conference</span>
 
-The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) journal.  This year’s conference will for the first time also feature presentations of papers accepted by the Computational Linguistics (CL) journal.
+The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) journal.  This year’s conference will for the first time also feature presentations of papers accepted by the Computational Linguistics (CL) journal.
 
 
 <h2 id="dates">Important Dates</h2>
@@ -66,53 +60,53 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
     <tbody>
         <tr>
             <td style="width: 40%;">Completion of START Global Profile</td>
-            <td style="width: 30%;">Monday</td>
-            <td>December 9, 2019</td>
+            <td style="width: 30%;">Wednesday</td>
+            <td>December 9, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Completion of ACL2020 Reviewer and Chair/Author Information Form</td>
-            <td style="width: 30%;">Monday</td>
-            <td>December 9, 2019</td>
+            <td style="width: 30%;">Wednesday</td>
+            <td>December 9, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Submission deadline<br/>(<i>long &amp; short papers</i>)</td>
-            <td style="width: 30%;">Monday</td>
-            <td>December 9, 2019</td>
+            <td style="width: 30%;">Wednesday</td>
+            <td>December 9, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Paper review rebuttal period<br/></td>
-            <td style="width: 30%;">Wednesday &ndash; Monday</td>
-            <td>February 12 &ndash; 17, 2020</td>
+            <td style="width: 30%;">Friday &ndash; Monday</td>
+            <td>February 12 &ndash; 17, 2021</td>
         </tr>
         <tr>
             <td>Notification of acceptance<br/>(<i>long &amp; short papers</i>)</td>
             <td>Friday</td>
-            <td>April 3, 2020</td>
+            <td>April 2, 2021</td>
         </tr>
         <tr>
           <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
           <td>Friday</td>
-          <td>April 24, 2020</td>
+          <td>April 23, 2021</td>
         </tr>
         <tr>
             <td>Proceedings publication</td>
             <td>Friday</td>
-            <td>June 19, 2020</td>
+            <td>June 18, 2021</td>
         </tr>        
         <tr>
             <td>Tutorials</td>
             <td>Sunday</td>
-            <td>July 5, 2020</td>
+            <td>July 4, 2021</td>
         </tr>        
         <tr>
             <td>Main conference</td>
-            <td>Monday &ndash; Wednesday</td>
-            <td>July 6 &ndash; 8, 2020</td>
+            <td>Tuesday &ndash; Thursday</td>
+            <td>July 6 &ndash; 8, 2021</td>
         </tr>        
         <tr>
             <td>Workshops and Co-located conferences</td>
-            <td>Thursday &ndash; Friday</td>
-            <td>July 9 &ndash; 10, 2020</td>
+            <td>Thursday &ndash; Saturday</td>
+            <td>July 9 &ndash; 10, 2021</td>
         </tr>        
 </tbody>
 </table>
@@ -120,7 +114,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
 <h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
 
 
-## ACL 2020 Theme: *Taking Stock of Where We’ve Been and Where We’re Going*
+<!--## ACL 2021 Theme: *Taking Stock of Where We’ve Been and Where We’re Going*
 
 The last few years have witnessed an unprecedented growth in NLP since the field began over sixty years ago.  The availability of large amounts of data and computing resources have led to new models and representations and exciting results on many NLP benchmark tasks. SOTA systems have approached human performance on several benchmark tasks.  As we embrace these new exciting results and advances, ACL 2020 is particularly interested in papers that can provide insights for the community to assess how much we have accomplished in developing a machine’s ability in understanding and generating human language and how far we are pushing the boundaries as a field given the long history of NLP research.  
 
@@ -130,11 +124,11 @@ Potential submissions of interest include (but not limited to) position papers, 
 - Examine, analyze, and interpret SOTA models and results to shed light on limitations as well as key advances that may have lasting impact;  
 - Bring novel ideas for advancing the field, e.g., to enable and measure a machine’s ability in language processing beyond laboratory benchmarks; 
 
-We anticipate to have a special session for this theme at the conference and a best Thematic Paper Award in addition to the traditional Best Paper Awards. 
+We anticipate to have a special session for this theme at the conference and a best Thematic Paper Award in addition to the traditional Best Paper Awards. -->
 
 ## Submissions
 
-ACL 2020 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
+ACL 2021 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
 
 - Cognitive Modeling and Psycholinguistics
 - Computational Social Science and Social Media
@@ -222,7 +216,7 @@ For more information, see the [ACL Policies for Submission, Review, and Citation
 
 Papers that have been or will be submitted to other meetings or publications must indicate this at submission time in the START submission form, and must be withdrawn from the other venues if accepted by ACL 2020. Authors of papers accepted for presentation at ACL 2020 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. We will not accept for publication or presentation the papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
 
-Authors submitting more than one paper to ACL 2020 must ensure that submissions do not overlap significantly (>25%) with each other in content or results.
+Authors submitting more than one paper to ACL 2021 must ensure that submissions do not overlap significantly (>25%) with each other in content or results.
 
 ### Paper Submission and Templates
 
@@ -230,43 +224,43 @@ Submission is electronic, using the Softconf START conference management system.
 
 Both long and short papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines)
 
-Style sheets (Latex, Word) are available here: [http://acl2020.org/downloads/acl2020-templates.zip](http://acl2020.org/downloads/acl2020-templates.zip)
+Style sheets (Latex, Word) are available here: [http://acl2021.org/downloads/acl2021-templates.zip](http://acl2021.org/downloads/acl2021-templates.zip)
 
-The Overleaf template is also available here: [https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd)
+The Overleaf template is also available here: [https://www.overleaf.com/latex/templates/acl-2021-proceedings-template/zsrkcwjptpcd](https://www.overleaf.com/latex/templates/acl-2021-proceedings-template/zsrkcwjptpcd)
 
 Please do not modify these style files, or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 ### Optional Supplementary Materials: Appendices, Software and Data
 
-Each ACL 2020 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL 2020 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
+Each ACL 2021 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL 2020 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
 
 ## Presentation Requirement
 
-All accepted papers must be presented at the conference to appear in the proceedings. Authors of papers accepted for presentation at ACL 2020 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.
+All accepted papers must be presented at the conference to appear in the proceedings. Authors of papers accepted for presentation at ACL 2021 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.
 
-Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote in the final version of papers appearing in the ACL 2020 proceedings.  Please note that this footnote should not be in the submission version of the paper.
+Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote in the final version of papers appearing in the ACL 2021 proceedings.  Please note that this footnote should not be in the submission version of the paper.
 
-At least one author of each accepted paper must register for ACL 2020 by the early registration deadline.
+At least one author of each accepted paper must register for ACL 2021 by the early registration deadline.
 
 ## Further Information 
 
 The conference website will be continually updated with information on workshops, tutorials, venue, traveling, etc. 
 
 Relevant blogs related to submissions:<br/>
-1. [On the theme](https://acl2020.org/blog/theme/) <br/>
-2. [On the archive papers and double submissions](https://acl2020.org/blog/arxiv-papers-double-submissions/)
+1. [On the theme](https://acl2021.org/blog/theme/) <br/>
+2. [On the archive papers and double submissions](https://acl2021.org/blog/arxiv-papers-double-submissions/)
 
 ## Organizers
 
-<b>General Chair</b>  
+<!--b>General Chair</b>  
 Dan Jurafsky (Stanford University, USA)
 
 <b>Program Co-Chairs</b>  
 Joyce Chai (University of Michigan, USA)<br/>
 Natalie Schluter (IT University, Copenhagen, Denmark)<br/>
-Joel Tetreault (Dataminr, USA)
+Joel Tetreault (Dataminr, USA)-->
 
 
 ## Contact Information
-- e-mail: [ACL2020ProgramChairs@gmail.com](mailto:ACL2020ProgramChairs@gmail.com)
+- e-mail: [ACL2021ProgramChairs@gmail.com](mailto:ACL2021ProgramChairs@gmail.com)
 
