@@ -22,11 +22,11 @@ main:
   #- title: "Sponsors"
    # url: /sponsors/list/
     
-  # - title: "Call for Papers"
-  #   url: /calls/papers
+   - title: "Call for Papers"
+     url: /calls/papers
 
-  - title: "Calls"
-   url: /calls/demos
+ # - title: "Calls"
+  # url: /calls/demos
 
   # - title: "Reviewers"
    # url: /reviewers
@@ -45,14 +45,14 @@ calls:
      children:
        - title: "Main Conference Papers"
          url: /calls/papers/
-       - title: "System Demonstrations"
-         url: /calls/demos/
-       - title: "Workshop Proposals"
-         url: /calls/workshops/
-       - title: "Tutorial Proposals"
-         url: /calls/tutorials/
-       - title: "Student Research Workshop"
-         url: https://sites.google.com/view/acl21studentresearchworkshop/
+    #   - title: "System Demonstrations"
+     #    url: /calls/demos/
+      # - title: "Workshop Proposals"
+       #  url: /calls/workshops/
+       #- title: "Tutorial Proposals"
+        # url: /calls/tutorials/
+       #- title: "Student Research Workshop"
+        # url: https://sites.google.com/view/acl21studentresearchworkshop/
 
 #program:
  #  - title: Program Details
