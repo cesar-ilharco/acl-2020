@@ -1,5 +1,5 @@
 ---
-title: "2020 Annual Conference of the Association for Computational Linguistics"
+title: "2021 Annual Conference of the Association for Computational Linguistics"
 layout: splash
 permalink: /
 header:
@@ -8,7 +8,7 @@ header:
 excerpt: "<br/><br/>"
 ---
 
-<h2>News</h2>
+<!--h2>News</h2>
 
 **Feb 12, 2020**. The author response period has now begun (Feb 12-17). Please checkout the [ordinary review form](/docs/ACL_2020_Submission_Form.pdf) and [Theme review form](/docs/ACL20-ThemeReviewForm.pdf) used by the reviewers.
 {: .notice--info} 
@@ -21,7 +21,7 @@ excerpt: "<br/><br/>"
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
-</div>
+</div-->
 
 <h2>Welcome!</h2>
 
