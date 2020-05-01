@@ -7,11 +7,11 @@ main:
   # - title: "LiveCaptions"
   #   url: /captions/
 
-  - title: "Program"
-    url: /program/tutorials/
+  #- title: "Program"
+  # url: /program
 
-  - title: "Blog"
-    url: /blog
+  #- title: "Blog"
+   # url: /blog
 
   # - title: "Registration"
   #   url: /registration
@@ -19,17 +19,17 @@ main:
   # - title: "Participants"
   #   url: "/participants"
 
-  - title: "Sponsors"
-    url: /sponsors/list/
+  #- title: "Sponsors"
+   # url: /sponsors/list/
     
   # - title: "Call for Papers"
   #   url: /calls/papers
 
   - title: "Calls"
-    url: /calls/demos
+   url: /calls/demos
 
-  - title: "Reviewers"
-    url: /reviewers
+  # - title: "Reviewers"
+   # url: /reviewers
 
   # - title: "Student Research Workshop"
   #  url: https://sites.google.com/view/acl20studentresearchworkshop/
@@ -37,8 +37,8 @@ main:
   #- title: "Organization"
   #  url: /organization
 
-  - title: "Committees"
-    url: /committees/organization
+  #- title: "Committees"
+   # url: /committees/organization
 
 calls:
    - title: Call for
@@ -52,31 +52,31 @@ calls:
        - title: "Tutorial Proposals"
          url: /calls/tutorials/
        - title: "Student Research Workshop"
-         url: https://sites.google.com/view/acl20studentresearchworkshop/
+         url: https://sites.google.com/view/acl21studentresearchworkshop/
 
-program:
-   - title: Program Details
-     children:
-       - title: "Tutorials"
-         url: /program/tutorials/
-       - title: "Workshops"
-         url: /program/workshops/
-       - title: "Keynote Speakers"
-         url: /program/keynotes/
+#program:
+ #  - title: Program Details
+  #   children:
+   #    - title: "Tutorials"
+    #     url: /program/tutorials/
+    #   - title: "Workshops"
+     #    url: /program/workshops/
+      # - title: "Keynote Speakers"
+       #  url: /program/keynotes/
 #       - title: "Accepted Papers"
 #         url: /program/accepted/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
-committees:
-   - title: Committees
-     children:
-       - title: "Organizing"
-         url: /committees/organization
-       - title: "Senior Program"
-         url: /committees/program
-       - title: "Diversity &amp; Inclusion"
-         url: /committees/diversity-inclusion
+#committees:
+ #  - title: Committees
+  #   children:
+   #    - title: "Organizing"
+    #     url: /committees/organization
+     #  - title: "Senior Program"
+      #   url: /committees/program
+       #- title: "Diversity &amp; Inclusion"
+        # url: /committees/diversity-inclusion
 
 # participants:
 #   - title: "Information for Participants"
@@ -86,10 +86,10 @@ committees:
 #       - title: "Social Event"
 #         url: /participants/social/
 
-sponsors:
-  - title: Sponsorship
-    children:
-      - title: "List of Sponsors"
-        url: /sponsors/list/
-      - title: "Tiers &amp; Pricing"
-        url: /sponsors/benefits/
+#sponsors:
+ # - title: Sponsorship
+  #  children:
+   #   - title: "List of Sponsors"
+    #    url: /sponsors/list/
+     # - title: "Tiers &amp; Pricing"
+      #  url: /sponsors/benefits/
