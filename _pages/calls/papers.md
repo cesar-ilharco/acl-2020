@@ -43,7 +43,7 @@ And the Overleaf template is also available here: [https://www.overleaf.com/late
 
 <b>3. Theme: </b>As 2021 quickly approaches, we felt this was a great time to reflect on the state of the field of NLP, as well its future, with a special Theme track.  We hope you consider submitting a paper!  You can find details here: [https://acl2021.org/blog/theme/](https://acl2021.org/blog/theme/)
 
-<!--b>4. Archival and Dual Submissions </b> an be a bit tricky.  We outline what is acceptable and what isn’t on this blog: [https://acl2020.org/blog/arxiv-papers-double-submissions/](https://acl2020.org/blog/arxiv-papers-double-submissions/) -->
+<!--b>4. Archival and Dual Submissions </b> an be a bit tricky.  We outline what is acceptable and what isn’t on this blog: [https://acl2021.org/blog/arxiv-papers-double-submissions/](https://acl2021.org/blog/arxiv-papers-double-submissions/) -->
 
 <b>4. Publication Date: </b>The official publication date is <b>June 19, 2021</b>, just over two weeks before the conference begins.  On this date the proceedings are made available in the ACL Anthology, and will be indicated as such in the ACL Anthology bibliographic records.  The official publication date may affect the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACL Anthology after the conference is over, the official publication date remains the first day of the conference.)
 
@@ -64,7 +64,7 @@ The 59th Annual Meeting of the Association for Computational Linguistics (ACL 20
             <td>December 9, 2020</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Completion of ACL2020 Reviewer and Chair/Author Information Form</td>
+            <td style="width: 40%;">Completion of ACL2021 Reviewer and Chair/Author Information Form</td>
             <td style="width: 30%;">Wednesday</td>
             <td>December 9, 2020</td>
         </tr>
@@ -116,7 +116,7 @@ The 59th Annual Meeting of the Association for Computational Linguistics (ACL 20
 
 <!--## ACL 2021 Theme: *Taking Stock of Where We’ve Been and Where We’re Going*
 
-The last few years have witnessed an unprecedented growth in NLP since the field began over sixty years ago.  The availability of large amounts of data and computing resources have led to new models and representations and exciting results on many NLP benchmark tasks. SOTA systems have approached human performance on several benchmark tasks.  As we embrace these new exciting results and advances, ACL 2020 is particularly interested in papers that can provide insights for the community to assess how much we have accomplished in developing a machine’s ability in understanding and generating human language and how far we are pushing the boundaries as a field given the long history of NLP research.  
+The last few years have witnessed an unprecedented growth in NLP since the field began over sixty years ago.  The availability of large amounts of data and computing resources have led to new models and representations and exciting results on many NLP benchmark tasks. SOTA systems have approached human performance on several benchmark tasks.  As we embrace these new exciting results and advances, ACL 2021 is particularly interested in papers that can provide insights for the community to assess how much we have accomplished in developing a machine’s ability in understanding and generating human language and how far we are pushing the boundaries as a field given the long history of NLP research.  
 
 Potential submissions of interest include (but not limited to) position papers, empirical/theoretical papers that: 
 
@@ -183,7 +183,7 @@ Short papers will be presented orally or as posters as determined by the program
 
 ### IMPORTANT: Anonymity Period
 
-The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline (starting November 9, 2019 11:59PM UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (April 3, 2020).
+The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline (starting November 9, 2019 11:59PM UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (April 3, 2021).
 
 - You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper we understand another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length (e.g., an abstract is a version of the paper that it summarizes).
 - If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the conference. The submitted version must not refer to the non-anonymized version, and you must inform the program chair(s) that a non-anonymized version exists. 
@@ -200,7 +200,7 @@ Papers may be accompanied by a resource (software and/or data) described in the 
 
 ### Authorship
 
-The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ACL 2020 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to ACL 2020 after the paper submission deadline.
+The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ACL 2021 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to ACL 2021 after the paper submission deadline.
 
 ### Citation and Comparison
 
@@ -214,13 +214,13 @@ For more information, see the [ACL Policies for Submission, Review, and Citation
 
 ### Multiple Submission Policy
 
-Papers that have been or will be submitted to other meetings or publications must indicate this at submission time in the START submission form, and must be withdrawn from the other venues if accepted by ACL 2020. Authors of papers accepted for presentation at ACL 2020 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. We will not accept for publication or presentation the papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
+Papers that have been or will be submitted to other meetings or publications must indicate this at submission time in the START submission form, and must be withdrawn from the other venues if accepted by ACL 2021. Authors of papers accepted for presentation at ACL 2021 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. We will not accept for publication or presentation the papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
 
 Authors submitting more than one paper to ACL 2021 must ensure that submissions do not overlap significantly (>25%) with each other in content or results.
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the Softconf START conference management system.  The submission site is now available at [https://www.softconf.com/acl2020/papers/](https://www.softconf.com/acl2020/papers/)
+Submission is electronic, using the Softconf START conference management system.  The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/)
 
 Both long and short papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines)
 
@@ -232,7 +232,7 @@ Please do not modify these style files, or use templates designed for other conf
 
 ### Optional Supplementary Materials: Appendices, Software and Data
 
-Each ACL 2021 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL 2020 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
+Each ACL 2021 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL 2021 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
 
 ## Presentation Requirement
 
