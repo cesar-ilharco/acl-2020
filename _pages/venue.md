@@ -51,8 +51,6 @@ Latitude in Decimal is 13.750016, 100.542788<br>
 There are two international airports in Bangkok<br><br>
 <b>1. Bangkok Airport - Don Muang</b><br><br>
 1) Take a taxi - if you do this, make sure you demand the meter to be used, don’t accept any bartering or set fees, it’s the meter or nothing. 
-To Venue from the airport it’s about 250-350 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
+To Venue from the airport it’s about 250 - 350 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
 you also have to pay the rest! This takes around 40-60 minutes.
-2) Take the Airport Link (train) - Cityline to Phaya Thai (BTS) station, runs every 10 - 15 minutes and standard fare for the city line is between 15 - 45 baht 
-depending on distance. Bangkok Airport Rail Link is a commuter rail line connecting Suvarnabhumi Airport to Phaya Thai (BTS) station via Ratchaprarop Station (near venue).
 
