@@ -15,4 +15,4 @@ Address: 559 Ratchaprarop Road, Makkasan,<br>
 <a href="https://www.berkeleypratunam.com/" target="_new">https://www.berkeleypratunam.com/</a><br>
 </p>
 <br>
-![alt text](/assets/images/seattle/v3.jpg "Conference Venue at THE BERKELEY HOTEL PRATUNAM") { width=100% }
+overlay_image: "/assets/images/seattle/v3.jpg"
