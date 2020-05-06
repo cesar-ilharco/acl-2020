@@ -50,5 +50,6 @@ Latitude in Decimal is 13.750016, 100.542788<br>
 <h2>Transport from Airport to Venue</h2>
 There are two international airports in Bangkok<br><br>
 <b>1. Bangkok Airport - Don Muang</b><br><br>
+1.1 Take a taxi - if you do this, make sure you demand the meter to be used, don't accept any bartering or set fees, it’s the meter or nothing. 
 
 
