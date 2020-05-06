@@ -45,5 +45,5 @@ Easy Access to<br>
 <br>
 Latitude in Decimal is 13.750016, 100.542788<br>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31003.82695127693!2d100.542802!3d13.750001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe01b1a88ad5f4a02!2sThe%20Berkeley%20Hotel%20Pratunam!5e0!3m2!1sen!2sth!4v1581707259285!5m2!1sen!2sth" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31003.82695127693!2d100.542802!3d13.750001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe01b1a88ad5f4a02!2sThe%20Berkeley%20Hotel%20Pratunam!5e0!3m2!1sen!2sth!4v1581707259285!5m2!1sen!2sth" width="900" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
