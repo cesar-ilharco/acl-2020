@@ -25,3 +25,25 @@ ballroom and an event hall, with a 3,000-guest capacity. In addition, the venues
 height and an area of 1,400 sq.m., can be utilized to create a reception atmosphere, with a capacity of up to 2,000 guests, combining the Grand 
 Ballroom and Foyer. The venue, which perfectly fits any sort of large-scale event, has a variety of availabilities of arrangement; Cocktail party and Classroom.
 
+<h2>Location</h2>
+The Hotel is centrally located in the golden location of Bangkok. This means that it is quite close to a number of nearby attractions, such as The Palladium World Shopping Centre, 
+Siam Paragon, Central World, Platinum Fashion Mall, MBK Center. In the vicinity where can step walk to GaySorn Village, Erawan Shrine or Trimurti statue and many others.
+<br><br>
+Easy Access to<br>
+<ul>
+    <dl>Airport<br>
+    40 minutes driving away from Suvarnabhumi International Airport<br>
+    40 minutes driving away from Don Mueang International Airport<br>
+    <dl>Airport Rail Link<br>
+    10 minutes walking distance from Ratchaprarop station<br>
+    <dl>BTS Skytrain<br>
+    10 minutes walking through sky-walk distance from both Chidlom and Siam station<br>
+    <dl>By Boat<br>
+    5 minutes walking distance from Pratunam Pier (Opposite the hotel)<br>
+    <dl>By Car<br>
+    Easy access to hotel via new Petchburi Road and Ratchaprarop Road<br>
+<br>
+Latitude in Decimal is 13.750016, 100.542788<br>
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31003.82695127693!2d100.542802!3d13.750001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe01b1a88ad5f4a02!2sThe%20Berkeley%20Hotel%20Pratunam!5e0!3m2!1sen!2sth!4v1581707259285!5m2!1sen!2sth" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
