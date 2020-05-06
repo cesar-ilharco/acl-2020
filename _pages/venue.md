@@ -71,6 +71,11 @@ A3 BUS ROUTE<br>
 <br>
 Google Map: <br>
 <iframe src="https://www.google.com/maps/d/embed?mid=1vyl66w2Dykv12t8WAD8pvrhIWOs" width="900" height="450"></iframe>
+<br><br><br>
+<b>2. Bangkok Airport - Suvarnabhumi</b><br><br>
+2.1 Take a taxi - if you do this, make sure you demand the meter to be used, do not accept any bartering or set fees, it is the meter or nothing. 
+To Venue from the airport it is about 350 - 450 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
+you also have to pay the rest. This takes around 40 - 60 minutes.
 
 
 
