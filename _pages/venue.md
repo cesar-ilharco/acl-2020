@@ -51,7 +51,8 @@ Latitude in Decimal is 13.750016, 100.542788<br>
 There are two international airports in Bangkok<br><br>
 <b>1. Bangkok Airport - Don Muang</b><br><br>
 1.1 Take a Taxi - if you do this, make sure you demand the meter to be used, do not accept any bartering on set fees, it is the meter or nothing.
-
+To Venue from the airport it is about 250-350 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
+you also have to pay the rest! This takes around 40-60 minutes.
 
 
 
