@@ -75,7 +75,9 @@ Google Map: <br>
 <b>2. Bangkok Airport - Suvarnabhumi</b><br><br>
 2.1 Take a taxi - if you do this, make sure you demand the meter to be used, do not accept any bartering or set fees, it is the meter or nothing. 
 To Venue from the airport it is about 350 - 450 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
-you also have to pay the rest. This takes around 40 - 60 minutes.
+you also have to pay the rest. This takes around 40 - 60 minutes.<br><br>
+2.2 Take the Airport Link (train) - Cityline to Phaya Thai (BTS) station, runs every 10 - 15 minutes and standard fare for the city line is between 15 - 45 baht 
+depending on distance. Bangkok Airport Rail Link is a commuter rail line connecting Suvarnabhumi Airport to Phaya Thai (BTS) station via Ratchaprarop Station (near venue).
 
 
 
