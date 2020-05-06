@@ -47,3 +47,25 @@ Latitude in Decimal is 13.750016, 100.542788<br>
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31003.82695127693!2d100.542802!3d13.750001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe01b1a88ad5f4a02!2sThe%20Berkeley%20Hotel%20Pratunam!5e0!3m2!1sen!2sth!4v1581707259285!5m2!1sen!2sth" width="900" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
+<h2>Transport from Airport to Venue</h2><br><br>
+There are two international airports in Bangkok<br><br>
+<b>1.	Bangkok Airport - Don Muang</b><br><br>
+<p>
+1)  Take a taxi – if you do this, make sure you demand the meter to be used, don’t accept any bartering or set fees, it’s the meter or nothing. To Venue from the airport it’s about 250-350 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, you also have to pay the rest! This takes around 40-60 minutes.
+		</p><p>
+2) Take the Bangkok airport bus – Passengers can travel between Don Muang Airport and to venue on a bus ride from Don Mueang Airport Bus goes to Lumpini Park  [A3]. Good news for those people landing at Don Mueang Airport and want a cheap and quick way to get into Bangkok. Starting from 1 May 2017, there will be Airport Bus route to go to Pratunam & Lumpini Park (A3). The cost of the ticket is only 50 Baht for the entire length of the route. Service hours are 7am-11pm. <br>
+		
+Pickup Location: Gate 6, 1st floor, Don Mueang Airport<br>
+</p><p>
+A3 BUS ROUTE<br>
+1. Don Mueang Airport<br>
+2. Tollway<br>
+3. Din Daeng<br>
+4. Pratunam (Venue)<br>
+5. Ratchaprasong<br>
+6. Ratchadamri<br>
+7. Lumpini Park<br>
+<br>
+Google Map: <br>
+<iframe src="https://www.google.com/maps/d/embed?mid=1vyl66w2Dykv12t8WAD8pvrhIWOs" width="600" height="450"></iframe>
+
