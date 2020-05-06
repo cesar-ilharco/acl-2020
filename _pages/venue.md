@@ -52,7 +52,9 @@ There are two international airports in Bangkok<br><br>
 <b>1. Bangkok Airport - Don Muang</b><br><br>
 1.1 Take a Taxi - if you do this, make sure you demand the meter to be used, do not accept any bartering on set fees, it is the meter or nothing.
 To Venue from the airport it is about 250 - 350 Baht exclude the change is made up from tolls + airport surcharge, do although the meter may state less,
-you also have to pay the rest. This takes around 40 - 60 minutes.
+you also have to pay the rest. This takes around 40 - 60 minutes.<br><br>
+1.2 Take the Bangkok airport bus - Passengers can travel between Don Muang Airport and to venue on a bus ride from Don Mueang Airport Bus goes 
+to Lumpini Park  [A3]. Good news for those people landing at Don Mueang Airport and want a cheap and quick way to get into Bangkok. 
 
 
 
