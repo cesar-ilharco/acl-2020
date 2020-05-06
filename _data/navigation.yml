@@ -1,5 +1,28 @@
 # main links
 main:
+   - title: "Home"
+     url: /
+
+   - title: "Call for Papers"
+     url: /calls/papers
+
+   - title: "Organizations"
+     url: /organization
+
+   - title: "Venue"
+     url: /venue
+
+   - title: "Accommodations"
+     url: /Accom
+
+   - title: "Travel"
+     url: /travel
+
+   - title: "Visa"
+     url: /visa
+
+   - title: "Food & Fun in Bangkok"
+     url: /food
 
   # - title: "Schedule"
   #   url: /schedule/
@@ -21,9 +44,6 @@ main:
 
   #- title: "Sponsors"
    # url: /sponsors/list/
-    
-   - title: "Call for Papers"
-     url: /calls/papers
 
  # - title: "Calls"
   # url: /calls/demos
