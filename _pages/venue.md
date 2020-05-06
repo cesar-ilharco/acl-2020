@@ -57,6 +57,20 @@ you also have to pay the rest. This takes around 40 - 60 minutes.<br><br>
 to Lumpini Park  [A3]. Good news for those people landing at Don Mueang Airport and want a cheap and quick way to get into Bangkok.<br>
 Starting from 1 May 2017, there will be Airport Bus route to go to Pratunam and Lumpini Park (A3). The cost of the ticket is only 50 Baht for the entire length 
 of the route. Service hours are 7am - 11pm.
+<br><br>
+Pickup Location: Gate 6, 1st floor, Don Mueang Airport<br>
+<br><br>
+A3 BUS ROUTE<br>
+1. Don Mueang Airport<br>
+2. Tollway<br>
+3. Din Daeng<br>
+4. Pratunam (Venue)<br>
+5. Ratchaprasong<br>
+6. Ratchadamri<br>
+7. Lumpini Park<br>
+<br>
+Google Map: <br>
+<iframe src="https://www.google.com/maps/d/embed?mid=1vyl66w2Dykv12t8WAD8pvrhIWOs" width="900" height="450"></iframe>
 
 
 
