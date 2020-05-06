@@ -1,5 +1,5 @@
 ---
-title: "2021 Annual Conference of the Association for Computational Linguistics"
+title: "The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)"
 layout: splash
 permalink: /
 header:
@@ -25,16 +25,13 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-<b>The 59th annual meeting of the Association for Computational Linguistics (ACL) will take place in Thailand..</b>.
-
-ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.
-
+<b>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (ACL-IJCNLP) will take place in Thailand.</b>.
 
 <h2 id="dates">Important Dates</h2>
 <center>
 <table style="width: 90%">
     <tbody>
-        <tr>
+        <!--tr>
             <td style="width: 40%;">Completion of START Global Profile</td>
             <td style="width: 30%;">Wednesday</td>
             <td>December 9, 2020</td>
@@ -78,21 +75,21 @@ ACL is the premier conference of the field of computational linguistics, coverin
             <td>Tutorials</td>
             <td>Sunday</td>
             <td>July 4, 2021</td>
-        </tr>        
+        </tr-->        
         <tr>
             <td>Main conference</td>
-            <td>Tuesday &ndash; Thursday</td>
-            <td>July 6 &ndash; 8, 2021</td>
+            <td>Sunday &ndash; Friday</td>
+            <td>August 1 &ndash; 6, 2021</td>
         </tr>        
-        <tr>
+        <!--tr>
             <td>Workshops and Co-located conferences</td>
             <td>Friday &ndash; Saturday</td>
             <td>July 9 &ndash; 10, 2021</td>
-        </tr>        
+        </tr-->        
 </tbody>
 </table>
 </center>
-<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
+<!--h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5-->
 
-<h2>ACL 2021 Anti-Harassment Policy</h2>
-ACL2021 adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a>. Any participant who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+<!--h2>ACL 2021 Anti-Harassment Policy</h2-->
+<!--ACL2021 adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a>. Any participant who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken. -->
