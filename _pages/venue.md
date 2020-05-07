@@ -79,7 +79,8 @@ you also have to pay the rest. This takes around 40 - 60 minutes.<br><br>
 2.2 Take the Airport Link (train) - Cityline to Phaya Thai (BTS) station, runs every 10 - 15 minutes and standard fare for the city line is between 15 - 45 baht 
 depending on distance. Bangkok Airport Rail Link is a commuter rail line connecting Suvarnabhumi Airport to Phaya Thai (BTS) station via Ratchaprarop Station (near venue).<br><br>
 The Airport Rail link operates daily from 06:00 to 24:00, with commuter City Line trains departing every 10 minutes during peak hours (06:00 - 09:00 and 16:00 - 20:00) 
-and 15 minutes off peak and weekends.<br>
-<img src="/assets/images/seattle/arl.jpg">
+and 15 minutes off peak and weekends.<br><br><br>
+<img src="/assets/images/seattle/arl.jpg"><br><br>
+Suvarnabhumi Airport - Lad Krabang - Ban Thap Chang - Hua Mark - Ramkhamhaeng - Makkasan (City Air Terminal - interchange with MRT Blue Line (Phetchaburi Station)) - Ratchaprarop - Phayathai (interchange with BTS Sukhumvit Line (Phayathai Station))<br>
 
 
