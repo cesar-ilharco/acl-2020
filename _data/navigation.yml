@@ -12,8 +12,8 @@ main:
    - title: "Venue"
      url: /venue
 
-   - title: "Accommodations"
-     url: /Accom
+   - title: "About Bangkok"
+     url: /about
 
    - title: "Travel"
      url: /travel
@@ -21,8 +21,8 @@ main:
    - title: "Visa"
      url: /visa
 
-   - title: "Food & Fun in Bangkok"
-     url: /food
+ #  - title: "Accommodation"
+  #   url: /accom
 
   # - title: "Schedule"
   #   url: /schedule/
