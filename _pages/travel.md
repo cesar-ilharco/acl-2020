@@ -18,4 +18,12 @@ More Information: <a href="http://khlongsaensaep.com/transfers.html" target="_bl
 <p>The BTS Skytrain runs through all important downtown disctricts and major transport hubs in Bangkok, from Mo Chit to On Nut (Sukhumvit Line) and National Stadium to
 Wongwian Yai (Silom Line). Zooming above Bangkok's traffic at a steady speed, and with connecting points to the MRT Underground, Chao Phraya Express Boats and two land 
 transport terminals at Victory Monument and Mo Chit, it's the best way to get around.</p><br>
-Read more at: <a href="http://www.bangkok-maps.com/bts.htm" target="_blank">http://www.bangkok-maps.com/bts.htm</a><br><br>
+More Information: <a href="http://www.bangkok-maps.com/bts.htm" target="_blank">http://www.bangkok-maps.com/bts.htm</a><br><br>
+<b>Grab Taxi</b><br>
+<p>Grab Taxi is a smartphone-based taxi booking and dispatching service. Our vision is to revamp the Thai taxi industry, making it a safer and more efficient means 
+of transport we can all be proud of. Only 20 baht booking fee plus more with your meter cost.</p><br>
+More Information: <a href="https://www.grab.com/th/en/taxi/" target="_blank">https://www.grab.com/th/en/taxi/</a><br><br>
+<b>Grab Bike</b><br>
+<p>If you don't want to waste your time on traffic jam in Bangkok. I suggest you to use GrabBike (Win). It a safe personal transportation service provided 
+by public motorcycles. You can use the Grab Bike services by downloading and using Grab application. Choose "GrabBike (Win)" car types. Only 10 THB booking fee applies.</p><br>
+More Information: <a href="https://www.grab.com/th/en/bike/" target="_blank">https://www.grab.com/th/en/bike/</a><br>
