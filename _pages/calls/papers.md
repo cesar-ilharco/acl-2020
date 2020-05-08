@@ -48,6 +48,17 @@ Relevant topics for the conference include, but are not limited to, the followin
     » Tagging and Chunking<br>
     » Topic Models for Language Processing<br>
 
+ <h2>SUBMISSIONS</h2>
+<b>Long papers</b><br>
+<p>ACL-IJCNLP 2021 submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis 
+should be included. Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, thoroughness, 
+significance, contributions to research resources, and replicability. Each submission will be reviewed by at least three program committee members.</p>
+<p>Long papers may consist of up to eight (8) pages of content, plus two pages for references; final versions of long papers will be given one additional page 
+(up to 9 pages with 2 pages for references) so that reviewers’comments can be taken into account.<p>
+<p>Long papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally 
+and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long 
+papers presented orally and as posters.</p>
+
 
 
 
