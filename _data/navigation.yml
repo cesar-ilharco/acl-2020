@@ -13,8 +13,8 @@ main:
   - title: "Calls"
     url: /calls/papers
   
-  - title: "Blog"
-    url: /blog
+  - title: "Organizations"
+    url: /organization
 
   - title: "Registration"
     url: /registration
