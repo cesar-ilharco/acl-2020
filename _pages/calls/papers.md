@@ -57,7 +57,28 @@ significance, contributions to research resources, and replicability. Each submi
 (up to 9 pages with 2 pages for references) so that reviewers’comments can be taken into account.<p>
 <p>Long papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally 
 and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long 
-papers presented orally and as posters.</p>
+papers presented orally and as posters.</p><br>
+<b>Short papers</b><br>
+<p>ACL-IJCNLP 2021 also solicits short papers. Short paper submissions must describe original and unpublished work.  Please note that a short paper is not a 
+shortened long paper. Instead short papers should have a point that can be made in a few pages. Characteristics of short papers include:</p>
+    » A small, focused contribution<br>
+    » Work in progress<br>
+    » A negative result<br>
+    » An opinion piece<br>
+    » An interesting application nugget<br><br>
+<p>Short papers may consist of up to four (4) pages of content, plus 2 pages for references. Upon acceptance, short papers will be given five (5) pages in the proceedings 
+and 2 pages for references. Authors are encouraged to use this additional page to address reviewers comments in their final versions.</p>
+<p>Short papers will be presented in one or more oral or poster sessions. While short papers will be distinguished from long papers in the proceedings, there will be no 
+distinction in the proceedings between short papers presented orally and posters. Each short paper submission will be reviewed by at least three program committee members.</p>
+<br><br>
+<b>Both long and short papers</b>
+<p>Papers should not refer, for further detail, to papers that are not available to the reviewers. Papers may be accompanied by the resource (software and/or data) described 
+in the paper. Papers that are submitted with accompanying software/data may receive additional credit toward the overall evaluation score, and the potential impact of the 
+software and data will be taken into account when making the acceptance/rejection decisions.</p>
+<p>ACL-IJCNLP 2021 also allows for submitting supplementary material. This should be supplementary (rather than central) to the paper. It may include explanations 
+or details of proofs or derivations that do not fit into the paper, lists of features or feature templates, sample inputs and outputs for a system, pseudo-code or source code, 
+and data. The paper should not rely on the supplementary material: while the paper may refer to and cite the supplementary material and the supplementary material will be 
+available to reviewers, they will not be asked to review or even download the supplementary material. </p>
 
 
 
