@@ -79,6 +79,15 @@ software and data will be taken into account when making the acceptance/rejectio
 or details of proofs or derivations that do not fit into the paper, lists of features or feature templates, sample inputs and outputs for a system, pseudo-code or source code, 
 and data. The paper should not rely on the supplementary material: while the paper may refer to and cite the supplementary material and the supplementary material will be 
 available to reviewers, they will not be asked to review or even download the supplementary material. </p>
+<br><br>
+<h2>FORMAT</h2>
+<p>Long paper submissions must follow the two-column format of ACL-IJCNLP 2021 proceedings without exceeding eight (8) pages of content plus two extra pages 
+for references. Short paper submissions must also follow the two-column format of ACL-IJCNLP 2021 proceedings, and must not exceed four (4) pages plus at most 
+2 pages for references. We strongly recommend the use of ACL LaTeX style files or Microsoft Word style files tailored for this year's conference. Submissions must conform 
+to the official style guidelines, which are contained in the style files, and they must be in PDF.</p>
+<p>As the reviewing will be blind, papers must not include authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., 
+"We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ..." Papers that do not conform 
+to these requirements will be rejected without review. In addition, please do not post your submissions on the web until after the review process is complete.</p>
 
 
 
