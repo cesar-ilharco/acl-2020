@@ -1,25 +1,38 @@
 # main links
 main:
-  - title: "Home"
-     url: /
-     
+
+  # - title: "Home"
+  #   url: /
+
+  # - title: "Organizations"
+  #   url: /organization
+
+  - title: "Program"
+    url: /program/tutorials/
+
+  - title: "Blog"
+    url: /blog
+
+  - title: "Registration"
+    url: /registration
+
+  - title: "Participants"
+    url: "/participants"
+
+  - title: "Sponsors"
+    url: /sponsors/list/
+    
   - title: "Calls"
     url: /calls/papers
 
-   - title: "Organizations"
-     url: /organization
+  - title: "Authors"
+    url: /authors/camera-ready-instructions
 
-   - title: "Venue"
-     url: /venue
+  - title: "Reviewers"
+    url: /reviewers
 
-   - title: "About Bangkok"
-     url: /about
-
-   - title: "Travel"
-     url: /travel
-
-   - title: "Visa"
-     url: /visa
+  - title: "Committees"
+    url: /committees/organization
 
 calls:
    - title: Call for
