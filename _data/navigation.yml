@@ -10,6 +10,9 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Calls"
+    url: /calls/papers
+  
   - title: "Blog"
     url: /blog
 
@@ -21,9 +24,6 @@ main:
 
   - title: "Sponsors"
     url: /sponsors/list/
-    
-  - title: "Calls"
-    url: /calls/papers
 
   - title: "Authors"
     url: /authors/camera-ready-instructions
