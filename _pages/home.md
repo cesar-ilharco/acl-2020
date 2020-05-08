@@ -23,9 +23,13 @@ excerpt: "<br/><br/>"
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div-->
 
-<h2>Welcome!</h2>
-
-<b>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (ACL-IJCNLP) will take place in Thailand.</b>.
+<h2>Welcome to ACL-IJCNLP 2021!</h2>
+Held at the Berkely Hotel  in Bangkok, Thailand, August 1-6, 2021<br>
+<p>For the first time, the annual meeting of the Association for Computational Linguistics (ACL) takes place in Thailand. ACL-IJCNLP 2021 will be held in Bangkok, 
+Thailand 's capital, August 1-6, 2021. As in previous years, the program of the conference includes a poster session, tutorials, workshops and demonstrations in addition 
+to the main conference. ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned 
+with computational approaches to natural language. </p>
+<!--b>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (ACL-IJCNLP) will take place in Thailand.</b-->.
 
 <h2 id="dates">Important Dates</h2>
 <center>
@@ -70,22 +74,22 @@ excerpt: "<br/><br/>"
             <td>Proceedings publication</td>
             <td>Friday</td>
             <td>June 18, 2021</td>
-        </tr>        
+        </tr-->        
         <tr>
             <td>Tutorials</td>
-            <td>Sunday</td>
-            <td>July 4, 2021</td>
-        </tr-->        
+            <td>Thursday</td>
+            <td>July 1, 2021</td>
+        </tr>        
         <tr>
             <td>Main conference</td>
-            <td>Sunday &ndash; Friday</td>
-            <td>August 1 &ndash; 6, 2021</td>
+            <td>Monday &ndash; Wednesday</td>
+            <td>August 2 &ndash; 4, 2021</td>
         </tr>        
-        <!--tr>
-            <td>Workshops and Co-located conferences</td>
-            <td>Friday &ndash; Saturday</td>
-            <td>July 9 &ndash; 10, 2021</td>
-        </tr-->        
+        <tr>
+            <td>Workshops</td>
+            <td>Thursday &ndash; Friday</td>
+            <td>July 5 &ndash; 6, 2021</td>
+        </tr>        
 </tbody>
 </table>
 </center>
