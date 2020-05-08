@@ -22,17 +22,11 @@ main:
   - title: "About Bangkok"
     url: /about
 
-  - title: "Sponsors"
-    url: /sponsors/list/
+  - title: "Travel"
+    url: /travel
 
-  - title: "Authors"
-    url: /authors/camera-ready-instructions
-
-  - title: "Reviewers"
-    url: /reviewers
-
-  - title: "Committees"
-    url: /committees/organization
+  - title: "Visa"
+    url: /visa
 
 calls:
    - title: Call for
