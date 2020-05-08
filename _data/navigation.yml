@@ -35,12 +35,12 @@ calls:
          url: /calls/papers/
        - title: "System Demonstrations"
          url: /calls/demos/
-       - title: "Workshop Proposals"
-         url: /calls/workshops/
+       #- title: "Workshop Proposals"
+        # url: /calls/workshops/
        - title: "Tutorial Proposals"
          url: /calls/tutorials/
-       - title: "Student Research Workshop"
-         url: https://sites.google.com/view/acl20studentresearchworkshop/
+       #- title: "Student Research Workshop"
+        # url: https://sites.google.com/view/acl20studentresearchworkshop/
 
 authors:
    - title: Instructions for Authors
