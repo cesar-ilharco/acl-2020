@@ -7,8 +7,8 @@ main:
   # - title: "LiveCaptions"
   #   url: /captions/
 
-  - title: "Program"
-    url: /program/tutorials/
+  - title: "Home"
+    url: /
 
   - title: "Blog"
     url: /blog
