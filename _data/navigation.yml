@@ -3,7 +3,7 @@ main:
    - title: "Home"
      url: /
 
-   - title: "Call for Papers"
+   - title: "Calls"
      url: /calls/papers
 
    - title: "Organizations"
@@ -65,12 +65,12 @@ calls:
      children:
        - title: "Main Conference Papers"
          url: /calls/papers/
-    #   - title: "System Demonstrations"
-     #    url: /calls/demos/
-      # - title: "Workshop Proposals"
-       #  url: /calls/workshops/
-       #- title: "Tutorial Proposals"
-        # url: /calls/tutorials/
+       - title: "System Demonstrations"
+         url: /calls/demos/
+       - title: "Workshop Proposals"
+         url: /calls/workshops/
+       - title: "Tutorial Proposals"
+        url: /calls/tutorials/
        #- title: "Student Research Workshop"
         # url: https://sites.google.com/view/acl21studentresearchworkshop/
 
