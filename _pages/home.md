@@ -76,8 +76,8 @@ with computational approaches to natural language. </p>
             <td>June 18, 2021</td>
         </tr-->        
         <tr>
-            <td>Tutorials</td>
-            <td>Thursday</td>
+            <td style="width: 40%;">Tutorials</td>
+            <td style="width: 30%;">Thursday</td>
             <td>July 1, 2021</td>
         </tr>        
         <tr>
