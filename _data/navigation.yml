@@ -1,11 +1,11 @@
 # main links
 main:
 
-  # - title: "Home"
-  #   url: /
+  # - title: "Schedule"
+  #   url: /schedule/
 
-  # - title: "Organizations"
-  #   url: /organization
+  # - title: "LiveCaptions"
+  #   url: /captions/
 
   - title: "Program"
     url: /program/tutorials/
