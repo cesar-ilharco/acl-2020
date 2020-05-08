@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 <h2>CALL FOR PAPERS</h2>
 ACL-IJCNLP 2021 <br>
-The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 10th International Joint Conference on 
+The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for Computational Linguistics and the 10th International Joint Conference on 
 Natural Language Processing<br>
 The Berkeley Hotel, Bangkok, Thailand<br>
 July 5-10, 2021  <br>
