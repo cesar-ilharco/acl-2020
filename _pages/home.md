@@ -1,5 +1,5 @@
 ---
-title: "The Joint Conference of <br>The 59th Annual Meeting of the Association for Computational Linguistics and <br>The 10th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)"
+title: "The Joint Conference of <br>The 59th Annual Meeting of the Association for Computational Linguistics and The 10th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)"
 layout: splash
 permalink: /
 header:
