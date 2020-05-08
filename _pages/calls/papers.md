@@ -23,9 +23,8 @@ unpublished research in all aspects of automated language processing.</p>
 
 <h2>Topics</h2>
 Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):<br>
-
-    » Cognitive Modeling and Psycholinguistics<br>
-    » Computational Social Science and Social Media<br>
+    » Cognitive Modeling and Psycholinguistics <br>
+    » Computational Social Science and Social Media <br>
     » Dialogue and Interactive Systems<br>
     » Discourse and Pragmatics<br>
     » Ethics and NLP<br>
