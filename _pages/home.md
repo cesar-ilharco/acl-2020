@@ -33,7 +33,7 @@ with computational approaches to natural language. </p>
 
 <h2 id="dates">Important Dates</h2>
 <center>
-<table style="width: 90%">
+<table style="width: 100%">
     <tbody>
         <!--tr>
             <td style="width: 40%;">Completion of START Global Profile</td>
@@ -77,8 +77,8 @@ with computational approaches to natural language. </p>
         </tr-->        
         <tr>
             <td style="width: 40%;">Tutorials</td>
-            <td style="width: 30%;">Thursday</td>
-            <td>July 1, 2021</td>
+            <td style="width: 30%;">Sunday</td>
+            <td>August 1, 2021</td>
         </tr>        
         <tr>
             <td>Main conference</td>
@@ -88,7 +88,7 @@ with computational approaches to natural language. </p>
         <tr>
             <td>Workshops</td>
             <td>Thursday &ndash; Friday</td>
-            <td>July 5 &ndash; 6, 2021</td>
+            <td>August 5 &ndash; 6, 2021</td>
         </tr>        
 </tbody>
 </table>
