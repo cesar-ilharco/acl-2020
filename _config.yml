@@ -18,12 +18,12 @@ title                    : "ACL-IJCNLP 2021"
 title_separator          : "-"
 name                     : "ACL-IJCNLP"
 description              : "Official website for the 2021 Annual Conference of the Association for Computational Linguistics"
-url                      : "https://acl2020.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://acl2021.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "acl-org/acl-2021" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "ACL 2020" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "ACL-IJCNLP 2021" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
