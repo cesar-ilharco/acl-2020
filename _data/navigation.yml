@@ -4,7 +4,7 @@ main:
      url: /
 
    - title: "Calls"
-     url: /calls/papers
+     url: /calls
 
    - title: "Organizations"
      url: /organization
