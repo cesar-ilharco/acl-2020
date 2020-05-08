@@ -16,11 +16,11 @@ main:
   - title: "Organizations"
     url: /organization
 
-  - title: "Registration"
-    url: /registration
+  - title: "Venue"
+    url: /venue
 
-  - title: "Participants"
-    url: "/participants"
+  - title: "About Bangkok"
+    url: /about
 
   - title: "Sponsors"
     url: /sponsors/list/
