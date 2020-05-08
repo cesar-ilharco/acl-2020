@@ -14,10 +14,10 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL 2020"
+title                    : "ACL-IJCNLP 2021"
 title_separator          : "-"
-name                     : "ACL"
-description              : "Official website for the 2020 Annual Conference of the Association for Computational Linguistics"
+name                     : "ACL-IJCNLP"
+description              : "Official website for the 2021 Annual Conference of the Association for Computational Linguistics"
 url                      : "https://acl2020.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "acl-org/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
