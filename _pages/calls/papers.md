@@ -131,14 +131,14 @@ At least one author of each accepted paper must register for ACL-IJCNLP 2021 by 
 ## Organizers
 
 <b>General Chair</b>  
-
+To be determined
 
 <b>Program Co-Chairs</b>  
-
+To be determined
 
 
 ## Contact Information
-- e-mail: [ACL2021ProgramChairs@gmail.com](mailto:ACL2021ProgramChairs@gmail.com)
+To be determined
 
 
 
