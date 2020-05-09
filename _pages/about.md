@@ -29,3 +29,15 @@ for backpacker tourism, with its budget accommodation, shops and bars attracting
 <p>Bangkok is surprisingly easy to navigate your way around. The Skytrain (BTS) and underground (MRT) rail systems connect the main shopping, 
 entertainment and business areas of the city, while river taxis and express boats can be used to explore many historic sites and attractions at the riverside. </p>
 <img style="float: left;  padding:20px" src="/assets/images/seattle/3604.jpg">
+<p>Taxis are cheap and appear on virtually every corner at almost any time. Tuk-tuks, once a big Bangkok attraction, are slowly disappearing in favour of more 
+comfortable transport, but are still worth a ride at least once. Most buses might be slow and old, but a great way to travel with locals and get a real feel of the city.  
+Another option is motorbike taxis. They're fast and efficient, but not for everyone. There is, of course, always the humble bicycle too - perhaps not the safest option, 
+and strictly for the adventurous.</p>
+<p><b><u>Weather</u></b></p>
+<p>Bangkok is a tropical city that sits just north of the equator, and so it's pretty warm throughout the year. At times the heat can be oppressive. </p>
+<img style="float: right;  padding:20px" src="/assets/images/seattle/2558.jpg">
+<p>If your especially adverse to extreme temperatues, avoid between April and May when the weather is especially hot and sticky (temperatures around 34C). 
+However, don't fret if you do choose to come then: one of Thailand's most celebrated festivals, Songkran, takes place in April and involves lots of 
+refreshing water throwing to help cool everyone down. Perhaps the best time to visit is from October until February, when temperatures hover between 25 and 28C 
+and there are light breezes and only occasional showers. From June through to September there's still plenty of sunshine and it's much cooler (around 24-28 C). 
+Remember though, this is the season for rain and there can lots of it. However, this is actually quite refreshing! Others advantages are less visitors and better hotel rates.</p>
