@@ -1,10 +1,7 @@
 ---
-title: Organizing Committee
-layout: single
-excerpt: "ACL-IJCNLP 2021 organizing committee."
-permalink: /committees/organization
-sidebar: 
-    nav: committees 
+title: Conference Venue
+layout: splash
+permalink: /organization/
 ---
 
 <h3>General Chair</h3>
