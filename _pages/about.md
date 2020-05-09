@@ -20,3 +20,12 @@ and major Buddhist temples, including Wat Phra Kaew, Wat Pho, and Wat Arun. The 
 Vimanmek Mansion in Dusit Palace is famous as the world's largest teak building, while the Jim Thompson House provides an example of traditional Thai architecture. 
 Other major museums include the Bangkok National Museum and the Royal Barge National Museum. Cruises and boat trips on the Chao Phraya and Thonburi's canals 
 offer views of some of the city's traditional architecture and ways of life on the waterfront.	</p>	
+<img style="float: right;  padding:20px" src="/assets/images/seattle/mbk.jpg">
+<p>Shopping venues, many of which are popular with both tourists and locals, range from the shopping centres and department stores concentrated in Siam and 
+Ratchaprasong to the sprawling Chatuchak Weekend Market. Taling Chan Floating Market is among the few such markets in Bangkok. Yaowarat is known 
+for its shops as well as street-side food stalls and restaurants, which are also found throughout the city. Khao San Road has long been famous as a destination 
+for backpacker tourism, with its budget accommodation, shops and bars attracting visitors from all over the world</p>	
+<p><b><u>Getting Around in Bangkok</u></b></p>
+<p>Bangkok is surprisingly easy to navigate your way around. The Skytrain (BTS) and underground (MRT) rail systems connect the main shopping, 
+entertainment and business areas of the city, while river taxis and express boats can be used to explore many historic sites and attractions at the riverside. </p>
+<img style="float: left;  padding:20px" src="/assets/images/seattle/3604.jpg">
