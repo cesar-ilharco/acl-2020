@@ -22,7 +22,7 @@ will take place in Bangkok, Thailand on August 1 to 6, 2021. The conference invi
 unpublished research in all aspects of automated language processing.</p>
 
 <h2>Topics</h2>
-Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):<br>
+Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):<br><br>
     » Cognitive Modeling and Psycholinguistics <br>
     » Computational Social Science and Social Media <br>
     » Dialogue and Interactive Systems<br>
@@ -49,46 +49,96 @@ Relevant topics for the conference include, but are not limited to, the followin
     » Syntax: Tagging, Chunking and Parsing<br>
     » Theme<br>
 
- <h2>SUBMISSIONS</h2>
-<b>Long papers</b><br>
-<p>ACL-IJCNLP 2021 submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis 
-should be included. Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, thoroughness, 
-significance, contributions to research resources, and replicability. Each submission will be reviewed by at least three program committee members.</p>
-<p>Long papers may consist of up to eight (8) pages of content, plus two pages for references; final versions of long papers will be given one additional page 
-(up to 9 pages with 2 pages for references) so that reviewers’comments can be taken into account.<p>
-<p>Long papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally 
-and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long 
-papers presented orally and as posters.</p><br>
-<b>Short papers</b><br>
-<p>ACL-IJCNLP 2021 also solicits short papers. Short paper submissions must describe original and unpublished work.  Please note that a short paper is not a 
-shortened long paper. Instead short papers should have a point that can be made in a few pages. Characteristics of short papers include:</p>
-    » A small, focused contribution<br>
-    » Work in progress<br>
-    » A negative result<br>
-    » An opinion piece<br>
-    » An interesting application nugget<br><br>
-<p>Short papers may consist of up to four (4) pages of content, plus 2 pages for references. Upon acceptance, short papers will be given five (5) pages in the proceedings 
-and 2 pages for references. Authors are encouraged to use this additional page to address reviewers comments in their final versions.</p>
-<p>Short papers will be presented in one or more oral or poster sessions. While short papers will be distinguished from long papers in the proceedings, there will be no 
-distinction in the proceedings between short papers presented orally and posters. Each short paper submission will be reviewed by at least three program committee members.</p>
-<br><br>
-<b>Both long and short papers</b>
-<p>Papers should not refer, for further detail, to papers that are not available to the reviewers. Papers may be accompanied by the resource (software and/or data) described 
-in the paper. Papers that are submitted with accompanying software/data may receive additional credit toward the overall evaluation score, and the potential impact of the 
-software and data will be taken into account when making the acceptance/rejection decisions.</p>
-<p>ACL-IJCNLP 2021 also allows for submitting supplementary material. This should be supplementary (rather than central) to the paper. It may include explanations 
-or details of proofs or derivations that do not fit into the paper, lists of features or feature templates, sample inputs and outputs for a system, pseudo-code or source code, 
-and data. The paper should not rely on the supplementary material: while the paper may refer to and cite the supplementary material and the supplementary material will be 
-available to reviewers, they will not be asked to review or even download the supplementary material. </p>
-<br><br>
-<h2>FORMAT</h2>
-<p>Long paper submissions must follow the two-column format of ACL-IJCNLP 2021 proceedings without exceeding eight (8) pages of content plus two extra pages 
-for references. Short paper submissions must also follow the two-column format of ACL-IJCNLP 2021 proceedings, and must not exceed four (4) pages plus at most 
-2 pages for references. We strongly recommend the use of ACL LaTeX style files or Microsoft Word style files tailored for this year's conference. Submissions must conform 
-to the official style guidelines, which are contained in the style files, and they must be in PDF.</p>
-<p>As the reviewing will be blind, papers must not include authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., 
-"We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ..." Papers that do not conform 
-to these requirements will be rejected without review. In addition, please do not post your submissions on the web until after the review process is complete.</p>
+ ## Submissions
+### Long Papers
+Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines.
+
+Long papers may consist of up to 8 pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account.
+
+Long papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long papers presented orally and as posters.
+
+### Short Papers
+Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages. Some kinds of short papers are:
+
+    » A small, focused contribution
+    » A negative result
+    » An opinion piece
+    » An interesting application nugget
+
+Short papers may consist of up to 4 pages of content, plus unlimited references. Upon acceptance, short papers will be given 5 content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers' comments in their final versions.
+
+Short papers will be presented orally or as posters as determined by the program committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
+
+### IMPORTANT: Anonymity Period
+
+The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline up to the date when your paper is either accepted, rejected, or withdrawn.
+
+- You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper we understand another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length (e.g., an abstract is a version of the paper that it summarizes).
+- If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the conference. The submitted version must not refer to the non-anonymized version, and you must inform the program chair(s) that a non-anonymized version exists. 
+- You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period.
+- Note that, while you are not prohibited from making a non-anonymous version available online before the start of the anonymity period, this does make double-blind reviewing more difficult to maintain, and we therefore encourage you to wait until the end of the anonymity period if possible. Alternatively, you may consider submitting your work to the Computational Linguistics journal, which does not require anonymization and has a track for "short" (i.e., conference-length) papers.
+
+### Instructions for Double-Blind Review
+
+As reviewing will be double blind, papers must not include authors' names and affiliations. Furthermore, self-references or links (such as github) that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ..." Papers that do not conform to these requirements will be rejected without review.
+
+Papers should not refer, for further detail, to documents that are not available to the reviewers. For example, do not omit or redact important citation information to preserve anonymity. Instead, use third person or named reference to this work, as described above (“Smith showed” rather than “we showed”).
+
+Papers may be accompanied by a resource (software and/or data) described in the paper, but these resources should be anonymized as well. 
+
+### Authorship
+
+The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ACL-IJCNLP 2021 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to ACL-IJCNLP 2021 after the paper submission deadline.
+
+### Citation and Comparison
+
+You are expected to cite all refereed publications relevant to your submission, but you may be excused for not knowing about all unpublished work (especially work that has been recently posted and/or is not widely cited).
+
+In cases where a preprint has been superseded by a refereed publication, the refereed publication should be cited instead of the preprint version.
+
+Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to your submission, and you are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
+
+For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation)
+
+### Multiple Submission Policy
+
+Papers that have been or will be submitted to other meetings or publications must indicate this at submission time in the START submission form, and must be withdrawn from the other venues if accepted by ACL-IJCNLP 2021. Authors of papers accepted for presentation at ACL-IJCNLP 2021 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. We will not accept for publication or presentation the papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
+
+Authors submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not overlap significantly (>25%) with each other in content or results.
+
+### Paper Submission and Templates
+
+Both long and short papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines)
+
+Style sheets (Latex, Word) are available here: [https://acl2021.org/downloads/acl2021-templates.zip](https://acl2021.org/downloads/acl2021-templates.zip)
+
+The Overleaf template is also available here: [https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd)
+
+Please do not modify these style files, or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+
+### Optional Supplementary Materials: Appendices, Software and Data
+
+Each ACL-IJCNLP 2021 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL-IJCNLP 2021 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
+
+## Presentation Requirement
+
+All accepted papers must be presented at the conference to appear in the proceedings. Authors of papers accepted for presentation at ACL-IJCNLP 2021 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.
+
+Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote in the final version of papers appearing in the ACL-IJCNLP 2021 proceedings.  Please note that this footnote should not be in the submission version of the paper.
+
+At least one author of each accepted paper must register for ACL-IJCNLP 2021 by the early registration deadline.
+
+## Organizers
+
+<b>General Chair</b>  
+
+
+<b>Program Co-Chairs</b>  
+
+
+
+## Contact Information
+- e-mail: [ACL2021ProgramChairs@gmail.com](mailto:ACL2021ProgramChairs@gmail.com)
 
 
 
