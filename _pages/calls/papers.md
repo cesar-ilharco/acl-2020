@@ -60,10 +60,10 @@ Long papers will be presented orally or as posters as determined by the program 
 ### Short Papers
 Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages. Some kinds of short papers are:
 
-    » A small, focused contribution<br>
-    » A negative result<br>
-    » An opinion piece<br>
-    » An interesting application nugget<br>
+    »  A small, focused contribution <br>
+    »  A negative result<br>
+    »  An opinion piece<br>
+    »  An interesting application nugget<br>
 
 Short papers may consist of up to 4 pages of content, plus unlimited references. Upon acceptance, short papers will be given 5 content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers' comments in their final versions.
 
