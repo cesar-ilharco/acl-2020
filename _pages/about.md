@@ -51,14 +51,3 @@ you'll have in your wallet. Those on a budget should try to avoid big banks in s
 onto the customer in the form of commission rates. And don't forget, you must have your passport with you to exchange currency in Bangkok. 
 Superrich is one of the most famous money exchange companies in Bangkok. They have several branches across the city, ranging from kiosks in 
 selected BTS Skytrain stations to small shops along Pratunam and Chitlom. </p>
-<p><b><u>Simcard</u></b></p>	
-<p>About Sim Card, the first thing you’ll want to do is get connected. When you switch on your phone you’ll either be given the option to connect to one of 3 main 
-networks in Thailand: AIS, DTAC or True. <br><br>
-In Suvarnabhumi Airport (BKK), there are several places to buy a Thai SIM card. The main spot are the Network’s kiosks after you exit customs, right outside of the 
-International gates where people hold up signs. There are kiosks for Thailand’s main mobile operators – DTAC (blue), AIS (Green ) and True Move (Red).</p>
-<img style="float: right;  padding:20px" src="/assets/images/seattle/simcard.jpg">
-<p>At DMK airport, SIM shops are located on the ground level. After visa/immigration, you come down one level to the Customs Green or Red channels. 
-After you go through the Customs, you come down another level where Taxi, public buses, etc. are available. This is the ground level. Once you get down the 
-escalator and the reach the ground level, turn left for the SIM shops.<br><br>
-All three networks sell Tourist or Traveler SIM cards. The base model is a is unlimited internet for 7 Days and 100 Baht of calling and SMS credit. 
-There are also other flavors like 15 and 30 day packages.</p>
