@@ -16,13 +16,13 @@ The ACL-IJCNLP 2021 System Demonstration Program Committee invites proposals for
 
 Areas of interest include all topics related to theoretical and applied computational linguistics, such as (but not limited to) the topics listed on the main conference website. Submitted systems may be of the following types:
 
-» Natural Language Processing systems or system components
-» Application systems using language technology components
-» Software tools for computational linguistics research
-» Software for demonstration or evaluation
-» Software supporting learning or education
-» Tools for data visualization and annotation
-» Development tools
+» Natural Language Processing systems or system components<br>
+» Application systems using language technology components<br>
+» Software tools for computational linguistics research<br>
+» Software for demonstration or evaluation<br>
+» Software supporting learning or education<br>
+» Tools for data visualization and annotation<br>
+» Development tools<br>
 
 Accepted submissions will be published in a companion volume of the ACL-IJCNLP 2021 conference proceedings.
 
