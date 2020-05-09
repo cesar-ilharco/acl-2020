@@ -41,3 +41,24 @@ However, don't fret if you do choose to come then: one of Thailand's most celebr
 refreshing water throwing to help cool everyone down. Perhaps the best time to visit is from October until February, when temperatures hover between 25 and 28C 
 and there are light breezes and only occasional showers. From June through to September there's still plenty of sunshine and it's much cooler (around 24-28 C). 
 Remember though, this is the season for rain and there can lots of it. However, this is actually quite refreshing! Others advantages are less visitors and better hotel rates.</p>
+<p><b><u>Currency</u></b></p>	
+<p>The monetary unit of Thailand is the baht (THB). One bath 100 satang. In circulation are coins of 25 and 50 satang, 1, 2, 5 and 10 baht; banknotes come in denominations 
+of 10 baht, 20 baht, 50 baht, 100 baht, 500 baht and 1,000 baht. Satang coins are virtually out of circulation and almost never occur. In Thailand only accept payment in local 
+money. Payment in dollars or euros is not possible, with the exception that payment for excursions and other services of tourist guides personally.</p>
+<img style="float: left;  padding:20px" src="/assets/images/seattle/currency.jpg">
+<p>	Changing money in Bangkok is a fairly easy process. Choosing where to change your money can have a noticeable impact on how much baht 
+you'll have in your wallet. Those on a budget should try to avoid big banks in shopping malls and popular tourist spots as the higher rents are passed 
+onto the customer in the form of commission rates. And don't forget, you must have your passport with you to exchange currency in Bangkok. 
+Superrich is one of the most famous money exchange companies in Bangkok. They have several branches across the city, ranging from kiosks in 
+selected BTS Skytrain stations to small shops along Pratunam and Chitlom. </p>
+<p><b><u>Simcard</u></b></p>	
+<p>About Sim Card, the first thing you’ll want to do is get connected. When you switch on your phone you’ll either be given the option to connect to one of 3 main 
+networks in Thailand: AIS, DTAC or True. <br><br>
+In Suvarnabhumi Airport (BKK), there are several places to buy a Thai SIM card. The main spot are the Network’s kiosks after you exit customs, right outside of the 
+International gates where people hold up signs. There are kiosks for Thailand’s main mobile operators – DTAC (blue), AIS (Green ) and True Move (Red).</p>
+<img style="float: right;  padding:20px" src="/assets/images/seattle/simcard.jpg">
+<p>At DMK airport, SIM shops are located on the ground level. After visa/immigration, you come down one level to the Customs Green or Red channels. 
+After you go through the Customs, you come down another level where Taxi, public buses, etc. are available. This is the ground level. Once you get down the 
+escalator and the reach the ground level, turn left for the SIM shops.<br><br>
+All three networks sell Tourist or Traveler SIM cards. The base model is a is unlimited internet for 7 Days and 100 Baht of calling and SMS credit. 
+There are also other flavors like 15 and 30 day packages.</p>
