@@ -49,7 +49,7 @@ Relevant topics for the conference include, but are not limited to, the followin
     » Syntax: Tagging, Chunking and Parsing<br>
     » Theme<br>
 
- ## Submissions
+ <h2>Submissions</h2>
 ### Long Papers
 Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines.
 
