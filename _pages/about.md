@@ -63,7 +63,7 @@ After you go through the Customs, you come down another level where Taxi, public
 escalator and the reach the ground level, turn left for the SIM shops.<br><br>
 All three networks sell Tourist or Traveler SIM cards. The base model is a is unlimited internet for 7 Days and 100 Baht of calling and SMS credit. 
 There are also other flavors like 15 and 30 day packages.</p>
-<br><br>
+<br>
 <a href="http://www.ais.co.th/travellersim/" target="_blank">http://www.ais.co.th/travellersim/</a><br>
 <a href="http://www.dtac.co.th/en/prepaid/products/tourist-sim.html" target="_blank">http://www.dtac.co.th/en/prepaid/products/tourist-sim.html</a><br>
-<a href="http://truemoveh.truecorp.co.th/international_service/visit_thailand/en" target="_blank">http://truemoveh.truecorp.co.th/international_service/visit_thailand/en</a><br></p>
+<a href="http://truemoveh.truecorp.co.th/international_service/visit_thailand/en" target="_blank">http://truemoveh.truecorp.co.th/international_service/visit_thailand/en</a><br>
