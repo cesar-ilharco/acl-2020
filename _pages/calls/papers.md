@@ -17,7 +17,8 @@ The Berkeley Hotel, Bangkok, Thailand<br>
 August 1- 6, 2021  <br>
 [https://acl2021.org](https://acl2021.org)<br><br>
 
-<p>The Association for Computational Linguistics and the Asian Federation of Natural Language Processing are pleased to announce that their joint meeting 
+<b>To be announced soon</b>
+<!--p>The Association for Computational Linguistics and the Asian Federation of Natural Language Processing are pleased to announce that their joint meeting 
 will take place in Bangkok, Thailand on August 1 to 6, 2021. The conference invites the submission of long and short papers on substantial, original, and 
 unpublished research in all aspects of automated language processing.</p>
 
@@ -139,7 +140,7 @@ To be determined
 
 ## Contact Information
 To be determined
-
+-->
 
 
 
