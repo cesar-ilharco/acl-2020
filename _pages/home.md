@@ -24,7 +24,7 @@ excerpt: "<br/><br/>"
 </div-->
 
 <h2>Welcome to ACL-IJCNLP 2021!</h2>
-Held at the Berkely Hotel  in Bangkok, Thailand, August 1-6, 2021<br>
+The great event will be held in Berkely Hotel in Bangkok, Thailand, August 1-6, 2021.<br>
 <p>For the first time, the annual meeting of the Association for Computational Linguistics (ACL) takes place in Thailand. ACL-IJCNLP 2021 will be held in Bangkok, 
 Thailand 's capital, August 1-6, 2021. As in previous years, the program of the conference includes a poster session, tutorials, workshops and demonstrations in addition 
 to the main conference. ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned 
