@@ -33,12 +33,12 @@ calls:
      children:
        - title: "Main Conference Papers"
          url: /calls/papers/
-       - title: "System Demonstrations"
-         url: /calls/demos/
+       #- title: "System Demonstrations"
+        # url: /calls/demos/
        #- title: "Workshop Proposals"
         # url: /calls/workshops/
-       - title: "Tutorial Proposals"
-         url: /calls/tutorials/
+       #- title: "Tutorial Proposals"
+        # url: /calls/tutorials/
        #- title: "Student Research Workshop"
         # url: https://sites.google.com/view/acl20studentresearchworkshop/
 
