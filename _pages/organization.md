@@ -10,7 +10,7 @@ Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br>
 <h3>Program Chairs</h3>
 Fei Xia,  University of Washington <br>
 Wenjie Li, The Hong Kong Polytechnic University<br>
-Roberto Navigli, University of Roma La Sapienza<br>
+[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), University of Roma La Sapienza<br/>
 
 <h3>Local Chairs</h3>
 [Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), NECTEC, Thailand<br/>
