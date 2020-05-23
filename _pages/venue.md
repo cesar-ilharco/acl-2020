@@ -5,12 +5,12 @@ permalink: /venue/
 ---
 
 <h2>Conference Venue</h2>
-THE BERKELEY HOTEL PRATUNAM <br>
+THE BERKELEY HOTEL<br>
 Address: 559 Ratchaprarop Road, Makkasan,<br>
 	Ratchathewi, Bangkok 10400, Thailand<br>
 <b>Tel:</b> (662)309-9999  <br/>
 <b>Fax:</b> (662)309-9900 <br/>
-<span style="font-size:small;">Please reserve hotel by directing contact to rsvn@berkeleyhotel.co.th or info@berkeleyhotel.co.th</span>
+<!--span style="font-size:small;">Please reserve hotel by directing contact to rsvn@berkeleyhotel.co.th or info@berkeleyhotel.co.th</span-->
 <p><a href="https://www.berkeleypratunam.com/" target="_new">https://www.berkeleypratunam.com/</a></p>
 <img style="float: left;  padding-right:20px" src="/assets/images/seattle/v3.jpg">
 The hotel was officially established in 2013, and it is conveniently located in the heart of Bangkok on Ratchaprarop Road in the Pratunam area, 
@@ -49,14 +49,14 @@ Latitude in Decimal is 13.750016, 100.542788<br>
 
 <h2>Transport from Airport to Venue</h2>
 There are two international airports in Bangkok<br><br>
-<b>1. Bangkok Airport - Don Muang</b><br><br>
-1.1 Take a Taxi - if you do this, make sure you demand the meter to be used, do not accept any bartering on set fees, it is the meter or nothing.
-To Venue from the airport it is about 250 - 350 Baht exclude the change is made up from tolls + airport surcharge, do although the meter may state less,
-you also have to pay the rest. This takes around 40 - 60 minutes.<br><br>
-1.2 Take the Bangkok airport bus - Passengers can travel between Don Muang Airport and to venue on a bus ride from Don Mueang Airport Bus goes 
+<b>1. Bangkok Airport-Don Muang</b><br><br>
+1.1 Take a taxi-if you do this, make sure you demand the meter to be used, do not accept any bartering on set fees, it is the meter or nothing.
+To venue from the airport it is about 250-350 baht excluding the change is made up from tolls + airport surcharge, do although the meter may state less,
+you also have to pay the rest. This takes around 40-60 minutes.<br><br>
+1.2 Take the Bangkok airport bus-passengers can travel between Don Muang Airport and to venue on a bus ride from Don Mueang Airport Bus goes 
 to Lumpini Park  [A3]. Good news for those people landing at Don Mueang Airport and want a cheap and quick way to get into Bangkok.<br>
-Starting from 1 May 2017, there will be Airport Bus route to go to Pratunam and Lumpini Park (A3). The cost of the ticket is only 50 Baht for the entire length 
-of the route. Service hours are 7am - 11pm.
+Starting from 1 May 2017, there will be Airport Bus route to go to Pratunam and Lumpini Park (A3). The cost of the ticket is only 50 baht for the entire length 
+of the route. Service hours are 7am-11pm.
 <br><br>
 Pickup Location: Gate 6, 1st floor, Don Mueang Airport<br>
 <br><br>
@@ -72,15 +72,15 @@ A3 BUS ROUTE<br>
 Google Map: <br>
 <iframe src="https://www.google.com/maps/d/embed?mid=1vyl66w2Dykv12t8WAD8pvrhIWOs" width="900" height="450"></iframe>
 <br><br><br>
-<b>2. Bangkok Airport - Suvarnabhumi</b><br><br>
-2.1 Take a taxi - if you do this, make sure you demand the meter to be used, do not accept any bartering or set fees, it is the meter or nothing. 
-To Venue from the airport it is about 350 - 450 Baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
-you also have to pay the rest. This takes around 40 - 60 minutes.<br><br>
-2.2 Take the Airport Link (train) - Cityline to Phaya Thai (BTS) station, runs every 10 - 15 minutes and standard fare for the city line is between 15 - 45 baht 
+<b>2. Bangkok Airport-Suvarnabhumi</b><br><br>
+2.1 Take a taxi-if you do this, make sure you demand the meter to be used, do not accept any bartering or set fees, it is the meter or nothing. 
+To venue from the airport it is about 350-450 baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
+you also have to pay the rest. This takes around 40-60 minutes.<br><br>
+2.2 Take the Airport Link (train)-Cityline to Phaya Thai (BTS) station, runs every 10-15 minutes and standard fare for the city line is between 15-45 baht 
 depending on distance. Bangkok Airport Rail Link is a commuter rail line connecting Suvarnabhumi Airport to Phaya Thai (BTS) station via Ratchaprarop Station (near venue).<br><br>
 The Airport Rail link operates daily from 06:00 to 24:00, with commuter City Line trains departing every 10 minutes during peak hours (06:00 - 09:00 and 16:00 - 20:00) 
 and 15 minutes off peak and weekends.<br><br><br>
 <img src="/assets/images/seattle/arl.jpg"><br><br>
-Suvarnabhumi Airport - Lad Krabang - Ban Thap Chang - Hua Mark - Ramkhamhaeng - Makkasan (City Air Terminal - interchange with MRT Blue Line (Phetchaburi Station)) - Ratchaprarop - Phayathai (interchange with BTS Sukhumvit Line (Phayathai Station))<br>
+Suvarnabhumi Airport-Lad Krabang-Ban Thap Chang-Hua Mark-Ramkhamhaeng-Makkasan (City Air Terminal-interchange with MRT Blue Line (Phetchaburi Station))-Ratchaprarop-Phayathai (interchange with BTS Sukhumvit Line (Phayathai Station))<br>
 
 
