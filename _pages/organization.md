@@ -13,8 +13,8 @@ Wenjie Li, The Hong Kong Polytechnic University<br>
 [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), University of Roma La Sapienza<br/>
 
 <h3>Local Chairs</h3>
-[Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), NECTEC, Thailand<br/>
-[Thanaruk Theeramunkong](https://aiat.or.th/thanaruk/), AIAT, Thailand
+[Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), National Electronics and Computer Technology Center, Thailand<br/>
+[Thanaruk Theeramunkong](https://aiat.or.th/thanaruk/), The Artificial Intelligence Association of Thailand and Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand
 
 <!--h3>Tutorial Chairs</h3>
 To be determined
