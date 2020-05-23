@@ -15,15 +15,15 @@ Address: 559 Ratchaprarop Road, Makkasan,<br>
 <img style="float: left;  padding-right:20px" src="/assets/images/seattle/v3.jpg">
 The hotel was officially established in 2013, and it is conveniently located in the heart of Bangkok on Ratchaprarop Road in the Pratunam area, 
 Ratchathewi district. As a most worthwhile place to visit, whether for relaxation or business, you will be truly satisfied with "A Touch of Elegance", 
-the modern luxurious style of The Berkeley Hotel Pratunam. As a 5-star hotel, you will be offered the best of our cosy and richly elegant environment, 
+the modern luxurious style of The Berkeley Hotel. As a 5-star hotel, you will be offered the best of our cosy and richly elegant environment, 
 with an abundance of things to appreciate, and enjoy our golden location for the nearby popular shopping areas and convenient public transportation.
 <br><br>
 The gigantic venue is approximately 3,700 sq.m, one of the largest hotel functional spaces in South East Asia, and offers the very best facilities 
-for organizing any kind of event. Our Meeting Rooms include a variety of kinds of functional rooms for multi-purpose events, such as the pillarless 
-ballroom and an event hall, with a 3,000-guest capacity. In addition, the venues have a Pre-functional area, which is in front of all of the meeting rooms 
+for organizing any kind of event. Our meeting rooms include a variety of kinds of functional rooms for multi-purpose events, such as the pillarless 
+ballroom and an event hall, with a 3,000-guest capacity. In addition, the venues have a pre-functional area, which is in front of all of the meeting rooms 
 (except the Palladium), which functions as a reception and registration area. Mayfair Grand Ballroom, this pillarless ballroom with a 7.5 metre ceiling 
-height and an area of 1,400 sq.m., can be utilized to create a reception atmosphere, with a capacity of up to 2,000 guests, combining the Grand 
-Ballroom and Foyer. The venue, which perfectly fits any sort of large-scale event, has a variety of availabilities of arrangement; Cocktail party and Classroom.
+height and an area of 1,400 sq.m., can be utilized to create a reception atmosphere, with a capacity of up to 2,000 guests, combining the grand 
+ballroom and foyer. The venue, which perfectly fits any sort of large-scale event, has a variety of availabilities of arrangement; cocktail party and classroom.
 
 <h2>Location</h2>
 The Hotel is centrally located in the golden location of Bangkok. This means that it is quite close to a number of nearby attractions, such as The Palladium World Shopping Centre, 
@@ -51,7 +51,7 @@ Latitude in Decimal is 13.750016, 100.542788<br>
 There are two international airports in Bangkok<br><br>
 <b>1. Bangkok Airport-Don Muang</b><br><br>
 1.1 Take a taxi-if you do this, make sure you demand the meter to be used, do not accept any bartering on set fees, it is the meter or nothing.
-To venue from the airport it is about 250-350 baht excluding the change is made up from tolls + airport surcharge, do although the meter may state less,
+To venue from the airport, it is about 250-350 baht excluding the change is made up from tolls + airport surcharge, do although the meter may state less,
 you also have to pay the rest. This takes around 40-60 minutes.<br><br>
 1.2 Take the Bangkok airport bus-passengers can travel between Don Muang Airport and to venue on a bus ride from Don Mueang Airport Bus goes 
 to Lumpini Park  [A3]. Good news for those people landing at Don Mueang Airport and want a cheap and quick way to get into Bangkok.<br>
@@ -74,11 +74,11 @@ Google Map: <br>
 <br><br><br>
 <b>2. Bangkok Airport-Suvarnabhumi</b><br><br>
 2.1 Take a taxi-if you do this, make sure you demand the meter to be used, do not accept any bartering or set fees, it is the meter or nothing. 
-To venue from the airport it is about 350-450 baht exclude the charge is made up from tolls + airport surcharge, so although the meter may state less, 
+To venue from the airport it is about 350-450 baht excluding the charge is made up from tolls + airport surcharge, so although the meter may state less, 
 you also have to pay the rest. This takes around 40-60 minutes.<br><br>
 2.2 Take the Airport Link (train)-Cityline to Phaya Thai (BTS) station, runs every 10-15 minutes and standard fare for the city line is between 15-45 baht 
 depending on distance. Bangkok Airport Rail Link is a commuter rail line connecting Suvarnabhumi Airport to Phaya Thai (BTS) station via Ratchaprarop Station (near venue).<br><br>
-The Airport Rail link operates daily from 06:00 to 24:00, with commuter City Line trains departing every 10 minutes during peak hours (06:00 - 09:00 and 16:00 - 20:00) 
+The Airport Rail link operates daily from 06:00 to 24:00, with Commuter City Line trains departing every 10 minutes during peak hours (06:00-09:00 and 16:00-20:00) 
 and 15 minutes off peak and weekends.<br><br><br>
 <img src="/assets/images/seattle/arl.jpg"><br><br>
 Suvarnabhumi Airport-Lad Krabang-Ban Thap Chang-Hua Mark-Ramkhamhaeng-Makkasan (City Air Terminal-interchange with MRT Blue Line (Phetchaburi Station))-Ratchaprarop-Phayathai (interchange with BTS Sukhumvit Line (Phayathai Station))<br>
