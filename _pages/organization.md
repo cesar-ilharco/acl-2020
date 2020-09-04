@@ -27,7 +27,7 @@ permalink: /organization/
 <h3>Student Research Workshop Chairs:</h3>
 Amandalynne Paullada, University of Washington, USA<br/>
 Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
-[Jannis Vamvas](https://www.cl.uzh.ch/de/people/team/compling/vamvas.html), Universität Zurich, Switzerland<br/>
+[Jannis Vamvas](https://www.cl.uzh.ch/de/people/team/compling/vamvas.html), Universitat Zurich, Switzerland<br/>
 Jad Kabbara, McGill University and the Montreal Institute for Learning Algorithms (MILA), Canada<br/>
 
 <h3>Faculty Advisors to the Student Research Workshop:</h3>
