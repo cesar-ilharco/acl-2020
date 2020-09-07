@@ -42,7 +42,7 @@ Jad Kabbara, McGill University and the Montreal Institute for Learning Algorithm
 
 <h3>Publications Chairs:</h3>
 [Jing-Shin Chang](https://www.linkedin.com/in/jing-shin-chang-02a5a8129), National Chi-Nan University, Taiwan, China<br/>
-Yuki Arase,  Associate Professor, Osaka University, Japan<br/>
+[Yuki Arase](http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_en.html),  Associate Professor, Osaka University, Japan<br/>
 [Yvette Graham](https://www.computing.dcu.ie/~ygraham/), Dublin City University, Ireland<br/>
 
 <h3>Publicity Chair:</h3>
