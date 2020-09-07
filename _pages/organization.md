@@ -25,7 +25,7 @@ permalink: /organization/
 [Michael Strube](https://www.h-its.org/people/prof-dr-michael-strube/), GmbH Heidelberg, Germany<br/>
 
 <h3>Student Research Workshop Chairs:</h3>
-Amandalynne Paullada, University of Washington, USA<br/>
+[Amandalynne Paullada](http://www.amandalynne.pw/), University of Washington, USA<br/>
 Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Jannis Vamvas](https://www.cl.uzh.ch/de/people/team/compling/vamvas.html), Universitat Zurich, Switzerland<br/>
 Jad Kabbara, McGill University and the Montreal Institute for Learning Algorithms (MILA), Canada<br/>
