@@ -28,7 +28,7 @@ permalink: /organization/
 [Amandalynne Paullada](http://www.amandalynne.pw/), University of Washington, USA<br/>
 Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Jannis Vamvas](https://www.cl.uzh.ch/de/people/team/compling/vamvas.html), Universitat Zurich, Switzerland<br/>
-Jad Kabbara, McGill University and the Montreal Institute for Learning Algorithms (MILA), Canada<br/>
+[Jad Kabbara](https://www.cs.mcgill.ca/~jkabba/), McGill University and the Montreal Institute for Learning Algorithms (MILA), Canada<br/>
 
 <h3>Faculty Advisors to the Student Research Workshop:</h3>
 [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/postdoc_advert_2019.html), University of Edinburgh, UK<br/>
@@ -79,5 +79,5 @@ Zhongjun He, Baidu Co, China<br/>
 [Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
 
 <h3> Website &amp; Conference App Chairs:</h3>
-[Chutima Beokhaimook](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Rangsit University, Thailand<br/>
+[Chutima Beokhaimook](https://it.rsu.ac.th/th/persons/5490077), Rangsit University, Thailand<br/>
 [Witchaworn Mankhong](https://www.nectec.or.th/hccru/staff/view/77), NECTEC, NSTDA, Thailand<br/>
