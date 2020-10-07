@@ -78,6 +78,25 @@ for the conference include, but are not limited to, the following areas (in alph
     - Sentiment Analysis, Stylistic Analysis, and Argument Mining<br>
     - Speech and Multimodality<br>
     - Summarization<br>
+    - Syntax: Tagging, Chunking and Parsing<br>
+    - Theme (TBA)<br>
+<h2>Submission Information</h2>
+<p align="justify">Following the previous conferences, ACL-IJCNLP 2021 will be open for two 
+types of submissions: long and short papers. Author guidelines will be published 
+at the conference webpage. Submission is electronic, using the Softconf START 
+conference management for both long and short papers.</p>
+<h3>Long Papers</h3>
+<p align="justify">Long papers must describe substantial, original, completed and unpublished work. 
+Wherever appropriate, concrete evaluation and analysis should be included.</p>
+<p align="justify">Long papers may consist of up to eight (8) pages of content, plus unlimited 
+pages of references; final versions of long papers will be given one additional page of content 
+(up to 9 pages) so that reviewers' comments can be taken into account.</p>
+<p align="justify">Long papers will be presented orally or as posters as determined by 
+the program committee. The decisions as to which papers will be presented orally and 
+which as poster presentations will be based on the nature rather than the quality of the work. 
+There will be no distinction in the proceedings between long papers presented orally and as posters.</p>
+
+
 
 
 
