@@ -137,6 +137,17 @@ of the anonymity period if possible. Alternatively, you may consider submitting 
 the Computational Linguistics journal, which does not require anonymization and has a 
 track for "short" (i.e., conference-length) papers.<br/>
 
+<h2>Multiple Submission Policy</h2>
+<p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
+in a journal or another conference at the time of submission, and submitted papers 
+must not be submitted elsewhere during the ACL-IJCNLP 2021 review period. 
+This policy covers all refereed and archival conferences and workshops (e.g., IJCAI, SIGIR, NAACL).</p> 
+<p align="justify">In addition, we will not consider any paper that overlaps significantly 
+in content or results with papers that will be (or have been) published elsewhere. Authors 
+submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
+overlap significantly (>25%) with each other in content or results.</p>
+
+
 
 
 
