@@ -57,27 +57,27 @@ in the first full call for papers and more details will be available on the conf
 <h2>Topics</h2>
 ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics 
 for the conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
-    » Computational Social Science and Social Media<br>
-    » Dialogue and Interactive Systems<br>
-    » Discourse and Pragmatics<br>
-    » Ethics and NLP<br>
-    » Generation<br>
-    » Information Extraction<br>
-    » Information Retrieval and Text Mining<br>
-    » Interpretability and Analysis of Models for NLP<br>
-    » Language Grounding to Vision, Robotics and Beyond<br>
-    » Linguistic theories, Cognitive Modeling and Psycholinguistics<br>
-    » Machine Learning for NLP<br>
-    » Machine Translation and Multilinguality<br>
-    » NLP Applications<br>
-    » Phonology, Morphology and Word Segmentation<br>
-    » Question Answering<br>
-    » Resources and Evaluation<br>
-    » Semantics: Lexical<br>
-    » Semantics: Sentence-level Semantics, Textual Inference and Other areas<br>
-    » Sentiment Analysis, Stylistic Analysis, and Argument Mining<br>
-    » Speech and Multimodality<br>
-    » Summarization<br>
+    - Computational Social Science and Social Media<br>
+    - Dialogue and Interactive Systems<br>
+    - Discourse and Pragmatics<br>
+    - Ethics and NLP<br>
+    - Generation<br>
+    - Information Extraction<br>
+    - Information Retrieval and Text Mining<br>
+    - Interpretability and Analysis of Models for NLP<br>
+    - Language Grounding to Vision, Robotics and Beyond<br>
+    - Linguistic theories, Cognitive Modeling and Psycholinguistics<br>
+    - Machine Learning for NLP<br>
+    - Machine Translation and Multilinguality<br>
+    - NLP Applications<br>
+    - Phonology, Morphology and Word Segmentation<br>
+    - Question Answering<br>
+    - Resources and Evaluation<br>
+    - Semantics: Lexical<br>
+    - Semantics: Sentence-level Semantics, Textual Inference and Other areas<br>
+    - Sentiment Analysis, Stylistic Analysis, and Argument Mining<br>
+    - Speech and Multimodality<br>
+    - Summarization<br>
 
 
 
