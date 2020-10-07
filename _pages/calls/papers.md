@@ -95,6 +95,58 @@ pages of references; final versions of long papers will be given one additional 
 the program committee. The decisions as to which papers will be presented orally and 
 which as poster presentations will be based on the nature rather than the quality of the work. 
 There will be no distinction in the proceedings between long papers presented orally and as posters.</p>
+<h3>Short Papers</h3>
+<p align="justify">ACL-IJCNLP 2021 also solicits short papers. Short paper submissions 
+must describe original and unpublished work. Please note that a short paper is not a 
+shortened long paper. Instead short papers should have a point that can be made 
+in a few pages. Some kinds of short papers are:</p>
+    - A small, focused contribution <br>
+    - A negative result<br>
+    - An opinion piece<br>
+    - An interesting application nugget<br>
+<br>
+<p align="justify">Short papers may consist of up to four (4) pages of content, plus unlimited 
+pages of references. Upon acceptance, short papers will be given five (5) content pages 
+in the proceedings. Authors are encouraged to use this additional page to address reviewers' 
+comments in their final versions.</p>
+<p align="justify">Short papers will be presented orally or as posters as determined by the 
+program committee. While short papers will be distinguished from long papers in the proceedings, 
+there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
+<h2>IMPORTANT: Anonymity Period</h2>
+<p align="justify">The following rules and guidelines are meant to protect the integrity of double-blind 
+review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity 
+period, which runs from 1 month before the submission deadline (starting January 1, 2021 11:59PM 
+UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (May 5, 2021). 
+Papers that are withdrawn during this period will no longer be subject to these rules.</p>
+
+<p align="justify">- You may not make a non-anonymized version of your paper available online to the 
+general community (for example, via a preprint server) during the anonymity period. 
+By a version of a paper we understand another paper having essentially the same 
+scientific content but possibly differing in minor details (including title and structure) and/or in length.</p>
+<p align="justify">- If you have posted a non-anonymized version of your paper online before the start of the anonymity 
+period, you may submit an anonymized version to the conference. The submitted version 
+must not refer to the non-anonymized version, and you must inform the program chair(s) 
+that a non-anonymized version exists.</p>
+<p align="justify">- You may not update the non-anonymized version during the anonymity 
+period, and we ask you not to advertise it on social media or take other actions that would 
+further compromise double-blind reviewing during the anonymity period.</p>
+<p align="justify">- Note that, while you are not prohibited from making a non-anonymous 
+version available online before the start of the anonymity period, this does make double-blind 
+reviewing more difficult to maintain, and we therefore encourage you to wait until the end 
+of the anonymity period if possible. Alternatively, you may consider submitting your work to 
+the Computational Linguistics journal, which does not require anonymization and has a 
+track for “short” (i.e., conference-length) papers.</p>
+<h2>Multiple Submission Policy</h2>
+<p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
+in a journal or another conference at the time of submission, and submitted papers 
+must not be submitted elsewhere during the ACL-IJCNLP 2021 review period. 
+This policy covers all refereed and archival conferences and workshops (e.g., IJCAI, SIGIR, NAACL). </p>
+<p align="justify">In addition, we will not consider any paper that overlaps significantly in content 
+or results with papers that will be (or have been) published elsewhere. Authors submitting more 
+than one paper to ACL-IJCNLP 2021 must ensure that submissions do not overlap significantly 
+(>25%) with each other in content or results.</p>
+
+
 
 
 
