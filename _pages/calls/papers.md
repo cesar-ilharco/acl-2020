@@ -105,6 +105,19 @@ in a few pages. Some kinds of short papers are:<br/><br/>
     - An opinion piece<br/>
     - An interesting application nugget<br/>
 
+<p align="justify">Short papers may consist of up to four (4) pages of content, plus unlimited 
+pages of references. Upon acceptance, short papers will be given five (5) content pages 
+in the proceedings. Authors are encouraged to use this additional page to address reviewers' 
+comments in their final versions.</p>
+<p align="justify">Short papers will be presented orally or as posters as determined by the 
+program committee. While short papers will be distinguished from long papers in the proceedings, 
+there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
+<h2>IMPORTANT: Anonymity Period</h2>
+<p align="justify">The following rules and guidelines are meant to protect the integrity of double-blind 
+review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity 
+period, which runs from 1 month before the submission deadline (starting January 1, 2021 11:59PM 
+UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (May 5, 2021). 
+Papers that are withdrawn during this period will no longer be subject to these rules.</p>
 
 
 
