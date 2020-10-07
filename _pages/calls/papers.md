@@ -117,25 +117,13 @@ there will be no distinction in the proceedings between short papers presented o
 review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity 
 period, which runs from 1 month before the submission deadline (starting January 1, 2021 11:59PM 
 UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (May 5, 2021). 
-Papers that are withdrawn during this period will no longer be subject to these rules.</p><br/>
+Papers that are withdrawn during this period will no longer be subject to these rules.</p>
 
-- You may not make a non-anonymized version of your paper available online to the 
+    - You may not make a non-anonymized version of your paper available online to the 
 general community (for example, via a preprint server) during the anonymity period. 
 By a version of a paper we understand another paper having essentially the same 
 scientific content but possibly differing in minor details (including title and structure) and/or in length.<br/>
-- If you have posted a non-anonymized version of your paper online before the start of the anonymity 
-period, you may submit an anonymized version to the conference. The submitted version 
-must not refer to the non-anonymized version, and you must inform the program chair(s) 
-that a non-anonymized version exists.<br/>
-- You may not update the non-anonymized version during the anonymity 
-period, and we ask you not to advertise it on social media or take other actions that would 
-further compromise double-blind reviewing during the anonymity period.<br/>
-- Note that, while you are not prohibited from making a non-anonymous 
-version available online before the start of the anonymity period, this does make double-blind 
-reviewing more difficult to maintain, and we therefore encourage you to wait until the end 
-of the anonymity period if possible. Alternatively, you may consider submitting your work to 
-the Computational Linguistics journal, which does not require anonymization and has a 
-track for “short” (i.e., conference-length) papers.<br/>
+
 
 
 
