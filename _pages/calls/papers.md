@@ -17,7 +17,7 @@ The Berkeley Hotel, Bangkok, Thailand<br>
 August 1-6, 2021  <br>
 [https://2021.aclweb.org/](https://2021.aclweb.org/)<br><br>
 
-<p>The Joint Conference of the 59th Annual Meeting of the Association for Computational 
+<p align="justify">The Joint Conference of the 59th Annual Meeting of the Association for Computational 
 Linguistics and the 10th International Joint Conference on Natural Language Processing 
 (ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok, Thailand, during 
 August 1-6, 2021. We are monitoring the ongoing global pandemic and will update 
@@ -53,7 +53,7 @@ in the first full call for papers and more details will be available on the conf
         </tr>             
 </tbody>
 </table>
-Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+<h6>Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").</h6>
 
 
 
