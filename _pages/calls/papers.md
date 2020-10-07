@@ -119,7 +119,7 @@ period, which runs from 1 month before the submission deadline (starting January
 UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (May 5, 2021). 
 Papers that are withdrawn during this period will no longer be subject to these rules.</p>
 
-    - You may not make a non-anonymized version of your paper available online to the 
+You may not make a non-anonymized version of your paper available online to the 
 general community (for example, via a preprint server) during the anonymity period. 
 By a version of a paper we understand another paper having essentially the same 
 scientific content but possibly differing in minor details (including title and structure) and/or in length.<br/>
