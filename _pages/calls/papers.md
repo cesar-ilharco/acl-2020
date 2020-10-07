@@ -127,6 +127,9 @@ scientific content but possibly differing in minor details (including title and 
 period, you may submit an anonymized version to the conference. The submitted version 
 must not refer to the non-anonymized version, and you must inform the program chair(s) 
 that a non-anonymized version exists.<br/>
+- You may not update the non-nonymized version during the anonymity 
+period, and we ask you not to advertise it on social media or take other actions that would 
+further compromise double-blind reviewing during the anonymity period.<br/>
 
 
 
