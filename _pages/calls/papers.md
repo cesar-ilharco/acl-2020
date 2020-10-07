@@ -130,7 +130,12 @@ that a non-anonymized version exists.<br/>
 - You may not update the non-nonymized version during the anonymity 
 period, and we ask you not to advertise it on social media or take other actions that would 
 further compromise double-blind reviewing during the anonymity period.<br/>
-
+- Note that, while you are not prohibited from making a non-anonymous 
+version available online before the start of the anonymity period, this does make double-blind 
+reviewing more difficult to maintain, and we therefore encourage you to wait until the end 
+of the anonymity period if possible. Alternatively, you may consider submitting your work to 
+the Computational Linguistics journal, which does not require anonymization and has a 
+track for "short" (i.e., conference-length) papers.<br/>
 
 
 
