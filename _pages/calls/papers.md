@@ -123,7 +123,10 @@ Papers that are withdrawn during this period will no longer be subject to these 
 general community (for example, via a preprint server) during the anonymity period. 
 By a version of a paper we understand another paper having essentially the same 
 scientific content but possibly differing in minor details (including title and structure) and/or in length.<br/>
-
+- If you have posted a non-anonymized version of your paper online before the start of the anonymity 
+period, you may submit an anonymized version to the conference. The submitted version 
+must not refer to the non-anonymized version, and you must inform the program chair(s) 
+that a non-anonymized version exists.<br/>
 
 
 
