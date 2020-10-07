@@ -146,18 +146,17 @@ This policy covers all refereed and archival conferences and workshops (e.g., IJ
 in content or results with papers that will be (or have been) published elsewhere. Authors 
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
-
-
 <h2>CONTACT INFORMATION</h2>
-General chair:<br>
-Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br>
-<br>
-Program co-chairs:<br>
-Fei Xia, University of Washington <br>
-Wenjie Li, The Hong Kong Polytechnic University<br>
-Roberto Navigli, University of Roma La Sapienza<br>
-<br>
-Email: acl2021programchairs@googlegroups.com<br>
+General chair:<br/>
+Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
+<br/>
+Program co-chairs:<br/>
+Fei Xia, University of Washington<br/>
+Wenjie Li, The Hong Kong Polytechnic University<br/>
+Roberto Navigli, University of Roma La Sapienza<br/>
+<br/>
+Email: acl2021programchairs@googlegroups.com<br/>
+<br/>
 
 
 
