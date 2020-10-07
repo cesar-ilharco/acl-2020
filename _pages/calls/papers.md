@@ -96,14 +96,14 @@ the program committee. The decisions as to which papers will be presented orally
 which as poster presentations will be based on the nature rather than the quality of the work. 
 There will be no distinction in the proceedings between long papers presented orally and as posters.</p>
 <h3>Short Papers</h3>
-<p align="justify">ACL-IJCNLP 2021 also solicits short papers. Short paper submissions 
+ACL-IJCNLP 2021 also solicits short papers. Short paper submissions 
 must describe original and unpublished work. Please note that a short paper is not a 
 shortened long paper. Instead short papers should have a point that can be made 
-in a few pages. Some kinds of short papers are:</p>
-    - A small, focused contribution <br>
-    - A negative result<br>
-    - An opinion piece<br>
-    - An interesting application nugget<br>
+in a few pages. Some kinds of short papers are:<br/><br/>
+    - A small, focused contribution <br/>
+    - A negative result<br/>
+    - An opinion piece<br/>
+    - An interesting application nugget<br/>
 
 
 
