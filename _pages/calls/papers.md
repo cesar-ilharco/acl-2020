@@ -153,7 +153,7 @@ Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
 Program co-chairs:<br/>
 Fei Xia, University of Washington<br/>
 Wenjie Li, The Hong Kong Polytechnic University<br/>
-Roberto Navigli, University of Roma La Sapienza<br/>
+Roberto Navigli, Sapienza University of Rome<br/>
 <br/>
 Email: acl2021programchairs@googlegroups.com<br/>
 <br/>
