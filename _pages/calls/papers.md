@@ -18,7 +18,7 @@ August 1-6, 2021  <br>
 [https://2021.aclweb.org/](https://2021.aclweb.org/)<br><br>
 
 <p align="justify">The Joint Conference of the 59th Annual Meeting of the Association for Computational 
-Linguistics and the 10th International Joint Conference on Natural Language Processing 
+Linguistics and the 11th International Joint Conference on Natural Language Processing 
 (ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok, Thailand, during 
 August 1-6, 2021. We are monitoring the ongoing global pandemic and will update 
 the conference plans (e.g., moving to a virtual or hybrid format) as needed closer to the conference dates.</p>

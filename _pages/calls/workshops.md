@@ -34,7 +34,7 @@ The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of
 
 - EMNLP 2020: The Conference on Empirical Methods in Natural Language Processing 2020 will be held in Barceló Bávaro Convention Centre, Dominican Republic from November  8 through 12, 2020, with workshops to be held on November 11 and 12.
 
-- [AACL/IJCNLP 2020](http://aaclweb.org/about/index.html): The 1st Annual Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing will be held in Suzhou, China from December 4 through 7, 2020.
+- [AACL/IJCNLP 2020](http://aaclweb.org/about/index.html): The 1st Annual Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing will be held in Suzhou, China from December 4 through 7, 2020.
 
 The workshop co-chairs will work together to assign workshops to the four conferences, taking into account the location preferences and technical constraints provided by the workshop proposers.
 
