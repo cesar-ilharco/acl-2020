@@ -39,8 +39,8 @@ calls:
         # url: /calls/workshops/
        #- title: "Tutorial Proposals"
         # url: /calls/tutorials/
-       #- title: "Student Research Workshop"
-        # url: https://sites.google.com/view/acl20studentresearchworkshop/
+       - title: "Student Research Workshop"
+         url: https://sites.google.com/view/acl-ijcnlp-2021-srw/
 
 authors:
    - title: Instructions for Authors
