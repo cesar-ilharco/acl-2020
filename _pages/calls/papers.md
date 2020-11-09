@@ -9,24 +9,25 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<h2>Preliminary Call for Paper</h2>
-ACL-IJCNLP 2021 <br>
+<h2>1st CFP: ACL-IJCNLP 2021, Bangkok, Thailand</h2>
 The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on 
 Natural Language Processing<br>
 The Berkeley Hotel, Bangkok, Thailand<br>
 August 1-6, 2021  <br>
 [https://2021.aclweb.org/](https://2021.aclweb.org/)<br><br>
 
-<p align="justify">The Joint Conference of the 59th Annual Meeting of the Association for Computational 
-Linguistics and the 11th International Joint Conference on Natural Language Processing 
-(ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok, Thailand, during 
-August 1-6, 2021. We are monitoring the ongoing global pandemic and will update 
-the conference plans (e.g., moving to a virtual or hybrid format) as needed closer to the conference dates.</p>
-
-<p align="justify">ACL-IJCNLP 2021 invites the submission of long and short papers on substantial, 
-original, and unpublished research in all aspects of Computational Linguistics and Natural 
-Language Processing. This preliminary call for papers will be updated with more details 
-in the first full call for papers and more details will be available on the conference website.</p>
+<p align="justify">The Joint Conference of the 59th Annual Meeting of the Association for 
+Computational Linguistics and the 11th International Joint Conference on Natural Language 
+Processing (ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok, 
+Thailand, during August 1-6, 2021. We are monitoring the ongoing global pandemic 
+and will update the conference plans (e.g., moving to a virtual or hybrid format) as 
+needed closer to the conference dates.</p>
+<h2>CALL FOR PAPERS - MAIN CONFERENCE</h2>
+<p align="justify">ACL-IJCNLP 2021 invites the submission of long and short papers 
+on substantial, original, and unpublished research in all aspects of Computational 
+Linguistics and Natural Language Processing. As in recent years, some of the presentations 
+at the conference will be of papers accepted by the Transactions of the ACL (TACL) and 
+Computational Linguistics (CL) journals.</p>
 
 <h2>Important Dates</h2>
 <table style="width: 100%">
@@ -34,6 +35,10 @@ in the first full call for papers and more details will be available on the conf
         <tr>
             <td style="width: 70%;">Anonymity period begins: </td>
             <td style="width: 30%;">January 1, 2021</td>
+        </tr>
+        <tr>
+            <td style="width: 70%;">Abstract deadline<br/>(<i>long &amp; short papers</i>): </td>
+            <td style="width: 30%;">January 25, 2021</td>
         </tr>
         <tr>
             <td style="width: 70%;">Submission deadline<br/>(<i>long &amp; short papers</i>): </td>
@@ -54,9 +59,9 @@ in the first full call for papers and more details will be available on the conf
 </tbody>
 </table>
 <h6>Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").</h6>
-<h2>Topics</h2>
-ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics 
-for the conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
+<h2>SUBMISSIONS</h2>
+ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics for the 
+conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
     - Computational Social Science and Social Media<br>
     - Dialogue and Interactive Systems<br>
     - Discourse and Pragmatics<br>
@@ -79,7 +84,8 @@ for the conference include, but are not limited to, the following areas (in alph
     - Speech and Multimodality<br>
     - Summarization<br>
     - Syntax: Tagging, Chunking and Parsing<br>
-    - Theme (TBA)<br>
+    - Theme (explained below)<br>
+
 <h2>Submission Information</h2>
 <p align="justify">Following the previous conferences, ACL-IJCNLP 2021 will be open for two 
 types of submissions: long and short papers. Author guidelines will be published 
