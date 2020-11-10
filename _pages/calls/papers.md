@@ -62,29 +62,29 @@ Computational Linguistics (CL) journals.</p>
 <h2>SUBMISSIONS</h2>
 ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics for the 
 conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
-    - Computational Social Science and Social Media<br>
-    - Dialogue and Interactive Systems<br>
-    - Discourse and Pragmatics<br>
-    - Ethics and NLP<br>
-    - Generation<br>
-    - Information Extraction<br>
-    - Information Retrieval and Text Mining<br>
-    - Interpretability and Analysis of Models for NLP<br>
-    - Language Grounding to Vision, Robotics and Beyond<br>
-    - Linguistic theories, Cognitive Modeling and Psycholinguistics<br>
-    - Machine Learning for NLP<br>
-    - Machine Translation and Multilinguality<br>
-    - NLP Applications<br>
-    - Phonology, Morphology and Word Segmentation<br>
-    - Question Answering<br>
-    - Resources and Evaluation<br>
-    - Semantics: Lexical<br>
-    - Semantics: Sentence-level Semantics, Textual Inference and Other areas<br>
-    - Sentiment Analysis, Stylistic Analysis, and Argument Mining<br>
-    - Speech and Multimodality<br>
-    - Summarization<br>
-    - Syntax: Tagging, Chunking and Parsing<br>
-    - Theme (explained below)<br>
+- Computational Social Science and Social Media<br>
+- Dialogue and Interactive Systems<br>
+- Discourse and Pragmatics<br>
+- Ethics and NLP<br>
+- Generation<br>
+- Information Extraction<br>
+- Information Retrieval and Text Mining<br>
+- Interpretability and Analysis of Models for NLP<br>
+- Language Grounding to Vision, Robotics and Beyond<br>
+- Linguistic theories, Cognitive Modeling and Psycholinguistics<br>
+- Machine Learning for NLP<br>
+- Machine Translation and Multilinguality<br>
+- NLP Applications<br>
+- Phonology, Morphology and Word Segmentation<br>
+- Question Answering<br>
+- Resources and Evaluation<br>
+- Semantics: Lexical<br>
+- Semantics: Sentence-level Semantics, Textual Inference and Other areas<br>
+- Sentiment Analysis, Stylistic Analysis, and Argument Mining<br>
+- Speech and Multimodality<br>
+- Summarization<br>
+- Syntax: Tagging, Chunking and Parsing<br>
+- Theme (explained below)<br>
 
 <h2>ACL-IJCNLP 2021 Theme Track: NLP for Social Good (NLP4SG)</h2>
 <p align="justify">
@@ -93,7 +93,7 @@ an important topic in recent years. However, to date, this has not been a topic
 highlighted at the ACL main conference. For ACL-IJCNLP 2021, we seek to reverse 
 this by putting a spotlight on papers which discuss and reflect on the topic of NLP 
 for Social Good as well as how NLP could potentially cause or be used for social harm. 
-We invite researchers to submit position, opinion, modeling, and resource papers on the following topics:</p><br/><br/>
+We invite researchers to submit position, opinion, modeling, and resource papers on the following topics:</p>
 - Defining "NLP for Social Good" and in which ways NLP can improve people's lives in various dimensions<br/>
 - Known issues, unaddressed harms, and potential damages that NLP can cause on society (e.g., political polarization, privacy issues)<br/>
 - Discussions of how NLP research can make both positive and negative impacts and novel approaches to foster the former while mitigating the latter<br/>
@@ -133,10 +133,9 @@ so that reviewers' comments can be taken into account.</p>
 <p align="justify">Short papers will be presented orally or as posters as determined by the 
 program committee. While short papers will be distinguished from long papers in the proceedings, 
 there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
-<br>
 Review forms will be made available prior to the deadlines.
 <br>
-<h2>IMPORTANT: Anonymity Period</h2>
+<h3>IMPORTANT: Anonymity Period</h3>
 <p align="justify">Following the success of the ACL 2020 Theme track, we are happy to announce 
 that ACL-IJCNLP 2021 will have a new theme, with the goal of stimulating discussion about the role 
 of NLP in the society.</p>
@@ -163,6 +162,19 @@ reviewing more difficult to maintain, and we therefore encourage you to wait unt
 of the anonymity period if possible. Alternatively, you may consider submitting your work to 
 the Computational Linguistics journal, which does not require anonymization and has a 
 track for "short" (i.e., conference-length) papers.<br/>
+
+<h3>Instructions for Double-Blind Review</h3>
+<p align="justify">As the reviewing will be blind, papers must not include authors' names and affiliations. 
+Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." 
+must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ..." Papers that 
+do not conform to these requirements will be rejected without review.</p>
+<p align="justify">Papers should not refer, for further detail, to documents that are not available 
+to the reviewers. For example, do not omit or redact important citation information to preserve 
+anonymity. Instead, use third person or named reference to this work, as described above 
+("Smith showed" rather than "we showed").</p>
+<p align="justify">Papers may be accompanied by a resource (software and/or data) described 
+in the paper, but these resources should be anonymized as well.</p>
+
 
 <h2>Multiple Submission Policy</h2>
 <p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
