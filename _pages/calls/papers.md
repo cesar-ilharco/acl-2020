@@ -220,7 +220,7 @@ The submission site will be announced shortly. Both long and short papers must f
 Style sheets (Latex, Word) will be available soon. </p>
 <p align="justify"><b>Please do not modify these style files, or use templates designed for other 
 conferences. Submissions that do not conform to the required styles, including paper size, 
-margin width, and font size restrictions, will be rejected without review.</p>
+margin width, and font size restrictions, will be rejected without review.</b></p>
 <h2>CONTACT INFORMATION</h2>
 General chair:<br/>
 Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
