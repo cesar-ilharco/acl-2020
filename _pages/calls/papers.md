@@ -204,7 +204,8 @@ in content or results with papers that will be (or have been) published elsewher
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
 <h2>Ethics Policy</h2>
-<p align="justify">Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
+<p align="justify">Authors are required to honour the ethical code set out in the X
+[ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 The consideration of the ethical impact of our research, use of data, and potential applications of our 
 work has always been an important consideration, and as artificial intelligence is becoming more 
 mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and 
