@@ -189,7 +189,8 @@ the refereed publication should be cited in addition to or instead of the prepri
 <p align="justify">Papers (whether refereed or not) appearing less than 3 months before the 
 submission deadline are considered contemporaneous to your submission, and you are therefore 
 not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.</p>
-For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
+For more information, see the 
+[ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).<br/>
 
 <h2>Multiple Submission Policy</h2>
 <p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
@@ -204,8 +205,9 @@ in content or results with papers that will be (or have been) published elsewher
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
 <h2>Ethics Policy</h2>
-<p align="justify">Authors are required to honour the ethical code set out in the 
-[here](https://2021.aclweb.org/downloads/acl2020_theme.pdf). The consideration of the ethical impact of our research, use of data, and potential applications of our 
+Authors are required to honour the ethical code set out in the 
+[ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). 
+<p align="justify">The consideration of the ethical impact of our research, use of data, and potential applications of our 
 work has always been an important consideration, and as artificial intelligence is becoming more 
 mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and 
 ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask 
@@ -240,7 +242,12 @@ to preserve the double-blind reviewing policy.</p>
 <p align="justify">Note: The supplementary material does not count towards page 
 limit and should not be included in paper, but must be submitted separately using the 
 appropriate field on the submission website. Appendix may consist of up to four (4) pages.</p>
-
+<h2>PRESENTATION REQUIREMENT</h2>
+<p align="justify">All accepted papers must be presented at the conference to appear in the proceedings. 
+Authors of papers accepted for presentation at ACL-IJCNLP 2021 must notify the program chairs by 
+the camera-ready deadline if they wish to withdraw the paper.</p>
+<p align="justify">At least one author of each accepted paper must register for ACL-IJCNLP 2021 
+by the early registration deadline.</p>
 <h2>CONTACT INFORMATION</h2>
 General chair:<br/>
 Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
