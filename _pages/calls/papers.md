@@ -174,7 +174,22 @@ anonymity. Instead, use third person or named reference to this work, as describ
 ("Smith showed" rather than "we showed").</p>
 <p align="justify">Papers may be accompanied by a resource (software and/or data) described 
 in the paper, but these resources should be anonymized as well.</p>
-
+<h3>Authorship</h3>
+<p align="justify">The author list for submissions should include all (and only) individuals 
+who made substantial contributions to the work presented. Each author listed on a submission 
+to ACL-IJCNLP 2021 will be notified of submissions, revisions and the final decision. 
+No changes to the order or composition of authorship may be made to submissions to 
+ACL-IJCNLP 2021 after the abstract submission deadline, which is January 25, 2011.</p>
+<h3>Citation and Comparison</h3>
+<p align="justify">You are expected to cite all refereed publications relevant to your submission, 
+but you may be excused for not knowing about all unpublished work (especially work that has 
+been recently posted and/or is not widely cited).</p>
+<p align="justify">In cases where a preprint has been superseded by a refereed publication, 
+the refereed publication should be cited in addition to or instead of the preprint version.</p>
+<p align="justify">Papers (whether refereed or not) appearing less than 3 months before the 
+submission deadline are considered contemporaneous to your submission, and you are therefore 
+not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.</p>
+For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
 <h2>Multiple Submission Policy</h2>
 <p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
