@@ -29,7 +29,7 @@ Linguistics and Natural Language Processing. As in recent years, some of the pre
 at the conference will be of papers accepted by the Transactions of the ACL (TACL) and 
 Computational Linguistics (CL) journals.</p>
 
-<h2>Important Dates</h2>
+## Important Dates
 <table style="width: 100%">
     <tbody>
         <tr>
