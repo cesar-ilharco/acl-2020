@@ -204,9 +204,7 @@ in content or results with papers that will be (or have been) published elsewher
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
 <h2>Ethics Policy</h2>
-<p align="justify">Authors are required to honour the ethical code set out in the X
-[ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
-The consideration of the ethical impact of our research, use of data, and potential applications of our 
+<p align="justify">Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our 
 work has always been an important consideration, and as artificial intelligence is becoming more 
 mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and 
 ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask 
@@ -214,7 +212,15 @@ that you include in the paper an explicit discussion of these issues, which will
 in the review process. We reserve the right to reject papers on ethical grounds, where the authors 
 are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate 
 ethical concerns with their work.</p>
-
+<h2>Paper Submission and Templates</h2>
+<p align="justify">Submission is electronic, using the Softconf START conference management system. 
+The submission site will be announced shortly. Both long and short papers must follow the 
+[ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).</p>
+<p align="justify">Paper submissions must use the official ACL-IJCNLP 2021 style templates. 
+Style sheets (Latex, Word) will be available soon. </p>
+<p align="justify"><b>Please do not modify these style files, or use templates designed for other 
+conferences. Submissions that do not conform to the required styles, including paper size, 
+margin width, and font size restrictions, will be rejected without review.</p>
 <h2>CONTACT INFORMATION</h2>
 General chair:<br/>
 Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
