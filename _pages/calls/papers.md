@@ -195,11 +195,26 @@ For more information, see the [ACL Policies for Submission, Review, and Citation
 <p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
 in a journal or another conference at the time of submission, and submitted papers 
 must not be submitted elsewhere during the ACL-IJCNLP 2021 review period. 
-This policy covers all refereed and archival conferences and workshops (e.g., IJCAI, SIGIR, NAACL).</p> 
+This policy covers all refereed and archival conferences and workshops (e.g., IJCAI, SIGIR, NAACL).
+We make an exception to the above: papers can be dual-submitted to both ACL-IJCNLP 2021 
+and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our 
+notification date of May 5, 2021.</p> 
 <p align="justify">In addition, we will not consider any paper that overlaps significantly 
 in content or results with papers that will be (or have been) published elsewhere. Authors 
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
+<h2>Ethics Policy</h2>
+<p align="justify">Authors are required to honour the ethical code set out in the 
+[ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). 
+The consideration of the ethical impact of our research, use of data, and potential applications of our 
+work has always been an important consideration, and as artificial intelligence is becoming more 
+mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and 
+ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask 
+that you include in the paper an explicit discussion of these issues, which will be taken into account 
+in the review process. We reserve the right to reject papers on ethical grounds, where the authors 
+are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate 
+ethical concerns with their work.</p>
+
 <h2>CONTACT INFORMATION</h2>
 General chair:<br/>
 Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
