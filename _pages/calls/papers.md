@@ -204,7 +204,8 @@ in content or results with papers that will be (or have been) published elsewher
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
 <h2>Ethics Policy</h2>
-<p align="justify">Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our 
+<p align="justify">Authors are required to honour the ethical code set out in the 
+[here](https://2021.aclweb.org/downloads/acl2020_theme.pdf). The consideration of the ethical impact of our research, use of data, and potential applications of our 
 work has always been an important consideration, and as artificial intelligence is becoming more 
 mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and 
 ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask 
@@ -221,6 +222,25 @@ Style sheets (Latex, Word) will be available soon. </p>
 <p align="justify"><b>Please do not modify these style files, or use templates designed for other 
 conferences. Submissions that do not conform to the required styles, including paper size, 
 margin width, and font size restrictions, will be rejected without review.</b></p>
+<h2>Optional Supplementary Materials: Appendices, Software and Data</h2>
+<p align="justify">Each ACL-IJCNLP 2021 submission can be accompanied by a single 
+PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive 
+containing data. ACL-IJCNLP 2021 encourages the submission of these supplementary 
+materials to improve the reproducibility of results, and to enable authors to provide 
+additional information that does not fit in the paper. For example, preprocessing decisions, 
+model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample 
+system inputs/outputs, and other details that are necessary for the exact replication of the 
+work described in the paper can be put into the appendix. However, the paper submissions 
+need to remain fully self-contained, as these supplementary materials are completely optional, 
+and reviewers are not even asked to review or download them. If the pseudo-code or derivations
+or model specifications are an important part of the contribution, or if they are important for the 
+reviewers to assess the technical correctness of the work, they should be a part of the main 
+paper, and not appear in the appendix. Supplementary materials need to be fully anonymized 
+to preserve the double-blind reviewing policy.</p>
+<p align="justify">Note: The supplementary material does not count towards page 
+limit and should not be included in paper, but must be submitted separately using the 
+appropriate field on the submission website. Appendix may consist of up to four (4) pages.</p>
+
 <h2>CONTACT INFORMATION</h2>
 General chair:<br/>
 Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
