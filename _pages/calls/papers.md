@@ -94,7 +94,7 @@ highlighted at the ACL main conference. For ACL-IJCNLP 2021, we seek to reverse
 this by putting a spotlight on papers which discuss and reflect on the topic of NLP 
 for Social Good as well as how NLP could potentially cause or be used for social harm. 
 We invite researchers to submit position, opinion, modeling, and resource papers on the following topics:</p><br/><br/>
-- Defining “NLP for Social Good” and in which ways NLP can improve people's lives in various dimensions<br/>
+- Defining "NLP for Social Good" and in which ways NLP can improve people's lives in various dimensions<br/>
 - Known issues, unaddressed harms, and potential damages that NLP can cause on society (e.g., political polarization, privacy issues)<br/>
 - Discussions of how NLP research can make both positive and negative impacts and novel approaches to foster the former while mitigating the latter<br/>
 - Quantitative and qualitative methods to assess the social impact of NLP research<br/>
