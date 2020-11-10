@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<h2>1st CFP: ACL-IJCNLP 2021, Bangkok, Thailand</h2>
+## 1st CFP: ACL-IJCNLP 2021, Bangkok, Thailand
 The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on 
 Natural Language Processing<br>
 The Berkeley Hotel, Bangkok, Thailand<br>
@@ -22,7 +22,7 @@ Processing (ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok,
 Thailand, during August 1-6, 2021. We are monitoring the ongoing global pandemic 
 and will update the conference plans (e.g., moving to a virtual or hybrid format) as 
 needed closer to the conference dates.</p>
-<h2>CALL FOR PAPERS - MAIN CONFERENCE</h2>
+## CALL FOR PAPERS - MAIN CONFERENCE
 <p align="justify">ACL-IJCNLP 2021 invites the submission of long and short papers 
 on substantial, original, and unpublished research in all aspects of Computational 
 Linguistics and Natural Language Processing. As in recent years, some of the presentations 
@@ -59,7 +59,7 @@ Computational Linguistics (CL) journals.</p>
 </tbody>
 </table>
 <h6>Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").</h6>
-<h2>SUBMISSIONS</h2>
+## SUBMISSIONS
 ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics for the 
 conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
 - Computational Social Science and Social Media<br>
@@ -86,7 +86,7 @@ conference include, but are not limited to, the following areas (in alphabetical
 - Syntax: Tagging, Chunking and Parsing<br>
 - Theme (explained below)<br>
 
-<h2>ACL-IJCNLP 2021 Theme Track: NLP for Social Good (NLP4SG)</h2>
+## ACL-IJCNLP 2021 Theme Track: NLP for Social Good (NLP4SG)
 <p align="justify">
 The application of Artificial Intelligence to provide positive social impact has been 
 an important topic in recent years. However, to date, this has not been a topic 
@@ -107,7 +107,7 @@ setting that the system is meant to improve.<br/>
 problems and how to make meaningful changes toward that goal over the foreseeable future<br/>
 - Discussions of how heavily aligned NLP research should be with real-world topics regarding social good.<br/>
 <b>You can find details [here](https://2021.aclweb.org/downloads/acl2020_theme.pdf)</b>
-<h2>PAPER SUBMISSION INFORMATION</h2>
+## PAPER SUBMISSION INFORMATION
 ### Long Papers
 <p align="justify">Long papers must describe substantial, original, completed and unpublished work. 
 Wherever appropriate, concrete evaluation and analysis should be included.</p>
@@ -192,7 +192,7 @@ not obliged to make detailed comparisons that require additional experimentation
 For more information, see the 
 [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).<br/>
 
-<h2>Multiple Submission Policy</h2>
+## Multiple Submission Policy
 <p align="justify">ACL-IJCNLP 2021 will not consider any paper that is under review 
 in a journal or another conference at the time of submission, and submitted papers 
 must not be submitted elsewhere during the ACL-IJCNLP 2021 review period. 
@@ -204,7 +204,7 @@ notification date of May 5, 2021.</p>
 in content or results with papers that will be (or have been) published elsewhere. Authors 
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
 overlap significantly (>25%) with each other in content or results.</p>
-<h2>Ethics Policy</h2>
+## Ethics Policy
 Authors are required to honour the ethical code set out in the 
 [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). 
 <p align="justify">The consideration of the ethical impact of our research, use of data, and potential applications of our 
@@ -215,9 +215,9 @@ that you include in the paper an explicit discussion of these issues, which will
 in the review process. We reserve the right to reject papers on ethical grounds, where the authors 
 are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate 
 ethical concerns with their work.</p>
-<h2>Paper Submission and Templates</h2>
-<p align="justify">Submission is electronic, using the Softconf START conference management system. 
-The submission site will be announced shortly. Both long and short papers must follow the </p>
+## Paper Submission and Templates
+Submission is electronic, using the Softconf START conference management system. 
+The submission site will be announced shortly. Both long and short papers must follow the
 [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).
 <p align="justify">Paper submissions must use the official ACL-IJCNLP 2021 style templates. 
 Style sheets (Latex, Word) will be available soon. </p>
@@ -242,13 +242,13 @@ to preserve the double-blind reviewing policy.</p>
 <p align="justify">Note: The supplementary material does not count towards page 
 limit and should not be included in paper, but must be submitted separately using the 
 appropriate field on the submission website. Appendix may consist of up to four (4) pages.</p>
-<h2>PRESENTATION REQUIREMENT</h2>
+## PRESENTATION REQUIREMENT
 <p align="justify">All accepted papers must be presented at the conference to appear in the proceedings. 
 Authors of papers accepted for presentation at ACL-IJCNLP 2021 must notify the program chairs by 
 the camera-ready deadline if they wish to withdraw the paper.</p>
 <p align="justify">At least one author of each accepted paper must register for ACL-IJCNLP 2021 
 by the early registration deadline.</p>
-<h2>CONTACT INFORMATION</h2>
+## CONTACT INFORMATION
 General chair:<br/>
 Chengqing Zong, Institute of Automation, Chinese Academy of Sciences<br/>
 <br/>
