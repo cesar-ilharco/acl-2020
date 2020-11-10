@@ -118,7 +118,7 @@ pages of references. Final versions of long papers will be given one additional 
 program committee. The decisions as to which papers will be presented orally and which 
 as poster presentations will be based on the nature rather than the quality of the work. 
 There will be no distinction in the proceedings between long papers presented orally and as posters.</p>
-<h3>Short Papers</h3>
+### Short Papers
 Short paper submissions must describe original and unpublished work. Please note that a short 
 paper is not a shortened long paper. Instead short papers should have a point that can be made 
 in a few pages. Some kinds of short papers are:<br/><br/>
@@ -135,7 +135,7 @@ program committee. While short papers will be distinguished from long papers in 
 there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
 Review forms will be made available prior to the deadlines.
 <br>
-<h3>IMPORTANT: Anonymity Period</h3>
+### IMPORTANT: Anonymity Period
 <p align="justify">Following the success of the ACL 2020 Theme track, we are happy to announce 
 that ACL-IJCNLP 2021 will have a new theme, with the goal of stimulating discussion about the role 
 of NLP in the society.</p>
@@ -163,7 +163,7 @@ of the anonymity period if possible. Alternatively, you may consider submitting 
 the Computational Linguistics journal, which does not require anonymization and has a 
 track for "short" (i.e., conference-length) papers.<br/>
 
-<h3>Instructions for Double-Blind Review</h3>
+### Instructions for Double-Blind Review
 <p align="justify">As the reviewing will be blind, papers must not include authors' names and affiliations. 
 Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." 
 must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ..." Papers that 
@@ -174,13 +174,13 @@ anonymity. Instead, use third person or named reference to this work, as describ
 ("Smith showed" rather than "we showed").</p>
 <p align="justify">Papers may be accompanied by a resource (software and/or data) described 
 in the paper, but these resources should be anonymized as well.</p>
-<h3>Authorship</h3>
+### Authorship
 <p align="justify">The author list for submissions should include all (and only) individuals 
 who made substantial contributions to the work presented. Each author listed on a submission 
 to ACL-IJCNLP 2021 will be notified of submissions, revisions and the final decision. 
 No changes to the order or composition of authorship may be made to submissions to 
 ACL-IJCNLP 2021 after the abstract submission deadline, which is January 25, 2011.</p>
-<h3>Citation and Comparison</h3>
+### Citation and Comparison
 <p align="justify">You are expected to cite all refereed publications relevant to your submission, 
 but you may be excused for not knowing about all unpublished work (especially work that has 
 been recently posted and/or is not widely cited).</p>
