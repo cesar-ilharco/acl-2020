@@ -217,8 +217,8 @@ are judged to have operated counter to the code of ethics, or have inadequately 
 ethical concerns with their work.</p>
 <h2>Paper Submission and Templates</h2>
 <p align="justify">Submission is electronic, using the Softconf START conference management system. 
-The submission site will be announced shortly. Both long and short papers must follow the 
-[ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).</p>
+The submission site will be announced shortly. Both long and short papers must follow the </p>
+[ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).
 <p align="justify">Paper submissions must use the official ACL-IJCNLP 2021 style templates. 
 Style sheets (Latex, Word) will be available soon. </p>
 <p align="justify"><b>Please do not modify these style files, or use templates designed for other 
