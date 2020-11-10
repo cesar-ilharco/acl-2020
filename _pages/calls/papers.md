@@ -108,7 +108,8 @@ problems and how to make meaningful changes toward that goal over the foreseeabl
 - Discussions of how heavily aligned NLP research should be with real-world topics regarding social good.<br/>
 <b>You can find details [here](https://2021.aclweb.org/downloads/acl2020_theme.pdf)</b>
 
-<h2>PAPER SUBMISSION INFORMATION</h2>
+## PAPER SUBMISSION INFORMATION
+
 ### Long Papers
 <p align="justify">Long papers must describe substantial, original, completed and unpublished work. 
 Wherever appropriate, concrete evaluation and analysis should be included.</p>
