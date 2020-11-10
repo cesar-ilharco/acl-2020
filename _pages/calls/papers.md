@@ -107,7 +107,8 @@ setting that the system is meant to improve.<br/>
 problems and how to make meaningful changes toward that goal over the foreseeable future<br/>
 - Discussions of how heavily aligned NLP research should be with real-world topics regarding social good.<br/>
 <b>You can find details [here](https://2021.aclweb.org/downloads/acl2020_theme.pdf)</b>
-## PAPER SUBMISSION INFORMATION
+
+<h2>PAPER SUBMISSION INFORMATION</h2>
 ### Long Papers
 <p align="justify">Long papers must describe substantial, original, completed and unpublished work. 
 Wherever appropriate, concrete evaluation and analysis should be included.</p>
@@ -224,7 +225,7 @@ Style sheets (Latex, Word) will be available soon. </p>
 <p align="justify"><b>Please do not modify these style files, or use templates designed for other 
 conferences. Submissions that do not conform to the required styles, including paper size, 
 margin width, and font size restrictions, will be rejected without review.</b></p>
-<h2>Optional Supplementary Materials: Appendices, Software and Data</h2>
+## Optional Supplementary Materials: Appendices, Software and Data
 <p align="justify">Each ACL-IJCNLP 2021 submission can be accompanied by a single 
 PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive 
 containing data. ACL-IJCNLP 2021 encourages the submission of these supplementary 
