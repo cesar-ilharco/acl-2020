@@ -86,39 +86,60 @@ conference include, but are not limited to, the following areas (in alphabetical
     - Syntax: Tagging, Chunking and Parsing<br>
     - Theme (explained below)<br>
 
-<h2>Submission Information</h2>
-<p align="justify">Following the previous conferences, ACL-IJCNLP 2021 will be open for two 
-types of submissions: long and short papers. Author guidelines will be published 
-at the conference webpage. Submission is electronic, using the Softconf START 
-conference management for both long and short papers.</p>
+<h2>ACL-IJCNLP 2021 Theme Track: NLP for Social Good (NLP4SG)</h2>
+<p align="justify">
+The application of Artificial Intelligence to provide positive social impact has been 
+an important topic in recent years. However, to date, this has not been a topic 
+highlighted at the ACL main conference. For ACL-IJCNLP 2021, we seek to reverse 
+this by putting a spotlight on papers which discuss and reflect on the topic of NLP 
+for Social Good as well as how NLP could potentially cause or be used for social harm. 
+We invite researchers to submit position, opinion, modeling, and resource papers on the following topics:</p><br/><br/>
+- Defining “NLP for Social Good” and in which ways NLP can improve people's lives in various dimensions<br/>
+- Known issues, unaddressed harms, and potential damages that NLP can cause on society (e.g., political polarization, privacy issues)<br/>
+- Discussions of how NLP research can make both positive and negative impacts and novel approaches to foster the former while mitigating the latter<br/>
+- Quantitative and qualitative methods to assess the social impact of NLP research<br/>
+- Ways in which NLP practitioners can partner with practitioners from other fields to develop socially impactful research and applications<br/>
+- Applications of NLP for addressing socially relevant problems such as health, education, and other areas covered by (and not limited to) the 
+UN Sustainable Development Goals. Please note that the paper should provide evidence of the 
+methodology applied to a real-world setting. At the least, one should simulate the real-world 
+setting that the system is meant to improve.<br/>
+- Reflecting on the NLP community's current progress for solving real-world, socially impactful 
+problems and how to make meaningful changes toward that goal over the foreseeable future<br/>
+- Discussions of how heavily aligned NLP research should be with real-world topics regarding social good.<br/>
+<b>You can find details [here](https://2021.aclweb.org/downloads/acl2020_theme.pdf)</b>
+<h2>PAPER SUBMISSION INFORMATION</h2>
 <h3>Long Papers</h3>
 <p align="justify">Long papers must describe substantial, original, completed and unpublished work. 
 Wherever appropriate, concrete evaluation and analysis should be included.</p>
 <p align="justify">Long papers may consist of up to eight (8) pages of content, plus unlimited 
-pages of references; final versions of long papers will be given one additional page of content 
+pages of references. Final versions of long papers will be given one additional page of content 
 (up to 9 pages) so that reviewers' comments can be taken into account.</p>
-<p align="justify">Long papers will be presented orally or as posters as determined by 
-the program committee. The decisions as to which papers will be presented orally and 
-which as poster presentations will be based on the nature rather than the quality of the work. 
+<p align="justify">Long papers will be presented orally or as posters as determined by the 
+program committee. The decisions as to which papers will be presented orally and which 
+as poster presentations will be based on the nature rather than the quality of the work. 
 There will be no distinction in the proceedings between long papers presented orally and as posters.</p>
 <h3>Short Papers</h3>
-ACL-IJCNLP 2021 also solicits short papers. Short paper submissions 
-must describe original and unpublished work. Please note that a short paper is not a 
-shortened long paper. Instead short papers should have a point that can be made 
+Short paper submissions must describe original and unpublished work. Please note that a short 
+paper is not a shortened long paper. Instead short papers should have a point that can be made 
 in a few pages. Some kinds of short papers are:<br/><br/>
     - A small, focused contribution <br/>
     - A negative result<br/>
     - An opinion piece<br/>
     - An interesting application nugget<br/>
 
-<p align="justify">Short papers may consist of up to four (4) pages of content, plus unlimited 
-pages of references. Upon acceptance, short papers will be given five (5) content pages 
-in the proceedings. Authors are encouraged to use this additional page to address reviewers' 
-comments in their final versions.</p>
+<p align="justify">Short papers may consist of up to four (4) pages of content, plus unlimited pages 
+of references. Final versions of short papers will be given one additional page of content (up to 5 pages) 
+so that reviewers' comments can be taken into account.</p>
 <p align="justify">Short papers will be presented orally or as posters as determined by the 
 program committee. While short papers will be distinguished from long papers in the proceedings, 
 there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
+<br>
+Review forms will be made available prior to the deadlines.
+<br>
 <h2>IMPORTANT: Anonymity Period</h2>
+<p align="justify">Following the success of the ACL 2020 Theme track, we are happy to announce 
+that ACL-IJCNLP 2021 will have a new theme, with the goal of stimulating discussion about the role 
+of NLP in the society.</p>
 <p align="justify">The following rules and guidelines are meant to protect the integrity of double-blind 
 review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity 
 period, which runs from 1 month before the submission deadline (starting January 1, 2021 11:59PM 
