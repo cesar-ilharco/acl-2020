@@ -87,6 +87,9 @@ conference include, but are not limited to, the following areas (in alphabetical
 - Theme (explained below)<br>
 
 ## ACL-IJCNLP 2021 Theme Track: NLP for Social Good (NLP4SG)
+<p align="justify">Following the success of the ACL 2020 Theme track, we are happy to announce 
+that ACL-IJCNLP 2021 will have a new theme, with the goal of stimulating discussion about the role 
+of NLP in the society.</p>
 <p align="justify">
 The application of Artificial Intelligence to provide positive social impact has been 
 an important topic in recent years. However, to date, this has not been a topic 
@@ -138,9 +141,6 @@ there will be no distinction in the proceedings between short papers presented o
 Review forms will be made available prior to the deadlines.
 <br>
 ### IMPORTANT: Anonymity Period
-<p align="justify">Following the success of the ACL 2020 Theme track, we are happy to announce 
-that ACL-IJCNLP 2021 will have a new theme, with the goal of stimulating discussion about the role 
-of NLP in the society.</p>
 <p align="justify">The following rules and guidelines are meant to protect the integrity of double-blind 
 review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity 
 period, which runs from 1 month before the submission deadline (starting January 1, 2021 11:59PM 
