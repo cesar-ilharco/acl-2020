@@ -68,7 +68,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 <h3>Remote Presentation Chairs:</h3>
 [Nattapol Kritsuthikul](https://www.nectec.or.th/hccru/staff/view/65), NECTEC, NSTDA, Thailand<br/>
-Zhongjun He, Baidu Co, China<br/>
+[Zhongjun He](https://zhongjunhe.github.io), Baidu Co, China<br/>
 [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/), Microsoft Research, Montreal, Canada<br/>
 
 <h3>Sustainability Chairs:</h3>
