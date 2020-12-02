@@ -16,6 +16,9 @@ main:
   - title: "Organizations"
     url: /organization
 
+  - title: "Blog"
+    url: /blog
+
   - title: "Venue"
     url: /venue
 
