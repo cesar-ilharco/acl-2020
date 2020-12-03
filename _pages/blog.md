@@ -9,7 +9,11 @@ share: true
 comments: false
 ---
 
-Based on the positive reception of the blogs for the ACL 2020  conferences, the ACL 2021 website will also include a blog that will feature posts from conference chairs &amp; invited guests. Links to all posts will be listed below in chronological order. Each post will include a comment area for readers to share their thoughts. 
+Since Based on the positive reception of the blogs for 
+the ACL 2020 conferences, the ACL 2021 website will also include a blog 
+that will feature posts from conference chairs &amp; invited guests. Links to all 
+posts will be listed below in chronological order. Each post will include a comment 
+area for readers to share their thoughts. 
 
 {% for post in site.posts %}
   {% include archive-single.html %}
