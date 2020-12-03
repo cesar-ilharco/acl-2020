@@ -2,8 +2,8 @@
 
 program-chairs:
   name        : "Program Co-Chairs"
-  email       : "ACL2020ProgramChairs@gmail.com"
-  bio         : "Joyce Chai, Natalie Schluter, and Joel Tetreault"
+  email       : "ACL2021ProgramChairs@gmail.com"
+  bio         : "Fei Xia, Wenjie Li, and Roberto Navigli"
   avatar      : "assets/images/logos/acl-logo.png"
 
 remote-presentation-chairs:
