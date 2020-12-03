@@ -42,15 +42,15 @@ The second one ([link](https://i.imgur.com/wRnOMHa.png)) describes someone who i
 ### Semantic Scholar ID
 
 Find your semantic scholar webpage (search your name at [http://semanticscholar.org](http://semanticscholar.org)) and place the URL in this text box.
-<li> If you have a semantic scholar page, but it’s mixed with someone else's papers, that's fine. 
+- If you have a semantic scholar page, but it’s mixed with someone else's papers, that's fine. 
 Please list that URL. But it's a good idea in general to curate your semantic scholar so it 
 only reflects your work - do that later and update the profile url if necessary thereafter. 
-Having other papers there won’t impact the processes in ACL2021.</li>
-<li> If you have never published before, you will not have a semantic scholar page, and thus list n/a in the text box.</li>
-<li> If you have published before but semantic scholar does not have a page for you 
+Having other papers there won’t impact the processes in ACL2021.
+- If you have never published before, you will not have a semantic scholar page, and thus list n/a in the text box.
+- If you have published before but semantic scholar does not have a page for you 
 (it happens sometimes), you have to create a page. Updates to semantic scholar can take 
 several days so, in the meantime, please list n/a. Once the semantic scholar page is available, 
-update the Global Profile with the URL.</li>
+update the Global Profile with the URL.
 
 ### COI Text Box
 
