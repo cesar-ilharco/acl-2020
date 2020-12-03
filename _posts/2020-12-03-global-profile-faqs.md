@@ -10,18 +10,21 @@ categories:
     blog
 ---
 
-Hi all, congratulations on making it through the ACL deadline!  As you know, we’re using a collection of new methods (Global Profile and an Author/Reviewer Form) to improve conflict of interest detection as well as better match reviewers with papers.  A few common questions appeared in the last week on how best to fill out the Global Profile and we thought we should same of our answers here.  
-
-Please, if you have a moment, read over the blog and update your Global Profile as necessary.  It will take less than 5 minutes and will not only help make this conference a success but future NLP conferences as well.
+Following ACL 2020, we will use Global Profile and an Author/Reviewer Form for conflict of interest (COI) 
+detection as well as better match reviewers with papers. This document shows how to update your global 
+profile at softconf. It is modified from an ACL 2020 blog post on the same topic.
 
 ### Getting to your Global Profile
 
 As a reminder, you can access your Global Profile by going here first:  
 
-[https://www.softconf.com/acl2020/papers/](https://www.softconf.com/acl2020/papers/)
+[https://www.softconf.com/acl2021/super/scmd.cgi?ucmd=updateProfile](https://www.softconf.com/acl2021/super/scmd.cgi?ucmd=updateProfile)
 
-Then, log into your START account, go to “User” -> “Account information”-> “Update Profile”. At the bottom, click on “Please click here to update your global user information”. Please provide all the information requested on the form.
+If that link does not work, you can go to:
 
+[https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/)
+
+Once you log into your START account, click "Go to the Global Profile", then choose "Update Profile". 
 
 ### Global Profile Samples
 
