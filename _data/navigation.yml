@@ -38,8 +38,8 @@ calls:
          url: /calls/papers/
        #- title: "System Demonstrations"
         # url: /calls/demos/
-       #- title: "Workshop Proposals"
-        # url: /calls/workshops/
+       - title: "Workshop"
+         url: /calls/workshops/
        #- title: "Tutorial Proposals"
         # url: /calls/tutorials/
        - title: "Student Research Workshop"
