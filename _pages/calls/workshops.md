@@ -12,16 +12,14 @@ toc_icon: "cog"
 Workshops:<br/>
 <br/>
 - *SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics (2 days) <br/>
-Ivan Vulic and Vivi Nastase<br/>
+<i>Ivan Vulic and Vivi Nastase</i><br/>
 - SemEval-2021, 15th International Workshop on Semantic Evaluations (2 days) <br/>
 Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu<br/>
 - International Conference on Spoken Language Translation (IWSLT) (2 days) <br/>
 Marcello Federico, Alexander Waibel, Satoshi Nakamura, Hermann Ney, Jan Niehues, 
 Sebastian Stüker and Marco Turchi<br/>
-<br/>
 - Benchmarking: Past, Present and Future<br/>
 Kenneth Church, Mark Liberman and Valia Kordoni<br/>
-<br/>
 - Workshop on Online Abuse and Harms<br/>
 Aida Mostafazadeh Davani, Douwe Kiela, Lambert Mathias, Vinodkumar Prabhakaran, 
 Bertie Vidgen and Zeerak Waseem<br/>
