@@ -66,6 +66,11 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), Heidelberg University, Germany<br/>
 [Avirup Sil](http://ibm.biz/avirupsil), IBM, USA<br/>
 
+<h3>Ethic Advisory Committee (EAC)</h3>
+[Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
+[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/), National University of Singapore, Singapore<br/> 
+[Xanda Schofield](https://www.cs.hmc.edu/~xanda/#/), Harvey Mudd College, USA<br/>
+
 <h3>Remote Presentation Chairs:</h3>
 [Nattapol Kritsuthikul](https://www.nectec.or.th/hccru/staff/view/65), NECTEC, NSTDA, Thailand<br/>
 [Zhongjun He](https://zhongjunhe.github.io), Baidu Co, China<br/>
