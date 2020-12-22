@@ -23,7 +23,7 @@ Sebastian Stüker and Marco Turchi</i><br/>
 - Workshop on Online Abuse and Harms<br/>
 <i>Aida Mostafazadeh Davani, Douwe Kiela, Lambert Mathias, Vinodkumar Prabhakaran, 
 Bertie Vidgen and Zeerak Waseem</i><br/>
-- 2nd International Workshop on Computational Approaches to Historical Language Change (LChange'21)<br/>
+- [2nd International Workshop on Computational Approaches to Historical Language Change (LChange'21)](https://languagechange.org/events/2021-acl-lchange/)<br/>
 <i>Nina Tahmasebi, Adam Jatowt, Yang Xu, Simon Hengchen and Syrielle Montariol</i><br/>
 - Third Workshop on Gender Bias for Natural Language Processing<br/>
 <i>Marta R. Costa-jussà, Kellie Webster and Christian Hardmeier</i><br/>
@@ -35,7 +35,7 @@ Computational Research in Phonetics, Phonology, and Morphology<br/>
 Kunchukuttan, Shantipriya Parida, Ondrej Bojar, Chenhui Chu, Hideki Nakayama, 
 Mahmoud Al-Ayyoub, Win Pa Pa, Akiko Eriguchi, Yusuke Oda, Hiroshi Manabe, 
 Katsuhito Sudoh, Sadao Kurohashi and Pushpak Bhattacharyya</i><br/>
-- Workshop on Natural Language Processing for Programming<br/>
+- [Workshop on Natural Language Processing for Programming](https://nlp4prog.github.io/2021/)<br/>
 <i>Royi Lachmy, Ziyu Yao, Greg Durrett, Milos Gligoric, Junyi Jessy Li, Raymond Mooney, 
 Graham Neubig, Yu Su, Huan Sun and Reut Tsarfaty</i><br/>
 - The 4th Workshop on e-Commerce and NLP (ECNLP 4)<br/>
@@ -46,9 +46,9 @@ Edwin Simpson and Lili Yu</i><br/>
 - GEM: Natural Language Generation, Evaluation, and Metrics<br/>
 <i>Sebastian Gehrmann, Antoine Bosselut, Esin Durmus, Varun Gangal, Laura Perez-Beltrachini, 
 Samira Shaikh and Wei Xu</i><br/>
-- Document-grounded Dialogue and Conversational QA<br/>
+- [Document-grounded Dialogue and Conversational QA](https://doc2dial.github.io/workshop2021/)<br/>
 <i>Song Feng, He He, Siva Reddy, Malihe Alikhani, Mohit Iyyer, Yangfeng Ji and Zhou Yu</i><br/>
-- Workshop on NLP for Positive Impact<br/>
+- [Workshop on NLP for Positive Impact](https://sites.google.com/view/nlp4positiveimpact2021)<br/>
 <i>Anjalie Field, Shrimai Prabhumoye, Maarten Sap, Zhijing Jin, Jieyu Zhao and Chris Brockett</i><br/>
 - 17th Workshop on Multiword Expressions (MWE 2021)<br/>
 <i>Paul Cook, Jelena Mitrovic, Carla Parra Escartín, Ashwini Vaidya, Petya Osenova, 
@@ -56,7 +56,7 @@ Shiva Taslimipoor and Carlos Ramisch</i><br/>
 - 6th Workshop on Representation Learning for NLP (RepL4NLP-2021)<br/>
 <i>Vered Shwartz, Naomi Saphra, Iacer Calixto, Ivan Vulic, Anna Rogers, Trapit Bansal, 
 Oana-Maria Camburu and Nora Kassner</i><br/>
-- Meta Learning and Its Applications to Natural Language Processing<br/>
+- [Meta Learning and Its Applications to Natural Language Processing](https://meta-nlp-2021.github.io/ )<br/>
 <i>Hung-yi Lee, Mitra Mohtarami, Shang-Wen Li, Di Jin, Mandy Korpusik, Annie Dong, 
 Ngoc Thang Vu and Dilek Hakkani-Tur</i><br/>
 - [5th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/SPNLP21)<br/>
