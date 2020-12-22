@@ -59,7 +59,7 @@ Oana-Maria Camburu and Nora Kassner</i><br/>
 - Meta Learning and Its Applications to Natural Language Processing<br/>
 <i>Hung-yi Lee, Mitra Mohtarami, Shang-Wen Li, Di Jin, Mandy Korpusik, Annie Dong, 
 Ngoc Thang Vu and Dilek Hakkani-Tur</i><br/>
-- 5th Workshop on Structured Prediction for NLP<br/>
+- [5th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/SPNLP21)<br/>
 <i>Zornitsa Kozareva, Sujith Ravi, Andreas Vlachos, Priyanka Agrawal and André F. T. Martins</i><br/>
 - Understanding Implicit and Underspecified Language<br/>
 <i>Michael Roth, Reut Tsarfaty and Yoav Goldberg</i><br/>
