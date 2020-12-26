@@ -11,14 +11,14 @@ toc_icon: "cog"
 
 Workshops:<br/>
 <br/>
-- *SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics (2 days) <br/>
+- [*SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2021/home) (2 days) <br/>
 <i>Ivan Vulic and Vivi Nastase</i><br/>
-- SemEval-2021, 15th International Workshop on Semantic Evaluations (2 days) <br/>
+- [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://www.softconf.com/coling2020/SemEval/login/) (2 days) <br/>
 <i>Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu</i><br/>
 - International Conference on Spoken Language Translation (IWSLT) (2 days) <br/>
 <i>Marcello Federico, Alexander Waibel, Satoshi Nakamura, Hermann Ney, Jan Niehues, 
 Sebastian Stüker and Marco Turchi</i><br/>
-- Benchmarking: Past, Present and Future<br/>
+- [Benchmarking: Past, Present and Future](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md)<br/>
 <i>Kenneth Church, Mark Liberman and Valia Kordoni</i><br/>
 - Workshop on Online Abuse and Harms<br/>
 <i>Aida Mostafazadeh Davani, Douwe Kiela, Lambert Mathias, Vinodkumar Prabhakaran, 
@@ -61,11 +61,11 @@ Oana-Maria Camburu and Nora Kassner</i><br/>
 Ngoc Thang Vu and Dilek Hakkani-Tur</i><br/>
 - [5th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/SPNLP21)<br/>
 <i>Zornitsa Kozareva, Sujith Ravi, Andreas Vlachos, Priyanka Agrawal and André F. T. Martins</i><br/>
-- Understanding Implicit and Underspecified Language<br/>
+- [Understanding Implicit and Underspecified Language](https://unimplicit.github.io/)<br/>
 <i>Michael Roth, Reut Tsarfaty and Yoav Goldberg</i><br/>
 - SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
 Communication for Robotics<br/>
-- Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)<br/>
+- [Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)](https://emw.ku.edu.tr/case-2021/)<br/>
 <i>Ali Hürriyetoglu, Hristo Tanev, Vanni Zavarella, Deniz Yuret, Erdem Yörük, Aline Villavicencio, 
 Jakub Piskorski and Gautam Kishore Shahi</i><br/>
 - IWPT 2021: The 17th International Conference on Parsing Technologies<br/>
