@@ -229,7 +229,7 @@ The reproducibility checklist is based on previous versions in [Dodge et al, 201
 Submission is electronic, using the Softconf START conference management system. The submission site will be opened on January 8th, 2021. Both long and short papers must follow the
 [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).
 <br><br>
-Paper submissions must use the official ACL-IJCNLP 2021 style templates, which are available as an Overleaf template and also downloaded directly (Latex and Word). Please follow the paper formatting guidelines general to *ACL conferences available here. The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).<br>
+Paper submissions must use the official ACL-IJCNLP 2021 style templates, which are available as an [Overleaf template](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb) and also downloaded directly ([Latex and Word](https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip)). Please follow the paper formatting guidelines general to *ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).<br>
 <p align="justify"><b>Please do not modify these style files, or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Submissions which include appendices in the main papers will be rejected without review. </b></p>
 <br>
 Review forms will be made available prior to the deadlines. 
