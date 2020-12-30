@@ -113,7 +113,7 @@ We invite researchers to submit position, opinion, modeling, and resource papers
 - Discussions of how NLP research can make both positive and negative impacts and novel approaches to foster the former while mitigating the latter<br/>
 - Quantitative and qualitative methods to assess the social impact of NLP research<br/>
 - Ways in which NLP practitioners can partner with practitioners from other fields to develop socially impactful research and applications<br/>
-- Applications of NLP for addressing socially relevant problems such as health, education, and other areas covered by (and not limited to) the UN Sustainable Development Goals. Please note that the paper should provide evidence of the methodology applied to a real-world setting. At the least, one should simulate the real-world setting that the system is meant to improve.<br/>
+- Applications of NLP for addressing socially relevant problems such as health, education, and other areas covered by (and not limited to) the [UN Sustainable Development Goals](https://sdgs.un.org/goals). Please note that the paper should provide evidence of the methodology applied to a real-world setting. At the least, one should simulate the real-world setting that the system is meant to improve.<br/>
 - Reflecting on the NLP community's current progress for solving real-world, socially impactful 
 problems and how to make meaningful changes toward that goal over the foreseeable future<br/>
 - Discussions of how heavily aligned NLP research should be with real-world topics regarding social good.<br/>
