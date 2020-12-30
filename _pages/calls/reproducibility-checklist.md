@@ -19,14 +19,14 @@ For all reported experimental results:<br>
 - The number of parameters in each model
 - Corresponding validation performance for each reported test result
 - A clear definition of the specific evaluation measure or statistics used to report results.
-<br>
+<br><br>
 For all results involving multiple experiments, such as hyperparameter search:<br>
 - The exact number of training and evaluation runs
 - The bounds for each hyperparameter
 - The hyperparameter configurations for best-performing models
 - The method of choosing hyperparameter values (e.g., manual tuning, uniform sampling, etc.) and the criterion used to select among them (e.g., accuracy)
 - Summary statistics of the results (e.g., mean, variance, error bars, etc.)
-<br>
+<br><br>
 For all datasets used:<br>
 - Relevant statistics such as number of examples and label distributions
 - Details of train/validation/test splits
