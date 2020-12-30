@@ -146,7 +146,6 @@ so that reviewers' comments can be taken into account.</p>
 <p align="justify">Short papers will be presented orally or as posters as determined by the 
 program committee. While short papers will be distinguished from long papers in the proceedings, 
 there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
-<br>
 ### Theme Papers
 Submission requirements for theme papers are the same as long papers. <br>
 <br>
@@ -209,9 +208,7 @@ For more information, see the
 in a journal or another conference at the time of submission, and submitted papers 
 must not be submitted elsewhere during the ACL-IJCNLP 2021 review period. 
 This policy covers all refereed and archival conferences and workshops (e.g., IJCAI, SIGIR, NAACL).
-We make an exception to the above: papers can be dual-submitted to both ACL-IJCNLP 2021 
-and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our 
-notification date of May 5, 2021.</p> 
+The only exception is that a paper can be dual-submitted to the ACL-IJCNLP 2021 main conference and an ACL-IJCNLP 2021 workshop. </p> 
 <p align="justify">In addition, we will not consider any paper that overlaps significantly 
 in content or results with papers that will be (or have been) published elsewhere. Authors 
 submitting more than one paper to ACL-IJCNLP 2021 must ensure that submissions do not 
@@ -219,14 +216,15 @@ overlap significantly (>25%) with each other in content or results.</p>
 ## Ethics Policy
 Authors are required to honour the ethical code set out in the 
 [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). 
-<p align="justify">The consideration of the ethical impact of our research, use of data, and potential applications of our 
-work has always been an important consideration, and as artificial intelligence is becoming more 
-mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and 
-ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask 
-that you include in the paper an explicit discussion of these issues, which will be taken into account 
-in the review process. We reserve the right to reject papers on ethical grounds, where the authors 
-are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate 
-ethical concerns with their work.</p>
+<p align="justify">The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ACL-IJCNLP 2021 review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by the Ethic Advisory Committee (EAC).</p>
+<p align="justify">Read the FAQ for ethical discussion standards adopted by the conference and the questions in the ethics section of the review form. If any of these questions apply to your work or you anticipate other ethical concerns, please make sure to include an ethical statement in your paper that addresses those questions. Authors will be allowed extra space after the 8th page (4th for short papers) for a broader impact statement or other discussion of ethics. Note that though the ethical consideration paragraph is not mandatory, authors of papers working with sensitive data or on sensitive tasks that do not sufficiently discuss these issues may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed.</p>
+
+## Reproducibility Criteria
+
+<p align="justify">Similar to NAACL 2021, we will provide a reproducibility checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. There will be an updated version later. We are working on it. The author instruction on reproducibility criteria and checklist will be available soon at [https://2021.aclweb.org/blog/](https://2021.aclweb.org/blog/).</p>
+
+<p align="justify">The reproducibility checklist is based on previous versions in Dodge et al, 2019 and Joelle Pineau's reproducibility checklist.</p>
+
 ## Paper Submission and Templates
 Submission is electronic, using the Softconf START conference management system. 
 The submission site will be announced shortly. Both long and short papers must follow the
