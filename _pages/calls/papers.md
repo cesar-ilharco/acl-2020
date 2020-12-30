@@ -234,28 +234,13 @@ Paper submissions must use the official ACL-IJCNLP 2021 style templates, which a
 <br>
 Review forms will be made available prior to the deadlines. 
 <br><br>
-Optional Supplementary Materials: Appendices, Software and Data
-<br>
+## Optional Supplementary Materials: Appendices, Software and Data
 <p align="justify">Each ACL-IJCNLP 2021 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL-IJCNLP 2021 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.</p>
 
-## Optional Supplementary Materials: Appendices, Software and Data
-<p align="justify">Each ACL-IJCNLP 2021 submission can be accompanied by a single 
-PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive 
-containing data. ACL-IJCNLP 2021 encourages the submission of these supplementary 
-materials to improve the reproducibility of results, and to enable authors to provide 
-additional information that does not fit in the paper. For example, preprocessing decisions, 
-model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample 
-system inputs/outputs, and other details that are necessary for the exact replication of the 
-work described in the paper can be put into the appendix. However, the paper submissions 
-need to remain fully self-contained, as these supplementary materials are completely optional, 
-and reviewers are not even asked to review or download them. If the pseudo-code or derivations
-or model specifications are an important part of the contribution, or if they are important for the 
-reviewers to assess the technical correctness of the work, they should be a part of the main 
-paper, and not appear in the appendix. Supplementary materials need to be fully anonymized 
-to preserve the double-blind reviewing policy.</p>
 <p align="justify">Note: The supplementary material does not count towards page 
 limit and should not be included in paper, but must be submitted separately using the 
 appropriate field on the submission website. Appendix may consist of up to four (4) pages.</p>
+
 ## PRESENTATION REQUIREMENT
 <p align="justify">All accepted papers must be presented at the conference to appear in the proceedings. 
 Authors of papers accepted for presentation at ACL-IJCNLP 2021 must notify the program chairs by 
