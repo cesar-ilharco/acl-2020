@@ -67,6 +67,9 @@ Computational Linguistics (CL) journals.</p>
 </tbody>
 </table>
 <h6>Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").</h6>
+
+<p align="justify">Mandatory abstract submission: The paper title, author names, contact details, and a brief abstract must be submitted electronically through the ACL-IJCNLP 2021 paper submission site by the abstract submission deadline. It will be possible to make minor edits to the title and abstract until the full paper submission deadline but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration. Notice that if you miss the abstract submission deadline, then you cannot submit the full paper.</p>
+
 ## SUBMISSIONS
 ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics for the 
 conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
