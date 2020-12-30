@@ -67,13 +67,13 @@ Computational Linguistics (CL) journals.</p>
 </tbody>
 </table>
 <h6>Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").</h6>
-
-<p align="justify">Mandatory abstract submission: The paper title, author names, contact details, and a brief abstract must be submitted electronically through the ACL-IJCNLP 2021 paper submission site by the abstract submission deadline. It will be possible to make minor edits to the title and abstract until the full paper submission deadline but you cannot change authors and subject areas. Submissions with "placeholder" abstracts will be removed without consideration. Notice that if you miss the abstract submission deadline, then you cannot submit the full paper.</p>
+<br/>
+<p align="justify"><b>Mandatory abstract submission:</b> The paper title, author names, contact details, and a brief abstract must be submitted electronically through the ACL-IJCNLP 2021 paper submission site by the abstract submission deadline. It will be possible to make minor edits to the title and abstract until the full paper submission deadline but you cannot change authors and subject areas. Submissions with "placeholder" abstracts will be removed without consideration. Notice that if you miss the abstract submission deadline, then you cannot submit the full paper.</p>
 
 ## SUBMISSIONS
 ACL-IJCNLP 2021 has the goal of a broad technical program. Relevant topics for the 
 conference include, but are not limited to, the following areas (in alphabetical order):<br/><br/>
-- Computational Social Science and Social Media<br>
+- Computational Social Science and Cultural Analytics (revised as suggested by SACs)<br>
 - Dialogue and Interactive Systems<br>
 - Discourse and Pragmatics<br>
 - Ethics and NLP<br>
@@ -95,7 +95,7 @@ conference include, but are not limited to, the following areas (in alphabetical
 - Speech and Multimodality<br>
 - Summarization<br>
 - Syntax: Tagging, Chunking and Parsing<br>
-- Theme (explained below)<br>
+- Theme<br>
 
 ## ACL-IJCNLP 2021 Theme Track: NLP for Social Good (NLP4SG)
 <p align="justify">Following the success of the ACL 2020 Theme track, we are happy to announce 
@@ -113,10 +113,7 @@ We invite researchers to submit position, opinion, modeling, and resource papers
 - Discussions of how NLP research can make both positive and negative impacts and novel approaches to foster the former while mitigating the latter<br/>
 - Quantitative and qualitative methods to assess the social impact of NLP research<br/>
 - Ways in which NLP practitioners can partner with practitioners from other fields to develop socially impactful research and applications<br/>
-- Applications of NLP for addressing socially relevant problems such as health, education, and other areas covered by (and not limited to) the 
-UN Sustainable Development Goals. Please note that the paper should provide evidence of the 
-methodology applied to a real-world setting. At the least, one should simulate the real-world 
-setting that the system is meant to improve.<br/>
+- Applications of NLP for addressing socially relevant problems such as health, education, and other areas covered by (and not limited to) the UN Sustainable Development Goals. Please note that the paper should provide evidence of the methodology applied to a real-world setting. At the least, one should simulate the real-world setting that the system is meant to improve.<br/>
 - Reflecting on the NLP community's current progress for solving real-world, socially impactful 
 problems and how to make meaningful changes toward that goal over the foreseeable future<br/>
 - Discussions of how heavily aligned NLP research should be with real-world topics regarding social good.<br/>
@@ -149,7 +146,9 @@ so that reviewers' comments can be taken into account.</p>
 <p align="justify">Short papers will be presented orally or as posters as determined by the 
 program committee. While short papers will be distinguished from long papers in the proceedings, 
 there will be no distinction in the proceedings between short papers presented orally and as posters.</p>
-Review forms will be made available prior to the deadlines.
+<br>
+### Theme Papers
+Submission requirements for theme papers are the same as long papers. <br>
 <br>
 ### IMPORTANT: Anonymity Period
 <p align="justify">The following rules and guidelines are meant to protect the integrity of double-blind 
