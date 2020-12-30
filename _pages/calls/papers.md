@@ -221,19 +221,23 @@ Authors are required to honour the ethical code set out in the
 
 ## Reproducibility Criteria
 
-<p align="justify">Similar to NAACL 2021, we will provide a reproducibility checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. There will be an updated version later. We are working on it. The author instruction on reproducibility criteria and checklist will be available soon at</p>[https://2021.aclweb.org/blog/](https://2021.aclweb.org/blog/).
+Similar to NAACL 2021, we will provide a [reproducibility checklist](https://2021.aclweb.org/calls/reproducibility-checklist/) that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. There will be an updated version later. We are working on it. The author instruction on reproducibility criteria and checklist will be available soon at [https://2021.aclweb.org/blog/](https://2021.aclweb.org/blog/).
 
 <p align="justify">The reproducibility checklist is based on previous versions in Dodge et al, 2019 and Joelle Pineau's reproducibility checklist.</p>
 
 ## Paper Submission and Templates
-Submission is electronic, using the Softconf START conference management system. 
-The submission site will be announced shortly. Both long and short papers must follow the
+Submission is electronic, using the Softconf START conference management system. The submission site will be opened on January 8th, 2021. Both long and short papers must follow the
 [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).
-<p align="justify">Paper submissions must use the official ACL-IJCNLP 2021 style templates. 
-Style sheets (Latex, Word) will be available soon. </p>
-<p align="justify"><b>Please do not modify these style files, or use templates designed for other 
-conferences. Submissions that do not conform to the required styles, including paper size, 
-margin width, and font size restrictions, will be rejected without review.</b></p>
+<br><br>
+Paper submissions must use the official ACL-IJCNLP 2021 style templates, which are available as an Overleaf template and also downloaded directly (Latex and Word). Please follow the paper formatting guidelines general to *ACL conferences available here. The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).<br>
+<p align="justify"><b>Please do not modify these style files, or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Submissions which include appendices in the main papers will be rejected without review. </b></p>
+<br>
+Review forms will be made available prior to the deadlines. 
+<br><br>
+Optional Supplementary Materials: Appendices, Software and Data
+<br>
+<p align="justify">Each ACL-IJCNLP 2021 submission can be accompanied by a single PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. ACL-IJCNLP 2021 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.</p>
+
 ## Optional Supplementary Materials: Appendices, Software and Data
 <p align="justify">Each ACL-IJCNLP 2021 submission can be accompanied by a single 
 PDF appendix, one .tgz or .zip archive containing software, and one .tgz or .zip archive 
