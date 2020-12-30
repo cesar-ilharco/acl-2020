@@ -221,7 +221,7 @@ Authors are required to honour the ethical code set out in the
 
 ## Reproducibility Criteria
 
-<p align="justify">Similar to NAACL 2021, we will provide a reproducibility checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. There will be an updated version later. We are working on it. The author instruction on reproducibility criteria and checklist will be available soon at [https://2021.aclweb.org/blog/](https://2021.aclweb.org/blog/).</p>
+<p align="justify">Similar to NAACL 2021, we will provide a reproducibility checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. There will be an updated version later. We are working on it. The author instruction on reproducibility criteria and checklist will be available soon at</p>[https://2021.aclweb.org/blog/](https://2021.aclweb.org/blog/).
 
 <p align="justify">The reproducibility checklist is based on previous versions in Dodge et al, 2019 and Joelle Pineau's reproducibility checklist.</p>
 
