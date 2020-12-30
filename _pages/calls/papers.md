@@ -222,8 +222,8 @@ Read the [FAQ for ethical discussion standards](https://2021.naacl.org/ethics/fa
 ## Reproducibility Criteria
 
 Similar to NAACL 2021, we will provide a [reproducibility checklist](https://2021.aclweb.org/calls/reproducibility-checklist/) that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. There will be an updated version later. We are working on it. The author instruction on reproducibility criteria and checklist will be available soon at [https://2021.aclweb.org/blog/](https://2021.aclweb.org/blog/).
-
-<p align="justify">The reproducibility checklist is based on previous versions in [Dodge et al, 2019](https://arxiv.org/pdf/1909.03004.pdf) and [Joelle Pineau's reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).</p>
+<br>
+The reproducibility checklist is based on previous versions in [Dodge et al, 2019](https://arxiv.org/pdf/1909.03004.pdf) and [Joelle Pineau's reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
 ## Paper Submission and Templates
 Submission is electronic, using the Softconf START conference management system. The submission site will be opened on January 8th, 2021. Both long and short papers must follow the
