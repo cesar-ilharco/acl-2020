@@ -52,3 +52,14 @@ A3: The page limit of the appendix is 4 pages.
 
 ### Q4: Should the appendix be submitted as a separate document?
 A4: Yes. It should be submitted as a separate pdf file. It should not be included in the main paper.
+
+## Abstract Submission
+
+### Q1: Why does the conference require abstracts to be submitted by January 25, 2021?
+A1: The review period of ACL-IJCNLP 2021 is a couple of weeks shorter than that of ACL 2020, mainly due to the coordination with NAACL 2021. To deal with the shortened review cycle, we require authors to submit an abstract one week before the full-paper deadline in order to prepare for the review cycle.
+
+### Q2: Do I need to submit an abstract by January 25, 2021?
+A2: Yes. If you don't submit an abstract by that date, you will not be able to submit the full paper by the February 1 deadline.
+
+### Q3: Will I be able to change author names and subject areas after the abstract deadline?
+A3:  No, you won’t be able to change author names and subject areas after the January 25 deadline because we are going to use that info to assign submissions to tracks and run conflict-of-interest checks. You can make minor changes to the title and the prose of the abstract. 
