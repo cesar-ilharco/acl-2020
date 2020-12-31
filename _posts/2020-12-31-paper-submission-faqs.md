@@ -62,4 +62,4 @@ A1: The review period of ACL-IJCNLP 2021 is a couple of weeks shorter than that 
 A2: Yes. If you don't submit an abstract by that date, you will not be able to submit the full paper by the February 1 deadline.
 
 ### Q3: Will I be able to change author names and subject areas after the abstract deadline?
-A3:  No, you won’t be able to change author names and subject areas after the January 25 deadline because we are going to use that info to assign submissions to tracks and run conflict-of-interest checks. You can make minor changes to the title and the prose of the abstract. 
+A3:  No, you won't be able to change author names and subject areas after the January 25 deadline because we are going to use that info to assign submissions to tracks and run conflict-of-interest checks. You can make minor changes to the title and the prose of the abstract. 
