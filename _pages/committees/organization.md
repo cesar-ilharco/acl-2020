@@ -1,86 +1,91 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "ACL 2020 organizing committee."
+excerpt: "ACL-IJCNLP 2021 organizing committee."
 permalink: /committees/organization
 sidebar: 
     nav: committees 
 ---
 
-<h3>General Chair</h3>
-[Dan Jurafsky](https://web.stanford.edu/~jurafsky/), Stanford University
+<h3>General Chair:</h3>
+[Chengqing Zong](http://www.nlpr.ia.ac.cn/cip/english/zong.htm), Institute of Automation, Chinese Academy of Sciences<br>
 
-<h3>Program Chairs</h3>
-[Joyce Chai](http://www.cse.msu.edu/~jchai/), University of Michigan<br/>
-[Natalie Schluter](https://natschluter.github.io/), IT University of Copenhagen, Denmark<br/>
-[Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html), Dataminr, USA <br/> <br/>
-[Senior Program Committtee](/committees/program)
+<h3>Program Committee Co-Chairs:</h3>
+[Fei Xia](https://www.pce.uw.edu/instructors/fei-xia),  University of Washington <br>
+[Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/), The Hong Kong Polytechnic University<br>
+[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), University of Roma La Sapienza<br/>
 
-<h3>Local Chairs</h3>
-[Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research<br/>
-Priscilla Rasmussen, ACL<br/>
-[Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
+<h3>Local Organization Committee Co-Chairs:</h3>
+[Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), National Electronics and Computer Technology Center, Thailand<br/>
+[Thanaruk Theeramunkong](https://aiat.or.th/thanaruk/), The Artificial Intelligence Association of Thailand and Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand
 
-<h3>Tutorial Chairs</h3>
-[Agata Savary](http://www.info.univ-tours.fr/~savary/), University of Tours, France<br/>
-[Yue Zhang](https://frcchang.github.io/), Westlake University
+<h3>Tutorial Chairs:</h3>
+[David Chiang](https://www3.nd.edu/~dchiang/), University of Notre Dame, USA<br/>
+[Min Zhang](https://zhangminsuda.github.io), Soochow University, China<br/>
 
-<h3>Workshop Chairs</h3>
-[Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning-prof-dr-milica-gasic/our-team/team/cv-gasic.html),  Heinrich Heine University Düsseldorf<br/>
-Dilek Hakkani-Tur, Amazon Alexa AI<br/>
-[Saif M. Mohammad](https://www.saifmohammad.com/), National Research Council Canada<br/>
-Ves Stoyanov, Facebook AI 
+<h3>Workshop Chairs:</h3>
+[Kentaro Inui](http://www.cl.ecei.tohoku.ac.jp/~inui/), Tohoku University, Japan<br/>
+[Michael Strube](https://www.h-its.org/people/prof-dr-michael-strube/), GmbH Heidelberg, Germany<br/>
 
-<h3>Student Research Workshop Chairs</h3>
-[Rotem Dror](https://rtmdrr.github.io/), Technion - Israel Institute of Technology<br/>
-[Jiangming Liu](http://leoncrashcode.github.io/), The University of Edinburgh<br/>
-[Shruti Rijhwani](https://shrutirij.github.io/), Carnegie Mellon University
+<h3>Student Research Workshop Chairs:</h3>
+[Amandalynne Paullada](http://www.amandalynne.pw/), University of Washington, USA<br/>
+Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
+[Jannis Vamvas](https://www.cl.uzh.ch/de/people/team/compling/vamvas.html), Universitat Zurich, Switzerland<br/>
+[Jad Kabbara](https://www.cs.mcgill.ca/~jkabba/), McGill University and the Montreal Institute for Learning Algorithms (MILA), Canada<br/>
 
-<h3>Faculty Advisors to the Student Research Workshop</h3>
-[Omri Abend](https://www.cse.huji.ac.il/~oabend/), Hebrew University of Jerusalem<br/>
-[Sujian Li](https://eecs.pku.edu.cn/info/1501/6754.htm), Peking University <br/>
-[Zhou Yu](http://zhouyu.cs.ucdavis.edu/), University of California, Davis
+<h3>Faculty Advisors to the Student Research Workshop:</h3>
+[Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/postdoc_advert_2019.html), University of Edinburgh, UK<br/>
+[Nianwen Xue](https://www.cs.brandeis.edu/~xuen/), Brandeis University, USA<br/>
+[Jing Jiang](https://sis.smu.edu.sg/master-it-business/faculty-and-staff/fulltime-faculty/jiangjing), Singapore Management University, Singapore<br/>
+[Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html), University of Macau, Macao, China<br/>
 
-<h3>Conference Handbook Chair</h3>
-[Nanyun Peng](http://vnpeng.net/), University of Southern California
+<h3>Demo Chairs:</h3>
+[Jong C. Park](http://nlpcl.kaist.ac.kr/prof/), Korea Advanced Institute of Science and Technology, Korea<br/>
+[Heng Ji](http://blender.cs.illinois.edu/hengji.html), University of Illinois at Urbana-Champaign, USA<br/>
 
-<h3>Demonstration Chairs</h3>
-[Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/), Microsoft Research, Redmond<br/>
-[Shawn Wen](https://shawnwun.github.io/), PolyAI
+<h3>Publications Chairs:</h3>
+[Jing-Shin Chang](https://www.linkedin.com/in/jing-shin-chang-02a5a8129), National Chi-Nan University, Taiwan, China<br/>
+[Yuki Arase](http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_en.html),  Associate Professor, Osaka University, Japan<br/>
+[Yvette Graham](https://www.computing.dcu.ie/~ygraham/), Dublin City University, Ireland<br/>
 
-<h3>Audio-Video Chairs</h3>
-[Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
-[Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington 
+<h3>Publicity Chair:</h3>
+[Kai-Fam Wong](http://www.cintec.cuhk.edu.hk/kfwong/index.html), The Chinese University of Hong Kong, Hong Kong, China<br/>
 
-<h3>Diversity &amp; Inclusion (D&amp;I) Chairs</h3>
-[Cecilia Ovesdotter Alm](https://pht180.rit.edu/ceciliaovesdotteralm/), Rochester Institute of Technology<br/>
-[Vinodkumar Prabhakaran](https://www.cs.stanford.edu/~vinod/), Google <br/> <br/>
-[Diversity &amp; Inclusion Sub-Committee Chairs](/committees/diversity-inclusion)
+<h3>Handbook Chair:</h3>
+[Krit Kosawat](https://www.nectec.or.th/hccru/staff/view/66), NECTEC, NSTDA, Thailand<br/>
 
-<h3>Local Sponsorship Chairs</h3>
-[Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/), Microsoft <br/>
-[Kristina Toutanova](http://kristinatoutanova.com/), Google
+<h3>Local Sponsorship Chairs:</h3>
+[Rachada Kongkrachantra](https://cs.sci.tu.ac.th/rachada-kongkachandra/), Thammasat University, Thailand<br/>
+[Kobkrit Viriyayudhakorn](https://kobkrit.com/), iApp Technology Co., Ltd., Thailand<br/>
 
-<h3>Publication Chairs</h3>
-[Steven Bethard](https://bethard.faculty.arizona.edu/), University of Arizona<br/>
-[Ryan Cotterrell](https://ryancotterell.github.io/), University of Cambridge<br/>
-[Rui Yan](http://www.ruiyan.me/), Peking University
+<h3>Audio-Video Chairs:</h3>
+[Suchathit Boonnag](https://language-semantic.org/profiles/suchathit-boonnag), AIAT, Thailand<br/>
+[Rachasak Somyanonthanakul](https://language-semantic.org/profiles/rachasak-somyanonthanakul/), Rangsit University, Thailand<br/>
 
-<h3>Publicity Chair</h3>
-[Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington
+<h3>Diversity & Inclusion (D&I) Chairs:</h3>
+[Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Tsinghua University, China<br/>
+[Martha Yifiru](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis, Ethiopia<br/>
+[Alvin Grissom](https://www.ursinus.edu/live/profiles/3125-alvin-grissom-ii), Ursinus College, USA<br/>
+[Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), Heidelberg University, Germany<br/>
+[Avirup Sil](http://ibm.biz/avirupsil), IBM, USA<br/>
 
-<h3>Remote Presentation Chairs</h3>
-[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
-[Yi Luan](https://luanyi.github.io/), Google AI Language
+<h3>Ethic Advisory Committee (EAC)</h3>
+[Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
+[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/), National University of Singapore, Singapore<br/> 
+[Xanda Schofield](https://www.cs.hmc.edu/~xanda/#/), Harvey Mudd College, USA<br/>
 
-<h3>Sustainability Chair </h3>
-[Ananya Ganesh](https://ananyaganesh.github.io/), Educational Testing Service <br/>
-[Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service   
+<h3>Remote Presentation Chairs:</h3>
+[Nattapol Kritsuthikul](https://www.nectec.or.th/hccru/staff/view/65), NECTEC, NSTDA, Thailand<br/>
+[Zhongjun He](https://zhongjunhe.github.io), Baidu Co, China<br/>
+[Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/), Microsoft Research, Montreal, Canada<br/>
 
-<h3>Student Volunteer Coordinator</h3>
-[Marjan Ghazvininejad](ghazvini@fb.com), Facebook AI Lab
+<h3>Sustainability Chairs:</h3>
+[Qi Zhang](http://qizhang.info/), Fudan University, China<br/>
+[Angeliki Lazaridou](http://angelikilazaridou.github.io/), DeepMind, USA<br/>
 
-<h3>Website &amp; Conference App Chairs</h3>
-[Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
-[Yizhe Zhang](https://www.microsoft.com/en-us/research/people/yizzhang/), Microsoft Research, Redmond
+<h3>Student Volunteer Coordinator:</h3>
+[Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
 
+<h3> Website &amp; Conference App Chairs:</h3>
+[Chutima Beokhaimook](https://it.rsu.ac.th/th/persons/5490077), Rangsit University, Thailand<br/>
+[Witchaworn Mankhong](https://www.nectec.or.th/hccru/staff/view/77), NECTEC, NSTDA, Thailand<br/>
