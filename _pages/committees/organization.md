@@ -7,7 +7,7 @@ sidebar:
     nav: committees 
 ---
 
-<h3>General Chair:</h3>
+<h3>General Chair:</h3> 
 [Chengqing Zong](http://www.nlpr.ia.ac.cn/cip/english/zong.htm), Institute of Automation, Chinese Academy of Sciences<br>
 
 <h3>Program Committee Co-Chairs:</h3>
