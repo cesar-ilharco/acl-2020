@@ -16,7 +16,7 @@ main:
   - title: "Workshops"
     url: /calls/workshops
 
-  - title: "Organizations"
+  - title: "Committees"
     url: /committees/organization
 
   - title: "Blog"
@@ -68,7 +68,7 @@ program:
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
-organizations:
+committees:
    - title: Organizations
      children:
        - title: "Organizing"
