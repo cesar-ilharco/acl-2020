@@ -10,7 +10,7 @@ categories:
     blog
 ---
 
-Double Submissions and Anonymity Issues
+## Double Submissions and Anonymity Issues
 
 ### Q1: We have submitted our paper to ICLR 2021 and we also have a non-anonymized version on arXiv now. ICLR'2021 will notify us of the final result on January 12, 2021 which is in the anonymity period of ACL-IJCNLP 2021, we wonder if it would be against the anonymous policy if we submit that paper to ACL-IJCNLP 2021 at that time. 
 
@@ -39,3 +39,16 @@ A7: If your workshop paper is published online between January 1, 2021 and May 5
 ### Q8: In my paper submission, can I include a link to my source code at github?
 A8: Please do not include github links that reveal the authors' identities in your submission. If you feel it is important to include your source code, you can zip the code and submit it to softconf. If your paper is accepted, you can include the github link in the camera-ready version.
 
+## Page limit
+
+### Q1: What is the page limit of theme papers? 
+A1: Submission requirements for theme papers are the same as long papers.
+
+### Q2: The call for papers says "Authors will be allowed extra space after the 8th page (4th for short papers) for a broader impact statement or other discussion of ethics." Does this mean that the impact statement will be not counted in the total page limit?
+A2: The ethics/broader impact statement is not counted in the total page limit. You need to put the impact statement right before the references. Thus, the paper excluding the impact statement and references should not be over the page limit. 
+
+### Q3: What is the page limit of the appendix?
+A3: The page limit of the appendix is 4 pages.
+
+### Q4: Should the appendix be submitted as a separate document?
+A4: Yes. It should be submitted as a separate pdf file. It should not be included in the main paper.
