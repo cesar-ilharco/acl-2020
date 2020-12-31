@@ -26,6 +26,6 @@ To be available soon.<br>
 <b>Paper Submission FAQs</b> (keep updated) <br>
 <span style="color:#666666; font-size:small;">PC Chairs | December 30, 2020</span><br>
 <br>
-Global Profile FAQs<br>
+[Global Profile FAQs](https://2021.aclweb.org/blog/global-profile-faqs/)<br>
 <span style="color:#666666; font-size:small;">PC Chairs | December 03, 2020</span><br>
 <br>
