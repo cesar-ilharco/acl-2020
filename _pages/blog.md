@@ -23,9 +23,9 @@ To be available soon.<br>
 <span style="color:#666666; font-size:small;">EAC Chairs | January, 2021</span><br>
 To be available soon.<br>
 <br>
-<b>Paper Submission FAQs</b> (keep updated) <br>
+<b>[Paper Submission FAQs](https://2021.aclweb.org/blog/paper-submission-faqs/)</b> (keep updated) <br>
 <span style="color:#666666; font-size:small;">PC Chairs | December 30, 2020</span><br>
 <br>
-[Global Profile FAQs](https://2021.aclweb.org/blog/global-profile-faqs/)<br>
+<b>[Global Profile FAQs](https://2021.aclweb.org/blog/global-profile-faqs/)</b><br>
 <span style="color:#666666; font-size:small;">PC Chairs | December 03, 2020</span><br>
 <br>
