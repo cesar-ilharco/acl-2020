@@ -17,7 +17,7 @@ main:
     url: /calls/workshops
 
   - title: "Organizations"
-    url: /organization
+    url: /committees/organization
 
   - title: "Blog"
     url: /blog
@@ -68,15 +68,15 @@ program:
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
-committees:
-   - title: Committees
+organizations:
+   - title: Organizations
      children:
        - title: "Organizing"
          url: /committees/organization
        - title: "Senior Program"
          url: /committees/program
-       - title: "Diversity &amp; Inclusion"
-         url: /committees/diversity-inclusion
+#       - title: "Diversity &amp; Inclusion"
+#         url: /committees/diversity-inclusion
 
 # participants:
 #   - title: "Information for Participants"
