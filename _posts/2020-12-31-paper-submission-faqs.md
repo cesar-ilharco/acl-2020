@@ -67,12 +67,12 @@ A3:  No, you won't be able to change author names and subject areas after the Ja
 ## Impact Statement
 
 ### Q1: What kind of submissions should include an impact statement? How will the impact statement be used during the review process?
-A1: We are drafting a separate FAQ on impact statement. It will be posted to the conference website around January 15, 2021.  The FAQ will be similar to the ones used by NAACL 2021. 
+A1: We are drafting a separate FAQ on impact statement. It will be posted to the conference website around January 15, 2021.  The FAQ will be similar to the ones used by [NAACL 2021](https://2021.naacl.org/ethics/review-questions/). 
 
 ## Reproducibility Issues
 
 ### Q1: Is there a reproducibility checklist?
-A1: The checklist is here, which is very similar to the one used by NAACL 2021. The checklist is intended as a reminder to help authors improve reproducibility of their papers and to help reviewers to assess the papers.
+A1: The checklist is [here](https://2021.aclweb.org/calls/reproducibility-checklist/), which is very similar to the one used by NAACL 2021. The checklist is intended as a reminder to help authors improve reproducibility of their papers and to help reviewers to assess the papers.
 
 ### Q2: What do I need to do about the checklist during the submission process?
 A2: The checklist is part of the submission form. We require all submissions to mark "Yes", "No", or "N/A" for each item (we will have a mandatory selector for each item). As an example, a paper which introduces a new dataset might not do a hyperparameter search, and so the authors can mark "N/A" for the hyperparameter search items. 
