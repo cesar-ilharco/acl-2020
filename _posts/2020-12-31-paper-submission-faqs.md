@@ -63,3 +63,22 @@ A2: Yes. If you don't submit an abstract by that date, you will not be able to s
 
 ### Q3: Will I be able to change author names and subject areas after the abstract deadline?
 A3:  No, you won't be able to change author names and subject areas after the January 25 deadline because we are going to use that info to assign submissions to tracks and run conflict-of-interest checks. You can make minor changes to the title and the prose of the abstract. 
+
+## Impact Statement
+
+### Q1: What kind of submissions should include an impact statement? How will the impact statement be used during the review process?
+A1: We are drafting a separate FAQ on impact statement. It will be posted to the conference website around January 15, 2021.  The FAQ will be similar to the ones used by NAACL 2021. 
+
+## Reproducibility Issues
+
+### Q1: Is there a reproducibility checklist?
+A1: The checklist is here, which is very similar to the one used by NAACL 2021. The checklist is intended as a reminder to help authors improve reproducibility of their papers and to help reviewers to assess the papers.
+
+### Q2: What do I need to do about the checklist during the submission process?
+A2: The checklist is part of the submission form. We require all submissions to mark "Yes", "No", or "N/A" for each item (we will have a mandatory selector for each item). As an example, a paper which introduces a new dataset might not do a hyperparameter search, and so the authors can mark "N/A" for the hyperparameter search items. 
+
+### Q3: Should we address the relevant questions in the checklist in the main paper or in the appendix?
+A3: Authors can choose the best places to address those questions. Below are some recommendations: 
+- The items in the first group "For all reported experimental results" should be included in the main paper. 
+- The items in the second group "For all results involving multiple experiments, such as hyperparameter search" can be in the appendix, although "the exact number of training and evaluation runs" should likely be in the main paper. 
+- The items in the third group "For all datasets used" are mixed. The first and second items should be in the main paper (to understand experimental results we need to know the number of examples, and data splits), while the rest of the items can be in the appendix. 
