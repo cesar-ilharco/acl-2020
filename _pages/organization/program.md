@@ -1,8 +1,7 @@
 ---
-title: Senior Program Committee
+title: 
 layout: single
-excerpt: "ACL 2021 program committee."
-permalink: /organization/program
+permalink: /organization/program/
 sidebar: 
     nav: organization 
 ---
