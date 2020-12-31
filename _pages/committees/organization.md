@@ -1,10 +1,12 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "ACL-IJCNLP 2021 organizing committee."
 permalink: /committees/organization
 sidebar: 
     nav: committees 
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
 
 <h3>General Chair:</h3> 
