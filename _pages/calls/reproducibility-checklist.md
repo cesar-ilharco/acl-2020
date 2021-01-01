@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 For all reported experimental results:<br>
 - A clear description of the mathematical setting, algorithm, and/or model
-- A link to a downloadable source code, with specification of all dependencies, including external libraries (recommended for camera ready, as long as author identities are not disclosed?)
+- A link to a downloadable source code, with specification of all dependencies, including external libraries (recommended for camera ready)
 - A description of computing infrastructure used
 - The average runtime for each model or algorithm, or estimated energy cost
 - The number of parameters in each model
