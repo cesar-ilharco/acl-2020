@@ -70,7 +70,7 @@ sidebar:
 <br/>
 <b>Question Answering</b><br/>
 <b>SACs:</b> Jennifer Chu-Carroll, Alessandro Moschitti, Furu Wei<br/>
-<b>ACs:</b> Jordan Boyd-Graber, Eunsol Choi, Li Dong, Yansong Feng, Radu Florian, Zornitsa Kozareva, Jing Liu, Anh Tuan Luu, Siddharth Patwardhan, Minjoon Seo<br/>
+<b>ACs:</b> Roberto Basili, Jordan Boyd-Graber, Weiwei Cheng, Eunsol Choi, Danilo Croce, Li Dong, Yansong Feng, Simone Filice, Radu Florian, Zornitsa Kozareva, Jing Liu, Anh Tuan Luu, Ramesh Nallapati Nallapati, Cicero Nogueira dos Santos, Siddharth Patwardhan, Matthias Petri, Oleg Rokhlenko, Minjoon Seo, Avi Sil, Luca Soldaini, Olga Uryupina, Thuy Vu, Fabio Massimo Zanzotto<br/>
 <br/>
 <b>Resource and Evaluation</b><br/>
 <b>SACs:</b> Samuel Bowman, Nancy Ide<br/>
