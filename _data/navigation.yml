@@ -81,6 +81,14 @@ organization:
 #       - title: "Diversity &amp; Inclusion"
 #         url: /organization/diversity-inclusion
 
+ethics:
+   - title: Ethics
+     children:
+       - title: "Ethics FAQ"
+         url: /ethics/Ethics-FAQ/
+       - title: "Ethics Review Questions"
+         url: /ethics/Ethics-review-questions/
+
 # participants:
 #   - title: "Information for Participants"
 #     children:
