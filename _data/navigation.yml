@@ -13,6 +13,9 @@ main:
   - title: "Calls"
     url: /calls/papers
 
+  - title: "Ethics"
+    url: /ethics/Ethics-FAQ
+
   - title: "Workshops"
     url: /calls/workshops
 
