@@ -4,6 +4,9 @@ layout: single
 permalink: /ethics/Ethics-FAQ/
 sidebar: 
     nav: ethics 
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
 
 <h1>Ethics FAQ</h1>
@@ -12,7 +15,7 @@ As announced in the call for papers for ACL 2021:<br/>
 
 <p align="justify">This page provides an FAQ about the ethics review process and guidance to authors for how to address ethical considerations in your ACL papers. This applies in the first instance to papers submitted to the main conference (including industry track papers and demo papers). We encourage ACL workshops to follow similar principles.</p>
 
-<h2>How is ACL 2021 handling ethics review?</h2>
+## How is ACL 2021 handling ethics review?
 Ethics review is handled at several levels:
 - In the [CFP](https://2021.aclweb.org/calls/papers/) and this page: information is given concerning what is expected from the authors and reviewers concerning ethics.
 - ACL reviewers are asked to consider the points listed in the [ethics review questions page](https://2021.aclweb.org/ethics/Ethics-review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
