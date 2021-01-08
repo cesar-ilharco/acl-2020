@@ -58,3 +58,11 @@ Please do be sure to motivate the range of values used for identity characterist
 
 ### **… if my paper reports on experiments that involve lots of compute time/power?**
 Given the urgency of addressing climate change, we have a responsibility to also consider the energy resources expended on our research. A first step in this direction is increasing awareness about the potential increased energy and carbon costs of large-scale projects ([Strubell et al 2019](https://www.aclweb.org/anthology/P19-1355/)), in relation to more efficient alternatives. We encourage authors to use tools such as [Henderson et al's (2020)](https://arxiv.org/abs/2002.05651) [experiment impact tracker](https://github.com/Breakend/experiment-impact-tracker) or other available information to estimate the energy requirement of the experiments reported in the paper (including prior runs that helped shape the research question) and of the model in its suggested deployment context. If such information is not feasible to obtain for completed experiments, proxies such as computing platform and running time are also informative. We also suggest that the authors discuss steps that have been or could be taken to reduce the carbon costs of the proposed methods.
+
+### **Additional resources**
+Here are links to some additional resources that are useful to read before writing ethical considerations sections.
+- [A Guide to Writing the NeurIPS Impact Statement](https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832) by Carolyn Ashurst, Markus Anderljung, Carina Prunkl, Jan Leike, Yarin Gal, Toby Shevlane, and Allan Dafoe
+- [Research on Machine Learning for Disaster Response: what makes a good paper?](https://towardsdatascience.com/research-on-machine-learning-for-disaster-response-b65f3e97c018?source=friends_link&sk=e2e8e7ef66cae276bde29298b7516955) by Rob Munro
+
+*Most of the text above comes from the NAACL 2021 Ethics FAQ; we thank NAACL 2021 Ethics Chairs, Emily M. Bender and Karën Fort for drafting the prior version.*
+
