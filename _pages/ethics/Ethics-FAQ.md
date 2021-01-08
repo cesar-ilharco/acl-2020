@@ -64,5 +64,5 @@ Here are links to some additional resources that are useful to read before writi
 - [A Guide to Writing the NeurIPS Impact Statement](https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832) by Carolyn Ashurst, Markus Anderljung, Carina Prunkl, Jan Leike, Yarin Gal, Toby Shevlane, and Allan Dafoe
 - [Research on Machine Learning for Disaster Response: what makes a good paper?](https://towardsdatascience.com/research-on-machine-learning-for-disaster-response-b65f3e97c018?source=friends_link&sk=e2e8e7ef66cae276bde29298b7516955) by Rob Munro
 
-*Most of the text above comes from the NAACL 2021 Ethics FAQ; we thank NAACL 2021 Ethics Chairs, Emily M. Bender and Karën Fort for drafting the prior version.*
+*Most of the text above comes from the [NAACL 2021 Ethics FAQ](https://2021.naacl.org/ethics/faq/); we thank NAACL 2021 Ethics Chairs, Emily M. Bender and Karën Fort for drafting the prior version.*
 
