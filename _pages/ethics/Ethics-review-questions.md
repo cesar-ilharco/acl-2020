@@ -35,4 +35,4 @@ For papers concerning technology that could be deployed in user-facing applicati
 - Does the paper motivate the range of values or categories used for identity characteristics in terms of how they relate to the research question?
 - Does the paper discuss the ethical implications of categorizing people, either in training datasets or in the deployment of the technology?
 
-*Most of the text above comes from the NAACL 2021 Ethics Review Questions; we thank NAACL 2021 Ethics Chairs, Emily M. Bender and Karen Fort for drafting the prior version.*
+*Most of the text above comes from the [NAACL 2021 Ethics Review Questions](https://2021.naacl.org/ethics/review-questions/); we thank NAACL 2021 Ethics Chairs, Emily M. Bender and Karen Fort for drafting the prior version.*
