@@ -53,7 +53,7 @@ Samira Shaikh and Wei Xu</i><br/>
 - 17th Workshop on Multiword Expressions (MWE 2021)<br/>
 <i>Paul Cook, Jelena Mitrovic, Carla Parra Escartín, Ashwini Vaidya, Petya Osenova, 
 Shiva Taslimipoor and Carlos Ramisch</i><br/>
-- 6th Workshop on Representation Learning for NLP (RepL4NLP-2021)<br/>
+- [6th Workshop on Representation Learning for NLP (RepL4NLP-2021)](https://sites.google.com/view/repl4nlp-2021/)<br/>
 <i>Vered Shwartz, Naomi Saphra, Iacer Calixto, Ivan Vulic, Anna Rogers, Trapit Bansal, 
 Oana-Maria Camburu and Nora Kassner</i><br/>
 - [Meta Learning and Its Applications to Natural Language Processing](https://meta-nlp-2021.github.io/ )<br/>
@@ -68,5 +68,5 @@ Communication for Robotics<br/>
 - [Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)](https://emw.ku.edu.tr/case-2021/)<br/>
 <i>Ali Hürriyetoglu, Hristo Tanev, Vanni Zavarella, Deniz Yuret, Erdem Yörük, Aline Villavicencio, 
 Jakub Piskorski and Gautam Kishore Shahi</i><br/>
-- IWPT 2021: The 17th International Conference on Parsing Technologies<br/>
+- [WPT 2021: The 17th International Conference on Parsing Technologies](https://iwpt21.sigparse.org)<br/>
 <i>Stephan Oepen, Kenji Sagae, Reut Tsarfaty and Weiwei Sun</i><br/>
