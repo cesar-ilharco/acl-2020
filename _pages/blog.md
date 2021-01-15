@@ -23,6 +23,9 @@ To be available soon.<br>
 <span style="color:#666666; font-size:small;">EAC Chairs | January, 2021</span><br>
 To be available soon.<br>
 <br>
+<b>[Reproducibility FAQs](https://2021.aclweb.org/blog/reproducibility-faqs/)<br>
+<span style="color:#666666; font-size:small;">PC Chairs | January 14, 2021</span><br>
+<br>
 <b>[Paper Submission FAQs](https://2021.aclweb.org/blog/paper-submission-faqs/)</b> (keep updated) <br>
 <span style="color:#666666; font-size:small;">PC Chairs | December 30, 2020</span><br>
 <br>
