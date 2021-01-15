@@ -40,3 +40,7 @@ A6: It depends on which place is more appropriate. For example, important values
 ### Q7: If our paper addresses all the items on the checklist, is that sufficient for reproducibility?
 
 A7: Not necessarily. NLP research is quite varied and no checklist could cover all the items necessary to reproduce all papers. Use your best judgement to include items relevant for your work, regardless of whether they are in the reproducibility checklist.
+
+### Q8: As a reviewer, should I lower my rating of a submission if it doesn't address some checklist items in the submission?
+
+A8: Please see Q2 above. Reviewers should use their best judgment to determine whether certain checklist items should be addressed in the submission. 
