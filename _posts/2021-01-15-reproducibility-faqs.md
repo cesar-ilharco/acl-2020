@@ -24,3 +24,7 @@ A2: The items from the checklist are not required to be addressed explicitly in 
 
 A3: The checklist is designed to remind authors of items they could address in their submissions to help the reviewers to understand and evaluate the work, similar to a pre-flight checklist or pre-surgery checklist.
 The checklist responses are visible to reviewers and the review form will ask reviewers to rate a submission with respect to whether the submission includes enough information for reproducibility. However, the reviewers will rate the submission based on the submission itself, not simply based on the checklist responses. Also, the checklist responses are visible to Program Chairs, who might take them into consideration when making the final accept/reject decisions.
+
+### Q4: What if addressing a checklist item in the submission would deanonymize a submission?
+
+A4: You should address checklist items without revealing your identity, similar to the way you use anonymous for self-citation. If that's impossible (e.g., the github link for the source code), don't address that item in the submission. Blind reviewing should take precedence over the reproducibility checklist.
