@@ -20,7 +20,10 @@ According to the [TACL announcement](https://transacl.org/index.php/tacl), "to b
 <span style="color:#666666; font-size:small;">EAC Chairs | January, 2021</span><br>
 To be available soon.<br>
 <br>
-<b>[Reproducibility Criteria and Checklist](https://2021.aclweb.org/calls/reproducibility-checklist/)</b><br>
+<b>[Ethics Review Questions](https://2021.aclweb.org/ethics/Ethics-review-questions/)<br>
+<span style="color:#666666; font-size:small;">EAC Chairs | January 8, 2021</span><br>
+<br>
+<b>[Reproducibility Criteria and Checklist](https://2021.aclweb.org/calls/reproducibility-checklist/)<br>
 <span style="color:#666666; font-size:small;">PC Chairs | January 1, 2021</span><br>
 <br>
 <b>[Reproducibility FAQs](https://2021.aclweb.org/blog/reproducibility-faqs/)<br>
