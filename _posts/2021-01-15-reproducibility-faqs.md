@@ -28,3 +28,7 @@ The checklist responses are visible to reviewers and the review form will ask re
 ### Q4: What if addressing a checklist item in the submission would deanonymize a submission?
 
 A4: You should address checklist items without revealing your identity, similar to the way you use anonymous for self-citation. If that's impossible (e.g., the github link for the source code), don't address that item in the submission. Blind reviewing should take precedence over the reproducibility checklist.
+
+### Q5: Should we submit code as part of supplementary materials?
+
+A5: Code is recommended for camera ready. It is welcome for initial submission as long as author identities are not disclosed. We recommend checking the ML Code Completeness checklist for best practices.
