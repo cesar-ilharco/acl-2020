@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
-NEW: The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/). Please be aware of the abstract submission deadline on **January 25, 2021**, which is a week ahead of the full paper submission deadline on **February 1, 2021**. Here are [the abstract submission form](https://2021.aclweb.org/downloads/Abstract_Submission_Form.pdf) and [the full paper submission form](https://2021.aclweb.org/downloads/Full_Paper_Submission_Form.pdf) for your reference.
+**NEW:** The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/). Please be aware of the abstract submission deadline on **January 25, 2021**, which is a week ahead of the full paper submission deadline on **February 1, 2021**. Here are [the abstract submission form](https://2021.aclweb.org/downloads/Abstract_Submission_Form.pdf) and [the full paper submission form](https://2021.aclweb.org/downloads/Full_Paper_Submission_Form.pdf) for your reference.
 
 ## 2nd CFP: ACL-IJCNLP 2021, Bangkok, Thailand
 The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on 
