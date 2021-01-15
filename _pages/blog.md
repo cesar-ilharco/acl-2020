@@ -16,7 +16,7 @@ comments: false
 According to the [TACL announcement](https://transacl.org/index.php/tacl), "to be eligible for presentation (oral or poster) at ACL-IJCNLP 2021, TACL papers must satisfy both of the following conditions: first, be accepted with a decision type (a) by **April 9, 2021;** and second, have their final version both submitted to TACL and approved by the Action Editor by **May 13, 2021**. (To allow ample time for the technical approval by the Action Editor, we suggest submitting the final version by 10 business days prior, that is, **April 29, 2021.**)"
 <br><br> 
 
-<b>[Ethics FAQs](https://2021.aclweb.org/ethics/Ethics-FAQ/)</b><br>
+<b>[Ethics FAQs](https://2021.aclweb.org/ethics/Ethics-FAQ/)<br>
 <span style="color:#666666; font-size:small;">EAC Chairs | January 8, 2021</span><br>
 <br>
 <b>[Ethics Review Questions](https://2021.aclweb.org/ethics/Ethics-review-questions/)<br>
