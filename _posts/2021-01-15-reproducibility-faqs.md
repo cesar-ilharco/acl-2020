@@ -32,3 +32,7 @@ A4: You should address checklist items without revealing your identity, similar 
 ### Q5: Should we submit code as part of supplementary materials?
 
 A5: Code is recommended for camera ready. It is welcome for initial submission as long as author identities are not disclosed. We recommend checking the ML Code Completeness checklist for best practices.
+
+### Q6: Should we address checklist items in the main paper or in the supplementary materials?
+
+A6: It depends on which place is more appropriate. For example, important values such as the number of model parameters and the size of training data should be included in the main paper, whereas less important ones can be included in the appendix. This is the same kind of decision you have to make for other types of information such as math formulas. Just remember that reviewers have access to supplementary materials, but they are not required to read them.
