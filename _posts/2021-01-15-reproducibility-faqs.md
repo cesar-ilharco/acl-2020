@@ -36,3 +36,7 @@ A5: Code is recommended for camera ready. It is welcome for initial submission a
 ### Q6: Should we address checklist items in the main paper or in the supplementary materials?
 
 A6: It depends on which place is more appropriate. For example, important values such as the number of model parameters and the size of training data should be included in the main paper, whereas less important ones can be included in the appendix. This is the same kind of decision you have to make for other types of information such as math formulas. Just remember that reviewers have access to supplementary materials, but they are not required to read them.
+
+### Q7: If our paper addresses all the items on the checklist, is that sufficient for reproducibility?
+
+A7: Not necessarily. NLP research is quite varied and no checklist could cover all the items necessary to reproduce all papers. Use your best judgement to include items relevant for your work, regardless of whether they are in the reproducibility checklist.
