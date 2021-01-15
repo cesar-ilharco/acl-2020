@@ -18,6 +18,10 @@ sidebar:
 [Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), National Electronics and Computer Technology Center, Thailand<br/>
 [Thanaruk Theeramunkong](https://aiat.or.th/thanaruk/), The Artificial Intelligence Association of Thailand and Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand
 
+<h3>Sponsorship Co-Chairs:</h3>
+[Jing LI](http://www4.comp.polyu.edu.hk/~jing1li/),  The Hong Kong Polytechnic University, Hong Kong SAR, China<br/>
+[Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/), Fudan University, China<br/>
+
 <h3>Tutorial Chairs:</h3>
 [David Chiang](https://www3.nd.edu/~dchiang/), University of Notre Dame, USA<br/>
 [Min Zhang](https://zhangminsuda.github.io), Soochow University, China<br/>
