@@ -19,3 +19,8 @@ A1: Yes. You won't be able to submit the full paper without filling out the repr
 ### Q2: I have completed the checklist in the submission form. Am I required to address those items explicitly in the submission itself (i.e., in the main paper or supplementary material)?
 
 A2: The items from the checklist are not required to be addressed explicitly in a submission, but authors may find their submissions to be of higher quality if they do so for items that are relevant to their work. Please use your best judgment to determine what checklist items are relevant to your work and what items should be addressed explicitly in the submission itself.
+
+### Q3: How are the checklist responses used during the reviewing process?
+
+A3: The checklist is designed to remind authors of items they could address in their submissions to help the reviewers to understand and evaluate the work, similar to a pre-flight checklist or pre-surgery checklist.
+The checklist responses are visible to reviewers and the review form will ask reviewers to rate a submission with respect to whether the submission includes enough information for reproducibility. However, the reviewers will rate the submission based on the submission itself, not simply based on the checklist responses. Also, the checklist responses are visible to Program Chairs, who might take them into consideration when making the final accept/reject decisions.
