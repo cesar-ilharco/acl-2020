@@ -86,6 +86,9 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Qi Zhang](http://qizhang.info/), Fudan University, China<br/>
 [Angeliki Lazaridou](http://angelikilazaridou.github.io/), DeepMind, USA<br/>
 
+<h3>Reviewer Mentoring Program Chairs:</h3>
+[Jing Huang](https://sites.google.com/view/drjinghuang), JD AI Research, China<br/>
+
 <h3>Student Volunteer Coordinator:</h3>
 [Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
 
