@@ -89,7 +89,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <h3>Reviewer Mentoring Program Chairs:</h3>
 [Jing Huang](https://sites.google.com/view/drjinghuang), JD AI Research, China<br/>
 Antoine Bosselut, Stanford University, USA<br/>
-Christophe Gravier, Université de Saint-Etienne/Lyon, France<br/>
+Christophe Gravier, Universite de Saint-Etienne/Lyon, France<br/>
 
 <h3>Student Volunteer Coordinator:</h3>
 [Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
