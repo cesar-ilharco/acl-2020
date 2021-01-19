@@ -12,7 +12,7 @@ sidebar:
 <h3>Program Committee Co-Chairs:</h3>
 [Fei Xia](https://www.pce.uw.edu/instructors/fei-xia),  University of Washington <br>
 [Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/), The Hong Kong Polytechnic University<br>
-[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), University of Roma La Sapienza<br/>
+[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Sapienza University of Rome<br/>
 
 <h3>Local Organization Committee Co-Chairs:</h3>
 [Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), National Electronics and Computer Technology Center, Thailand<br/>
@@ -76,6 +76,11 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
 [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/), National University of Singapore, Singapore<br/> 
 [Xanda Schofield](https://www.cs.hmc.edu/~xanda/#/), Harvey Mudd College, USA<br/>
+
+<h3>Reviewer Mentoring Program Chairs:</h3>
+[Jing Huang](https://sites.google.com/view/drjinghuang), JD AI Research, China<br/>
+Antoine Bosselut, Stanford University, USA<br/>
+Christophe Gravier, Université de Saint-Etienne / Lyon, France<br/>
 
 <h3>Remote Presentation Chairs:</h3>
 [Nattapol Kritsuthikul](https://www.nectec.or.th/hccru/staff/view/65), NECTEC, NSTDA, Thailand<br/>
