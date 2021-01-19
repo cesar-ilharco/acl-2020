@@ -80,7 +80,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <h3>Reviewer Mentoring Program Chairs:</h3>
 [Jing Huang](https://sites.google.com/view/drjinghuang), JD AI Research, China<br/>
 Antoine Bosselut, Stanford University, USA<br/>
-Christophe Gravier, Université de Saint-Etienne / Lyon, France<br/>
+Christophe Gravier, Université de Saint-Etienne/Lyon, France<br/>
 
 <h3>Remote Presentation Chairs:</h3>
 [Nattapol Kritsuthikul](https://www.nectec.or.th/hccru/staff/view/65), NECTEC, NSTDA, Thailand<br/>
