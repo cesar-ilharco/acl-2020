@@ -40,7 +40,7 @@ Katsuhito Sudoh, Sadao Kurohashi and Pushpak Bhattacharyya</i><br/>
 Graham Neubig, Yu Su, Huan Sun and Reut Tsarfaty</i><br/>
 - The 4th Workshop on e-Commerce and NLP (ECNLP 4)<br/>
 <i>Shervin Malmasi, Eugene Agichtein, Nicola Ueffing, Surya Kallumadi, Oleg Rokhlenko and Ido Guy</i><br/>
-- Interactive Learning for Natural Language Processing<br/>
+- [Interactive Learning for Natural Language Processing](https://sites.google.com/view/internlp2021/home)<br/>
 <i>Kianté Brantley, Soham Dan, Iryna Gurevych, Ji-Ung Lee, Filip Radlinski, Hinrich Schütze, 
 Edwin Simpson and Lili Yu</i><br/>
 - GEM: Natural Language Generation, Evaluation, and Metrics<br/>
