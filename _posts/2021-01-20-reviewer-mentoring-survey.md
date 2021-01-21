@@ -45,3 +45,15 @@ Next, a binary question shows that ACs and SACs prefer that the rebuttal allows 
 "What do you \*mostly\* expect at the rebuttal stage?
 - Reviewers discussing and ultimately resolve any conflicts (I would rather avoid review scores discrepancies)
 - Reviewers taking a clear stance and provide arguments (I don't mind managing different scores as long as I have supporting arguments)
+
+Finally, we asked them how they perceive the "harshness" of first-time reviewers on average, with respect to seasoned reviewers. This one should be taken with a grain of salt since SACs and ACs are the seasoned reviewers :-)
+
+"From your experience, do first-time reviewers:
+- Tends to be more harsh than seasoned reviewers
+- Tends to be equally harsh or permissive than seasoned reviewers
+- Tends to be more permissive than seasoned reviewers"
+
+
+We hope that you found these statistics useful as well, as SACs, ACs, reviewers or authors! 
+
+Stay connected, we will provide the mentoring program description on the ACL-IJCNLP blog very soon.
