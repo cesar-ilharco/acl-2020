@@ -37,3 +37,11 @@ Then, we asked them how they feel about supplementary materials, mainly appendic
 
 "Do you feel that reviewers for a conference like ACL/EMNLP/COLING should check \*data\*?"
 
+In the case of source code, we wanted to evaluate how important is the source code in making their decision as ACs and SACs, depending on the main paper categories we could think of.
+"When do you think the availability of the source code is needed for you to make a decision?"
+
+
+Next, a binary question shows that ACs and SACs prefer that the rebuttal allows reviewers to ultimately take a clear stance supported by arguments, rather than absolutely trying to reach a consensus.
+"What do you \*mostly\* expect at the rebuttal stage?
+- Reviewers discussing and ultimately resolve any conflicts (I would rather avoid review scores discrepancies)
+- Reviewers taking a clear stance and provide arguments (I don't mind managing different scores as long as I have supporting arguments)
