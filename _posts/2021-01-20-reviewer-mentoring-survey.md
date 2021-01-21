@@ -17,4 +17,4 @@ ACL-IJCNLP'21 will provide a mentoring program service to first-time reviewers. 
 
 We first want to thank all **130 Senior Area Chairs and Area Chairs** (24 SAC and 104 ACs) who took the time to answer this survey. A couple of questions were open questions and are not included in the statistical feedback here. We thank our SACs and ACs for this: many submitted many helpful comments in answer to the open questions "how to evaluate when there are enough experiments for leaning towards acceptance?" and "What should such a video tutorial(s) cover besides what is mentioned above? (which important aspect we missed?)"). Your input was carefully read, and it will influence how we proceed this year.
 
-
+On multiple choice questions, we first asked SACs and ACs to rank some ideas we had in mind to be included in a general reviewing tutorial video for first-time reviewers. The question was as follows: "We plan to make video tutorial(s) for new reviewers (PhD 2nd, 3rd years mostly). What should be the video tutorial priorities among the following topics? Sort from most important (top) to least important (bottom)."
