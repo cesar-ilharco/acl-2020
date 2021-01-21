@@ -92,6 +92,11 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Christophe Gravier](http://twitter.com/chgravier), Universite de Saint-Etienne/Lyon, France<br/>
 
 <h3>Social Media Committee Co-Chairs:</h3>
+[Luciana Benotti](https://benotti.github.io/), National University of Cordoba, Argentina<br/>
+[Lidong Bing](https://lidongbing.github.io/), DAMO Academy, Alibaba Group, Singapore<br/>
+[Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), Shandong University, China<br/>
+[Rachele Sprugnoli](https://docenti.unicatt.it/ppd2/it/docenti/75750/rachele-sprugnoli/), Universita Cattolica del Sacro Cuore, Italy<br/>
+[Mark Seligman](https://www.speechmorphing.com/), Speechmorphing, Inc., US<br/>
 
 <h3>Student Volunteer Coordinator:</h3>
 [Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
