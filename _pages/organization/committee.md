@@ -91,6 +91,8 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Antoine Bosselut](https://atcbosselut.github.io/), Stanford University, USA<br/>
 [Christophe Gravier](http://twitter.com/chgravier), Universite de Saint-Etienne/Lyon, France<br/>
 
+<h3>Social Media Committee Co-Chairs:</h3>
+
 <h3>Student Volunteer Coordinator:</h3>
 [Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
 
