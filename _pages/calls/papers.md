@@ -8,7 +8,13 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
-**NEW:** The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/). Please be aware of the abstract submission deadline on **January 25, 2021**, which is a week ahead of the full paper submission deadline on **February 1, 2021**. Here are [the abstract submission form](https://2021.aclweb.org/downloads/Abstract_Submission_Form.pdf) and [the full paper submission form](https://2021.aclweb.org/downloads/Full_Paper_Submission_Form.pdf) for your reference.
+**NEW:** The abstract submission deadline is Jan 25, 2021.
+(1) You will NOT be able to submit the full paper if you miss the 1/25 deadline.
+(2)  If you submit an abstract but decide not to submit the full paper, please withdraw your submission by Feb 1. 
+(3) Also, if you have multiple submissions for the same paper (i.e., several submission IDs with the same title), please keep only one of these submissions and withdraw the rest by Feb 1; otherwise, we will not know which version you want to be reviewed, and would have to desk-reject all the submissions. 
+(4) Finally, after your initial submission, you should have received an automatic confirmation email which shows your submission ID. If you have not received that email, that means the email has been bounced back. In that case, please check your email address associated with your softconf account and replace that email address with one that works properly.
+
+The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/). Please be aware of the abstract submission deadline on **January 25, 2021**, which is a week ahead of the full paper submission deadline on **February 1, 2021**. Here are [the abstract submission form](https://2021.aclweb.org/downloads/Abstract_Submission_Form.pdf) and [the full paper submission form](https://2021.aclweb.org/downloads/Full_Paper_Submission_Form.pdf) for your reference.
 
 ## Final CFP: ACL-IJCNLP 2021, Bangkok, Thailand
 The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on 
