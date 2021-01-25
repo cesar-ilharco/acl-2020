@@ -23,6 +23,11 @@ The Berkeley Hotel, Bangkok, Thailand<br>
 August 1-6, 2021  <br>
 [https://2021.aclweb.org/](https://2021.aclweb.org/)<br><br>
 
+We have received a lot of questions about papers submitted to NAACL 2021 and ICLR 2021:<br>
+(1) If you plan to re-submit your NAACL 2021 submission to ACL-IJCNLP 2021, you must submit to ACL-IJCNLP 2021 an abstract by Jan 25 and the full paper by Feb 1, AND withdraw your paper from NAACL 2021 by Feb 1, 2021.<br>
+(2) If your paper has been rejected by ICLR 2021, you cannot resubmit it to ACL-IJCNLP 2021 because ICLR 2021 will post the rejected paper list after Jan 1 (the start of the anonymity period for ACL-IJCNLP 2021). However, if you withdrew your submission from ICLR 2021 on or before Jan 1, 2021, you can resubmit it to ACL-IJCNLP 2021, assuming you do not post the paper online after Jan 1. 2021. <br>
+For more detail, see the Paper Submission FAQ at [https://2021.aclweb.org/blog/paper-submission-faqs/](https://2021.aclweb.org/blog/paper-submission-faqs/)
+<br><br>
 <p align="justify">The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for 
 Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on Natural Language 
 Processing (ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok, 
