@@ -15,7 +15,9 @@ toc_icon: "cog"
 (4) Finally, after your initial submission, you should have received an automatic confirmation email which shows your submission ID. If you have not received that email, that means the email has been bounced back. In that case, please check your email address associated with your softconf account and replace that email address with one that works properly.<br/>
 <br/>
 The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/). Please be aware of the abstract submission deadline on **January 25, 2021**, which is a week ahead of the full paper submission deadline on **February 1, 2021**. Here are [the abstract submission form](https://2021.aclweb.org/downloads/Abstract_Submission_Form.pdf) and [the full paper submission form](https://2021.aclweb.org/downloads/Full_Paper_Submission_Form.pdf) for your reference.
-
+<br><br>
+We have received a lot of questions about papers submitted to NAACL 2021 and ICLR 2021:
+<br><br>
 ## Final CFP: ACL-IJCNLP 2021, Bangkok, Thailand
 The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on 
 Natural Language Processing<br>
@@ -23,9 +25,6 @@ The Berkeley Hotel, Bangkok, Thailand<br>
 August 1-6, 2021  <br>
 [https://2021.aclweb.org/](https://2021.aclweb.org/)<br><br>
 
-We have received a lot of questions about papers submitted to NAACL 2021 and ICLR 2021:<br>
-
-<br><br>
 <p align="justify">The Joint Conference of the 59<span style="vertical-align: super;">th</span> Annual Meeting of the Association for 
 Computational Linguistics and the 11<span style="vertical-align: super;">th</span> International Joint Conference on Natural Language 
 Processing (ACL-IJCNLP 2021) is currently scheduled to take place in Bangkok, 
