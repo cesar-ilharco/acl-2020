@@ -43,3 +43,6 @@ This step is on a voluntary basis. If you participate in this stage, you need to
 Stage 3 (After March 20, 2021): Mentoring program quality check
 
 After March 20, all the first-time reviewers and mentors will be asked to complete an online survey to evaluate the effectiveness of the mentoring program.  The aggregated results from the survey, with all the private information removed, will be made available to the ACL community. 
+
+### As a first-time reviewer, how will I be contacted by the mentoring committee and by my mentor? 
+The mentoring committee will contact you using emails you provided on the reviewer form. The first email will arrive around Feb 1. Your mentor will use the same emails for communication. 
