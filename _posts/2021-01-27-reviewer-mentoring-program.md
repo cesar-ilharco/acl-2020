@@ -53,4 +53,5 @@ Hopefully, the tutoring materials prepared by the mentoring committee will help 
 In addition, for common questions such as "What is usually the expected time I should spend on reviewing a short paper?", "Should I read source code provided by the authors?" The mentoring committee conducted a survey in December 2020 with Senior Area Chair and Area Chairs. Consequently, we are strongly invited to have a look at the results of that survey in its dedicated blog post page.
 
 The mentoring program would be impossible without you and mentors 
+
 We deeply thank all the first-time reviewers for completing the program and all the ACL-IJCNLP'21 Area Chairs who will be enrolled in this program as mentors. We recognize this as an extra effort asked of them for the sake of quality of the ACL-IJCNLP'21 edition. Given the importance of review quality and the significant increase of paper submissions, we recognize this effort and we are grateful for their work in this matter.
