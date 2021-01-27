@@ -21,6 +21,8 @@ sidebar:
 <h3>Sponsorship Co-Chairs:</h3>
 [Jing LI](http://www4.comp.polyu.edu.hk/~jing1li/),  The Hong Kong Polytechnic University, Hong Kong, China<br/>
 [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/), Fudan University, China<br/>
+[Rachada Kongkrachantra](https://cs.sci.tu.ac.th/rachada-kongkachandra/), Thammasat University, Thailand<br/>
+[Kobkrit Viriyayudhakorn](https://kobkrit.com/), iApp Technology Co., Ltd., Thailand<br/>
 
 <h3>Tutorial Chairs:</h3>
 [David Chiang](https://www3.nd.edu/~dchiang/), University of Notre Dame, USA<br/>
@@ -56,10 +58,6 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 <h3>Handbook Chair:</h3>
 [Krit Kosawat](https://www.nectec.or.th/hccru/staff/view/66), NECTEC, NSTDA, Thailand<br/>
-
-<h3>Local Sponsorship Chairs:</h3>
-[Rachada Kongkrachantra](https://cs.sci.tu.ac.th/rachada-kongkachandra/), Thammasat University, Thailand<br/>
-[Kobkrit Viriyayudhakorn](https://kobkrit.com/), iApp Technology Co., Ltd., Thailand<br/>
 
 <h3>Audio-Video Chairs:</h3>
 [Suchathit Boonnag](https://language-semantic.org/profiles/suchathit-boonnag), AIAT, Thailand<br/>
