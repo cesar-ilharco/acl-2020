@@ -1,13 +1,13 @@
 ---
-title: "Reviewer Mentoring"
-author: Christophe Gravier, Jing Huang
+title: "Reviewer Mentoring Program"
+author: Antoine Bosselut, Christophe Gravier, Jing Huang
 author_profile: true
 excerpt: ""
 tags:
-  reviewer
+  reproducibility
   faqs
 categories:
     blog
 ---
 
-### Rationale for the reviewer mentoring program survey
+### Rationale for the reviewer mentoring program 
