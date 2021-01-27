@@ -8,9 +8,6 @@ tags:
   faqs
 categories:
     blog
-toc: true
-toc_sticky: true
-toc_icon: "cog"
 ---
 
 ### Rationale for the reviewer mentoring program survey
