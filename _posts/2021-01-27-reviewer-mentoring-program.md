@@ -39,3 +39,7 @@ Stage 1 (Feb 1-12, 2021): Watching videos and optionally signing up for one-on-o
 Stage 2 (Feb 25 - March 20): One-on-one mentoring during the review period
 
 This step is on a voluntary basis. If you participate in this stage, you need to complete one of your reviews by March 10, ten days before the normal review due date (Your mentor will tell you beforehand which review needs to be submitted early). Your mentor will read your review and provide feedback. You can then revise your review based on the feedback. Your mentor will read the revision and make further suggestions if needed.
+
+Stage 3 (After March 20, 2021): Mentoring program quality check
+
+After March 20, all the first-time reviewers and mentors will be asked to complete an online survey to evaluate the effectiveness of the mentoring program.  The aggregated results from the survey, with all the private information removed, will be made available to the ACL community. 
