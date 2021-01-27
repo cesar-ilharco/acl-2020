@@ -46,3 +46,11 @@ After March 20, all the first-time reviewers and mentors will be asked to comple
 
 ### As a first-time reviewer, how will I be contacted by the mentoring committee and by my mentor? 
 The mentoring committee will contact you using emails you provided on the reviewer form. The first email will arrive around Feb 1. Your mentor will use the same emails for communication. 
+
+### As a first-time reviewer, what is expected from my review from my mentor?
+Hopefully, the tutoring materials prepared by the mentoring committee will help you to become more familiar with reviewing for ACL-IJCNLP 2021. Nonetheless, those tutorial materials do not necessarily answer questions specific to a particular paper submission, such as “this paper does not do X, should I lower my overall recommendation score because of that?”. You can ask this kind of question to your mentor, besides your review.
+
+In addition, for common questions such as "What is usually the expected time I should spend on reviewing a short paper?", "Should I read source code provided by the authors?" The mentoring committee conducted a survey in December 2020 with Senior Area Chair and Area Chairs. Consequently, we are strongly invited to have a look at the results of that survey in its dedicated blog post page.
+
+The mentoring program would be impossible without you and mentors 
+We deeply thank all the first-time reviewers for completing the program and all the ACL-IJCNLP'21 Area Chairs who will be enrolled in this program as mentors. We recognize this as an extra effort asked of them for the sake of quality of the ACL-IJCNLP'21 edition. Given the importance of review quality and the significant increase of paper submissions, we recognize this effort and we are grateful for their work in this matter.
