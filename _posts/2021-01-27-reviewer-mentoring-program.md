@@ -35,3 +35,7 @@ Stage 1 (Feb 1-12, 2021): Watching videos and optionally signing up for one-on-o
 (d) If after watching the videos and going over the optional materials, you want to be paired with a mentor to further improve your reviewing skills, you can sign up for Stage 2 of the program (aka the one-on-one mentoring). The deadline for signup is Feb 12. Note that the participation in Stage 2 is on a voluntary basis.
 
 (e) The mentoring committee will then pair up the reviewers with mentors before the review period starts on Feb 25. 
+
+Stage 2 (Feb 25 - March 20): One-on-one mentoring during the review period
+
+This step is on a voluntary basis. If you participate in this stage, you need to complete one of your reviews by March 10, ten days before the normal review due date (Your mentor will tell you beforehand which review needs to be submitted early). Your mentor will read your review and provide feedback. You can then revise your review based on the feedback. Your mentor will read the revision and make further suggestions if needed.
