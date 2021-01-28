@@ -9,16 +9,18 @@ tags:
 categories:
     blog
 ---
+**If you need to contact PCs, please use English. PCs have received several emails in non-English.
+And also, when you discuss your submissions with your co-authors, please do NOT cc PCs.**
 
 ## Double Submissions and Anonymity Issues
 
 ### Q1: My paper recently gets rejected from ICLR 2021. The paper is automatically de-anonymized on January 15, 2021. Can I submit my paper to ACL-IJCNLP 2021?
 
-A1: The anonymity period starts on January 1, 2021. The papers rejected by ICLR 2021 should not be submitted to ACL-IJCNLP 2021.
+A1: The anonymity period starts on January 1, 2021. In general, the papers rejected by ICLR 2021 should not be submitted to ACL-IJCNLP 2021. On the other hand, if you have a non-anonymized version of the paper posted on or before January 1, 2021, please see Q2.
 
-### Q2: We have submitted our paper to ICLR 2021 and we also have a non-anonymized version on arXiv now. ICLR'2021 will notify us of the final result on January 12, 2021 which is in the anonymity period of ACL-IJCNLP 2021, we wonder if it would be against the anonymous policy if we submit that paper to ACL-IJCNLP 2021 at that time. 
+### Q2: We have submitted our paper to ICLR 2021 and we also have a non-anonymized version on arXiv now. ICLR 2021 notifies us of the final result and de-anonymizes the submission on January 12, 2021 which is in the anonymity period of ACL-IJCNLP 2021, we wonder if it would be against the anonymous policy if we submit that paper to ACL-IJCNLP 2021 at that time. 
 
-A2: If your paper is no longer under review (e.g., desk rejected, withdrawn) at ICLR before ACL-IJCNLP 2021's submission deadline and your de-anonymized paper is posted before January 1, 2021, you can submit your paper to ACL-IJCNLP 2021. Any de-anonymization after January 1 will not be eligible for re-submission to ACL-IJCNLP 2021.
+A2: If your non-anonymized paper is posted on or before January 1, 2021, you can submit your paper to ACL-IJCNLP 2021.
 
 ### Q3: Our paper has already been accepted at a workshop. There are no formal proceedings for this workshop. We want to submit our work to ACL-IJCNLP 2021. Do we need to take any special steps to ensure its eligibility for ACL-IJCNLP 2021, for example, to ensure that the workshop does not post the paper online during the anonymity period?
 
@@ -32,7 +34,7 @@ A4: For arXiv submissions, January 1, 2021 11:59pm UTC-12h (anywhere on earth) i
 A5: As long as you don't update your arXiv preprint during the anonymity period, you won't be considered as violating the anonymity policy. That is, you can still update your web demo and a GitHub repo after anonymity begins.
 
 ### Q6: Can we submit a paper based on work reported previously in a talk?
-A6: You are most welcome to submit your work to ACL-IJCNLP 2021 as long as the talk or the previous venue you submit work to does not have a formal proceedings, with an ISBN/ISSN/DOI or similar.
+A6: You are most welcome to submit your work to ACL-IJCNLP 2021 as long as the talk or the previous venue you submit work to does not have a formal proceeding, with an ISBN/ISSN/DOI or similar.
 
 ### Q7: Can we submit ACL-IJCNLP 2021 main conference papers to ACL-IJCNLP workshops?
 A7: We allow papers dual-submitted to both ACL-IJCNLP 2021 main conference and its workshops.
@@ -43,7 +45,7 @@ A8: If your workshop paper is published online between January 1, 2021 and May 5
 ### Q9: In my paper submission, can I include a link to my source code at github?
 A9: Please do not include github links that reveal the authors' identities in your submission. If you feel it is important to include your source code, you can zip the code and submit it to softconf. If your paper is accepted, you can include the github link in the camera-ready version.
 
-## Page limit
+## Page Limit
 
 ### Q1: What is the page limit of theme papers? 
 A1: Submission requirements for theme papers are the same as long papers.
@@ -57,7 +59,7 @@ A3: The page limit of the appendix is 4 pages.
 ### Q4: Should the appendix be submitted as a separate document?
 A4: Yes. It should be submitted as a separate pdf file. It should not be included in the main paper.
 
-## Abstract Submission
+## Abstract and Full Paper Submissions
 
 ### Q1: Why does the conference require abstracts to be submitted by January 25, 2021?
 A1: The review period of ACL-IJCNLP 2021 is a couple of weeks shorter than that of ACL 2020, mainly due to the coordination with NAACL 2021. To deal with the shortened review cycle, we require authors to submit an abstract one week before the full-paper deadline in order to prepare for the review cycle.
