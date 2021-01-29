@@ -25,6 +25,9 @@ main:
   - title: "Blog"
     url: /blog
 
+  - title: Sponsorship
+    url: https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf
+
   - title: "Venue"
     url: /venue
 
