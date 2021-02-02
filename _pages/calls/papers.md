@@ -47,8 +47,8 @@ Computational Linguistics (CL) journals.</p>
 <table style="width: 100%">
     <tbody>
         <tr>
-            <td style="width: 70%;"><span style="color:blue">Anonymity period begins:</span> </td>
-            <td style="width: 30%;">January 1, 2021</td>
+            <td style="width: 70%;"><span style="color:#eeeeee">Anonymity period begins:</span> </td>
+            <td style="width: 30%;"><span style="color:#eeeeee">January 1, 2021</span></td>
         </tr>
         <tr>
             <td style="width: 70%;">Abstract submission deadline<br/>(<i>long &amp; short papers</i>): </td>
