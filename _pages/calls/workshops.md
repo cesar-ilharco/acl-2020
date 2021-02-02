@@ -50,7 +50,7 @@ Samira Shaikh and Wei Xu</i><br/>
 <i>Song Feng, He He, Siva Reddy, Malihe Alikhani, Mohit Iyyer, Yangfeng Ji and Zhou Yu</i><br/>
 - [Workshop on NLP for Positive Impact](https://sites.google.com/view/nlp4positiveimpact2021)<br/>
 <i>Anjalie Field, Shrimai Prabhumoye, Maarten Sap, Zhijing Jin, Jieyu Zhao and Chris Brockett</i><br/>
-- 17th Workshop on Multiword Expressions (MWE 2021)<br/>
+- [17th Workshop on Multiword Expressions (MWE 2021)](https://multiword.org/mwe2021)<br/>
 <i>Paul Cook, Jelena Mitrovic, Carla Parra Escartín, Ashwini Vaidya, Petya Osenova, 
 Shiva Taslimipoor and Carlos Ramisch</i><br/>
 - [6th Workshop on Representation Learning for NLP (RepL4NLP-2021)](https://sites.google.com/view/repl4nlp-2021/)<br/>
@@ -63,8 +63,8 @@ Ngoc Thang Vu and Dilek Hakkani-Tur</i><br/>
 <i>Zornitsa Kozareva, Sujith Ravi, Andreas Vlachos, Priyanka Agrawal and André F. T. Martins</i><br/>
 - [Understanding Implicit and Underspecified Language](https://unimplicit.github.io/)<br/>
 <i>Michael Roth, Reut Tsarfaty and Yoav Goldberg</i><br/>
-- SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
-Communication for Robotics<br/>
+- [SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
+Communication for Robotics](https://2021.aclweb.org/calls/workshops/)<br/>
 - [Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)](https://emw.ku.edu.tr/case-2021/)<br/>
 <i>Ali Hürriyetoglu, Hristo Tanev, Vanni Zavarella, Deniz Yuret, Erdem Yörük, Aline Villavicencio, 
 Jakub Piskorski and Gautam Kishore Shahi</i><br/>
