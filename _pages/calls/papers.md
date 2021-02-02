@@ -8,18 +8,15 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
+<span style="color:red">**Due to the continued down of softconf, we decided to extend the ACL-IJCNLP 
+deadline by 1 full day (i.e. February 2nd 11:59PM UTC-12 ("anywhere on Earth"))**</span>
+
 We have received a lot of questions about papers submitted to NAACL 2021 and ICLR 2021:<br>
 (1) If you plan to re-submit your NAACL 2021 submission to ACL-IJCNLP 2021, you must submit to ACL-IJCNLP 2021 an abstract by Jan 25 and the full paper by Feb 1, AND withdraw your paper from NAACL 2021 by Feb 1, 2021.<br>
 (2) If your paper has been rejected by ICLR 2021, you cannot resubmit it to ACL-IJCNLP 2021 because ICLR 2021 will post the rejected paper list after Jan 1 (the start of the anonymity period for ACL-IJCNLP 2021). However, if you withdrew your submission from ICLR 2021 on or before Jan 1, 2021, you can resubmit it to ACL-IJCNLP 2021, assuming you do not post the paper online after Jan 1. 2021. <br>
 For more detail, see the Paper Submission FAQ at 
 [https://2021.aclweb.org/blog/paper-submission-faqs/](https://2021.aclweb.org/blog/paper-submission-faqs/)
 <br><br>
-**NEW:** The abstract submission deadline is Jan 25, 2021.<br/>
-(1) You will NOT be able to submit the full paper if you miss the 1/25 deadline.<br/>
-(2)  If you submit an abstract but decide not to submit the full paper, please withdraw your submission by Feb 1. <br/>
-(3) Also, if you have multiple submissions for the same paper (i.e., several submission IDs with the same title), please keep only one of these submissions and withdraw the rest by Feb 1; otherwise, we will not know which version you want to be reviewed, and would have to desk-reject all the submissions. <br/>
-(4) Finally, after your initial submission, you should have received an automatic confirmation email which shows your submission ID. If you have not received that email, that means the email has been bounced back. In that case, please check your email address associated with your softconf account and replace that email address with one that works properly.<br/>
-<br/>
 The submission site is now available at [https://www.softconf.com/acl2021/papers/](https://www.softconf.com/acl2021/papers/). Please be aware of the abstract submission deadline on **January 25, 2021**, which is a week ahead of the full paper submission deadline on **February 1, 2021**. Here are [the abstract submission form](https://2021.aclweb.org/downloads/Abstract_Submission_Form.pdf) and [the full paper submission form](https://2021.aclweb.org/downloads/Full_Paper_Submission_Form.pdf) for your reference.
 
 <br><br>
@@ -56,7 +53,7 @@ Computational Linguistics (CL) journals.</p>
         </tr>
         <tr>
             <td style="width: 70%;">Full paper submission deadline<br/>(<i>long &amp; short papers</i>): </td>
-            <td style="width: 30%;">February 1, 2021</td>
+            <td style="width: 30%;"><strike>February 1, 2021</strike> February 2, 2021</td>
         </tr>
         <tr>
             <td style="width: 70%;">Author global profile and author form deadline: </td>
