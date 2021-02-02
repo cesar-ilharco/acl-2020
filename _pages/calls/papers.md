@@ -51,8 +51,8 @@ Computational Linguistics (CL) journals.</p>
             <td style="width: 30%;"><span style="color:#aaaaaa">January 1, 2021</span></td>
         </tr>
         <tr>
-            <td style="width: 70%;">Abstract submission deadline<br/>(<i>long &amp; short papers</i>): </td>
-            <td style="width: 30%;">January 25, 2021</td>
+            <td style="width: 70%;"><span style="color:#aaaaaa">Abstract submission deadline<br/>(<i>long &amp; short papers</i>): </span></td>
+            <td style="width: 30%;"><span style="color:#aaaaaa">January 25, 2021</span></td>
         </tr>
         <tr>
             <td style="width: 70%;">Full paper submission deadline<br/>(<i>long &amp; short papers</i>): </td>
