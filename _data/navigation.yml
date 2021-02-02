@@ -25,7 +25,7 @@ main:
   - title: "Blog"
     url: /blog
 
-  - title: Sponsorship
+  - title: Sponsors
     url: https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf
 
   - title: "Venue"
@@ -53,6 +53,8 @@ calls:
         # url: /calls/tutorials/
        - title: "Student Research Workshop"
          url: https://sites.google.com/view/acl-ijcnlp-2021-srw/
+       - title: "Paper Submission FAQ"
+         url: https://2021.aclweb.org/blog/paper-submission-faqs/
 
 authors:
    - title: Instructions for Authors
