@@ -10,6 +10,8 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Feb 02, 2020**. Please checkout the [Forum](https://2021.aclweb.org/mybb/) for News and Announcement.
+{: .notice--info} 
 
 
 <!--div class="text-center">
