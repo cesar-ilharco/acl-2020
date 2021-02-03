@@ -8,18 +8,15 @@ header:
 excerpt: "<br/><br/>"
 ---
 
-<!--h2>News</h2>
+<h2>News</h2>
 
-**Feb 12, 2020**. The author response period has now begun (Feb 12-17). Please checkout the [ordinary review form](/docs/ACL_2020_Submission_Form.pdf) and [Theme review form](/docs/ACL20-ThemeReviewForm.pdf) used by the reviewers.
+**Feb 02, 2020**. Please checkout the [Forum](https://2021.aclweb.org/mybb/) for News & Announcement.
 {: .notice--info} 
 
-**Feb 04, 2020**. New blog post describing the [Diversity &amp; Inclusion Committee](/blog/diversity-and-inclusion).
+**Feb 01, 2020**. Due to the continued down of softconf, we decided to extend the ACL-IJCNLP deadline by 1 full day (i.e. February 2nd 11:59PM UTC-12 (“anywhere on Earth”)).
 {: .notice--info} 
 
-**Jan 23, 2020**. Checkout out the new PC blog post on [Start of Review Process](/blog/start-of-review-process).
-{: .notice--info} 
-
-<div class="text-center">
+<!--div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div-->
 
