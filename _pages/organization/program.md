@@ -18,7 +18,7 @@ sidebar:
 <br/>
 <b>Discourse and Pragmatics</b><br/>
 <b>SACs:</b> Vera Demberg, Michael Strube<br/>
-<b>ACs:</b> Jacob Andreas, Chloé Braud, Nafise Sadat Moosavi<br/>
+<b>ACs:</b> Jacob Andreas, Chloé Braud, Nafise Sadat Moosavi, Sharid Loaiciga, Sadao Kurohashi<br/>
 <br/>
 <b>Ethics in NLP</b><br/>
 <b>SACs:</b> Ryan Georgi, Dirk Hovy<br/>
@@ -42,7 +42,7 @@ sidebar:
 <br/>
 <b>Language Grounding to Vision, Robotics and Beyond</b><br/>
 <b>SACs:</b> Mohit Bansal, Hannaneh Hajishirzi<br/>
-<b>ACs:</b> Yoav Artzi, Joyce Chai, Desmond Elliott, Chuang Gan, Zhe Gan, Ani Kembhavi, Radu Soricut, Jesse Thomason, Mark Yatskar<br/>
+<b>ACs:</b> Yoav Artzi, Joyce Chai, Desmond Elliott, Chuang Gan, Zhe Gan, Ani Kembhavi, Radu Soricut, Jesse Thomason, Mark Yatskar,  Nancy Chen, Chuang Gan<br/>
 <br/>
 <b>Linguistic Theories, Cognitive Modeling and Psycholinguistics</b><br/>
 <b>SACs:</b> Roger Levy, James Pustejovsky<br/>
