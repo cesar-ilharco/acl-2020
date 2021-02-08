@@ -102,3 +102,6 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <h3> Website &amp; Conference App Chairs:</h3>
 [Chutima Beokhaimook](https://it.rsu.ac.th/th/persons/5490077), Rangsit University, Thailand<br/>
 [Witchaworn Mankhong](https://www.nectec.or.th/hccru/staff/view/77), NECTEC, NSTDA, Thailand<br/>
+
+<h3> Technical Support:</h3>
+[C. M. Downey](https://cmdowney88.github.io/), University of Washington, USA
