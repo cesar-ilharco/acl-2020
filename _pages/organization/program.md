@@ -14,7 +14,7 @@ sidebar:
 <br/>
 <b>Dialogue and Interactive Systems</b><br/>
 <b>SACs:</b> Minlie Huang, Gina-Anne Levow, Jason Williams<br/>
-<b>ACs:</b> Luciana Benotti, Y-Lan Boureau, Yunbo Cao, Asli Celikyilmaz, Yun-Nung Chen, Heriberto Cuayahuitl, Emily Dinan, Maryam Fazel-Zarandi, Kallirroi Georgila, Alborz Geramifard, Matthew Henderson, Ryuichiro Higashinaka, Kentaro Inui, Casey Kennington, Kazunori Komatani, Sungjin Lee, Rebecca J. Passonneau, Giuseppe Riccardi, Ethan Selfridge, Gabriel Skantze, Ruihua Song, David Traum, Stefan Ultes, Tsung-Hsien Wen, Wei Wu, Rui Yan, Zhou Yu, Wei-Nan Zhang<br/>
+<b>ACs:</b> Luciana Benotti, Y-Lan Boureau, Yunbo Cao, Asli Celikyilmaz, Yun-Nung Chen, Heriberto Cuayahuitl, Emily Dinan, Maryam Fazel-Zarandi, Kallirroi Georgila, Alborz Geramifard, Matthew Henderson, Ryuichiro Higashinaka, Kentaro Inui, Casey Kennington, Kazunori Komatani, Sungjin Lee, Rebecca J. Passonneau, Giuseppe Riccardi, Ethan Selfridge, Gabriel Skantze, Ruihua Song, David Traum, Stefan Ultes, Tsung-Hsien Wen, Wei Wu, Rui Yan, Zhou Yu, Wei-Nan Zhang, Kai Yu<br/>
 <br/>
 <b>Discourse and Pragmatics</b><br/>
 <b>SACs:</b> Vera Demberg, Michael Strube<br/>
