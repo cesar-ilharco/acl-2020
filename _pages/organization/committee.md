@@ -65,10 +65,20 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 <h3>Diversity & Inclusion (D&I) Chairs:</h3>
 [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Tsinghua University, China<br/>
-[Martha Yifiru](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis, Ethiopia<br/>
-[Alvin Grissom](https://www.ursinus.edu/live/profiles/3125-alvin-grissom-ii), Ursinus College, USA<br/>
-[Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), Heidelberg University, Germany<br/>
+[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
+[Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University, China <br/>
 [Avirup Sil](http://ibm.biz/avirupsil), IBM, USA<br/>
+[Sara Rosenthal](https://researcher.watson.ibm.com/researcher/view.php?person=us-sjrosenthal), IBM Research AI, USA<br/>
+[Kayathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University, USA<br/>
+[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/>
+[Martha Yifiru](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis, Ethiopia<br/>
+[Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), Heidelberg University, Germany<br/>
+[Ignatius Eziani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University, United Kingdom<br/>
+[Manuel Mager](http://code.kiutz.com/), University of Stuttgart, Germany<br/>
+[Nafise Moosavi](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_43136.en.jsp), TU Darmstadt, Germany<br/>
+[Alvin Grissom](http://alving.me), Haverford College, USA<br/>
+[Xanda Scofield](https://www.cs.hmc.edu/~xanda), Harvey Mudd College, USA<br/>
+[Pedro Rodriguez](https://www.pedro.ai/), University of Maryland, College Park, USA<br/>
 
 <h3>Ethic Advisory Committee (EAC)</h3>
 [Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
