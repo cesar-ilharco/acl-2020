@@ -61,7 +61,7 @@ Ngoc Thang Vu and Dilek Hakkani-Tur</i><br/>
 - [Understanding Implicit and Underspecified Language](https://unimplicit.github.io/)<br/>
 <i>Michael Roth, Reut Tsarfaty and Yoav Goldberg</i><br/>
 - [SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
-Communication for Robotics](https://2021.aclweb.org/calls/workshops/)<br/>
+Communication for Robotics](https://splu-robonlp2021.github.io/)<br/>
 - [Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)](https://emw.ku.edu.tr/case-2021/)<br/>
 <i>Ali Hürriyetoglu, Hristo Tanev, Vanni Zavarella, Deniz Yuret, Erdem Yörük, Aline Villavicencio, 
 Jakub Piskorski and Gautam Kishore Shahi</i><br/>
