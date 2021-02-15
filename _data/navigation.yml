@@ -48,8 +48,8 @@ calls:
      children:
        - title: "Main Conference Papers"
          url: /calls/papers/
-       #- title: "System Demonstrations"
-        # url: /calls/demos/
+       - title: "System Demonstrations"
+         url: https://2021.aclweb.org/downloads/ACL2021DemoCFP.pdf
        #- title: "Workshop"
         # url: /calls/workshops/
        #- title: "Tutorial Proposals"
