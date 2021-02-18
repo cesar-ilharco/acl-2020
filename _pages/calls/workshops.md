@@ -10,7 +10,7 @@ Workshops:<br/>
 <br/>
 - [*SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2021/home) (2 days) <br/>
 <i>Ivan Vulic and Vivi Nastase</i><br/>
-- [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://www.softconf.com/coling2020/SemEval/login/) (2 days) <br/>
+- [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://semeval.github.io/SemEval2021/) (2 days) <br/>
 <i>Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu</i><br/>
 - International Conference on Spoken Language Translation (IWSLT) (2 days) <br/>
 <i>Marcello Federico, Alexander Waibel, Satoshi Nakamura, Hermann Ney, Jan Niehues, 
@@ -24,10 +24,9 @@ Bertie Vidgen and Zeerak Waseem</i><br/>
 <i>Nina Tahmasebi, Adam Jatowt, Yang Xu, Simon Hengchen and Syrielle Montariol</i><br/>
 - Third Workshop on Gender Bias for Natural Language Processing<br/>
 <i>Marta R. Costa-jussà, Kellie Webster and Christian Hardmeier</i><br/>
-- Workshop Proposal for the Eighteenth SIGMORPHON Workshop on 
-Computational Research in Phonetics, Phonology, and Morphology<br/>
+- [The  Eighteenth SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology](https://sigmorphon.github.io/workshops/2021/)<br/>
 <i>Garrett Nicolai, Kyle Gorman and Ryan Cotterell</i><br/>
-- The 8th Workshop on Asian Translation (WAT2021)<br/>
+- [The 8th Workshop on Asian Translation (WAT2021)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2021/)<br/>
 <i>Toshiaki Nakazawa, Isao Goto, Hideya Mino, Chenchen Ding, Raj Dabre, Anoop 
 Kunchukuttan, Shantipriya Parida, Ondrej Bojar, Chenhui Chu, Hideki Nakayama, 
 Mahmoud Al-Ayyoub, Win Pa Pa, Akiko Eriguchi, Yusuke Oda, Hiroshi Manabe, 
@@ -35,12 +34,12 @@ Katsuhito Sudoh, Sadao Kurohashi and Pushpak Bhattacharyya</i><br/>
 - [Workshop on Natural Language Processing for Programming](https://nlp4prog.github.io/2021/)<br/>
 <i>Royi Lachmy, Ziyu Yao, Greg Durrett, Milos Gligoric, Junyi Jessy Li, Raymond Mooney, 
 Graham Neubig, Yu Su, Huan Sun and Reut Tsarfaty</i><br/>
-- The 4th Workshop on e-Commerce and NLP (ECNLP 4)<br/>
+- [The 4th Workshop on e-Commerce and NLP (ECNLP 4)](https://sites.google.com/view/ecnlp)<br/>
 <i>Shervin Malmasi, Eugene Agichtein, Nicola Ueffing, Surya Kallumadi, Oleg Rokhlenko and Ido Guy</i><br/>
 - [Interactive Learning for Natural Language Processing](https://sites.google.com/view/internlp2021/home)<br/>
 <i>Kianté Brantley, Soham Dan, Iryna Gurevych, Ji-Ung Lee, Filip Radlinski, Hinrich Schütze, 
 Edwin Simpson and Lili Yu</i><br/>
-- GEM: Natural Language Generation, Evaluation, and Metrics<br/>
+- [GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/)<br/>
 <i>Sebastian Gehrmann, Antoine Bosselut, Esin Durmus, Varun Gangal, Laura Perez-Beltrachini, 
 Samira Shaikh and Wei Xu</i><br/>
 - [Document-grounded Dialogue and Conversational QA](https://doc2dial.github.io/workshop2021/)<br/>
