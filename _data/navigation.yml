@@ -14,7 +14,7 @@ main:
     url: /calls/papers
   
   - title: "Tutorials"
-    url: /calls/tutorials
+    url: /program/tutorials
    
   - title: "Demos"
     url: https://2021.aclweb.org/downloads/ACL2021DemoCFP.pdf
@@ -56,9 +56,7 @@ calls:
    - title: Call for
      children:
        - title: "Main Conference Papers"
-         url: /calls/papers/
-       - title: "Tutorial Proposals"
-         url: /calls/tutorials/
+         url: /calls/papers/	 
        - title: "Paper Submission FAQ"
          url: https://2021.aclweb.org/blog/paper-submission-faqs/
 
@@ -71,12 +69,14 @@ authors:
 program:
    - title: Program Details
      children:
-       - title: "Tutorials"
-         url: /program/tutorials/
-       - title: "Workshops"
-         url: /program/workshops/
-       - title: "Keynote Speakers"
-         url: /program/keynotes/
+       - title: "Tutorial Proposals EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021"
+         url: https://2021.eacl.org/calls/tutorials/
+        - title: "Tutorials"
+          url: /program/tutorials/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Keynote Speakers"
+#         url: /program/keynotes/
 #       - title: "Accepted Papers"
 #         url: /program/accepted/
 #       - title: "Careers in NLP Panel"
