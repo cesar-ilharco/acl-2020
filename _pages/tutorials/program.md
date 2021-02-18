@@ -34,9 +34,16 @@ In the tutorial, we will first introduce Meta learning approaches and the theory
 
 ### T4: Pre-training Methods for Neural Machine Translation (3 hours) 
 
-*Instructors: MingxuanWang, Lei Li* 
+*Instructors: Mingxuan Wang, Lei Li* 
 
 This tutorial provides a comprehensive guide to make the most of pre-training for neural machine translation, including multilingual NMT and speech NMT. Firstly, we will briefly introduce the background of NMT, pre-training methodology, and point out the main challenges when applying pre-training for NMT. Then we will focus on analyzing the role of pre-training in enhancing the performance of NMT, how to design a better pretraining model for executing specific NMT tasks and how to better integrate the pre-trained model into NMT system. In each part, we will provide examples, discuss training techniques and analyze what is transferred when applying pre-training. 
+
+T5: Prosody: Models, Methods, and Applications (3 hours)
+
+*Instructors: Nigel Ward, Gina-Anne Levow* 
+
+Prosody is fundamental to human interaction, enabling people to show interest, establish rapport, efficiently convey nuances of attitude or intent, and so on. Over the past ten years the ability to effectively model prosody has rapidly advanced. This tutorial will start with the acoustic and perceptual foundations and the basics of prosodic feature computation and normalization. It will then discuss prosody's three realms of function: phonological and structural, paralinguistic, and pragmatic, with short, non-computational pair work exercises to illustrate. The tutorial will survey some classic and recent representations, models, algorithms, tools and resources. Finally we will overview the state of the art in the major applications areas and discuss both short-term and long-term challenges.​ 
+
 
 
 
