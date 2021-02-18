@@ -71,9 +71,9 @@ program:
      children:
        - title: "Tutorial Proposals EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021"
          url: https://2021.eacl.org/calls/tutorials/
-        - title: "Tutorials"
-          url: /program/tutorials/
-#       - title: "Workshops"
+       - title: "Tutorials"
+         url: /program/tutorials/
+#     - title: "Workshops"
 #         url: /program/workshops/
 #       - title: "Keynote Speakers"
 #         url: /program/keynotes/
