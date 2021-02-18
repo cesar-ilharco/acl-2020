@@ -7,36 +7,15 @@ sidebar:
     nav: tutorials
 ---
 
-The following tutorials have been accepted for ACL 2020 and will be held on Sunday, July 5th, 2020. 
-
-
-## Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		
+The following tutorials have been accepted for ACL-IJCNLP 2021 and will be held on Sunday, August 1th, 2021. 
 		
-### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
-*Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
+## T1: Advances in Debating Technologies: Building AI That Can Debate Humans (3 Hours) <br/>
+*Organizers: [Roy Bar-Haim](roybar@il.ibm.com), [Liat Ein-Dor](liate@il.ibm.com), [Matan Orbach] (matano@il.ibm.com) and Noam Slonim (noams@il.ibm.com) IBM Research AI*
 
-### T2: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge) <br/>
-*Organizers: Xin Luna Dong, Hannaneh Hajishirzi, Colin Lockard and Prashant Shiralkar* 
+The tutorial focuses on Debating Technologies, a sub-field of computational argumentation defined as "computational technologies developed directly to enhance, support, and engage with human debating" (Gurevych et al., 2016). A recent milestone in this field is Project Debater, which was revealed in 2019 as the first AI system that can debate human experts on complex topics. Project Debater is the third in the series of IBM Research AI's grand challenges, following Deep Blue and Watson. It has been developed for over six years by a large team of NLP and ML researchers and engineers, and its live demonstration in February 2019 received massive media attention. This research effort has resulted in more than 50 scientific papers to date, and many datasets freely available for research purposes. We discuss the scientific challenges that arise when building such a system, including argument mining, argument quality assessment, stance classification, principled argument detection, narrative generation, and rebutting a human opponent. Many of the underlying capabilities of Project Debater will become freely available for academic research starting April 2021, and the tutorial will include a detailed explanation of how to use and leverage these tools.
 
-### T3: Reviewing Natural Language Processing Research (Introductory) <br/>
-*Organizers: Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol* 
+A complementary goal of the tutorial is to provide a holistic view of a debating system. Such a view is largely missing in the academic literature, where each paper typically addresses a specific problem in isolation. We present a complete pipeline of a debating system, and discuss the information flow and the interaction between the various components. Finally, we discuss practical applications and future challenges of debating technologies. 
 
-### T4: Stylized Text Generation: Approaches and Applications (Cutting-edge) <br/>
-*Organizers: Lili Mou and Olga Vechtomova* 
-			
-## Afternoon (2 p.m. to 5:30 p.m., with a break at 3:30-4:00)
-
-### T5: Achieving Common Ground in Multi-modal Dialogue (Cutting-edge) <br/>
-*Organizers: Malihe Alikhani and Matthew Stone* 
-
-### T6: Commonsense Reasoning for Natural Language Processing (Introductory) <br/>
-*Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut, Dan Roth and Yejin Choi* 
-
-### T7: Integrating Ethics into the NLP Curriculum (Introductory) <br/>
-*Organizers: Emily M. Bender, Dirk Hovy and Alexandra Schofield* 
-
-### T8: Recent Advances in Open-Domain Question Answering (Cutting-edge) <br/>
-*Organizers: Danqi Chen and Scott Wen-tau Yih* 
 
 
 
