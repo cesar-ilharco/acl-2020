@@ -23,7 +23,9 @@ A complementary goal of the tutorial is to provide a holistic view of a debating
 
 ### T2: Event-Centric Natural Language Understanding (3.5 Hours)
 *Instructors: Muhao Chen, Hongming Zhang, Qiang Ning, Manling Li, Heng Ji, Kathleen McKeown and Dan Roth*
-   
+
+![t2](/assets/images/t2.png)   
+
 This tutorial targets researchers and practitioners who are interested in AI technologies that help machines understand natural language text, particularly real-world events described in the text. These include methods to extract the internal structures of an event regarding its protagonist(s), participant(s) and properties, as well as external structures concerning memberships, temporal and causal relations of multiple events. This tutorial will provide audience with a systematic introduction of (i) knowledge representations and acquisition of events, (ii) various methods for automated extraction, conceptualization, coreference resolution and prediction of events and their relations, (iii) induction of event processes and properties, and (iv) a wide range of NLU and commonsense understanding tasks that benefit from aforementioned techniques. We will conclude the tutorial by outlining emerging research problems in this area. 
 
 ### T3: Meta Learning and Its Applications to Natural Language Processing (3 Hours)
