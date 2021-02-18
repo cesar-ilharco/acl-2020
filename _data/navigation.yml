@@ -14,7 +14,7 @@ main:
     url: /calls/papers
   
   - title: "Tutorials"
-    url: /program/tutorials
+    url: /tutorials/program
    
   - title: "Demos"
     url: https://2021.aclweb.org/downloads/ACL2021DemoCFP.pdf
@@ -59,6 +59,14 @@ calls:
          url: /calls/papers/	 
        - title: "Paper Submission FAQ"
          url: https://2021.aclweb.org/blog/paper-submission-faqs/
+
+tutorials:
+   - title: Tutorial Details
+     children:
+       - title: "Tutorial Proposals EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021"
+         url: https://2021.eacl.org/calls/tutorials/	 
+       - title: "Tutorials"
+         url: /tutorials/program/
 
 authors:
    - title: Instructions for Authors
