@@ -13,7 +13,7 @@ main:
   - title: "Calls"
     url: /calls/papers
   
-  - title: "tutorials"
+  - title: "Tutorials"
     url: /calls/tutorials
    
   - title: "Demos"
@@ -22,14 +22,14 @@ main:
   - title: "Student Research Workshop"
     url: https://sites.google.com/view/acl-ijcnlp-2021-srw/
 
+  - title: "Workshops"
+    url: /calls/workshops
+
   - title: "Ethics"
     url: /ethics/Ethics-FAQ
 
   - title: "Mentoring"
     url: /blog/reviewer-mentoring-program
-
-  - title: "Workshops"
-    url: /calls/workshops
 
   - title: "Organization"
     url: /organization/committee
