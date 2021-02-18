@@ -32,6 +32,12 @@ Meta-learning, or 'Learning to Learn', aims to learn better learning algorithms,
 
 In the tutorial, we will first introduce Meta learning approaches and the theory behind them, and then review the works of applying this technology to NLP problems. This tutorial intends to facilitate researchers in the NLP community to understand this new technology better and promote more research studies using this new technology.
 
+### T4: Pre-training Methods for Neural Machine Translation (3 hours) 
+
+*Instructors: MingxuanWang, Lei Li* 
+
+This tutorial provides a comprehensive guide to make the most of pre-training for neural machine translation, including multilingual NMT and speech NMT. Firstly, we will briefly introduce the background of NMT, pre-training methodology, and point out the main challenges when applying pre-training for NMT. Then we will focus on analyzing the role of pre-training in enhancing the performance of NMT, how to design a better pretraining model for executing specific NMT tasks and how to better integrate the pre-trained model into NMT system. In each part, we will provide examples, discuss training techniques and analyze what is transferred when applying pre-training. 
+
 
 
 
