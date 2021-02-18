@@ -44,6 +44,12 @@ This tutorial provides a comprehensive guide to make the most of pre-training fo
 
 Prosody is fundamental to human interaction, enabling people to show interest, establish rapport, efficiently convey nuances of attitude or intent, and so on. Over the past ten years the ability to effectively model prosody has rapidly advanced. This tutorial will start with the acoustic and perceptual foundations and the basics of prosodic feature computation and normalization. It will then discuss prosody's three realms of function: phonological and structural, paralinguistic, and pragmatic, with short, non-computational pair work exercises to illustrate. The tutorial will survey some classic and recent representations, models, algorithms, tools and resources. Finally we will overview the state of the art in the major applications areas and discuss both short-term and long-term challenges.​ 
 
+### T6: Recognizing Multimodal Entailment (3 hours)
+*Instructors: Cesar Ilharco, Vaiva Imbrasaite, Ricardo Marino, Jannis Bulian, Chen Sun, Afsaneh Shirazi, Gabriel Ilharco, Georg Osang, Lucas Smaira and Cordelia Schmid*
+       
+New social technologies and widespread access to the internet have allowed for new forms of content creation, connectivity and information sharing. With vast unstructured data and limited labels, organizing and reconciling information from different sources and modalities with bounded supervision is one of the current challenges in machine learning. This cutting-edge tutorial focuses on models and approaches for recognizing multimodal entailment, and uses as case study two real-world multi-domain datasets which prompt for understanding the fine-grained visual and linguistic semantics. 
+
+
 
 
 
