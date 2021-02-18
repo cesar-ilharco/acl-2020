@@ -57,10 +57,8 @@ calls:
      children:
        - title: "Main Conference Papers"
          url: /calls/papers/
-       #- title: "Workshop"
-        # url: /calls/workshops/
-        - title: "Tutorial Proposals"
-          url: /calls/tutorials/
+       - title: "Tutorial Proposals"
+         url: /calls/tutorials/
        - title: "Paper Submission FAQ"
          url: https://2021.aclweb.org/blog/paper-submission-faqs/
 
