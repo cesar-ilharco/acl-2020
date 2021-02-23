@@ -20,8 +20,8 @@ Please note that this is not an exhaustive list of types of ethical issues that 
 <br>**For papers presenting experiments on new OR existing datasets:**
 - Does the paper describe the characteristics of the dataset in enough detail for a reader to understand which populations the technology could be expected to work for?
 - Do the claims in the paper match the experimental results, in terms of how far the results can be expected to generalize?
-- Does the paper describe the steps taken to evaluate the quality of the dataset?
-For papers concerning technology that could be deployed in user-facing applications beyond the researchers:
+- Does the paper describe the steps taken to evaluate the quality of the dataset?<br/><br/>
+**For papers concerning technology that could be deployed in user-facing applications beyond the researchers:**
 - Does the paper describe how the technology would be deployed in actual use cases?
 - Does the task carried out by the technology match how it would be deployed?
 - Does the paper address possible harms when the technology is being used as intended and functioning correctly?
