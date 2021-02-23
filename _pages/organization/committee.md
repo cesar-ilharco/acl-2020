@@ -66,7 +66,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 <h3>Diversity & Inclusion (D&I) Chairs:</h3>
 [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Leader of Sub-Committee of Childcare ++ Accessibility.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Childcare ++ Accessibility:</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Childcare ++ Accessibility:</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University, China <br/><br/>
 
