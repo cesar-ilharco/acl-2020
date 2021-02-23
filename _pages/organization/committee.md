@@ -72,6 +72,10 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 [Avirup Sil](http://ibm.biz/avirupsil), IBM, USA, Leader of Sub-Committee of Academic Inclusion<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Academic Inclusion:</b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sara Rosenthal](https://researcher.watson.ibm.com/researcher/view.php?person=us-sjrosenthal), IBM Research AI, USA<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kayathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University, USA<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/>
+<br/>
 
 [Martha Yifiru Tachbelie](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis Ababa University, Ethiopia, Leader of Sub-Committee of Financial Access<br/>
 [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of Colorado Boulder, Leader of Sub-Committee of Financial Access<br/>
