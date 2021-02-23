@@ -47,6 +47,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <h3>Demo Chairs:</h3>
 [Jong C. Park](http://nlpcl.kaist.ac.kr/prof/), Korea Advanced Institute of Science and Technology, Korea<br/>
 [Heng Ji](http://blender.cs.illinois.edu/hengji.html), University of Illinois at Urbana-Champaign, USA<br/>
+[Rui Xia](http://www.nustm.cn/member/rxia/index.html), Nanjing University of Science and Technology, China<br/>
 
 <h3>Publications Chairs:</h3>
 [Jing-Shin Chang](https://www.linkedin.com/in/jing-shin-chang-02a5a8129), National Chi-Nan University, Taiwan, China<br/>
