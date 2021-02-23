@@ -65,7 +65,6 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Rachasak Somyanonthanakul](https://language-semantic.org/profiles/rachasak-somyanonthanakul/), Rangsit University, Thailand<br/>
 
 <h3>Diversity & Inclusion (D&I) Chairs:</h3>
-[Minlie Huang](), Tsinghua University,
 [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Leader of Sub-Committee of Childcare ++ Accessibility.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Childcare ++ Accessibility:</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
