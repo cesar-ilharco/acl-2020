@@ -78,7 +78,14 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <br/>
 
 [Martha Yifiru Tachbelie](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis Ababa University, Ethiopia, Leader of Sub-Committee of Financial Access<br/>
-[Alexis Palmer2](https://linguistics.unt.edu/alexis-palmer), University of Colorado Boulder, Leader of Sub-Committee of Financial Access<br/>
+Alexis Palmer, University of Colorado Boulder, Leader of Sub-Committee of Financial Access<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Financial Access:</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ignatius Eziani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University, United Kingdom<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Manuel Mager](http://code.kiutz.com/), University of Stuttgart, Germany<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nafise Moosavi](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_43136.en.jsp), TU Darmstadt, Germany<br/><br/>
+[Alvin Grissom](http://alving.me), Haverford College, USA<br/>
+[Xanda Scofield](https://www.cs.hmc.edu/~xanda), Harvey Mudd College, USA<br/>
+[Pedro Rodriguez](https://www.pedro.ai/), University of Maryland, College Park, USA<br/>
 
 
 
