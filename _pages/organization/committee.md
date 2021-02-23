@@ -65,13 +65,16 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Rachasak Somyanonthanakul](https://language-semantic.org/profiles/rachasak-somyanonthanakul/), Rangsit University, Thailand<br/>
 
 <h3>Diversity & Inclusion (D&I) Chairs:</h3>
-[Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Tsinghua University, China<br/>
-[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
-[Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University, China <br/>
-[Avirup Sil](http://ibm.biz/avirupsil), IBM, USA<br/>
-[Sara Rosenthal](https://researcher.watson.ibm.com/researcher/view.php?person=us-sjrosenthal), IBM Research AI, USA<br/>
-[Kayathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University, USA<br/>
-[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/>
+[Minlie Huang](), Tsinghua University,
+[Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Leader of Sub-Committee of Childcare ++ Accessibility.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Members of Sub-Committee of Childcare ++ Accessibility:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University, China <br/>
+[Avirup Sil](http://ibm.biz/avirupsil), IBM, USA, Leader of Sub-Committee of Academic Inclusion
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Members of Sub-Committee of Academic Inclusion:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sara Rosenthal](https://researcher.watson.ibm.com/researcher/view.php?person=us-sjrosenthal), IBM Research AI, USA<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kayathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University, USA<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/>
 [Martha Yifiru](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis, Ethiopia<br/>
 [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), Heidelberg University, Germany<br/>
 [Ignatius Eziani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University, United Kingdom<br/>
