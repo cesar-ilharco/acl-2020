@@ -67,18 +67,18 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <h3>Diversity & Inclusion (D&I) Chairs:</h3>
 [Minlie Huang](), Tsinghua University,
 [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Leader of Sub-Committee of Childcare ++ Accessibility.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Members of Sub-Committee of Childcare ++ Accessibility:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Childcare ++ Accessibility:</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University, China <br/><br/>
-[Avirup Sil](http://ibm.biz/avirupsil), IBM, USA, Leader of Sub-Committee of Academic Inclusion
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Members of Sub-Committee of Academic Inclusion:**<br/>
+[Avirup Sil](http://ibm.biz/avirupsil), IBM, USA, Leader of Sub-Committee of Academic Inclusion<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Academic Inclusion:</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sara Rosenthal](https://researcher.watson.ibm.com/researcher/view.php?person=us-sjrosenthal), IBM Research AI, USA<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kayathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University, USA<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/>
 <br/>
 [Martha Yifiru Tachbelie](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis Ababa University, Ethiopia, Leader of Sub-Committee of Financial Access<br/>
 [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of Colorado Boulder, Leader of Sub-Committee of Financial Access<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Members of Sub-Committee of Financial Access:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Financial Access:</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ignatius Eziani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University, United Kingdom<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Manuel Mager](http://code.kiutz.com/), University of Stuttgart, Germany<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nafise Moosavi](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_43136.en.jsp), TU Darmstadt, Germany<br/><br/>
