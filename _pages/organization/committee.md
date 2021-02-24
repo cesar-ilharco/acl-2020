@@ -70,6 +70,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Yang Feng](http://people.ucas.edu.cn/~yangfeng?language=en),Institute of Computing Technology, Chinese Academy of Science, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University, China <br/><br/>
 [Avirup Sil](http://ibm.biz/avirupsil), IBM, USA, Leader of Sub-Committee of Academic Inclusion<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Academic Inclusion:</b><br/>
 
 <h3>Ethic Advisory Committee (EAC)</h3>
 [Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
