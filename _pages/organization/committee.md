@@ -78,6 +78,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Martha Yifiru Tachbelie](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis Ababa University, Ethiopia, Leader of Sub-Committee of Financial Access<br/>
 Alexis Palmer, University of Colorado Boulder, Leader of Sub-Committee of Financial Access<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Financial Access:</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ignatius Eziani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University, United Kingdom<br/>
 
 <h3>Ethic Advisory Committee (EAC)</h3>
 [Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
