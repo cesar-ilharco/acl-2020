@@ -74,6 +74,9 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sara Rosenthal](https://researcher.watson.ibm.com/researcher/view.php?person=us-sjrosenthal), IBM Research AI, USA<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kayathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University, USA<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/><br/>
+
+[Martha Yifiru Tachbelie](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis Ababa University, Ethiopia, Leader of Sub-Committee of Financial Access<br/>
+
 <h3>Ethic Advisory Committee (EAC)</h3>
 [Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
 [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/), National University of Singapore, Singapore<br/> 
