@@ -76,6 +76,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lifu Huang](https://wilburone.github.io/), Virginia Tech, USA<br/><br/>
 
 [Martha Yifiru Tachbelie](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis Ababa University, Ethiopia, Leader of Sub-Committee of Financial Access<br/>
+Alexis Palmer, University of Colorado Boulder, Leader of Sub-Committee of Financial Access<br/>
 
 <h3>Ethic Advisory Committee (EAC)</h3>
 [Malvina Nissim](https://www.rug.nl/staff/m.nissim/), University of Groningen, Netherlands<br/> 
