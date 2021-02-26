@@ -46,7 +46,7 @@ Please note that the content of any submission to ACL-IJCNLP 2021 and the conten
 
 ###  The Review Form
 
-We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAACL 2021. The review form consists of four main sections.
+We adapt the review forms and the instructions from [ACL 2020](https://acl2020.org/reviewers/), [EMNLP 2020](https://2020.emnlp.org/blog/2020-05-26-instructions-for-reviewers) and [NAACL 2021](https://2021.naacl.org/). The [review form](https://2021.aclweb.org/downloads/Review_Form.pdf) consists of four main sections.
 
 **1. In-Depth Review.** This section is for you to give your overall assessment of the paper and to provide evidence to support your opinions. There are ten subsections:
 
@@ -56,12 +56,12 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 
 - **Reasons to reject:** Please briefly summarize the main reasons that this paper cannot be published and presented in its current form. What are the parts that would need to be improved in order to advance the state of knowledge?
 
-- **Reproducibility:** Following EMNLP 2020 and NAACL 2021, we provide a reproducibility checklist in an effort to increase reproducibility of the research work in NLP. In the review form. Please answer the following two questions.
+- **Reproducibility:** Following EMNLP 2020 and NAACL 2021, we provide a [reproducibility checklist](https://2021.aclweb.org/calls/reproducibility-checklist/) in an effort to increase reproducibility of the research work in NLP. In the review form. Please answer the following two questions.
 	- "How do you rate the paper's reproducibility? Will members of the ACL community be able to reproduce or verify the results in this paper?" Scores of 1-5 are used to assess this aspect. The detailed explanation for each point level is provided in the review form. N/A may be used for the papers that do not include empirical results.
 	- "Are the authors' answers to the reproducibility checklist useful for evaluating the submission?". Three choices are provided for this question (Very useful, Somewhat useful, and Not useful). Note that this question is for us to collect feedback regarding the usefulness of the reproducibility checklist, and is not about evaluating the paper itself.
 
 - **Ethic review:** This year, authors are allowed extra space after the 8th page (or the 4th page for short papers) for a broader impact statement or other discussion of ethics. Regardless of whether the paper includes an impact statement, you need to read the whole paper carefully and determine whether the paper has some potential ethical issues. If that is the case, you should flag the paper by choosing "yes" to the "ethical concerns" question. The flagged papers will then be reviewed by an Ethics Advisory Committee (EAC).
-	- Please read the FAQ for ethical discussion standards and the questions in the ethics section of the review form for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
+	- Please read the [FAQ for ethical discussion standards](https://2021.naacl.org/ethics/faq/) and the [questions in the ethics section of the review form](https://2021.naacl.org/ethics/review-questions/) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 	- If you flag a paper, it is very important that you provide justification as detailed as possible to help EAC to understand your concern. 
 	- Note that more than 30% of the submissions include ethics/impact statements, and most of them are unlikely to have ethical issues. Therefore, please read the statements and use your best judgment to determine whether the paper should be flagged. Please don't automatically flag a paper simply because it includes an ethics/impact statement. 
 	- Regardless of whether you flag a paper, you should review the paper carefully and answer the rest of the questions on the review form.
@@ -69,14 +69,14 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 - **Anonymity requirement:** Please indicate whether you know the identity of some authors of this paper. If yes, please provide more details (e.g., the url of the version posted online) in the "Author identify justification" box. 
 
 - **Overall recommendation:** Here you are asked to synthesize the above and come up with your own recommendation for the paper.
-	- Like ACL 2020, we have used a 5-point scale with a half point increments. The detailed explanation for each point level is provided in the review form. These numbers are just a concise way of expressing your overall opinion and relative importance of the factors mentioned above.
+	- Like ACL 2020, we have used a **5-point scale with a half point increments**. The detailed explanation for each point level is provided in the review form. These numbers are just a concise way of expressing your overall opinion and relative importance of the factors mentioned above.
 	- Different from ACL 2020, we are allowing a rating of 3 (ambivalent). Please try to take a stand on whether the paper is above or below the borderline, e.g., by selecting 2.5 or 3.5. However, if you think this is indeed a borderline paper or you are not able to decide, you should use 3.
 	- Decisions will be made not just on the scores and certainly not on average scores, but will also take into account the whole review, reviewer discussion and area chair meta-reviews and recommendations. However, it is important to align your recommendation with the reasoning given above, so that authors will be able to understand the motivation for the recommendations and how decisions were arrived at.
 
 - **Reviewer confidence:** This section should be used to inform the committee and authors how confident you are about your recommendation, taking into account your own expertise and familiarity with this area and the paper's contents.
 
 - **Recommendations for awards:** For Best Paper Award, please be open minded and feel free to nominate good quality papers even though they may not be the typical types. These can be a survey paper, an opinion paper, a paper about resources and datasets, a paper for low resource language, an analysis paper, etc. A committee will evaluate best paper candidates, and we would like to have a wide variety of paper types in the candidate pool, not just vanilla empirical research papers.
-- **Paper focus** (for Theme paper only): If the paper is a theme paper, please check all the topic(s) covered by the paper. 
+- **Paper focus (for Theme paper only):** If the paper is a theme paper, please check all the topic(s) covered by the paper. 
 
 **2. Questions and additional feedback for the authors:** Since we will have an author response process, for questions you would like the author(s) to respond to during the response period, please include them here. This is also the place for you to give suggestions to the authors to help them improve the paper for the final version (or a future submission).
 
@@ -110,9 +110,9 @@ Following ACL 2020, we suggest that you consult some of the excellent advice fro
 
 ### Reviewer Mentoring Program
 - This year, we have a Reviewer Mentoring Program. The program is organized by the mentoring committee:
-	- Jing Huang, JD AI Research, China
-	- Antoine Bosselut, Stanford University, USA
-	- Christophe Gravier, Universite de Saint-Etienne/Lyon, France
+	- [Jing Huang](https://sites.google.com/view/drjinghuang), JD AI Research, China
+	- [Antoine Bosselut](https://atcbosselut.github.io/), Stanford University, USA
+	- [Christophe Gravier](http://twitter.com/chgravier), Universite de Saint-Etienne/Lyon, France
 - The committee has made videos specifically for ACL-IJCNLP 2021, and all the reviewers are welcome to watch the videos before starting reviewing. The videos and other information will be available at:
 	- [https://2021.aclweb.org/blog/reviewer-mentoring-program/](https://2021.aclweb.org/blog/reviewer-mentoring-program/).
 - For the "first-time reviewers" who have signed up for one-on-one mentoring, the mentoring committee will contact you directly with more information. 
