@@ -99,8 +99,15 @@ The program chairs, the senior area chairs, and the area chairs have identified 
 
 ### General Guidelines for ACL Reviewing
 Please take a balanced approach when reviewing the papers. On the one hand, we would like to have a solid technical program with high-quality papers describing a complete piece of work. On the other hand, we also want a broad and interesting program, so please keep an open mind when evaluating and recommending the papers assigned to you.
+
 Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages and present a focused contribution.
+
 Following ACL 2020, we suggest that you consult some of the excellent advice from experienced reviewers and conference organizers on the web. In particular:
+- Read the excellent blog post by NLP veterans Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin, who compiled their reviewing recommendations for ACL 2017: [https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
+- Nikas Elmqvist from the University of Maryland has great advice on mistakes to avoid when reviewing: [https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
+- Sample reviews by the NAACL 2018 chairs (note they have a different form): [https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/)
+- And on the lighter side: [https://naacl2018.wordpress.com/2017/12/19/some-holiday-reviewing-advice/](https://naacl2018.wordpress.com/2017/12/19/some-holiday-reviewing-advice/)
+
 
 
 
