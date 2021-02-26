@@ -89,6 +89,13 @@ Supplementary materials are allowed as a stand-alone document uploaded as additi
 
 However, as noted above, given the requirement for reproducibility, authors may provide additional information about their datasets and experiments in Appendix, and attach a zip file with resources such as code and data. Please take some time to check those, if applicable. 
 
+### Secondary Reviewers
+As in most previous NLP conferences, you are allowed to solicit help from others. However, when it comes to writing the final review and giving the final scores, we expect you to take the secondary reviewer's review, revise it and adjust the scores when you see fit. Essentially, the final review should reflect your own opinions about the paper, and you need to be able to justify the opinions you present in the final review.
+When you send the secondary reviewer any material related to the submission (e.g., the paper itself, the supplementary materials), please remind him/her to keep the material confidential.
+
+### Format of Submissions
+The program chairs, the senior area chairs, and the area chairs have identified some submissions that violate our formatting guidelines and have desk-rejected those submissions. However, it is possible that some violations were not detected in the first pass. Therefore, if you think the paper violates the format guidelines, please mention that on the review form, and highlight that in Section 4. 
+
 
 
 
