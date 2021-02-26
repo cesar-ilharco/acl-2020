@@ -61,10 +61,7 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 	- "Are the authors' answers to the reproducibility checklist useful for evaluating the submission?". Three choices are provided for this question (Very useful, Somewhat useful, and Not useful). Note that this question is for us to collect feedback regarding the usefulness of the reproducibility checklist, and is not about evaluating the paper itself.
 
 - **Ethic review:** This year, authors are allowed extra space after the 8th page (or the 4th page for short papers) for a broader impact statement or other discussion of ethics. Regardless of whether the paper includes an impact statement, you need to read the whole paper carefully and determine whether the paper has some potential ethical issues. If that is the case, you should flag the paper by choosing "yes" to the "ethical concerns" question. The flagged papers will then be reviewed by an Ethics Advisory Committee (EAC).
-	- Please read the FAQ for ethical discussion standards and the questions in the ethics section of the review form for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
-	- If you flag a paper, it is very important that you provide justification as detailed as possible to help EAC to understand your concern. 
-	- Note that more than 30% of the submissions include ethics/impact statements, and most of them are unlikely to have ethical issues. Therefore, please read the statements and use your best judgment to determine whether the paper should be flagged. Please don’t automatically flag a paper simply because it includes an ethics/impact statement. 
-	- Regardless of whether you flag a paper, you should review the paper carefully and answer the rest of the questions on the review form.
+
 
 
 
