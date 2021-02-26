@@ -26,17 +26,26 @@ Please note that there is a reviewer discussion period from April 1 to 7 after t
 <table style="width: 100%">
     <tbody>
         <tr>
-            <td style="width: 70%;">Review Period</td>
-            <td style="width: 30%;">February 25, 2021 - March 20, 2021</td>
+            <td style="width: 40%;">Review Period</td>
+            <td style="width: 60%;">February 25, 2021 - March 20, 2021</td>
         </tr>
         <tr>
-            <td style="width: 70%;">Author Response Period</td>
-            <td style="width: 30%;">March 25, 2021 - March 31, 2021</td>
+            <td style="width: 40%;">Author Response Period</td>
+            <td style="width: 60%;">March 25, 2021 - March 31, 2021</td>
         </tr>
         <tr>
-            <td style="width: 70%;">Reviewer Discussion Period (ACs lead discussion)</td>
-            <td style="width: 30%;">April 1, 2021 - April 7, 2021</td>
+            <td style="width: 40%;">Reviewer Discussion Period (ACs lead discussion)</td>
+            <td style="width: 60%;">April 1, 2021 - April 7, 2021</td>
         </tr>
 </tbody>
 </table>
+
+**Confidentiality**
+Please note that the content of any submission to ACL-IJCNLP 2021 and the content of discussion about submissions, are confidential.
+
+**The Review Form**
+We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAACL 2021. The review form consists of four main sections.
+**1. In-Depth Review.** This section is for you to give your overall assessment of the paper and to provide evidence to support your opinions. There are ten subsections:
+
+
 
