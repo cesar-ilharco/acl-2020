@@ -91,10 +91,16 @@ However, as noted above, given the requirement for reproducibility, authors may 
 
 ### Secondary Reviewers
 As in most previous NLP conferences, you are allowed to solicit help from others. However, when it comes to writing the final review and giving the final scores, we expect you to take the secondary reviewer's review, revise it and adjust the scores when you see fit. Essentially, the final review should reflect your own opinions about the paper, and you need to be able to justify the opinions you present in the final review.
+
 When you send the secondary reviewer any material related to the submission (e.g., the paper itself, the supplementary materials), please remind him/her to keep the material confidential.
 
 ### Format of Submissions
 The program chairs, the senior area chairs, and the area chairs have identified some submissions that violate our formatting guidelines and have desk-rejected those submissions. However, it is possible that some violations were not detected in the first pass. Therefore, if you think the paper violates the format guidelines, please mention that on the review form, and highlight that in Section 4. 
+
+### General Guidelines for ACL Reviewing
+Please take a balanced approach when reviewing the papers. On the one hand, we would like to have a solid technical program with high-quality papers describing a complete piece of work. On the other hand, we also want a broad and interesting program, so please keep an open mind when evaluating and recommending the papers assigned to you.
+Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages and present a focused contribution.
+Following ACL 2020, we suggest that you consult some of the excellent advice from experienced reviewers and conference organizers on the web. In particular:
 
 
 
