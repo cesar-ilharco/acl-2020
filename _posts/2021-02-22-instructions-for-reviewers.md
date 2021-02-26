@@ -40,11 +40,11 @@ Please note that there is a reviewer discussion period from April 1 to 7 after t
 </tbody>
 </table>
 
-**Confidentiality**
+### Confidentiality
 
 Please note that the content of any submission to ACL-IJCNLP 2021 and the content of discussion about submissions, are confidential.
 
-**The Review Form**
+###  The Review Form
 
 We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAACL 2021. The review form consists of four main sections.
 
@@ -83,6 +83,12 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 **3. Changes after the rebuttal period:** There will be an author response period. It is important for you to check whether author responses have cleared up your questions. This may influence your overall recommendation and the core review. If that's the case, please update your recommendation and review in Sections 1 and 2 accordingly, and briefly explain your decision for changing or keeping your original overall recommendation in Section 3.
 
 **4. Confidential information to the committee and chairs:** Your comments in this section will not be shared with the authors. There are two boxes in this section. The first one will be shared with your peer reviewers and the area chair, and the second one will be shared with the area chair, senior area chairs, and program chairs. 
+
+### Supplementary Materials
+Supplementary materials are allowed as a stand-alone document uploaded as additional files. Supplementary materials are, as the name suggests, supplementary, and you have no obligation to read them. You should treat them like other citations in submissions that may be helpful in understanding background or details beyond the scope of the paper itself.
+
+However, as noted above, given the requirement for reproducibility, authors may provide additional information about their datasets and experiments in Appendix, and attach a zip file with resources such as code and data. Please take some time to check those, if applicable. 
+
 
 
 
