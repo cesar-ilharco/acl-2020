@@ -108,6 +108,16 @@ Following ACL 2020, we suggest that you consult some of the excellent advice fro
 - Sample reviews by the NAACL 2018 chairs (note they have a different form): [https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/)
 - And on the lighter side: [https://naacl2018.wordpress.com/2017/12/19/some-holiday-reviewing-advice/](https://naacl2018.wordpress.com/2017/12/19/some-holiday-reviewing-advice/)
 
+### Reviewer Mentoring Program
+- This year, we have a Reviewer Mentoring Program. The program is organized by the mentoring committee:
+	- Jing Huang, JD AI Research, China
+	- Antoine Bosselut, Stanford University, USA
+	- Christophe Gravier, Universite de Saint-Etienne/Lyon, France
+- The committee has made videos specifically for ACL-IJCNLP 2021, and all the reviewers are welcome to watch the videos before starting reviewing. The videos and other information will be available at:
+	- [https://2021.aclweb.org/blog/reviewer-mentoring-program/](https://2021.aclweb.org/blog/reviewer-mentoring-program/).
+- For the "first-time reviewers" who have signed up for one-on-one mentoring, the mentoring committee will contact you directly with more information. 
+
+If you have any questions about your assignments, you should contact your senior area chairs directly. You should have already received an email from them via the START system. 
 
 
 
