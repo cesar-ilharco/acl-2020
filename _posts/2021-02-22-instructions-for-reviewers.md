@@ -41,11 +41,18 @@ Please note that there is a reviewer discussion period from April 1 to 7 after t
 </table>
 
 **Confidentiality**
+
 Please note that the content of any submission to ACL-IJCNLP 2021 and the content of discussion about submissions, are confidential.
 
 **The Review Form**
+
 We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAACL 2021. The review form consists of four main sections.
+
 **1. In-Depth Review.** This section is for you to give your overall assessment of the paper and to provide evidence to support your opinions. There are ten subsections:
+
+- The core review: This is the most important part. It should include your view of the main contributions that the paper intends to make and how well it succeeds at making these contributions. From your point of view, what are the significant strong and weak parts of the paper and the work it describes? This could be a 2 paragraph (or longer) essay and/or a bullet list. Remember to describe how the work advances the state of knowledge in computational linguistics and/or highlights why it fails to make a sufficient contribution.
+
+- Reasons to accept: Please briefly summarize from your core review the main reasons why this paper should be accepted for the conference, and how the ACL community would benefit from it. You may refer back to your review to provide more context and details.
 
 
 
