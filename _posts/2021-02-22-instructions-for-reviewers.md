@@ -27,15 +27,15 @@ Please note that there is a reviewer discussion period from April 1 to 7 after t
     <tbody>
         <tr>
             <td style="width: 70%;">Review Period</td>
-            <td style="width: 30%;">February 25, 2021 – March 20, 2021</td>
+            <td style="width: 30%;">February 25, 2021 - March 20, 2021</td>
         </tr>
         <tr>
             <td style="width: 70%;">Author Response Period</td>
-            <td style="width: 30%;">March 25, 2021 – March 31, 2021</td>
+            <td style="width: 30%;">March 25, 2021 - March 31, 2021</td>
         </tr>
         <tr>
             <td style="width: 70%;">Reviewer Discussion Period (ACs lead discussion)</td>
-            <td style="width: 30%;">April 1, 2021 – April 7, 2021</td>
+            <td style="width: 30%;">April 1, 2021 - April 7, 2021</td>
         </tr>
 </tbody>
 </table>
