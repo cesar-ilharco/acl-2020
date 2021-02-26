@@ -66,6 +66,13 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 	- Note that more than 30% of the submissions include ethics/impact statements, and most of them are unlikely to have ethical issues. Therefore, please read the statements and use your best judgment to determine whether the paper should be flagged. Please don't automatically flag a paper simply because it includes an ethics/impact statement. 
 	- Regardless of whether you flag a paper, you should review the paper carefully and answer the rest of the questions on the review form.
 
+- Anonymity requirement: Please indicate whether you know the identity of some authors of this paper. If yes, please provide more details (e.g., the url of the version posted online) in the "Author identify justification" box. 
+
+- Overall recommendation: Here you are asked to synthesize the above and come up with your own recommendation for the paper.
+	- Like ACL 2020, we have used a 5-point scale with a half point increments. The detailed explanation for each point level is provided in the review form. These numbers are just a concise way of expressing your overall opinion and relative importance of the factors mentioned above.
+	- Different from ACL 2020, we are allowing a rating of 3 (ambivalent). Please try to take a stand on whether the paper is above or below the borderline, e.g., by selecting 2.5 or 3.5. However, if you think this is indeed a borderline paper or you are not able to decide, you should use 3.
+	- Decisions will be made not just on the scores and certainly not on average scores, but will also take into account the whole review, reviewer discussion and area chair meta-reviews and recommendations. However, it is important to align your recommendation with the reasoning given above, so that authors will be able to understand the motivation for the recommendations and how decisions were arrived at.
+
 
 
 
