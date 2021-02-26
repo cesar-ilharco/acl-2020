@@ -57,6 +57,7 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 - **Reasons to reject:** Please briefly summarize the main reasons that this paper cannot be published and presented in its current form. What are the parts that would need to be improved in order to advance the state of knowledge?
 
 - **Reproducibility:** Following EMNLP 2020 and NAACL 2021, we provide a reproducibility checklist in an effort to increase reproducibility of the research work in NLP. In the review form. Please answer the following two questions.
+	- "How do you rate the paper's reproducibility? Will members of the ACL community be able to reproduce or verify the results in this paper?" Scores of 1-5 are used to assess this aspect. The detailed explanation for each point level is provided in the review form. N/A may be used for the papers that do not include empirical results.
 
 
 
