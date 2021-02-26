@@ -78,6 +78,14 @@ We adapt the review forms and the instructions from ACL 2020, EMNLP 2020 and NAA
 - **Recommendations for awards:** For Best Paper Award, please be open minded and feel free to nominate good quality papers even though they may not be the typical types. These can be a survey paper, an opinion paper, a paper about resources and datasets, a paper for low resource language, an analysis paper, etc. A committee will evaluate best paper candidates, and we would like to have a wide variety of paper types in the candidate pool, not just vanilla empirical research papers.
 - **Paper focus** (for Theme paper only): If the paper is a theme paper, please check all the topic(s) covered by the paper. 
 
+**2. Questions and additional feedback for the authors:** Since we will have an author response process, for questions you would like the author(s) to respond to during the response period, please include them here. This is also the place for you to give suggestions to the authors to help them improve the paper for the final version (or a future submission).
+
+**3. Changes after the rebuttal period:** There will be an author response period. It is important for you to check whether author responses have cleared up your questions. This may influence your overall recommendation and the core review. If that’s the case, please update your recommendation and review in Sections 1 and 2 accordingly, and briefly explain your decision for changing or keeping your original overall recommendation in Section 3.
+
+**4. Confidential information to the committee and chairs:** Your comments in this section will not be shared with the authors. There are two boxes in this section. The first one will be shared with your peer reviewers and the area chair, and the second one will be shared with the area chair, senior area chairs, and program chairs. 
+
+
+
 
 
 
