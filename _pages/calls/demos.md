@@ -87,9 +87,15 @@ We recommend that you publish your video to YouTube or another website and inclu
 
 In addition, we strongly recommend all demos are provided via one of the following formats: (1) A live demo website; or (2) A website with a downloadable installation package of the demo; unless it is impossible because special hardware is required or access is otherwise limited.
 
+## Submission Policy
+
+The paper has to be original, written specifically for this conference and cannot be submitted elsewhere. The paper must also report on a substantial improvement (>30%), if the system that is being reported has been reported elsewhere already.
+
+Authors submitting more than one paper to NAACL 2021 must ensure that the submissions do not overlap significantly (>25%) with each other. Submissions of identical or closely related work to multiple tracks at ACL-IJCNLP 2021 (Research, SRW, Industry, or Demo) will be rejected by all tracks.
+
 ## Reviewing Policy
 
-Reviewing will be single-blind, so authors do not need to conceal their identity. The paper should include the authors’ names and affiliations. Self-references are also allowed.
+Reviewing will be single-blind, so authors do not need to conceal their identity. The paper should include the authors' names and affiliations. Self-references are also allowed. Relevant papers that meet formatting requirements will be assessed on the basis of their relevance to the demo track, contribution, clarity, completeness and novelty
 
 
-## Demo co-chairs:
+## Ethics Policy
