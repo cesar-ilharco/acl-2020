@@ -35,6 +35,34 @@ Areas of interest include all topics related to theoretical and applied computat
 
 **Please note:** Commercial sales and marketing activities are not appropriate in the Demonstrations Program
 
+### Important Dates
+
+<table style="width: 100%">
+    <tbody>
+        <tr>
+            <td style="width: 40%;">Paper submission deadline</td>
+            <td style="width: 60%;">Thursday, March 25, 2021</td>
+        </tr>
+        <tr>
+            <td style="width: 40%;">Notification of acceptance</td>
+            <td style="width: 60%;">Tuesday, May 25, 2021</td>
+        </tr>
+        <tr>
+            <td style="width: 40%;">Camera ready submission</td>
+            <td style="width: 60%;">Sunday, June 20, 2021</td>
+        </tr>
+        <tr>
+            <td style="width: 40%;">Final notification for papers requiring ethics re-review</td>
+            <td style="width: 60%;">Friday, July 6, 2021</td>
+        </tr>
+        <tr>
+            <td style="width: 40%;">Publication date</td>
+            <td style="width: 60%;">Friday, July 23, 2021</td>
+        </tr>
+</tbody>
+</table>
+All deadlines are 11.59 pm UTC -12h ("anywhere on Earth")
+
 ## Best Demo Award
 
 As in previous years, ACL-IJCNLP 2021's demo track will feature a Best Demo Award. We hope to encourage researchers to make their code publicly available and in the form of an easy-to-use, runnable system.
