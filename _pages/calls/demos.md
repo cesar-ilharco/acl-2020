@@ -10,6 +10,8 @@ toc_icon: "cog"
 toc_max_header: 4
 ---
 
+The submission site is now available at https://www.softconf.com/acl2021/demos/. Please be aware of the Paper submission deadline on March 25, 2021
+
 ##  Call For System Demonstrations
 
 The system demonstration track at ACL-IJCNLP 2021 is a venue for papers describing system demonstrations, ranging from early prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest.
