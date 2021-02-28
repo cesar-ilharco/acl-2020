@@ -10,9 +10,16 @@ toc_icon: "cog"
 toc_max_header: 4
 ---
 
-<span style="font-weight: bolder;font-size: larger;">Call For System Demonstrations</span>
+##  Call For System Demonstrations
 
-The ACL-IJCNLP 2021 System Demonstration Program Committee invites proposals for the Demonstrations Program. Submissions may range from early research prototypes to mature production-ready systems. Of particular interest are publicly available open-source or open-access systems. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in computational linguistics.
+The system demonstration track at ACL-IJCNLP 2021 is a venue for papers describing system demonstrations, ranging from early prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest.
+
+All accepted demos are published in a companion volume of the conference proceedings. We expect at least one of the authors to present a live demo during a demo session at ACL-IJCNLP  2021, with an accompanying poster.
+
+Submissions will undergo a single-blind reviewing process. So papers may include author and affiliation information, and freely make references to previously published material, and URLs.
+
+This year we are incorporating ethical considerations in the review process. Authors will be allowed extra unlimited space after the main content for a broader impact statement or other discussion of ethics. Please review the ethics policy before submitting
+
 
 Areas of interest include all topics related to theoretical and applied computational linguistics, such as (but not limited to) the topics listed on the main conference website. Submitted systems may be of the following types:
 
