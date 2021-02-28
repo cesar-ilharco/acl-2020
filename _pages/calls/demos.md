@@ -21,20 +21,19 @@ Submissions will undergo a single-blind reviewing process. So papers may include
 This year we are incorporating ethical considerations in the review process. Authors will be allowed extra unlimited space after the main content for a broader impact statement or other discussion of ethics. Please review the ethics policy before submitting
 
 
+### Areas of Interest 
+
 Areas of interest include all topics related to theoretical and applied computational linguistics, such as (but not limited to) the topics listed on the main conference website. Submitted systems may be of the following types:
 
 » Natural Language Processing systems or system components<br>
 » Application systems using language technology components<br>
 » Software tools for computational linguistics research<br>
-» Software for demonstration or evaluation<br>
+» Software for analysis, demonstration or evaluation<br>
 » Software supporting learning or education<br>
 » Tools for data visualization and annotation<br>
 » Development tools<br>
 
-Accepted submissions will be published in a companion volume of the ACL-IJCNLP 2021 conference proceedings.
-
-<b>Please note:</b> Commercial sales and marketing activities are not appropriate in the Demonstrations Program and should be arranged as part of the Exhibit Program.
-
+**Please note:** Commercial sales and marketing activities are not appropriate in the Demonstrations Program
 
 ## Best Demo Award
 
