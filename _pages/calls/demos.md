@@ -65,15 +65,27 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth")
 
 ## Best Demo Award
 
-As in previous years, ACL-IJCNLP 2021's demo track will feature a Best Demo Award. We hope to encourage researchers to make their code publicly available and in the form of an easy-to-use, runnable system.
+We will present a Best Demo Paper Award. The winner will bechosen based on the contribution and completeness of the system, as assessed by the reviewers and also based on the live demo at the conference
 
-## Demo Details
+## Submission Guidelines
 
-Developers should outline the design of their system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to computational linguistics.
+All submissions should be made electronically via START. Submissions must include:
 
-To ensure accessibility for deaf or hard-of-hearing viewers, we encourage authors to caption videos prior to submission. Pointers to web sites running a demo preview will also be helpful. For non web-based demos, it is possible to submit a short (~2 minute) screencast video demonstrating the system. This screencast will be used to evaluate the paper, but won’t be published unless requested. We encourage the authors to include visual aids (e.g., screenshots, snapshots, or diagrams) in the paper. Authors will also be able to upload and submit additional material, if needed.  If you choose to submit a screencast, please upload the video to some hosting site (YouTube, Vimeo, etc.) and include the link in your paper submission.
+A paper describing the motivation and technical details of the system, including visual aids (e.g., screenshots, snapshots, or diagrams). See examples of recently accepted demo papers in EMNLP 2020, ACL 2020, NAACL 2019, NAACL 2018, ACL 2018, ACL 2017, EMNLP 2017, NAACL 2016, ACL 2015, NAACL 2015
 
-Upon acceptance, demo submissions should also clearly indicate if any computer equipment is expected to be provided by the local organizer. Also, please specify in you submission, the desired hardware platform, hard disk and memory capacity, operating system and other software needed in order to run the demo
+The papers must be no more than six (6) pages, plus extra unlimited space for an optional ethics/broader impact statement and unlimited references. Please use the main ACL-IJCNLP 2021 paper style files. Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account.
+
+Any papers that do not follow the official style guidelines and page limits will be automatically rejected.
+
+A short (max. 2 minutes) video demonstrating the system. This video will be used to evaluate the paper, but won’t be published unless requested.
+
+A screencast with audio narration is a natural choice for demos which can be presented on a screen. Otherwise, a video of a user interacting with thesystem can be used (see this video demonstrating the sounding board system as an example).
+
+The production quality of the video is not of interest. Hence, we encourage the videos to be simply a screencast of the software that is getting demoed, with zero to minimal editing efforts.
+
+We recommend that you publish your video to YouTube or another website and include the link in your paper. If you prefer not to publicly upload a screencast, please submit the video (in MPEG4 format). The video must be included as supplementary material when you submit your paper through SoftConf.
+
+In addition, we strongly recommend all demos are provided via one of the following formats: (1) A live demo website; or (2) A website with a downloadable installation package of the demo; unless it is impossible because special hardware is required or access is otherwise limited.
 
 ## Reviewing Policy
 
