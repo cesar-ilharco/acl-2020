@@ -110,3 +110,4 @@ Authors will be allowed extra space after the 6th page for a broader impact stat
 
 - Heng Ji (University of Illinois at Urbana and Champaign, Amazon Scholar)
 - Jong C. Park (Korea Advanced Institute of Science and Technology)
+- Rui Xia (Nanjing University of Science and Technology)
