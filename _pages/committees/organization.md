@@ -64,7 +64,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 <h3>Diversity & Inclusion (D&I) Chairs:</h3>
 [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), Tsinghua University, China<br/>
 [Martha Yifiru](https://www.linkedin.com/in/martha-yifiru-tachbelie-73099b1b/), Addis, Ethiopia<br/>
-[Alvin Grissom](https://www.ursinus.edu/live/profiles/3125-alvin-grissom-ii), Ursinus College, USA<br/>
+[Alvin Grissom](http://alving.me), Haverford College, USA<br/>
 [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), Heidelberg University, Germany<br/>
 [Avirup Sil](http://ibm.biz/avirupsil), IBM, USA<br/>
 
