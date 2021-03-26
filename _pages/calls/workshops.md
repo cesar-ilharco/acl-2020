@@ -12,12 +12,12 @@ Workshops:<br/>
 <i>Ivan Vulic and Vivi Nastase</i><br/>
 - [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://semeval.github.io/SemEval2021/) (2 days) <br/>
 <i>Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu</i><br/>
-- International Conference on Spoken Language Translation (IWSLT) (2 days) <br/>
+- [International Conference on Spoken Language Translation (IWSLT)](https://iwslt.org/2021/) (2 days) <br/>
 <i>Marcello Federico, Alexander Waibel, Satoshi Nakamura, Hermann Ney, Jan Niehues, 
 Sebastian Stüker and Marco Turchi</i><br/>
 - [Benchmarking: Past, Present and Future](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md)<br/>
 <i>Kenneth Church, Mark Liberman and Valia Kordoni</i><br/>
-- Workshop on Online Abuse and Harms<br/>
+- [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home)<br/>
 <i>Aida Mostafazadeh Davani, Douwe Kiela, Lambert Mathias, Vinodkumar Prabhakaran, 
 Bertie Vidgen and Zeerak Waseem</i><br/>
 - [2nd International Workshop on Computational Approaches to Historical Language Change (LChange'21)](https://languagechange.org/events/2021-acl-lchange/)<br/>
