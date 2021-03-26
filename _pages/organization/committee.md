@@ -13,7 +13,6 @@ sidebar:
 [Fei Xia](https://www.pce.uw.edu/instructors/fei-xia),  University of Washington <br>
 [Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/), The Hong Kong Polytechnic University<br>
 [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Sapienza University of Rome<br/>
-Rui Xia, Nanjing University of Science and Technology<br/>
 
 <h3>Local Organization Committee Co-Chairs:</h3>
 [Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), National Electronics and Computer Technology Center, Thailand<br/>
