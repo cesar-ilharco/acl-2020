@@ -51,7 +51,7 @@ Areas of interest include all topics related to theoretical and applied computat
         </tr>
         <tr>
             <td style="width: 40%;">Camera ready submission</td>
-            <td style="width: 60%;">Sunday, June 07, 2021</td>
+            <td style="width: 60%;">Monday, June 07, 2021</td>
         </tr>
         <tr>
             <td style="width: 40%;">Final notification for papers requiring ethics re-review</td>
