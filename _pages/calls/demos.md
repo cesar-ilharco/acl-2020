@@ -10,7 +10,7 @@ toc_icon: "cog"
 toc_max_header: 4
 ---
 
-The submission site is now available at [https://www.softconf.com/acl2021/demos/](https://www.softconf.com/acl2021/demos/). Please be aware of the Paper submission deadline on March 25, 2021
+The submission site is now available at [https://www.softconf.com/acl2021/demos/](https://www.softconf.com/acl2021/demos/). Please be aware of the Paper submission deadline on Thursday, April 15, 2021 <b><i>(Extend)</i></b>
 
 ##  Call For System Demonstrations
 
@@ -43,7 +43,7 @@ Areas of interest include all topics related to theoretical and applied computat
     <tbody>
         <tr>
             <td style="width: 40%;">Paper submission deadline</td>
-            <td style="width: 60%;">Thursday, April 15, 2021 **(Extend)</td>
+            <td style="width: 60%;">Thursday, April 15, 2021 <b><i>(Extend)</i></b></td>
         </tr>
         <tr>
             <td style="width: 40%;">Notification of acceptance</td>
