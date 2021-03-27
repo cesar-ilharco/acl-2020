@@ -43,7 +43,7 @@ Areas of interest include all topics related to theoretical and applied computat
     <tbody>
         <tr>
             <td style="width: 40%;">Paper submission deadline</td>
-            <td style="width: 60%;">Thursday, March 25, 2021</td>
+            <td style="width: 60%;">Thursday, April 15, 2021 **(Extend)</td>
         </tr>
         <tr>
             <td style="width: 40%;">Notification of acceptance</td>
@@ -51,7 +51,7 @@ Areas of interest include all topics related to theoretical and applied computat
         </tr>
         <tr>
             <td style="width: 40%;">Camera ready submission</td>
-            <td style="width: 60%;">Sunday, June 20, 2021</td>
+            <td style="width: 60%;">Sunday, June 07, 2021</td>
         </tr>
         <tr>
             <td style="width: 40%;">Final notification for papers requiring ethics re-review</td>
