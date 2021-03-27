@@ -16,7 +16,7 @@ excerpt: "<br/><br/>"
 **Feb 12, 2020**. Invitation to [Sponsor](https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf), please contact ACL-IJCNLP 2021 sponsorship co-chairs if you are interested.
 {: .notice--info}
 
-**Feb 08, 2020**. Call for System Demonstrations, please find in [attachment](https://2021.aclweb.org/downloads/ACL2021DemoCFP.pdf).
+**Feb 08, 2020**. Call for System Demonstrations, please click [here](https://2021.aclweb.org/calls/demos/) for more information.
 {: .notice--info} 
 
 **Feb 02, 2020**. Please checkout the [Forum](https://2021.aclweb.org/mybb/) for News and Announcement.
