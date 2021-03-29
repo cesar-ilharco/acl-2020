@@ -9,8 +9,11 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
-**Mar 17, 2020**. <font color="red"><b>ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format. We sincerely hope that the next ACL in Asia will be held in Thailand in 2024, and all participants will be able to come to Thailand as they wish.</b></font>
+**Mar 17, 2020**. <b>The deadline of the [demo track](https://2021.aclweb.org/calls/demos/) is postponed to April 15</b></font>
+{: .notice--info}
 
+
+**Mar 17, 2020**. <font color="red"><b>ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format. We sincerely hope that the next ACL in Asia will be held in Thailand in 2024, and all participants will be able to come to Thailand as they wish.</b></font>
 {: .notice--info}
 
 **Feb 12, 2020**. Invitation to [Sponsor](https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf), please contact ACL-IJCNLP 2021 sponsorship co-chairs if you are interested.
