@@ -9,7 +9,7 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
-**Mar 17, 2020**. <b>The deadline of the [demo track](https://2021.aclweb.org/calls/demos/) is postponed to April 15</b>
+**Mar 28, 2020**. <b>The deadline of the [demo track](https://2021.aclweb.org/calls/demos/) is postponed to April 15</b>
 {: .notice--info}
 
 
