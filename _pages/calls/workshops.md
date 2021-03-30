@@ -22,7 +22,7 @@ Sebastian Stüker and Marco Turchi</i><br/>
 Bertie Vidgen and Zeerak Waseem</i><br/>
 - [2nd International Workshop on Computational Approaches to Historical Language Change (LChange'21)](https://languagechange.org/events/2021-acl-lchange/)<br/>
 <i>Nina Tahmasebi, Adam Jatowt, Yang Xu, Simon Hengchen and Syrielle Montariol</i><br/>
-- Third Workshop on Gender Bias for Natural Language Processing<br/>
+- [Third Workshop on Gender Bias for Natural Language Processing]( https://genderbiasnlp.talp.cat/)<br/>
 <i>Marta R. Costa-jussà, Kellie Webster and Christian Hardmeier</i><br/>
 - [The  Eighteenth SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology](https://sigmorphon.github.io/workshops/2021/)<br/>
 <i>Garrett Nicolai, Kyle Gorman and Ryan Cotterell</i><br/>
