@@ -40,14 +40,17 @@ Regarding different kinds of contributions, here's what Prof. Philip Resnik at U
 - Is this research making a **theoretical** (e.g. mathematical) contribution? If so: 
 	- What do we know now that we did not know before?
 	- How does this theoretical or mathematical advance connect to either scientific or engineering goals? (See above.)
-
-Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
-
+>
+>Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
 
 **Second, consider these other important points** when reading the paper and writing your review:
 - Check what the paper's claims are, and how the content of the paper supports that claim. If the paper claims X and there is a performance increase, is that really because of X?
 - Be specific in your comments. For example, if you think the authors have neglected to cite key papers, then provide these references in your review. It might be obvious to you, but it's often less clear to the authors. Being specific will help the authors to formulate a cogent response to the review, and to fix these problems in their paper. And it is worth noting that the authors are **not** obliged to cite or draw comparisons with contemporaneous work (i.e., appearing within 3 months of submission), especially if it is not published in a peer-reviewed venue.
 - Be constructive in your advice. Stating that some aspect of the paper is done badly can be helpful in the gatekeeping aspect of review (providing grounds for rejection), but it tends to be less helpful to the authors. Some suggestions of how the authors might improve these problematic aspects can allow them to develop the work into something considerably better.
+- Be kind in your language, even when being critical. It's easy to get carried away, and write something nasty that you would never say to someone's face. Try to be polite in your feedback.
+
+**Finally,** it's becoming more common for people to share reviews on social media, especially when the reviews reject the work on spurious grounds. **These lead us to advise that the following are often ***invalid bases*** for rejecting a paper:**
+
 
 
 
