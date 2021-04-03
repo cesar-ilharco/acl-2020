@@ -46,6 +46,8 @@ Work in computational linguistics might include a mixture of scientific, enginee
 
 **Second, consider these other important points** when reading the paper and writing your review:
 - Check what the paper's claims are, and how the content of the paper supports that claim. If the paper claims X and there is a performance increase, is that really because of X?
+- Be specific in your comments. For example, if you think the authors have neglected to cite key papers, then provide these references in your review. It might be obvious to you, but it's often less clear to the authors. Being specific will help the authors to formulate a cogent response to the review, and to fix these problems in their paper. And it is worth noting that the authors are **not** obliged to cite or draw comparisons with contemporaneous work (i.e., appearing within 3 months of submission), especially if it is not published in a peer-reviewed venue.
+
 
 
 
