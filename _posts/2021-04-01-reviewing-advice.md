@@ -41,5 +41,5 @@ Regarding different kinds of contributions, here's what Prof. Philip Resnik at U
 	- What do we know now that we did not know before?
 	- How does this theoretical or mathematical advance connect to either scientific or engineering goals? (See above.)
 
->Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
+Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
 
