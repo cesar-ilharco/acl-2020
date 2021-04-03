@@ -31,14 +31,15 @@ We hope reiterating some dos and don'ts here can help reviewers as well as autho
 Regarding different kinds of contributions, here's what Prof. Philip Resnik at University of Maryland says:
 
 >I think there would be significant value in encouraging reviewers to think explicitly about the nature of the contribution, and what questions then need to be asked. As a first pass for consideration/discussion:
-- Is this research making a scientific contribution? If so: 
+- Is this research making a **scientific** contribution? If so: 
 	- What is the phenomenon in the world that the authors are seeking to improve our understanding of?
 	- What do we now know about this phenomenon that we did not know before?
-- Is this research making an engineering contribution? If so: 
+- Is this research making an **engineering** contribution? If so: 
 	- What is the real-world problem (or set of problems) that this work is making progress on solving?
 	- Alternatively, if it's not targeting a current real-world problem, what real-world problem(s) will this work help enable solutions of?
-- Is this research making a theoretical (e.g. mathematical) contribution? If so: 
+- Is this research making a **theoretical** (e.g. mathematical) contribution? If so: 
 	- What do we know now that we did not know before?
 	- How does this theoretical or mathematical advance connect to either scientific or engineering goals? (See above.)
-Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
+
+>Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
 
