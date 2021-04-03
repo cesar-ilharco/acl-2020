@@ -60,6 +60,11 @@ Regarding different kinds of contributions, here's what Prof. Philip Resnik at U
 - The paper's topic is completely new, such that there's no prior art or all the prior art has been done in another field. We are interested in papers that tread new ground.
 - The paper is a resource paper. In a field that relies on supervised machine learning as much as NLP, development of datasets is as important as modeling work. This blog post discusses what can and cannot be grounds for dismissing a resource paper.
 
+Please refrain from using the reasons above as primary grounds for rejection when writing your reviews. We will ensure authors are aware of these guidelines and can reference them during the author rebuttal period. ACs will be checking reviews carefully based on the above criteria, and may ask that you revise your review, or that you provide objective reasons to justify your positions.
+
+We hope these tips are helpful to reviewers, and hope there will be more authors that appreciate the insightful feedback they get from the reviews, and fewer frustrating authors that complain about review quality.
+
+
 
 
 
