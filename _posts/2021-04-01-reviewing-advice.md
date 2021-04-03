@@ -73,6 +73,9 @@ To read more about the general advice on reviewing, we recommend the following r
 - Elsevier's "Researcher Academy" has produced a video about "How to write a helpful peer review report", presented by Zoe Mullan, Founding editor and Editor-in-chief of the open access journal "The Lancet Global Health". To watch the video, you have to sign in to join the academy (which is free).
 - Some interesting findings about paper reviews can be found in an early article published in the Journal of the American Medical Association (JAMA), "What Makes a Good Reviewer and a Good Review for a General Medical Journal?".
 
+What any of the articles and videos indicated above will give you is CONFIDENCE that you're doing the right thing. (Early Career reviewers will be happy to hear that one of the conclusions of the JAMA paper is that "Younger age also was an independent predictor for editors' quality assessments")
+
+
 
 
 
