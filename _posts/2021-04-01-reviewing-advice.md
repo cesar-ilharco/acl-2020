@@ -13,14 +13,14 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 ##  Reviewing Advice for ACL-IJCNLP 2021
-Adapted from the reviewing advice from NAACL-HLT 2021 and the reviewing advice from EMNLP 2020.
+Adapted from the [reviewing advice from NAACL-HLT 2021](https://2021.naacl.org/reviewer/advice/) and the [reviewing advice from EMNLP 2020](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews).
 
 The intention for this page is to provide some advice to reviewers, such that we can identify the best research to be presented in the conference, and provide constructive feedback in order for authors to further improve their papers. We recognize and appreciate the amount of efforts reviewers have contributed, and hope to make that more beneficial. We want all the authors to feel the delight when they read the peer reviews for their papers.
 
-To help our reviewers with common review questions, our Reviewer Mentoring Committee has created several videos and posted here. In addition, many major conferences have included advice to reviewers, in NLP and in other fields, and there's also plentiful advice relating to journal reviewing. Within the field of NLP, we would highlight:
-- Discursive advice in ACL 2017 from leading lights in the field: Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin
-- Two example good reviews from NAACL 2018 presented in their reviewing form
-- A podcast by Noah Smith about peer reviews
+To help our reviewers with common review questions, our Reviewer Mentoring Committee has created several videos and posted [here](https://vimeo.com/user106613660). In addition, many major conferences have included advice to reviewers, in NLP and in other fields, and there's also plentiful advice relating to journal reviewing. Within the field of NLP, we would highlight:
+- [Discursive advice](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/) in ACL 2017 from leading lights in the field: Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin
+- [Two example good reviews](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/) from NAACL 2018 presented in their reviewing form
+- [A podcast by Noah Smith](https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith) about peer reviews
 
 Please take the time to look through these excellent resources.
 
