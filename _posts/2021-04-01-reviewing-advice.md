@@ -49,7 +49,7 @@ Regarding different kinds of contributions, here's what Prof. Philip Resnik at U
 - Be constructive in your advice. Stating that some aspect of the paper is done badly can be helpful in the gatekeeping aspect of review (providing grounds for rejection), but it tends to be less helpful to the authors. Some suggestions of how the authors might improve these problematic aspects can allow them to develop the work into something considerably better.
 - Be kind in your language, even when being critical. It's easy to get carried away, and write something nasty that you would never say to someone's face. Try to be polite in your feedback.
 
-**Finally,** it's becoming more common for people to share reviews on social media, especially when the reviews reject the work on spurious grounds. <font color='red'> **These lead us to advise that the following are often *invalid bases* for rejecting a paper:** </font>
+**Finally,** it's becoming more common for people to share reviews on social media, especially when the reviews reject the work on spurious grounds. <font color='red'><b>These lead us to advise that the following are often *invalid bases* for rejecting a paper:</b></font>
 
 - The paper's language or writing style. Please focus on the paper's substance. We understand that there may be times when the language or writing style is so poor that reviewers can not understand the paper's content and substance. In that case, it is fine to reject the paper, however you should only do so after making a concerted effort to understand the paper.
 - The paper's work is on a language other than English. We care about NLP for any language.
