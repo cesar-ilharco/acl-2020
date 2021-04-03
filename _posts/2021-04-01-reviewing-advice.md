@@ -70,7 +70,8 @@ To read more about the general advice on reviewing, we recommend the following r
 - ICML gives some examples of good reviews. Please refer to the Part 2 of their Reviewer Guidelines.
 - A blog article by Pat Thomson about journal review, which shares a broadly similar procedure to conference review. The article is split into three parts, covering how to read the paper critically, how to decide on revisions required and recommendations to the PC, and how to write constructive feedback.
 - Wiley Publishing has a cute video with 10 tips for first-time reviewers. A list of those tips can be found in the pdf document. One tip that is useful for EVERYONE is tip 8: "Look at the Conclusion First". Wiley advocates doing so because the Conclusion will give you a good idea whether the research is an exciting development within its own field. But another reason for doing so is to see what the paper is claiming to have done: This often differs from the Abstract and Introduction, which may make more impressive claims than the work actually supports.
-
+- Elsevier's "Researcher Academy" has produced a video about "How to write a helpful peer review report", presented by Zoe Mullan, Founding editor and Editor-in-chief of the open access journal "The Lancet Global Health". To watch the video, you have to sign in to join the academy (which is free).
+- Some interesting findings about paper reviews can be found in an early article published in the Journal of the American Medical Association (JAMA), "What Makes a Good Reviewer and a Good Review for a General Medical Journal?".
 
 
 
