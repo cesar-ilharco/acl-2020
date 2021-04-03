@@ -54,7 +54,11 @@ Regarding different kinds of contributions, here's what Prof. Philip Resnik at U
 - The paper's language or writing style. Please focus on the paper's substance. We understand that there may be times when the language or writing style is so poor that reviewers can not understand the paper's content and substance. In that case, it is fine to reject the paper, however you should only do so after making a concerted effort to understand the paper.
 - The paper's work is on a language other than English. We care about NLP for any language.
 - The paper's results are not better than SOTA. Please look at the paper's contributions and findings, as discussed above and in this blog post.
-
+- The paper does not use a particular method (e.g., deep learning). No one particular method is a requirement for good work. Please justify why that method is needed. Think about what the paper's contributions are, and bear in mind that having a diversity of methods used is not a bad thing.
+- The paper's method is too simple. Our goal is not to design the most complex method. Again, think what the paper's contributions and findings are. Often the papers with the simplest methods are the most cited. If a simple method outperforms more complex methods from prior work, then this is often an important finding.
+- The paper's topic is narrow or outdated. Please be open minded. We do not want the whole community to chase a trendy topic. Look at the paper's contributions and consider what impact it may have on our community.
+- The paper's topic is completely new, such that there's no prior art or all the prior art has been done in another field. We are interested in papers that tread new ground.
+- The paper is a resource paper. In a field that relies on supervised machine learning as much as NLP, development of datasets is as important as modeling work. This blog post discusses what can and cannot be grounds for dismissing a resource paper.
 
 
 
