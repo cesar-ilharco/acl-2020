@@ -40,7 +40,13 @@ Regarding different kinds of contributions, here's what Prof. Philip Resnik at U
 - Is this research making a **theoretical** (e.g. mathematical) contribution? If so: 
 	- What do we know now that we did not know before?
 	- How does this theoretical or mathematical advance connect to either scientific or engineering goals? (See above.)
-<br><br>Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
+
+Work in computational linguistics might include a mixture of scientific, engineering, and theoretical contributions, rather than just one. But, I am suggesting, if a paper does not make a contribution in any of those three categories, with the sub-bullets having understandable answers, one should seriously consider whether it belongs at the conference.
+
+
+**Second, consider these other important points** when reading the paper and writing your review:
+- Check what the paper's claims are, and how the content of the paper supports that claim. If the paper claims X and there is a performance increase, is that really because of X?
+
 
 
 
