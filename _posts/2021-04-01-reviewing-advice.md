@@ -64,6 +64,8 @@ Please refrain from using the reasons above as primary grounds for rejection whe
 
 We hope these tips are helpful to reviewers, and hope there will be more authors that appreciate the insightful feedback they get from the reviews, and fewer frustrating authors that complain about review quality.
 
+##Additional Resources
+To read more about the general advice on reviewing, we recommend the following resources:
 
 
 
