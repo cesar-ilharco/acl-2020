@@ -7,7 +7,6 @@ sidebar:
 ---
 
 Workshops:<br/>
-<br/>
 <h2>Two-day workshops:</h2>
 w13 [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://semeval.github.io/SemEval2021/) (2 days) <br/>
 <i>Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu</i><br/>
