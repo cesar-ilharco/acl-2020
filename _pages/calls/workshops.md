@@ -8,13 +8,16 @@ sidebar:
 
 Workshops:<br/>
 <br/>
-- [*SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2021/home) (2 days) <br/>
-<i>Ivan Vulic and Vivi Nastase</i><br/>
-- [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://semeval.github.io/SemEval2021/) (2 days) <br/>
+<h2>Two-day workshops:</h2><br/>
+w13 [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://semeval.github.io/SemEval2021/) (2 days) <br/>
 <i>Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu</i><br/>
-- [International Conference on Spoken Language Translation (IWSLT)](https://iwslt.org/2021/) (2 days) <br/>
+w17 [International Conference on Spoken Language Translation (IWSLT)](https://iwslt.org/2021/) (2 days) <br/>
 <i>Marcello Federico, Alexander Waibel, Satoshi Nakamura, Hermann Ney, Jan Niehues, 
 Sebastian Stüker and Marco Turchi</i><br/>
+w20 [*SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2021/home) (2 days) <br/>
+<i>Ivan Vulic and Vivi Nastase</i><br/>
+<br/>
+<h2>One-day workshops scheduled for August 5</h2><br/>
 - [Benchmarking: Past, Present and Future](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md)<br/>
 <i>Kenneth Church, Mark Liberman and Valia Kordoni</i><br/>
 - [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home)<br/>
