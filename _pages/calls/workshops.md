@@ -68,5 +68,6 @@ w18 [5th Workshop on Structured Prediction for NLP](http://structuredprediction.
 <i>Zornitsa Kozareva, Sujith Ravi, Andreas Vlachos, Priyanka Agrawal and André F. T. Martins</i><br/>
 w21 [SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
 Communication for Robotics](https://splu-robonlp2021.github.io/)<br/>
+<i>Malihe Alikhani, Valts Blukis, Parisa Kordjamshidi, Aishwarya Padmakumar, and Hao Tan</i><br/>
 w23 [WPT 2021: The 17th International Conference on Parsing Technologies](https://iwpt21.sigparse.org)<br/>
 <i>Stephan Oepen, Kenji Sagae, Reut Tsarfaty and Weiwei Sun</i><br/>
