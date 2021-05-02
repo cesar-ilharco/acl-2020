@@ -40,12 +40,6 @@ platinum:
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
-   - url: https://www.microsoft.com
-    image_path: /assets/images/logos/microsoft-logo.png
-    alt: "Microsoft Logo"
-    title: "Microsoft"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 gold:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
@@ -54,7 +48,13 @@ silver:
     image_path: /assets/images/logos/duolingo-logo.png
     alt: "Duolingo Logo"
     title: "Duolingo"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 bronze:
+  - url: https://babelscape.com
+    image_path: /assets/images/logos/babelscape-logo.png
+    alt: "Babelscape Logo"
+    title: "Babelscape"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
