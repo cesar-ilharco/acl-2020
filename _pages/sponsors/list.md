@@ -28,12 +28,18 @@ diamond:
     title: "Tencent"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
+  - url: https://www.amazon.science/
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
+  - url: https://www.bytedance.com/en/
+    image_path: /assets/images/logos/bytedance-logo.png
+    alt: "Bytedance Logo"
+    title: "Bytedance"
   - url: https://megagon.ai
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 gold:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
