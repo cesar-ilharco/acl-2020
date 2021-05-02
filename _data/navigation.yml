@@ -38,7 +38,7 @@ main:
     url: /blog
 
   - title: Sponsors
-    url: https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf
+    url: /sponsors/list
 
   - title: "Venue"
     url: /venue
@@ -124,4 +124,4 @@ sponsors:
       - title: "List of Sponsors"
         url: /sponsors/list/
       - title: "Tiers &amp; Pricing"
-        url: /sponsors/benefits/
+        url: https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf
