@@ -40,8 +40,8 @@ platinum:
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
-  - url: https://megagon.ai
-    image_path: /assets/images/logos/megagon-logo-2019.png
+  - url: https://microsoft.com
+    image_path: /assets/images/logos/microsoft-logo.png
     alt: "Megagon Logo"
     title: "Megagon"
   - image_path: /assets/images/logos/blank-logo.png
