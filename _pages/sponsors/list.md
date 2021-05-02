@@ -37,7 +37,7 @@ platinum:
     alt: "Bytedance Logo"
     title: "Bytedance"
   - url: https://megagon.ai
-    image_path: /assets/images/logos/megagon-logo-2019.png
+    image_path: /assets/images/logos/megagon-logo.png
     alt: "Megagon Logo"
     title: "Megagon"
   - url: https://microsoft.com
