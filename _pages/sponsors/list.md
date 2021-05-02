@@ -49,16 +49,11 @@ platinum:
 gold:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 silver:
   - url: https://research.duolingo.com
     image_path: /assets/images/logos/duolingo-logo.png
     alt: "Duolingo Logo"
     title: "Duolingo"
-  - url: https://europe.naverlabs.com/
-    image_path: /assets/images/logos/naver-logo.png
-    alt: "Naver Logo"
-    title: "Naver Lab"
 bronze:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
