@@ -129,6 +129,6 @@ This year’s sponsor list includes two initiatives created last year.  These ca
 {% include gallery id="inkind" class="fourth" %}
 
 <div class="text-center"> 
-<a href="/sponsors/benefits/"><button class="btn btn--large btn--inverse">Sponsorship Tiers &amp; Pricing</button></a>
+<a href="https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf"><button class="btn btn--large btn--inverse">Sponsorship Tiers &amp; Pricing</button></a>
 </div>
 <br/>
