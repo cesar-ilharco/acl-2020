@@ -59,8 +59,18 @@ silver:
     title: "Naver Lab"
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://babelscape.com
+    image_path: /assets/images/logos/babelscape-logo.png
+    alt: "Babelscape Logo"
+    title: "Babelscape"
+  - url: https://www.bosch-ai.com/
+    image_path: /assets/images/logos/bosch-logo.png
+    alt: "Bosch Logo"
+    title: "Bosch"
+  - url: https://www.legalforce.co.jp/
+    image_path: /assets/images/logos/legalforce-logo.png
+    alt: "Legalforce Logo"
+    title: "Legalforce"
 supporter:
   - url: https://research.adobe.com/
     image_path: /assets/images/logos/adobe-logo.jpg
