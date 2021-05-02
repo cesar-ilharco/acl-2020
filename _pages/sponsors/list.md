@@ -6,8 +6,12 @@ toc: true
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
-  - url: https://www.techatbloomberg.com/nlp/
-    image_path: /assets/images/logos/Bloomberg-logo-2019.png
+  - url: https://www.apple.com/
+    image_path: /assets/images/logos/apple-logo.png
+    alt: "Apple Logo"
+    title: "Apple"
+  - url: http://techatbloomberg.com/
+    image_path: /assets/images/logos/bloomberg-logo.png
     alt: "Bloomberg Logo"
     title: "Bloomberg"
   - image_path: /assets/images/logos/blank-logo.png
@@ -16,34 +20,30 @@ platinum:
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
-  - url: https://baidu.com
-    image_path: /assets/images/logos/baidu.jpg
-    alt: "Baidu Logo"
-    title: "Baidu"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 gold:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 silver:
-  - url: https://www.polyai.com
-    image_path: /assets/images/logos/polyai-logo-2019.png
-    alt: "PolyAI Logo"
-    title: "PolyAI"
+  - url: https://research.duolingo.com
+    image_path: /assets/images/logos/duolingo-logo.png
+    alt: "Duolingo Logo"
+    title: "Duolingo"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
-  - url: https://www.isi.edu
-    image_path: /assets/images/logos/isi.jpg
-    alt: "ISI Logo"
-    title: "ISI"
+  - url: https://babelscape.com
+    image_path: /assets/images/logos/babelscape-logo.png
+    alt: "Babelscape Logo"
+    title: "Babelscape"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
-  - url: https://www.jhu.edu
-    image_path: /assets/images/logos/jhu.jpg
-    alt: "JHU Logo"
-    title: "JHU"
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe-logo.jpg
+    alt: "Adobe Logo"
+    title: "Adobe"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
@@ -62,9 +62,9 @@ sidebar:
     nav: "sponsors"
 ---
 
-ACL 2020 is grateful to all its sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
+ACL-IJCNP 2021 is grateful to all its sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-This year’s sponsor list includes two initiatives created last year.  These categories are: Diversity & Inclusion Champion and Diversity & Inclusion Ally. These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
+This year’s sponsor list includes two initiatives created last year.  These categories are: Diversity & Inclusion Champion and Diversity & Inclusion Ally. These sponsors donated funds specifically to facilitate participation in ACL-IJCNLP 2021 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
 
 ## Diamond
 
