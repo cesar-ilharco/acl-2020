@@ -40,7 +40,14 @@ platinum:
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
+   - url: https://www.microsoft.com
+    image_path: /assets/images/logos/microsoft-logo.png
+    alt: "Microsoft Logo"
+    title: "Microsoft"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 gold:
+  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 silver:
@@ -48,33 +55,35 @@ silver:
     image_path: /assets/images/logos/duolingo-logo.png
     alt: "Duolingo Logo"
     title: "Duolingo"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://europe.naverlabs.com/
+    image_path: /assets/images/logos/naver-logo.png
+    alt: "Naver Logo"
+    title: "Naver Lab"
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
-  - url: https://babelscape.com
-    image_path: /assets/images/logos/babelscape-logo.png
-    alt: "Babelscape Logo"
-    title: "Babelscape"
+  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
-  - url: https://research.adobe.com/
-    image_path: /assets/images/logos/adobe-logo.jpg
-    alt: "Adobe Logo"
-    title: "Adobe"
+  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
 socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 dichampion:
+  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 inkind:
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
