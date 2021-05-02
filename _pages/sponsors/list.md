@@ -59,31 +59,27 @@ silver:
     image_path: /assets/images/logos/naver-logo.png
     alt: "Naver Logo"
     title: "Naver Lab"
-  - image_path: /assets/images/logos/blank-logo.png
 bronze:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 supporter:
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe-logo.jpg
+    alt: "Adobe Logo"
+    title: "Adobe"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
 socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 dichampion:
-  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 inkind:
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
