@@ -42,8 +42,8 @@ platinum:
     title: "Megagon"
   - url: https://microsoft.com
     image_path: /assets/images/logos/microsoft-logo.png
-    alt: "Megagon Logo"
-    title: "Megagon"
+    alt: "Microsoft Logo"
+    title: "Microsoft"
   - image_path: /assets/images/logos/blank-logo.png
 gold:
   - image_path: /assets/images/logos/blank-logo.png
