@@ -58,7 +58,6 @@ silver:
     alt: "Naver Logo"
     title: "Naver Lab"
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 bronze:
   - url: https://babelscape.com
     image_path: /assets/images/logos/babelscape-logo.png
