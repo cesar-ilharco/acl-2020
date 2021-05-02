@@ -14,7 +14,11 @@ diamond:
     image_path: /assets/images/logos/bloomberg-logo.png
     alt: "Bloomberg Logo"
     title: "Bloomberg"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.facebook.com/
+    image_path: /assets/images/logos/facebook-logo.png
+    alt: "Facebook Logo"
+    title: "Facebook"
+
 platinum:
   - url: https://megagon.ai
     image_path: /assets/images/logos/megagon-logo-2019.png
@@ -64,7 +68,7 @@ sidebar:
 
 ACL-IJCNP 2021 is grateful to all its sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-This year’s sponsor list includes two initiatives created last year.  These categories are: Diversity & Inclusion Champion and Diversity & Inclusion Ally. These sponsors donated funds specifically to facilitate participation in ACL-IJCNLP 2021 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
+This year’s sponsor list includes two initiatives created last year.  These categories are: Diversity & Inclusion Champion and Diversity & Inclusion Ally. These sponsors donated funds specifically to facilitate participation in ACL-IJCNLP 2021 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf) are available for the AACL and EMNLP conferences as well.
 
 ## Diamond
 
