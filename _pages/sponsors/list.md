@@ -10,15 +10,23 @@ diamond:
     image_path: /assets/images/logos/apple-logo.png
     alt: "Apple Logo"
     title: "Apple"
-  - url: https://www.techatbloomberg.com/nlp/
+  - url: http://techatbloomberg.com/
     image_path: /assets/images/logos/bloomberg-logo.png
     alt: "Bloomberg Logo"
     title: "Bloomberg"
-  - url: https://www.facebook.com/
+  - url: https://research.fb.com/
     image_path: /assets/images/logos/facebook-logo.png
     alt: "Facebook Logo"
     title: "Facebook"
-
+  - url: https://research.google
+    image_path: /assets/images/logos/google-logo.png
+    alt: "Google Logo"
+    title: "Google"
+  - url: https://ai.tencent.com/
+    image_path: /assets/images/logos/tencent-logo.png
+    alt: "Tencent Logo"
+    title: "Tencent"
+  - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://megagon.ai
     image_path: /assets/images/logos/megagon-logo-2019.png
