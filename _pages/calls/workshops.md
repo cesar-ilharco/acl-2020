@@ -8,8 +8,8 @@ sidebar:
 
 Workshops:<br/>
 <h2>Two-day workshops:</h2>
-w13 [SemEval-2021, 15th International Workshop on Semantic Evaluations](https://semeval.github.io/SemEval2021/) (2 days) <br/>
-<i>Alexis Palmer, Nathan Schneider, Leon Derczynski, Aurélie Herbelot and Xiaodan Zhu</i><br/>
+w13 [SemEval-2021, 15th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2021/) (2 days) <br/>
+<i>Alexis Palmer, Nathan Schneider, Natalie Schluter ,Guy Emerson, Aurélie Herbelot and Xiaodan Zhu</i><br/>
 w17 [International Conference on Spoken Language Translation (IWSLT)](https://iwslt.org/2021/) (2 days) <br/>
 <i>Marcello Federico, Alexander Waibel, Satoshi Nakamura, Hermann Ney, Jan Niehues, 
 Sebastian Stüker and Marco Turchi</i><br/>
