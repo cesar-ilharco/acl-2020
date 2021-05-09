@@ -12,8 +12,13 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
-##  Accptance Decision for ACL-IJCNLP 2021
-Adapted from the [reviewing advice from NAACL-HLT 2021](https://2021.naacl.org/reviewer/advice/) and the [reviewing advice from EMNLP 2020](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews).
+##  Notes about the Accept/Reject Notifications
+
+### 1. ACL Findings:
+To continue the success of Findings at EMNLP 2020, the ACL-IJCNLP 2021 reviewing committee has selected papers that are not accepted for publication in the main conference, but nonetheless have been assessed by the Program Committee as solid work with sufficient substance, quality and novelty to Findings. Therefore, the ACL decisions will have the following three basic types : Accept-to-Main-Conference, Accept-to-Findings, and Reject. Some accepted papers are conditional. Please refer to Sections 2 and 3 below for more information.
+
+The conference received 3350 full-paper submissions, and the acceptance rates of the first two types are 21.3% and 14.9%, respectively. 
+
 
 
 
