@@ -19,6 +19,16 @@ To continue the success of Findings at EMNLP 2020, the ACL-IJCNLP 2021 reviewing
 
 The conference received 3350 full-paper submissions, and the acceptance rates of the first two types are 21.3% and 14.9%, respectively. 
 
+### 2. EAC Reviews:
+The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration and, as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. This year, a new Ethics Advisory Committee (EAC) was formed to look into the submissions flagged for ethical concerns by the reviewing committee (reviewers, area chairs, and senior area chairs of technical tracks).
+
+For any paper that the technical reviewing committee expressed ethical concerns, the paper was sent to the EAC. The EAC chairs went over the papers to determine whether a full EAC review would be required. If so, the paper received one or two ethics reviews in addition to the reviews from the technical tracks. The ethics reviews can be distinguished from technical reviews as they do NOT have a score for Overall Recommendation.
+
+For any paper that is accepted into the main conference or Findings based on technical reviews and that had been referred to the EAC, the EAC chairs have recommended one of the following to the Program Chairs (PCs): (a) accept, (b) conditional accept (the ethical issues must be addressed in the camera-ready version), and (c) reject due to ethical issues.
+
+
+
+
 
 
 
