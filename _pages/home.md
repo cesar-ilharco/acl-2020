@@ -9,23 +9,25 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
-**Mar 28, 2020**. <b>The deadline of the [demo track](https://2021.aclweb.org/calls/demos/) is postponed to April 15</b>
+**May 05, 2021**. <b>Accept/Reject notification is sent to authors. Click [here](https://2021.aclweb.org/blog/acceptance-decision/)  for more information.</b>
 {: .notice--info}
 
-
-**Mar 17, 2020**. <font color="red"><b>ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format. We sincerely hope that the next ACL in Asia will be held in Thailand in 2024, and all participants will be able to come to Thailand as they wish.</b></font>
+**Mar 28, 2021**. <b>The deadline of the [demo track](https://2021.aclweb.org/calls/demos/) is postponed to April 15</b>
 {: .notice--info}
 
-**Feb 12, 2020**. Invitation to [Sponsor](https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf), please contact ACL-IJCNLP 2021 sponsorship co-chairs if you are interested.
+**Mar 17, 2021**. <font color="red"><b>ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format. We sincerely hope that the next ACL in Asia will be held in Thailand in 2024, and all participants will be able to come to Thailand as they wish.</b></font>
 {: .notice--info}
 
-**Feb 08, 2020**. Call for System Demonstrations, please click [here](https://2021.aclweb.org/calls/demos/) for more information.
+**Feb 12, 2021**. Invitation to [Sponsor](https://2021.aclweb.org/downloads/ACL-2021-Sponsorship-booklet.pdf), please contact ACL-IJCNLP 2021 sponsorship co-chairs if you are interested.
+{: .notice--info}
+
+**Feb 08, 2021**. Call for System Demonstrations, please click [here](https://2021.aclweb.org/calls/demos/) for more information.
 {: .notice--info} 
 
-**Feb 02, 2020**. Please checkout the [Forum](https://2021.aclweb.org/mybb/) for News and Announcement.
+**Feb 02, 2021**. Please checkout the [Forum](https://2021.aclweb.org/mybb/) for News and Announcement.
 {: .notice--info} 
 
-**Feb 01, 2020**. Due to the continued down of softconf, we decided to extend the ACL-IJCNLP deadline by 1 full day (i.e. February 2nd 11:59PM UTC-12 ("anywhere on Earth")).
+**Feb 01, 2021**. Due to the continued down of softconf, we decided to extend the ACL-IJCNLP deadline by 1 full day (i.e. February 2nd 11:59PM UTC-12 ("anywhere on Earth")).
 {: .notice--info} 
 
 <!--div class="text-center">
