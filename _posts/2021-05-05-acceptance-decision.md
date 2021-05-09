@@ -43,7 +43,21 @@ The EAC chairs will go over this document and check the camera-ready version to 
 
 The PCs will inform the authors of the decisions by June 7, 2021.
 
-If you have any questions about EAC reviews or the changes required by EAC, you can contact the ACL-IJCNLP 2021 Ethics Chairs <acl-2021-ethics-chairs@googlegroups.com>. You can also check the Ethics FAQ at https://2021.aclweb.org/ethics/Ethics-FAQ/
+If you have any questions about EAC reviews or the changes required by EAC, you can contact the ACL-IJCNLP 2021 Ethics Chairs <acl-2021-ethics-chairs@googlegroups.com>. You can also check the Ethics FAQ at [https://2021.aclweb.org/ethics/Ethics-FAQ/](https://2021.aclweb.org/ethics/Ethics-FAQ/)
+
+### 5. The Deadlines:
+If your paper belongs to the first four categories, here are the upcoming deadlines for authors and PCs:
+- May 14, 2021: The Final Submission Page will be open for authors to start uploading their camera-ready version. Before that deadline, the authors will NOT be able to see a link at softconf for uploading the final version.
+- May 16, 2021: PCs will determine and inform authors how the Finding papers will be presented, after conducting a survey and discussing that with ACL execs, the conference general chair and workshop chairs. The details of the survey will be sent to the ACL mailing list and all the authors and the reviewing committee of this conference in the next few days.
+- May 25, 2021: The deadline for turning down the "offer":
+	- For all the four Accept* categories, should you wish to turn down the offer, you will need to withdraw your paper in the START system by May 25, 2021. If you do not, we will assume that you accept the "offer".
+	- If you want to keep your paper in the main conference or Findings, but you have double submitted it to ACL-IJCNLP 2021 workshops, you need to withdraw your paper from the workshops by the same deadline.
+- June 1, 2021: The camera-ready version is due.
+	- In addition to the camera-ready paper, the conditionally accepted papers need to submit a separate document that explains how the authors have made the changes required in the EAC meta reviews (see Section 4).
+- June 7, 2021: PCs will inform the authors of conditionally accepted papers whether the condition on their papers has been removed, based on EAC recommendations.
+- June 10, 2021: If a paper is accepted to the main conference, the authors will receive an email informing them of the presentation mode of their papers (oral vs. poster) and the details for each mode.
+- June 24, 2021: The deadline for uploading your presentation videos for accepted papers. More detail about this will be sent out soon by PCs or our virtual conference committee chairs.
+- August 2-4, 2021: The Main Conference takes place!
  
  
 
