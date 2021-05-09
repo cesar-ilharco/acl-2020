@@ -33,7 +33,18 @@ The PCs combine the EAC recommendations with the recommendations from technical 
 3. Accept-to-Findings
 4. Conditional-Accept-to-Findings
 5. Reject 
+
 Notice that the decisions are not based on the review scores alone. PCs also consider author rebuttal, area chair (AC) recommendations, senior area chair (SAC) recommendations, reviewer discussion, EAC recommendations, and so on. Thus, it is possible that some accepted papers' review scores are lower than those of some rejected papers.
+
+### 4. What will happen to the conditionally accepted papers?
+All conditionally accepted papers have an ethics meta-review which appears at the bottom of all other reviews and has a special heading. This meta-review states the changes needed to be made by the authors in the camera-ready version. The authors need to submit the camera-ready version by June 1, 2021, the same deadline for the papers without conditions. In addition, the authors need to provide a short document that explains how they have made the changes requested by the EAC meta-reviews. The document can be either a plain text file or a pdf file, and needs to be uploaded to Part D in the Final Submission Page. To be clear, this explanatory document will not be made public; it is just to expedite the conditional acceptance workflow for the EAC's review process.
+
+The EAC chairs will go over this document and check the camera-ready version to determine whether the required changes have been included in the camera-ready version. If so, the condition will be removed, the paper will be accepted to the main conference or Findings, and the status of having been conditionally accepted will not be publicly visible. If not, the paper will be rejected.
+
+The PCs will inform the authors of the decisions by June 7, 2021.
+
+If you have any questions about EAC reviews or the changes required by EAC, you can contact the ACL-IJCNLP 2021 Ethics Chairs <acl-2021-ethics-chairs@googlegroups.com>. You can also check the Ethics FAQ at https://2021.aclweb.org/ethics/Ethics-FAQ/
+ 
  
 
 
