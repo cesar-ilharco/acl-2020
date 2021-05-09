@@ -33,7 +33,7 @@ The PCs combine the EAC recommendations with the recommendations from technical 
 3. Accept-to-Findings
 4. Conditional-Accept-to-Findings
 5. Reject 
-Notice that the decisions are not based on the review scores alone. PCs also consider author rebuttal, area chair (AC) recommendations, senior area chair (SAC) recommendations, reviewer discussion, EAC recommendations, and so on. Thus, it is possible that some accepted papers’ review scores are lower than those of some rejected papers.
+Notice that the decisions are not based on the review scores alone. PCs also consider author rebuttal, area chair (AC) recommendations, senior area chair (SAC) recommendations, reviewer discussion, EAC recommendations, and so on. Thus, it is possible that some accepted papers' review scores are lower than those of some rejected papers.
  
 
 
