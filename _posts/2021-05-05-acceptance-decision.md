@@ -26,7 +26,15 @@ For any paper that the technical reviewing committee expressed ethical concerns,
 
 For any paper that is accepted into the main conference or Findings based on technical reviews and that had been referred to the EAC, the EAC chairs have recommended one of the following to the Program Chairs (PCs): (a) accept, (b) conditional accept (the ethical issues must be addressed in the camera-ready version), and (c) reject due to ethical issues.
 
-
+### 3. Five Categories for Accept/Reject Decisions:
+The PCs combine the EAC recommendations with the recommendations from technical tracks, and use the following five categories for the accept/reject decisions:
+1. Accept-to-Main-Conference
+2. Conditional-Accept-to-Main-Conference
+3. Accept-to-Findings
+4. Conditional-Accept-to-Findings
+5. Reject 
+Notice that the decisions are not based on the review scores alone. PCs also consider author rebuttal, area chair (AC) recommendations, senior area chair (SAC) recommendations, reviewer discussion, EAC recommendations, and so on. Thus, it is possible that some accepted papers’ review scores are lower than those of some rejected papers.
+ 
 
 
 
