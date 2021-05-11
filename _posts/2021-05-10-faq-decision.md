@@ -42,6 +42,13 @@ Below are the main steps in the review process, which is very similar to those f
 	<li>The AC and reviewers of technical tracks discuss the paper in softconf's discussion board. The reviewers are asked to update their reviews in softconf if they change their opinions or have any new comments to add about the paper based on the discussion.</li>
 	</ol>
 </li>
+<li> 4/8-4/14: The AC writes a meta review which has three parts:
+	<ol type="a">
+	<li>AC recommendation, which uses one of four labels: 1-Accept, 2-Possible-Accept, 3-Possible-Reject, 4-Reject.</li>
+	<li>AC summary of reviews  (including his/her own opinion) of the paper, which is visible to authors.</li>
+	<li>AC's confidential comments to SACs/PCs.</li>
+	</ol>
+</li>
 </ol>
 
 
