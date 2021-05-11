@@ -117,6 +117,12 @@ A1: See Section 1
 ### Q2: The AC recommends Accept. Why is my paper still rejected?
 A2: As explained in Section 1, AC recommendation is just one of many factors used in the final decision. For instance, some ACs disagree with reviewers: they may recommend Accept when some reviewers insist on the paper being rejected, or the other way around. PCs also look at other factors such as author rebuttal, three reviews, the discussion in the discussion board, SAC recommendations, EAC recommendations (for flagged papers), and the submission itself.
 
+### Q3: My overall recommendation scores are 4, 3.5, 3.5. Why is my paper still rejected (or accepted to Findings, but not to the main conference)?
+A3: Just like in Q2, review scores are just one of many factors considered by PCs. For instance, some ACs point out that in some reviews, the overall recommendation scores do not match the reviews (e.g., a largely negative review with a score of 3.5), but reviewers do not want to change their reviews or overall recommendation scores for various reasons, even when prompted by ACs. In that case, PCs read reviews, AC recommendation and SAC recommendation in order to reach a final decision.
+
+### Q4: My reviews are largely positive but the paper is rejected due to an EAC review. Does EAC have the one-vote veto right?
+A4: No. EAC recommendation is only one piece of information used in the final decision, as explained in Section 1.
+
  
  
 
