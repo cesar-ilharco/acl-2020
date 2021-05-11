@@ -98,6 +98,15 @@ Now, if you go to softconf, you can see your papers in one of five categories:
 - Accept-P2-condition: conditionally accepted to Findings
 - Reject-P3: reject
 
+In summary, the final decision is based on the input from all the steps mentioned above:
+- The submission itself and the author responses
+- Reviews from 3+ reviewers: including the part visible to authors and confidential comments to ACs/SACs/PCs.
+- AC recommendation: including a recommendation label, AC summary, and confidential comments to SACs/PCs.
+- Reviewers/AC discussion messages in the softconf discussion board.
+- SAC recommendation: including a recommendation label, rank of the papers in the area, and comments to PCs.
+- EAC recommendation: including an EAC label (E1, E2, E3), EAC comments confidential to PCs, one or two EAC reviews, and an EAC meta review for accepted or conditionally accepted papers.
+
+In addition, we target an acceptance rate of the main conference and the Findings to be around 21-24% and 15%, respectively.
 
 
  
