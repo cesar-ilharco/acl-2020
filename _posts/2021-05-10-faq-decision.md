@@ -145,6 +145,11 @@ A10: This is likely to be due to the reviewer/AC discussion. Some reviewers' opi
 
 Reviewers were asked to revise their reviews to reflect their new opinion of the paper, but that might not always happen. Unfortunately, we cannot make the information in the discussion board available to the authors due to the nature of double-blind reviews.
  
+### Q11: The AC raised some issues that were not found in the three reviews, which we could not address in the rebuttal period. We disagree with those points.
+A11: ACs can point out issues that were not identified by the reviewers. That is why AC recommendation was one of the factors for the final decision. As for your disagreement with AC's opinion, please see A7 above.
+
+### Q12: My paper is marked as accepted to the main conference (or the Findings), but it includes an EAC review and a EAC meta review. Does that mean my paper is conditionally accepted instead?
+A12: If a flagged paper was determined by the EAC that a full EAC review was necessary, the paper would get one or EAC reviews. If such a paper was accepted to the main conference or Findings, an EAC meta review would be added. Thus, having those reviews does not mean that the paper is conditionally accepted. If you want PCs to double check for you, please email PCs with your submission ID.
  
 
 
