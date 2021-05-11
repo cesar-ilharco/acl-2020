@@ -182,6 +182,16 @@ A21: We are checking with our publication chairs on this. Stay tuned.
 
  (We leave some space for Q22-Q25 here, which will be added once we hear back from publication chairs)
 
+## Section 4. Questions for Findings
+
+This section is modified from the Finding FAQ from EMNLP 2020 at [https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp](https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp)
+
+### Q26: What criteria are used to determine whether a paper should be accepted to the main conference or Findings?
+A26: The low acceptance rate for the ACL-IJCNLP 2021 main conference means many high-quality work would have to be rejected without the Findings category. That's the main motivation for us to have this category. Thus, Finding papers are ones with solid work but cannot make it to the main conference due to the low acceptance rate. 
+
+### Q27: Does Finding have its own ISBN or DOI?
+A27: We expect that Findings will grow with future conferences (e.g., having a new volume associated with each conference), and become a recognised and respected publication venue within the field. Initially, we will not be seeking to have Findings indexed in Scopus and Web-of-Science etc. - this is a complex process, and TACL is only now applying after 7 years of operation - but this is a natural option we might consider in future years.
+
 
 
 
