@@ -172,7 +172,7 @@ A17: No, you cannot make any changes to the author list. The authors' informatio
 A18: We are working with publication chairs on this, and will contact authors above this once the templates are available.
 
 ### Q19: I don't see the final submission page. Why?
-A19: The Final Submission Page will be open by May 14, 2021 for authors to start uploading their camera-ready version. Before that deadline, the authors will NOT be able to see the camera-ready submission link at softconf.
+A19: The Final Submission Page will be open by **May 14, 2021** for authors to start uploading their camera-ready version. Before that deadline, the authors will NOT be able to see the camera-ready submission link at softconf.
 
 ### Q20: What is the page limit for the camera-ready version of the paper?
 A20: You will have one extra page for that, 9 pages for long, and 5 pages for short papers, plus unlimited space for references and the impact statement.
@@ -180,7 +180,7 @@ A20: You will have one extra page for that, 9 pages for long, and 5 pages for sh
 ### Q21: Should the appendix be part of the main paper? What's the page limit for the appendix? What style file should I use for the appendix?
 A21: We are checking with our publication chairs on this. Stay tuned.
 
- (We leave some space for Q22-Q25 here, which will be added once we hear back from publication chairs)
+ **(We leave some space for Q22-Q25 here, which will be added once we hear back from publication chairs)**
 
 ## Section 4. Questions for Findings
 
@@ -193,7 +193,7 @@ A26: The low acceptance rate for the ACL-IJCNLP 2021 main conference means many 
 A27: We expect that Findings will grow with future conferences (e.g., having a new volume associated with each conference), and become a recognised and respected publication venue within the field. Initially, we will not be seeking to have Findings indexed in Scopus and Web-of-Science etc. - this is a complex process, and TACL is only now applying after 7 years of operation - but this is a natural option we might consider in future years.
 
 ### Q28: Why might you want your paper to appear in Findings?
-A28: Those with papers accepted to Findings will have the option of having the work accepted largely as-is (with the exception of Accept-P2-condition papers), and being made available online promptly. This will be an attractive option for work that is particularly time-critical, e.g., the novelty of the work would be diminished if publication were delayed by being rejected from ACL. This will also help for papers caught by overlapping anonymity periods between conferences, which can preclude public release for a long period. In this case, Findings can offer the option of a quick publication. Note that authors whose papers are accepted for publication in Findings can, of course, opt out, by withdrawing or simply not submitting a camera-ready copy of the paper.
+A28: Those with papers accepted to Findings will have the option of having the work accepted largely as-is (**with the exception of Accept-P2-condition papers**), and being made available online promptly. This will be an attractive option for work that is particularly time-critical, e.g., the novelty of the work would be diminished if publication were delayed by being rejected from ACL. This will also help for papers caught by overlapping anonymity periods between conferences, which can preclude public release for a long period. In this case, Findings can offer the option of a quick publication. Note that authors whose papers are accepted for publication in Findings can, of course, opt out, by withdrawing or simply not submitting a camera-ready copy of the paper.
 
 Many papers languish on arXiv without ever being published in a peer-reviewed venue because they were overtaken by the accelerating pace of NLP research. This new publication option will give more authors the chance to publish papers that are good and decent contributions at a given point in time, even if their long-term impact may be modest. This will also reduce the amount of unreviewed work in our field, and thereby increase quality.
 
@@ -204,13 +204,13 @@ A29: This depends on the publication prestige, which we would expect to be highe
 A30: This is a judgement call to be made by the authors. Some authors may want to take the acceptance, rather than risk another rejection. This might be more pertinent if the paper has already been rejected from another publication venue, or if the author needs to fill out their CV, e.g., a PhD student wanting to secure a postdoc or faculty position. Other reasons might be that the importance of the work may diminish with time, and the work needs to be published quickly to have an impact.
 
 ### Q31: Will Findings papers have some form of presentation / poster session in the main conference?
-A31: A decision about this will be announced at the conference forum by May 16 and at the conference website shortly after. We are conducting a survey on this, which closes on May 13. An email about the survey was sent to all ACL-IJCNLP authors, the reviewing committee and the ACL mailing list on May 10.
+A31: A decision about this will be announced at the conference forum by **May 16** and at the conference website shortly after. We are conducting a survey on this, which closes on May 13. An email about the survey was sent to all ACL-IJCNLP authors, the reviewing committee and the ACL mailing list on May 10.
 
 ### Q32: Were the going-to-Findings decisions biased by factors such as mainstream vs. controversial?
 A32: Going-to-finding decisions are made by SACs and PCs, not by reviewers/ACs. The review form does not have any mentioning of Findings.
 
 ### Q33: Will the Findings affect ACL workshops?
-A33: We allow double submissions to the ACL main conference and workshops. If the authors take up the Findings offers, they should withdraw their workshop submissions. In this case, it could potentially reduce the submissions to workshops.
+A33: We allow double submissions to the ACL main conference and workshops. **If the authors take up the Findings offers, they should withdraw their workshop submissions.** In this case, it could potentially reduce the submissions to workshops.
 
 ### Q34: Will Finding papers be included in the proceedings of the main conference?
 A34: No. There will be a separate volume for Findings papers, which will be included in the ACL anthology under "Findings of ACL".
