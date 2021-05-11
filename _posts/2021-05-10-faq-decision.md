@@ -203,6 +203,19 @@ A29: This depends on the publication prestige, which we would expect to be highe
 ### Q30: Why should the authors agree to publish in Findings if they know the paper was only narrowly rejected from ACL, and so might get into another conference?
 A30: This is a judgement call to be made by the authors. Some authors may want to take the acceptance, rather than risk another rejection. This might be more pertinent if the paper has already been rejected from another publication venue, or if the author needs to fill out their CV, e.g., a PhD student wanting to secure a postdoc or faculty position. Other reasons might be that the importance of the work may diminish with time, and the work needs to be published quickly to have an impact.
 
+### Q31: Will Findings papers have some form of presentation / poster session in the main conference?
+A31: A decision about this will be announced at the conference forum by May 16 and at the conference website shortly after. We are conducting a survey on this, which closes on May 13. An email about the survey was sent to all ACL-IJCNLP authors, the reviewing committee and the ACL mailing list on May 10.
+
+### Q32: Were the going-to-Findings decisions biased by factors such as mainstream vs. controversial?
+A32: Going-to-finding decisions are made by SACs and PCs, not by reviewers/ACs. The review form does not have any mentioning of Findings.
+
+### Q33: Will the Findings affect ACL workshops?
+A33: We allow double submissions to the ACL main conference and workshops. If the authors take up the Findings offers, they should withdraw their workshop submissions. In this case, it could potentially reduce the submissions to workshops.
+
+### Q34: Will Finding papers be included in the proceedings of the main conference?
+A34: No. There will be a separate volume for Findings papers, which will be included in the ACL anthology under "Findings of ACL".
+
+
 
 
 
