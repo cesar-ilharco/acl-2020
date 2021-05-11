@@ -18,7 +18,9 @@ The whole review process is quite complicated, and may be mysterious to many aut
 
 ## Section 1: The Review Process
 Below are the main steps in the review process, which is very similar to those from previous conferences: 
-
+<ol>
+<li> 2/2-2/24: Paper check and AC/reviewer assignment
+</ol>
 
 
  
