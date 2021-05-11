@@ -21,7 +21,7 @@ Below are the main steps in the review process, which is very similar to those f
 <ol>
 <li> 2/2-2/24: Paper check and AC/reviewer assignment
 	<ol type="a">
-	<li>a</li> 
+	<li>Papers are assigned to tracks by Program Chairs (PCs) and checked by Senior Area Chairs (SACs) and PCs. Let's call these tracks the technical tracks, in contrast to the EAC track (see Step 3).</li> 
 	<li>b</li>
 	</ol>
 </li>
