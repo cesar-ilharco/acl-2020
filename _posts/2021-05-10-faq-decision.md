@@ -123,6 +123,12 @@ A3: Just like in Q2, review scores are just one of many factors considered by PC
 ### Q4: My reviews are largely positive but the paper is rejected due to an EAC review. Does EAC have the one-vote veto right?
 A4: No. EAC recommendation is only one piece of information used in the final decision, as explained in Section 1.
 
+### Q5: Where can we see revised reviews (or comments to our rebuttal)?
+A5: The reviews sent to authors on May 5 are the revised reviews. If reviewers had some comments to the rebuttal that they wanted the authors to see, they would include that in their revised reviews. 
+
+### Q6: How come the reviews remain the same after we spent so much time writing the rebuttal?
+A6: Many reviewers were discussing the papers in the discussion board at softconf, and, after the reviewer/AC discussion, they decided to keep their original reviews because they were not convinced by the authors' rebuttal. In that case, the new reviews will be identical to the original ones.
+
  
  
 
