@@ -171,6 +171,18 @@ A17: No, you cannot make any changes to the author list. The authors' informatio
 ### Q18: Where can we find the templates for the camera-ready version?
 A18: We are working with publication chairs on this, and will contact authors above this once the templates are available.
 
+### Q19: I don't see the final submission page. Why?
+A19: The Final Submission Page will be open by May 14, 2021 for authors to start uploading their camera-ready version. Before that deadline, the authors will NOT be able to see the camera-ready submission link at softconf.
+
+### Q20: What is the page limit for the camera-ready version of the paper?
+A20: You will have one extra page for that, 9 pages for long, and 5 pages for short papers, plus unlimited space for references and the impact statement.
+
+### Q21: Should the appendix be part of the main paper? What's the page limit for the appendix? What style file should I use for the appendix?
+A21: We are checking with our publication chairs on this. Stay tuned.
+
+ (We leave some space for Q22-Q25 here, which will be added once we hear back from publication chairs)
+
+
 
 
 
