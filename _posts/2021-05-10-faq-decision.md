@@ -37,6 +37,11 @@ Below are the main steps in the review process, which is very similar to those f
 	<li>EAC chairs then read the paper to determine whether it needs a full EAC review. If so, one or more EAC reviewers are assigned to the paper, and the EAC reviews would be due in mid-April.</li>
 	</ol>
 </li>
+<li> 4/1-4/7: Reviewer/AC discussion period
+	<ol type="a">
+	<li>The AC and reviewers of technical tracks discuss the paper in softconf's discussion board. The reviewers are asked to update their reviews in softconf if they change their opinions or have any new comments to add about the paper based on the discussion.</li>
+	</ol>
+</li>
 </ol>
 
 
