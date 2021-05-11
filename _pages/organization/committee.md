@@ -50,7 +50,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Rui Xia](http://www.nustm.cn/member/rxia/index.html), Nanjing University of Science and Technology, China<br/>
 
 <h3>Publications Chairs:</h3>
-[Jing-Shin Chang](https://www.linkedin.com/in/jing-shin-chang-02a5a8129), National Chi-Nan University, Taiwan, China<br/>
+[Jing-Shin Chang](https://www.linkedin.com/in/jing-shin-chang-02a5a8129), National Chi Nan University, Taiwan<br/>
 [Yuki Arase](http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_en.html),  Associate Professor, Osaka University, Japan<br/>
 [Yvette Graham](https://www.computing.dcu.ie/~ygraham/), Dublin City University, Ireland<br/>
 
