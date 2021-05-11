@@ -108,6 +108,14 @@ In summary, the final decision is based on the input from all the steps mentione
 
 In addition, we target an acceptance rate of the main conference and the Findings to be around 21-24% and 15%, respectively.
 
+## Section 2: Questions about the review process
+This section includes questions that may be relevant to more than one category.
+
+### Q1: How does the review process work?
+A1: See Section 1
+
+### Q2: The AC recommends Accept. Why is my paper still rejected?
+A2: As explained in Section 1, AC recommendation is just one of many factors used in the final decision. For instance, some ACs disagree with reviewers: they may recommend Accept when some reviewers insist on the paper being rejected, or the other way around. PCs also look at other factors such as author rebuttal, three reviews, the discussion in the discussion board, SAC recommendations, EAC recommendations (for flagged papers), and the submission itself.
 
  
  
