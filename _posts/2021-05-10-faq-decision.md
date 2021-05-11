@@ -89,6 +89,14 @@ Below are the main steps in the review process, which is very similar to those f
 	<li>PCs send out notifications to all authors.</li>
 	</ol>
 </li>
+</ol>
+
+Now, if you go to softconf, you can see your papers in one of five categories: 
+- Accept-P1: accepted to the main conference
+- Accept-P1-condition: conditionally accepted to the main conference
+- Accept-P2: accepted to Findings
+- Accept-P2-condition: conditionally accepted to Findings
+- Reject-P3: reject
 
 
 
