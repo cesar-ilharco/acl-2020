@@ -31,6 +31,12 @@ Below are the main steps in the review process, which is very similar to those f
 	<li>If the reviewers or the AC had ethical concerns about the paper, they would "flag" the paper by clicking "yes" for the ethical question on the review form, and provide a justification for their concern.</li>
 	</ol>
 </li>
+<li> 3/21-3/24: EAC check and reviewer assignment
+	<ol type="a">
+	<li>PCs add the flagged papers to a special track for the Ethic Advisory Committee (EAC).</li>
+	<li>EAC chairs then read the paper to determine whether it needs a full EAC review. If so, one or more EAC reviewers are assigned to the paper, and the EAC reviews would be due in mid-April.</li>
+	</ol>
+</li>
 </ol>
 
 
