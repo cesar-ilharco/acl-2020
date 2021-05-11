@@ -150,6 +150,15 @@ A11: ACs can point out issues that were not identified by the reviewers. That is
 
 ### Q12: My paper is marked as accepted to the main conference (or the Findings), but it includes an EAC review and a EAC meta review. Does that mean my paper is conditionally accepted instead?
 A12: If a flagged paper was determined by the EAC that a full EAC review was necessary, the paper would get one or EAC reviews. If such a paper was accepted to the main conference or Findings, an EAC meta review would be added. Thus, having those reviews does not mean that the paper is conditionally accepted. If you want PCs to double check for you, please email PCs with your submission ID.
+
+### Q13: Some reviewers raised new issues in the revised reviews which we have no chance to respond to. Had they mentioned that in their original reviews, we could have addressed their concern.
+A13: It is not uncommon for new issues to be raised during the reviewers/AC discussion period, and reviewers can include such issues in their revised reviews. Given the short review cycle, it is impossible to have another round of author rebuttal after the discussion period. Nevertheless, as mentioned in Section 1, reviews are just one of many factors considered in the final decision.
+
+### Q14: Now that my paper has been accepted to the Findings, can I post it to arXiv.org now?
+A14:  Yes, that should be fine.
+
+### Q15: For some reasons I have not received an accept/reject notification from you. What's the status of my paper?
+A15: Please go to the softconf site, click on your paper, you should be able to see the status and reviews of your paper.
  
 
 
