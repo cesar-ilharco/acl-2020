@@ -160,7 +160,16 @@ A14:  Yes, that should be fine.
 ### Q15: For some reasons I have not received an accept/reject notification from you. What's the status of my paper?
 A15: Please go to the softconf site, click on your paper, you should be able to see the status and reviews of your paper.
  
+## Section 3. Questions about the camera-ready version
 
+### Q16: Can I make minor changes to the title in the camera-ready version?
+A16: Yes, minor changes to the title are allowed.
+
+### Q17: Can I make any changes to the author list in the camera-ready version?
+A17: No, you cannot make any changes to the author list. The authors' information was used for COI (conflict-of-interest) detection, and COI is a factor that affects many stages in the review process (e.g., AC/reviewer assignment). Thus, no changes to the author list is allowed in the camera-ready version. In fact, in the final submission form, the author field is not editable. 
+
+### Q18: Where can we find the templates for the camera-ready version?
+A18: We are working with publication chairs on this, and will contact authors above this once the templates are available.
 
 
 
