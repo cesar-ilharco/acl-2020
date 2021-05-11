@@ -192,6 +192,16 @@ A26: The low acceptance rate for the ACL-IJCNLP 2021 main conference means many 
 ### Q27: Does Finding have its own ISBN or DOI?
 A27: We expect that Findings will grow with future conferences (e.g., having a new volume associated with each conference), and become a recognised and respected publication venue within the field. Initially, we will not be seeking to have Findings indexed in Scopus and Web-of-Science etc. - this is a complex process, and TACL is only now applying after 7 years of operation - but this is a natural option we might consider in future years.
 
+### Q28: Why might you want your paper to appear in Findings?
+A28: Those with papers accepted to Findings will have the option of having the work accepted largely as-is (with the exception of Accept-P2-condition papers), and being made available online promptly. This will be an attractive option for work that is particularly time-critical, e.g., the novelty of the work would be diminished if publication were delayed by being rejected from ACL. This will also help for papers caught by overlapping anonymity periods between conferences, which can preclude public release for a long period. In this case, Findings can offer the option of a quick publication. Note that authors whose papers are accepted for publication in Findings can, of course, opt out, by withdrawing or simply not submitting a camera-ready copy of the paper.
+
+Many papers languish on arXiv without ever being published in a peer-reviewed venue because they were overtaken by the accelerating pace of NLP research. This new publication option will give more authors the chance to publish papers that are good and decent contributions at a given point in time, even if their long-term impact may be modest. This will also reduce the amount of unreviewed work in our field, and thereby increase quality.
+
+### Q29: Is there any advantage of publishing in Findings versus an ACL workshop?
+A29: This depends on the publication prestige, which we would expect to be higher for Findings than for most workshops. Moreover, workshops increasingly tend to move to non-archival format. 
+
+### Q30: Why should the authors agree to publish in Findings if they know the paper was only narrowly rejected from ACL, and so might get into another conference?
+A30: This is a judgement call to be made by the authors. Some authors may want to take the acceptance, rather than risk another rejection. This might be more pertinent if the paper has already been rejected from another publication venue, or if the author needs to fill out their CV, e.g., a PhD student wanting to secure a postdoc or faculty position. Other reasons might be that the importance of the work may diminish with time, and the work needs to be published quickly to have an impact.
 
 
 
