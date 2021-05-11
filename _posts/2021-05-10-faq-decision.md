@@ -137,7 +137,13 @@ A8: The review form contains a question asking reviewers whether they have read 
 - Some reviewers read the rebuttal, discussed the paper in the discussion board, but for some reasons did not answer that question in the review form. Thus, the answer for an individual paper might not be very accurate.
 - When PCs created the review form in Jan 2021, this question was marked as visible to ACs/SACs/PCs only. Thus, PCs should not change the visibility setting of the question after the fact.
 
+### Q9: I have questions about EAC review or meta review. How can I get some clarification?
+A9: Please read the Ethics FAQ first at [https://2021.aclweb.org/ethics/Ethics-FAQ/](https://2021.aclweb.org/ethics/Ethics-FAQ/). If you still have questions, contact the EAC chairs at acl-2021-ethics-chairs@googlegroups.com directly.
 
+### Q10: After the rebuttal, some overall recommendation scores decreased. Why?
+A10: This is likely to be due to the reviewer/AC discussion. Some reviewers' opinions could change due to the discussion or after reading authors' rebuttal, so the scores can go up or down in the revised reviews. The change of the scores shows that the reviewers have read the author rebuttal. 
+
+Reviewers were asked to revise their reviews to reflect their new opinion of the paper, but that might not always happen. Unfortunately, we cannot make the information in the discussion board available to the authors due to the nature of double-blind reviews.
  
  
 
