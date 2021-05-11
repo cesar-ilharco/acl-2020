@@ -49,6 +49,13 @@ Below are the main steps in the review process, which is very similar to those f
 	<li>AC's confidential comments to SACs/PCs.</li>
 	</ol>
 </li>
+<li> 4/15-4/24: SAC recommendation which also has three parts:
+	<ol type="a">
+	<li>SAC recommendation, which uses one of four labels: 1-Definite-Accept, 2-Possible-Accept-to-Main-Conference, 3-Possible-Accept-to-Findings, 4-Reject.</li>
+	<li>SACs provide a ranking of papers with the 2-Possible-Accept-to-Main-Conference or 3-Possible-Accept-to-Findings recommendations.</li>
+	<li>SACs' comments to PCs</li>
+	</ol>
+</li>
 </ol>
 
 
