@@ -129,6 +129,15 @@ A5: The reviews sent to authors on May 5 are the revised reviews. If reviewers h
 ### Q6: How come the reviews remain the same after we spent so much time writing the rebuttal?
 A6: Many reviewers were discussing the papers in the discussion board at softconf, and, after the reviewer/AC discussion, they decided to keep their original reviews because they were not convinced by the authors' rebuttal. In that case, the new reviews will be identical to the original ones.
 
+### Q7: Some reviewers (or the AC) misunderstood our paper. Please reconsider.
+A7: If some (but not all) reviewers or the AC misunderstood your paper, the overall recommendation scores tended to vary a lot among reviewers or AC's meta review would disagree with the three reviews. SACs and PCs paid special attention to such papers, and the final decision is the result of considering all the input including AC and SAC recommendations and the discussion board. 
+
+### Q8: Can we find out whether the reviewers of my paper had read my rebuttal?
+A8: The review form contains a question asking reviewers whether they have read the rebuttal. We are collecting the statistics on that question and can release that statistics later if needed. However, we do not plan to release that information for individual papers for two reasons:
+- Some reviewers read the rebuttal, discussed the paper in the discussion board, but for some reasons did not answer that question in the review form. Thus, the answer for an individual paper might not be very accurate.
+- When PCs created the review form in Jan 2021, this question was marked as visible to ACs/SACs/PCs only. Thus, PCs should not change the visibility setting of the question after the fact.
+
+
  
  
 
