@@ -56,6 +56,18 @@ Below are the main steps in the review process, which is very similar to those f
 	<li>SACs' comments to PCs</li>
 	</ol>
 </li>
+<li> 3/25-4/24: EAC recommendation:
+	<ol type="a">
+	<li>EAC reviews are due in Mid-April.</li>
+	<li>EAC chairs read the EAC reviews and inform PCs of their decisions, which include comments and one of three labels:
+		<ol type="i">
+		<li>E1: The paper does not have serious ethical issues</li>
+		<li>E2: The paper has some serious ethical issues and thus, if the paper is accepted, the camera-ready version needs to be checked by EAC to ensure ethical concern has been addressed in that version.</li>
+		<li>E3: The paper should be rejected due to ethical concerns.</li>
+		</ol>
+	</li>
+	</ol>
+</li>
 </ol>
 
 
