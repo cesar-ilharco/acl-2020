@@ -68,7 +68,27 @@ Below are the main steps in the review process, which is very similar to those f
 	</li>
 	</ol>
 </li>
-</ol>
+<li>4/25-5/5: PCs make final decisions:
+	<ol type="a">
+	<li>Based on the input from the technical tracks (reviews, discussion board, AC recommendation, SAC recommendation, etc.), PCs use one of three labels for each paper:
+		<ol type="i">
+		<li>P1: Accept-to-Main-Conference</li>
+		<li>P2: Accept-to-Findings</li>
+		<li>P3: Reject</li>
+		</ol>
+	</li>
+	<li>For P1 or P2 papers (not P3 papers), EAC chairs write a meta review that highlights the changes that EAC recommends authors to make in the camera-ready version.</li>
+	<li>For P1 or P2 papers, PCs will use the following four labels for the final decisions:
+		<ol type="i">
+		<li>If EAC recommendation is E1, the paper is accepted and the final label is Accept-P1 or Accept-P2.</li>
+		<li>If EAC recommendation is E2, the paper is conditionally accepted, and the status is Accept-P1-condition or Accept-P2-condition.</li>
+		<li>None of the papers get an E3 label from the EAC.</li>
+		</ol>
+	</li>
+	<li>For P3 papers, PCs will mark them as Reject-P3.</li>
+	<li>PCs send out notifications to all authors.</li>
+	</ol>
+</li>
 
 
 
