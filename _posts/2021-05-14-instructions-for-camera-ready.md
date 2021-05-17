@@ -88,7 +88,7 @@ You need to run the aclpub_check package (see the Appendix), and pay special att
 <li>The paper size: Your paper needs to be formatted to A4. Here are a couple of ways to check this:
 	<ul>
 	<li>Using pdfinfo. The pdfinfo command should include "Page size: 595.276 x 841.89 pts" in its output.</li>
-
+	<li>Using Apple's Preview.app. Open the PDF, and type Ctrl-I. It should report the correct page size.</li>
 	</ul>
 </li></ul>
 
