@@ -91,7 +91,13 @@ You need to run the aclpub_check package (see the Appendix), and pay special att
 	<li>Using Apple's Preview.app. Open the PDF, and type Ctrl-I. It should report the correct page size.</li>
 	<li>Using Adobe Acrobat. Open the PDF, navigate to File, Properties..., Description. The field labeled "Page Size" should read 8.27 x 11.69 inches in.</li>
 	</ul>
-</li></ul>
+</li>
+<li> Embedding fonts: You can check your final PDF with the command "pdffonts mypaper.pdf" and confirm that all the fonts say "yes" under "emb". START will not let you upload your final PDF otherwise. If you are including graphics with the PDF extension, these files must also have embedded fonts. If your paper uses Asian fonts, they must be embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader (Asian versions ship with a larger set of default fonts.)</li>
+<li> Long titles: The title should NOT exceed the left & right margins. Fold a long title into multiple lines if necessary.</li>
+<li> Margins: The margins of the text area must be reserved as specified in the style file.</li>
+<li> Page numbers: DO NOT provide page numbers for your PDF file. The page numbers will be generated automatically while compiling the proceedings.</li>
+<li> Consistent Author Names: The author names must be consistent everywhere and be the same as registered to the submission page(s), and have the same spelling style in all accepted papers. This can avoid generating non-unique Author Index entries for authors with more than one accepted paper. Be sure to ask your co-authors whether you enter their names correctly.</li>
+</ul>
 
 
 
