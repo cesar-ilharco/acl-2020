@@ -197,4 +197,16 @@ Thus, we see this paper has a margin violation. The script output a png called "
 
 It shows that Josef has to shrink the first-page picture to make the paper compliant with the NAACL formatting rules. This is easily remedied with the adjustbox [https://www.ctan.org/pkg/adjustbox](https://www.ctan.org/pkg/adjustbox) package or a similar bit of LaTeX.
 
+## A.3: Example 2
+
+Next, consider Tiago Pimentel and Irene Nikkarinen's paper: "How (Non-)Optimal is the Lexicon?"
+
+> python3 aclpub_check/formatchecker.py --paper_type long lexicon.pdf
+
+Checking lexicon.pdf
+Error (Margin): Text on page 13 bleeds into the margin.
+
+This time, the automatically generated png shows me that the authors didn't keep some math equations out of the margin in a proof in the appendix.
+
+Here, it's likely that the equations have to be broken over two lines. 
 
