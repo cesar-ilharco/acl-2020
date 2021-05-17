@@ -85,18 +85,18 @@ As a central venue of publication for our community, please prioritise the acces
 ### How do I ensure that my file is correctly formatted?
 You need to run the aclpub_check package (see the Appendix), and pay special attention to things like the following:
 <ul> 
-<li>**The paper size**: Your paper needs to be formatted to A4. Here are a couple of ways to check this:
+<li><b>The paper size</b>: Your paper needs to be formatted to A4. Here are a couple of ways to check this:
 	<ul>
 	<li>Using pdfinfo. The pdfinfo command should include "Page size: 595.276 x 841.89 pts" in its output.</li>
 	<li>Using Apple's Preview.app. Open the PDF, and type Ctrl-I. It should report the correct page size.</li>
 	<li>Using Adobe Acrobat. Open the PDF, navigate to File, Properties..., Description. The field labeled "Page Size" should read 8.27 x 11.69 inches in.</li>
 	</ul>
 </li>
-<li> **Embedding fonts**: You can check your final PDF with the command "[pdffonts](https://www.xpdfreader.com/download.html) mypaper.pdf" and confirm that all the fonts say "yes" under "emb". START will not let you upload your final PDF otherwise. If you are including graphics with the PDF extension, these files must also have embedded fonts. If your paper uses Asian fonts, they must be embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader (Asian versions ship with a larger set of default fonts.)</li>
-<li> **Long titles**: The title should **NOT** exceed the left & right margins. Fold a long title into multiple lines if necessary.</li>
-<li> **Margins**: The margins of the text area must be reserved as specified in the style file.</li>
-<li> **Page numbers**: DO **NOT** provide page numbers for your PDF file. The page numbers will be generated automatically while compiling the proceedings.</li>
-<li> **Consistent Author Names**: The author names must be consistent everywhere and be the same as registered to the submission page(s), and have the same spelling style in all accepted papers. This can avoid generating non-unique Author Index entries for authors with more than one accepted paper. Be sure to ask your co-authors whether you enter their names correctly.</li>
+<li> <b>Embedding fonts</b>: You can check your final PDF with the command "[pdffonts](https://www.xpdfreader.com/download.html) mypaper.pdf" and confirm that all the fonts say "yes" under "emb". START will not let you upload your final PDF otherwise. If you are including graphics with the PDF extension, these files must also have embedded fonts. If your paper uses Asian fonts, they must be embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader (Asian versions ship with a larger set of default fonts.)</li>
+<li> <b>Long titles</b>: The title should <b>NOT</b> exceed the left & right margins. Fold a long title into multiple lines if necessary.</li>
+<li> <b>Margins</b>: The margins of the text area must be reserved as specified in the style file.</li>
+<li> <b>Page numbers</b>: DO <b>NOT</b> provide page numbers for your PDF file. The page numbers will be generated automatically while compiling the proceedings.</li>
+<li> <b>Consistent Author Names</b>: The author names must be consistent everywhere and be the same as registered to the submission page(s), and have the same spelling style in all accepted papers. This can avoid generating non-unique Author Index entries for authors with more than one accepted paper. Be sure to ask your co-authors whether you enter their names correctly.</li>
 </ul>
 
 ### What if my paper includes graphics?
