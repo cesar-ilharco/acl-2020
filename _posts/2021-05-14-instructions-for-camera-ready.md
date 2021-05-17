@@ -40,6 +40,14 @@ The metadata should be written using Unicode (UTF-8) with LaTeX commands. Please
 *Can {LSTM} Learn to Capture Agreement? {T}he Case of {B}asque 
 Named Entity Extraction from Noisy Input: {S}peech and {OCR}.*
 
+It is important to only protect those first letters that belong to the categories exhibited above, i.e., proper names (including language names), acronyms, abbreviations, the first letter after punctuation (such as a colon) and the first letter in a sentence. These curly braces will not appear in the online conference program or proceedings. They will only appear in the BibTeX file that others will use to cite your paper.
+- If you need literal curly braces, please escape them like this: \{ \}
+- Please don't use any nonstandard LaTeX commands, and there should be no \footnote or citations using \cite or related commands.
+- You can use LaTeX math mode where appropriate: An $O(n^2)$ Algorithm for $n$-gram Smoothing.
+- You can use Unicode (UTF-8) for accented or special characters.
+- If you copy-and-paste from your PDF file, please be sure to rejoin words broken by hyphenation.
+
+
 
 
 
