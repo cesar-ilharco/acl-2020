@@ -9,7 +9,7 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
-**May 14, 2021**. <b>Instructions for Camera-ready submission are [here](https://2021.aclweb.org/downloads/Camera_Ready_Instructions.pdf)</b>
+**May 14, 2021**. <b>Instructions for Camera-ready submission are [here](https://2021.aclweb.org/blog/instructions-for-camera-ready/)</b>
 {: .notice--info}
 
 **May 05, 2021**. <b>Accept/Reject notification is sent to authors. Click [here](https://2021.aclweb.org/blog/acceptance-decision/)  for more information.</b>
