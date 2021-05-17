@@ -139,4 +139,13 @@ The EAC chairs will go over this document and check the camera-ready version to 
 
 If you have any questions about EAC reviews or the changes required by EAC, you can contact the ACL-IJCNLP 2021 Ethics Chairs <acl-2021-ethics-chairs@googlegroups.com>. You can also check the Ethics FAQ at [https://2021.aclweb.org/ethics/Ethics-FAQ/](https://2021.aclweb.org/ethics/Ethics-FAQ/).
 
+## 6. Supplementary material (Part E in the form)
+
+### Where do supplemental materials go?
+Supplemental material contains material such as data, software, all other material and is uploaded separately as a zip file. The maximum size of the zip file is 20MB. 
+
+### Do I need to submit latex source files?
+No. Latex files will not be used in ACL Anthology, thus please do NOT submit them. 
+
+
 
