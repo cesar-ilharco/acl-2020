@@ -117,10 +117,26 @@ Appendices should be part of the PDF file uploaded to Part C in the form. It sho
 ### What's the page limit of the Appendices?
 The Appendices do not count towards the page limit of the main paper, but they need to be no more than 4 pages, as recommended by the publication chairs.
 
-
-
-What template should the Appendices use?
+### What template should the Appendices use?
 The Appendices should use exactly the same template as the main paper (See Section 3). 
 
+## 5. Additional document for conditionally accepted papers (Part D in the form)
+
+### Who needs to submit a document for Part D?
+That depends on the status of your paper:
+- If the status is Accept-P1-condition or Accept-P2-condition, you must submit an additional document (explained below).
+- If the status is Accept-P1 or Accept-P2, please do NOT upload any documents to Part D even if your paper receives an EAC review and/or an EAC metareview. You can skip this section.
+
+### What should the document look like?
+In this document, authors need to provide a short document that explains how they have made the changes requested by the EAC meta-reviews (which appears at the bottom of all other reviews and has a special heading). The document can be either a plain text file or a PDF file, and should list each of the concerns from the original EAC meta-review along with a short summary of what was done to remedy the concern. 
+
+To make this as straightforward as possible, we recommend copying and pasting the contents of the EAC meta-review into the document and then describing the action taken after each item in the EAC metareview. If there are additional issues mentioned in EAC reviews that were not included in the EAC metareview, authors may choose to address those points as well; however, only the points mentioned in the EAC meta-review will be the basis of whether the final version of the paper will be accepted. This explanatory document will not be made public; it is just to expedite the conditional acceptance workflow for the EAC's review process. 
+
+The size of this document should be no more than 10MB.
+
+### What will happen after June 1?
+The EAC chairs will go over this document and check the camera-ready version to determine whether the required changes have been included in the camera-ready version. If so, the condition will be removed, the paper will be accepted to the main conference or Findings, and the status of having been conditionally accepted will not be publicly visible. If not, the paper will be rejected. The PCs will inform the authors of the final EAC decisions by June 7, 2021.
+
+If you have any questions about EAC reviews or the changes required by EAC, you can contact the ACL-IJCNLP 2021 Ethics Chairs <acl-2021-ethics-chairs@googlegroups.com>. You can also check the Ethics FAQ at [https://2021.aclweb.org/ethics/Ethics-FAQ/](https://2021.aclweb.org/ethics/Ethics-FAQ/).
 
 
