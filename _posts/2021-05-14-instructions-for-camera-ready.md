@@ -17,7 +17,7 @@ These instructions are adapted from the ones for ACL 2020, EMNLP 2020, and NAACL
 
 To submit your camera-ready version, please go to the [softconf site](https://www.softconf.com/acl2021/papers/user/scmd.cgi?scmd=reviseSubmissions), click the submission id, and then click "Final Camera Ready Submission". This document is organized based on the sections in the Final Submission Page. Please note that the following applies to the ACL-IJCNLP main conference papers and Findings of ACL papers. It will also apply to ACL-IJCNLP workshop papers unless the workshops have their own instructions.
 
-Please remember to use the template files for the conference and follow the instructions in this document. In addition, you need to run a tool called **aclpub_check** developed by the NAACL2021 publication chairs to automate the checking for some frequently encountered formatting issues. For details of the tool, see Section 3 and the Appendix. Camera-ready copies that fail to meet these instructions will be returned for re-submission. 
+Please remember to use the template files for the conference and follow the instructions in this document. In addition, you need to run a tool called [aclpub_check](https://github.com/yz-joey/ACLPUB/blob/master/aclpub_check/formatchecker.py) developed by the NAACL2021 publication chairs to automate the checking for some frequently encountered formatting issues. For details of the tool, see Section 3 and the Appendix. Camera-ready copies that fail to meet these instructions will be returned for re-submission. 
 
 ## 1. Metadata (Part A in the final submission form)
 ### Can I make changes to the author list in the camera-ready version?
@@ -58,21 +58,21 @@ Before signing this form, please confirm with your co-authors (and, if applicabl
 ## 3. Main paper (Part C in the form)
 
 ### What are the page limits?
-For both long and short papers, ACL-IJCNLP 2021 allows one extra page to help address reviewer comments. Please use the extra space to help address reviewer comments. Long papers are permitted at most 9 pages of text and short papers may use up to 5 pages of text, plus unlimited space for references and the impact statement. Acknowledgements count toward the page limit.
+For both long and short papers, ACL-IJCNLP 2021 allows one extra page to help address reviewer comments. Please use the extra space to help address reviewer comments. Long papers are permitted at most **9 pages** of text and short papers may use up to **5 pages** of text, plus unlimited space for references and the impact statement. Acknowledgements count toward the page limit.
 
 ### What is the max size of the PDF file?
-The max size of the PDF file (including the Appendices, see Section 4) should be no more than 20MB.
+The max size of the PDF file (including the Appendices, see Section 4) should be no more than **20MB**.
 
 ### What is the format for the camera-ready copy?
 The file must be in Portable Document Format (PDF) on A4 paper. We require the use of ACL LaTeX style files or Microsoft Word style files tailored for this year's ACL conference. You can access the style files and detailed formatting instructions here: [https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip](https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip) or [https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb).
-If you are using LaTeX, please create the PDF file with pdflatex or xelatex. This ensures use of the proper Type 1 fonts and also takes advantage of other PDF features. You will have the best results using a modern LaTeX distribution, in particular, TeX live. Using the geometry package to set the A4 format is recommended.
+If you are using LaTeX, please create the PDF file with pdflatex or xelatex. This ensures use of the proper Type 1 fonts and also takes advantage of other PDF features. You will have the best results using a modern LaTeX distribution, in particular, [TeX live](http://www.tug.org/texlive/). Using the geometry package to set the A4 format is recommended.
 
 ### How do I check the format of the camera-ready version before submitting?
-You should check the paper format according to this instruction page and use the style template files with the links above. The NAACL2021 publication chairs have developed a package called aclpub_check to automate much of the format checking (See the Appendix for details). Please run this package before submitting your paper to softconf in order not to miss some subtle formatting details.
+You should check the paper format according to this instruction page and use the style template files with the links above. The NAACL2021 publication chairs have developed a package called [aclpub_check](https://github.com/yz-joey/ACLPUB/blob/master/aclpub_check/formatchecker.py) to automate much of the format checking (See the Appendix for details). Please run this package before submitting your paper to softconf in order not to miss some subtle formatting details.
 
 ### How should the final copy differ from the original submission?
 The camera-ready version of your paper should incorporate the comments of the reviewers as well as other changes you see fit to make. In addition, be sure to do all of the following: 
-- Ensure that your paper conforms to the provided styles, font and page size.
+- Ensure that your paper conforms to the [provided styles, font and page size](https://2021.aclweb.org/calls/papers/).
 - Include the authors' names and affiliations under the title. Note that the list of authors should be identical to the list specified when submitting the paper and should be in the same order.
 - De-anonymize references to your own work in the body of the paper.
 - Where appropriate, add acknowledgments for colleagues, reviewers, and grants. Do not number the Acknowledgements section. Please note that the acknowledgement section should fit within the allowed page limits (9 pages for long and 5 pages for short papers, plus unlimited pages for the impact statement and references) and be in the same font as the rest of the paper.
@@ -85,18 +85,18 @@ As a central venue of publication for our community, please prioritise the acces
 ### How do I ensure that my file is correctly formatted?
 You need to run the aclpub_check package (see the Appendix), and pay special attention to things like the following:
 <ul> 
-<li>The paper size: Your paper needs to be formatted to A4. Here are a couple of ways to check this:
+<li>**The paper size**: Your paper needs to be formatted to A4. Here are a couple of ways to check this:
 	<ul>
 	<li>Using pdfinfo. The pdfinfo command should include "Page size: 595.276 x 841.89 pts" in its output.</li>
 	<li>Using Apple's Preview.app. Open the PDF, and type Ctrl-I. It should report the correct page size.</li>
 	<li>Using Adobe Acrobat. Open the PDF, navigate to File, Properties..., Description. The field labeled "Page Size" should read 8.27 x 11.69 inches in.</li>
 	</ul>
 </li>
-<li> Embedding fonts: You can check your final PDF with the command "pdffonts mypaper.pdf" and confirm that all the fonts say "yes" under "emb". START will not let you upload your final PDF otherwise. If you are including graphics with the PDF extension, these files must also have embedded fonts. If your paper uses Asian fonts, they must be embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader (Asian versions ship with a larger set of default fonts.)</li>
-<li> Long titles: The title should NOT exceed the left & right margins. Fold a long title into multiple lines if necessary.</li>
-<li> Margins: The margins of the text area must be reserved as specified in the style file.</li>
-<li> Page numbers: DO NOT provide page numbers for your PDF file. The page numbers will be generated automatically while compiling the proceedings.</li>
-<li> Consistent Author Names: The author names must be consistent everywhere and be the same as registered to the submission page(s), and have the same spelling style in all accepted papers. This can avoid generating non-unique Author Index entries for authors with more than one accepted paper. Be sure to ask your co-authors whether you enter their names correctly.</li>
+<li> **Embedding fonts**: You can check your final PDF with the command "[pdffonts](https://www.xpdfreader.com/download.html) mypaper.pdf" and confirm that all the fonts say "yes" under "emb". START will not let you upload your final PDF otherwise. If you are including graphics with the PDF extension, these files must also have embedded fonts. If your paper uses Asian fonts, they must be embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader (Asian versions ship with a larger set of default fonts.)</li>
+<li> **Long titles**: The title should **NOT** exceed the left & right margins. Fold a long title into multiple lines if necessary.</li>
+<li> **Margins**: The margins of the text area must be reserved as specified in the style file.</li>
+<li> **Page numbers**: DO **NOT** provide page numbers for your PDF file. The page numbers will be generated automatically while compiling the proceedings.</li>
+<li> **Consistent Author Names**: The author names must be consistent everywhere and be the same as registered to the submission page(s), and have the same spelling style in all accepted papers. This can avoid generating non-unique Author Index entries for authors with more than one accepted paper. Be sure to ask your co-authors whether you enter their names correctly.</li>
 </ul>
 
 ### What if my paper includes graphics?
@@ -105,7 +105,7 @@ Remember that you are providing a camera-ready copy. Thus, artwork and photos sh
 Your paper must look good both when printed (A4 size) and when viewed on screen as PDF (zoomable to any size, color okay). Thus, you may want to use color high-resolution graphics, allowing readers to zoom in on a graph and study it. However, please check that the same graph or photograph is legible when printed and in a PDF viewer at different resolutions. Don't go overboard on resolution; keep file sizes manageable. Note that vector graphics (e.g., encapsulated PostScript) look good at any scale and take up little space (unless you are plotting many thousands of data points).
 
 ### What if my paper's title or abstract has changed?
-In addition to edit the title/abstract in the main paper, please also remember to edit those metadata fields when you upload the camera-ready version, so that they will appear correctly in the table of contents, author index, conference schedule, etc. Please also note that your name will appear in conference metadata as you have configured it in START, so make sure that it is correct there (e.g., capitalization, full name, etc.). You can change this on the user settings page of the START conference manager, under "User" -> "Account Information" -> "Update Profile"
+In addition to edit the title/abstract in the main paper, please also remember to edit those metadata fields when you upload the camera-ready version, so that they will appear correctly in the table of contents, author index, conference schedule, etc. **Please also note that your name will appear in conference metadata as you have configured it in START**, so make sure that it is correct there (e.g., capitalization, full name, etc.). You can change this on the [user settings](https://www.softconf.com/acl2021/super/scmd.cgi?ucmd=updateProfile) page of the START conference manager, under "User" -> "Account Information" -> "Update Profile"
 .
 ## 4. The Appendices (As the last part of the pdf file for Part C in the form)
 
@@ -115,7 +115,7 @@ Appendices are for things such as lemmas, hyperparameters, formulas, proofs, and
 Appendices should be part of the PDF file uploaded to Part C in the form. It should appear at the end of the PDF file, after the references.
 
 ### What's the page limit of the Appendices?
-The Appendices do not count towards the page limit of the main paper, but they need to be no more than 4 pages, as recommended by the publication chairs.
+The Appendices do not count towards the page limit of the main paper, but they need to be **no more than 4 pages**, as recommended by the publication chairs.
 
 ### What template should the Appendices use?
 The Appendices should use exactly the same template as the main paper (See Section 3). 
@@ -128,11 +128,11 @@ That depends on the status of your paper:
 - If the status is Accept-P1 or Accept-P2, please do NOT upload any documents to Part D even if your paper receives an EAC review and/or an EAC metareview. You can skip this section.
 
 ### What should the document look like?
-In this document, authors need to provide a short document that explains how they have made the changes requested by the EAC meta-reviews (which appears at the bottom of all other reviews and has a special heading). The document can be either a plain text file or a PDF file, and should list each of the concerns from the original EAC meta-review along with a short summary of what was done to remedy the concern. 
+In this document, authors need to provide a short document that explains how they have made the changes requested by the **EAC meta-reviews (which appears at the bottom of all other reviews and has a special heading)**. The document can be either a plain text file or a PDF file, and should list each of the concerns from the original EAC meta-review along with a short summary of what was done to remedy the concern. 
 
 To make this as straightforward as possible, we recommend copying and pasting the contents of the EAC meta-review into the document and then describing the action taken after each item in the EAC metareview. If there are additional issues mentioned in EAC reviews that were not included in the EAC metareview, authors may choose to address those points as well; however, only the points mentioned in the EAC meta-review will be the basis of whether the final version of the paper will be accepted. This explanatory document will not be made public; it is just to expedite the conditional acceptance workflow for the EAC's review process. 
 
-The size of this document should be no more than 10MB.
+The size of this document should be no more than **10MB**.
 
 ### What will happen after June 1?
 The EAC chairs will go over this document and check the camera-ready version to determine whether the required changes have been included in the camera-ready version. If so, the condition will be removed, the paper will be accepted to the main conference or Findings, and the status of having been conditionally accepted will not be publicly visible. If not, the paper will be rejected. The PCs will inform the authors of the final EAC decisions by June 7, 2021.
