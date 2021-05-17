@@ -164,5 +164,22 @@ Appendix: Checking the format with the aclpub_check package
 This appendix is modified from the document of the NAACL 2021 publication chairs at:
 [https://docs.google.com/document/d/1MYKGS8x17Mvl4fKYz_ZHIkre9KBhzB_9W87bu4rbtqI/edit](https://docs.google.com/document/d/1MYKGS8x17Mvl4fKYz_ZHIkre9KBhzB_9W87bu4rbtqI/edit)
 
+Following NAACL 2021, we are using a package called "aclpub_check" that automatically detects author formatting errors, margin violations as well as many other common formatting errors. Before submitting your paper to softconf, please run the package first and fix the detected errors. 
+
+## A.1: Access the package
+
+The package is written in Python and there are four steps to using it:
+1: git clone [https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)
+2: cd ACLPUB
+3: pip install -e .
+4: python3 aclpub_check/formatchecker.py --paper_type PAPER_TYPE PAPER_NAME.pdf
+
+You should also be able to use it via:
+1: pip3 install git+[https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)
+2: python3 -m aclpub_check.formatchecker --paper_type PAPER_TYPE PAPER_NAME.pdf
+
+PAPER_TYPE should be the word short or long. PAPER_NAME can be any valid file name. 
+
+Below, we are walking you through how to use the tool by considering three papers published by publication chairs at NAACL 2021. 
 
 
