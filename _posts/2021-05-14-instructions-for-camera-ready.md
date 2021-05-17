@@ -210,3 +210,18 @@ This time, the automatically generated png shows me that the authors didn't keep
 
 Here, it's likely that the equations have to be broken over two lines. 
 
+## A.4: Example 3
+
+Finally, consider Jennifer White's paper "A Non-Linear Structural Probe"
+
+> python3 aclpub_check/formatchecker.py --paper_type short structural.pdf
+
+Checking structural.pdf
+All Clear!
+
+So, there were no mistakes!
+
+The script checks for many violations, e.g. page-limit violations, font and font size violations and even a few common typos. The script even makes recommendations about citing non-arXiv versions of papers. These, however, are simply warnings:
+
+Warning (Bibliography): It appears you are using arXiv links more than you should (18/55). Consider using ACL Anthology DOIs instead.
+
