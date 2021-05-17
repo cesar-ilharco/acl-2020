@@ -169,17 +169,32 @@ Following NAACL 2021, we are using a package called "aclpub_check" that automati
 ## A.1: Access the package
 
 The package is written in Python and there are four steps to using it:
-1: git clone [https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)
-2: cd ACLPUB
-3: pip install -e .
-4: python3 aclpub_check/formatchecker.py --paper_type PAPER_TYPE PAPER_NAME.pdf
+1: git clone [https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)<br/>
+2: cd ACLPUB<br/>
+3: pip install -e .<br/>
+4: python3 aclpub_check/formatchecker.py --paper_type PAPER_TYPE PAPER_NAME.pdf<br/>
 
 You should also be able to use it via:
-1: pip3 install git+[https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)
-2: python3 -m aclpub_check.formatchecker --paper_type PAPER_TYPE PAPER_NAME.pdf
+1: pip3 install git+[https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)<br/>
+2: python3 -m aclpub_check.formatchecker --paper_type PAPER_TYPE PAPER_NAME.pdf<br/>
 
 PAPER_TYPE should be the word short or long. PAPER_NAME can be any valid file name. 
 
 Below, we are walking you through how to use the tool by considering three papers published by publication chairs at NAACL 2021. 
+
+## A.2. Example 1
+
+First, consider Josef Valvoda's paper "What About the Precedent: An Information-Theoretic Analysis of Common Law"
+
+> python3 aclpub_check/formatchecker.py --paper_type long precedent.pdf
+
+Checking precedent.pdf
+Error (Margin): An image on page 1 bleeds into the margin.
+
+We detected 1 error and 0 warnings in your paper.
+
+Thus, we see this paper has a margin violation. The script output a png called "errors-precedent-page-1.png" which you can see below:
+
+It shows that Josef has to shrink the first-page picture to make the paper compliant with the NAACL formatting rules. This is easily remedied with the adjustbox [https://www.ctan.org/pkg/adjustbox](https://www.ctan.org/pkg/adjustbox) package or a similar bit of LaTeX.
 
 
