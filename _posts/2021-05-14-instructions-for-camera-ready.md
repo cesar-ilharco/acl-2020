@@ -33,6 +33,13 @@ Before the metadata is entered, please have all authors ensure that the name in 
 - The "Last Name" is the name(s) by which your paper is to be cited. It is usually a family name, even for authors from cultures where the family name is written first.
 - The "First Name" is usually a given name or names, including middle names/initials.
 
+The metadata should be written using Unicode (UTF-8) with LaTeX commands. Please try to follow these guidelines: 
+- In titles, please capitalize the first word, the first word after a colon (:), and all other words (including hyphenated words like Mixed-Case), except the function words: **articles, pronouns, conjunctions, prepositions, particles, subordinating conjunctions, and the infinitive marker "to".** 
+- BibTeX (in many bibliography styles, including ACL's) lowercases the titles of conference papers, and needs to be told which letters not to lowercase. So if your title has letters that should always be capitals, please protect them with curly braces, like this: {E}nglish, {C}homsky, {IBM}, {CFG}s, {HMM}s. Please also protect the first letter after a sentence-final punctuation mark. For example: 
+
+*Can {LSTM} Learn to Capture Agreement? {T}he Case of {B}asque 
+Named Entity Extraction from Noisy Input: {S}peech and {OCR}.*
+
 
 
 
