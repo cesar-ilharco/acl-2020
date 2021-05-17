@@ -147,5 +147,22 @@ Supplemental material contains material such as data, software, all other materi
 ### Do I need to submit latex source files?
 No. Latex files will not be used in ACL Anthology, thus please do NOT submit them. 
 
+## 7. Deadlines
+
+### When and where do I send my final camera-ready paper?
+You must submit the final version of your paper by June 1, 2021 (11:59pm, UTC-12 hours, "anywhere on Earth") by navigating to the ACL 2021 START login page and following the internal links. This is a firm deadline, i.e., no change will be accepted after that.
+
+## 8. Questions or Comments
+If you have any questions about:
+- the camera-ready version including running the aclpub_check package: please contact our publication chairs at acl2021publicationchairs@googlegroups.com. 
+- the EAC issues and additional document in Part D:  please contact the EAC chairs at acl-2021-ethics-chairs@googlegroups.com
+
+Please do NOT contact ACL-IJCNLP PCs unless your questions cannot be answered by the publication chairs or the EAC committee. 
+
+Appendix: Checking the format with the aclpub_check package
+
+This appendix is modified from the document of the NAACL 2021 publication chairs at:
+[https://docs.google.com/document/d/1MYKGS8x17Mvl4fKYz_ZHIkre9KBhzB_9W87bu4rbtqI/edit](https://docs.google.com/document/d/1MYKGS8x17Mvl4fKYz_ZHIkre9KBhzB_9W87bu4rbtqI/edit)
+
 
 
