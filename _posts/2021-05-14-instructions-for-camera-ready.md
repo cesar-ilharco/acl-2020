@@ -107,6 +107,20 @@ Your paper must look good both when printed (A4 size) and when viewed on screen 
 ### What if my paper's title or abstract has changed?
 In addition to edit the title/abstract in the main paper, please also remember to edit those metadata fields when you upload the camera-ready version, so that they will appear correctly in the table of contents, author index, conference schedule, etc. Please also note that your name will appear in conference metadata as you have configured it in START, so make sure that it is correct there (e.g., capitalization, full name, etc.). You can change this on the user settings page of the START conference manager, under "User" -> "Account Information" -> "Update Profile"
 .
+## 4. The Appendices (As the last part of the pdf file for Part C in the form)
+
+Appendices are for things such as lemmas, hyperparameters, formulas, proofs, and tables that are informative but not critical to the understanding of the paper. 
+
+### Where do the Appendices go?
+Appendices should be part of the PDF file uploaded to Part C in the form. It should appear at the end of the PDF file, after the references.
+
+### What's the page limit of the Appendices?
+The Appendices do not count towards the page limit of the main paper, but they need to be no more than 4 pages, as recommended by the publication chairs.
+
+
+
+What template should the Appendices use?
+The Appendices should use exactly the same template as the main paper (See Section 3). 
 
 
 
