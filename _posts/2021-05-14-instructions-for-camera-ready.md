@@ -135,14 +135,14 @@ To make this as straightforward as possible, we recommend copying and pasting th
 The size of this document should be no more than **10MB**.
 
 ### What will happen after June 1?
-The EAC chairs will go over this document and check the camera-ready version to determine whether the required changes have been included in the camera-ready version. If so, the condition will be removed, the paper will be accepted to the main conference or Findings, and the status of having been conditionally accepted will not be publicly visible. If not, the paper will be rejected. The PCs will inform the authors of the final EAC decisions by June 7, 2021.
+The EAC chairs will go over this document and check the camera-ready version to determine whether the required changes have been included in the camera-ready version. If so, the condition will be removed, the paper will be accepted to the main conference or Findings, and the status of having been conditionally accepted will not be publicly visible. If not, the paper will be rejected. The PCs will inform the authors of the final EAC decisions by **June 7, 2021**.
 
 If you have any questions about EAC reviews or the changes required by EAC, you can contact the ACL-IJCNLP 2021 Ethics Chairs <acl-2021-ethics-chairs@googlegroups.com>. You can also check the Ethics FAQ at [https://2021.aclweb.org/ethics/Ethics-FAQ/](https://2021.aclweb.org/ethics/Ethics-FAQ/).
 
 ## 6. Supplementary material (Part E in the form)
 
 ### Where do supplemental materials go?
-Supplemental material contains material such as data, software, all other material and is uploaded separately as a zip file. The maximum size of the zip file is 20MB. 
+Supplemental material contains material such as data, software, all other material and is uploaded separately as a zip file. The maximum size of the zip file is **20MB**. 
 
 ### Do I need to submit latex source files?
 No. Latex files will not be used in ACL Anthology, thus please do NOT submit them. 
@@ -150,7 +150,7 @@ No. Latex files will not be used in ACL Anthology, thus please do NOT submit the
 ## 7. Deadlines
 
 ### When and where do I send my final camera-ready paper?
-You must submit the final version of your paper by June 1, 2021 (11:59pm, UTC-12 hours, "anywhere on Earth") by navigating to the ACL 2021 START login page and following the internal links. This is a firm deadline, i.e., no change will be accepted after that.
+You must submit the final version of your paper by **June 1, 2021** (11:59pm, UTC-12 hours, "anywhere on Earth") by navigating to the ACL 2021 [START login page](https://www.softconf.com/acl2021/papers/) and following the internal links. This is a firm deadline, i.e., no change will be accepted after that.
 
 ## 8. Questions or Comments
 If you have any questions about:
@@ -178,7 +178,7 @@ You should also be able to use it via:
 1: pip3 install git+[https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)<br/>
 2: python3 -m aclpub_check.formatchecker --paper_type PAPER_TYPE PAPER_NAME.pdf<br/>
 
-PAPER_TYPE should be the word short or long. PAPER_NAME can be any valid file name. 
+**PAPER_TYPE should be the word short or long. PAPER_NAME can be any valid file name.**
 
 Below, we are walking you through how to use the tool by considering three papers published by publication chairs at NAACL 2021. 
 
@@ -189,11 +189,13 @@ First, consider Josef Valvoda's paper "What About the Precedent: An Information-
 > python3 aclpub_check/formatchecker.py --paper_type long precedent.pdf
 
 Checking precedent.pdf
-Error (Margin): An image on page 1 bleeds into the margin.
+**Error (Margin)**: An image on page 1 bleeds into the margin.
 
 We detected 1 error and 0 warnings in your paper.
 
 Thus, we see this paper has a margin violation. The script output a png called "errors-precedent-page-1.png" which you can see below:
+
+![c1](/assets/images/c1.png)
 
 It shows that Josef has to shrink the first-page picture to make the paper compliant with the NAACL formatting rules. This is easily remedied with the adjustbox [https://www.ctan.org/pkg/adjustbox](https://www.ctan.org/pkg/adjustbox) package or a similar bit of LaTeX.
 
@@ -204,9 +206,11 @@ Next, consider Tiago Pimentel and Irene Nikkarinen's paper: "How (Non-)Optimal i
 > python3 aclpub_check/formatchecker.py --paper_type long lexicon.pdf
 
 Checking lexicon.pdf
-Error (Margin): Text on page 13 bleeds into the margin.
+**Error (Margin)**: Text on page 13 bleeds into the margin.
 
 This time, the automatically generated png shows me that the authors didn't keep some math equations out of the margin in a proof in the appendix.
+
+![c2](/assets/images/c2.png)
 
 Here, it's likely that the equations have to be broken over two lines. 
 
@@ -217,11 +221,11 @@ Finally, consider Jennifer White's paper "A Non-Linear Structural Probe"
 > python3 aclpub_check/formatchecker.py --paper_type short structural.pdf
 
 Checking structural.pdf
-All Clear!
+**All Clear!**
 
 So, there were no mistakes!
 
 The script checks for many violations, e.g. page-limit violations, font and font size violations and even a few common typos. The script even makes recommendations about citing non-arXiv versions of papers. These, however, are simply warnings:
 
-Warning (Bibliography): It appears you are using arXiv links more than you should (18/55). Consider using ACL Anthology DOIs instead.
+**Warning (Bibliography)**: It appears you are using arXiv links more than you should (18/55). Consider using ACL Anthology DOIs instead.
 
