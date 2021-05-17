@@ -168,13 +168,13 @@ Following NAACL 2021, we are using a package called "aclpub_check" that automati
 
 ## A.1: Access the package
 
-The package is written in Python and there are four steps to using it:
+The package is written in Python and there are four steps to using it:<br/>
 1: git clone [https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)<br/>
 2: cd ACLPUB<br/>
 3: pip install -e .<br/>
 4: python3 aclpub_check/formatchecker.py --paper_type PAPER_TYPE PAPER_NAME.pdf<br/>
 
-You should also be able to use it via:
+You should also be able to use it via:<br/>
 1: pip3 install git+[https://github.com/yz-joey/ACLPUB.git](https://github.com/yz-joey/ACLPUB.git)<br/>
 2: python3 -m aclpub_check.formatchecker --paper_type PAPER_TYPE PAPER_NAME.pdf<br/>
 
@@ -188,7 +188,7 @@ First, consider Josef Valvoda's paper "What About the Precedent: An Information-
 
 > python3 aclpub_check/formatchecker.py --paper_type long precedent.pdf
 
-Checking precedent.pdf
+Checking precedent.pdf<br/>
 **Error (Margin)**: An image on page 1 bleeds into the margin.
 
 We detected 1 error and 0 warnings in your paper.
@@ -205,7 +205,7 @@ Next, consider Tiago Pimentel and Irene Nikkarinen's paper: "How (Non-)Optimal i
 
 > python3 aclpub_check/formatchecker.py --paper_type long lexicon.pdf
 
-Checking lexicon.pdf
+Checking lexicon.pdf<br/>
 **Error (Margin)**: Text on page 13 bleeds into the margin.
 
 This time, the automatically generated png shows me that the authors didn't keep some math equations out of the margin in a proof in the appendix.
@@ -221,6 +221,7 @@ Finally, consider Jennifer White's paper "A Non-Linear Structural Probe"
 > python3 aclpub_check/formatchecker.py --paper_type short structural.pdf
 
 Checking structural.pdf
+
 **All Clear!**
 
 So, there were no mistakes!
