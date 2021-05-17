@@ -77,7 +77,22 @@ The camera-ready version of your paper should incorporate the comments of the re
 - De-anonymize references to your own work in the body of the paper.
 - Where appropriate, add acknowledgments for colleagues, reviewers, and grants. Do not number the Acknowledgements section. Please note that the acknowledgement section should fit within the allowed page limits (9 pages for long and 5 pages for short papers, plus unlimited pages for the impact statement and references) and be in the same font as the rest of the paper.
 - Ensure that all tables, graphs, and figures are readable at standard resolutions.
-- The Appendix (if exists) should appear after the references, as part of the same PDF file (see Section 4); in contrast, the supplemental materials should appear as a separate zip file (see Section 5). 
+- The Appendix (if exists) should appear after the references, as part of the same PDF file (see Section 4); in contrast, the supplemental materials should appear as a separate zip file (see Section 5).
+
+### What are the tips to make my final version more accessible?
+As a central venue of publication for our community, please prioritise the accessibility of your final version. The Diversity & Inclusion committee for ACL 2020 has outlined some tips on how to do this: [https://acl2020.org/blog/accessibility-for-camera-ready/](https://acl2020.org/blog/accessibility-for-camera-ready/)
+
+### How do I ensure that my file is correctly formatted?
+You need to run the aclpub_check package (see the Appendix), and pay special attention to things like the following:
+- The paper size: Your paper needs to be formatted to A4. Here are a couple of ways to check this:
+	- Using pdfinfo. The pdfinfo command should include "Page size: 595.276 x 841.89 pts" in its output.
+	- Using Apple's Preview.app. Open the PDF, and type Ctrl-I. It should report the correct page size.
+	- Using Adobe Acrobat. Open the PDF, navigate to File, Properties…, Description. The field labeled "Page Size" should read 8.27 × 11.69 inches in.
+- Embedding fonts: You can check your final PDF with the command "pdffonts mypaper.pdf" and confirm that all the fonts say "yes" under "emb". START will not let you upload your final PDF otherwise. If you are including graphics with the PDF extension, these files must also have embedded fonts. If your paper uses Asian fonts, they must be embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader (Asian versions ship with a larger set of default fonts.)
+- Long titles: The title should NOT exceed the left & right margins. Fold a long title into multiple lines if necessary.
+- Margins: The margins of the text area must be reserved as specified in the style file. 
+- Page numbers: DO NOT provide page numbers for your PDF file. The page numbers will be generated automatically while compiling the proceedings.
+- Consistent Author Names: The author names must be consistent everywhere and be the same as registered to the submission page(s), and have the same spelling style in all accepted papers. This can avoid generating non-unique Author Index entries for authors with more than one accepted paper. Be sure to ask your co-authors whether you enter their names correctly.
 
 
 
