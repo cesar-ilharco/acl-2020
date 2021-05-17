@@ -55,6 +55,18 @@ When you submit the paper, you will be asked to sign the ACL Copyright Transfer 
 ### Who should sign the copyright form?
 Before signing this form, please confirm with your co-authors (and, if applicable, your and their employers) that they authorize you to sign on their behalf. Only the authorized representative needs to sign the copyright form. Please sign your full name (not just your first or last initials). 
 
+## 3. Main paper (Part C in the form)
+
+### What are the page limits?
+For both long and short papers, ACL-IJCNLP 2021 allows one extra page to help address reviewer comments. Please use the extra space to help address reviewer comments. Long papers are permitted at most 9 pages of text and short papers may use up to 5 pages of text, plus unlimited space for references and the impact statement. Acknowledgements count toward the page limit.
+
+### What is the max size of the PDF file?
+The max size of the PDF file (including the Appendices, see Section 4) should be no more than 20MB.
+
+### What is the format for the camera-ready copy?
+The file must be in Portable Document Format (PDF) on A4 paper. We require the use of ACL LaTeX style files or Microsoft Word style files tailored for this year's ACL conference. You can access the style files and detailed formatting instructions here: [https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip](https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip) or [https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb).
+If you are using LaTeX, please create the PDF file with pdflatex or xelatex. This ensures use of the proper Type 1 fonts and also takes advantage of other PDF features. You will have the best results using a modern LaTeX distribution, in particular, TeX live. Using the geometry package to set the A4 format is recommended.
+
 
 
 
