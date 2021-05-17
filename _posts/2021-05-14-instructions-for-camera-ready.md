@@ -47,6 +47,14 @@ It is important to only protect those first letters that belong to the categorie
 - You can use Unicode (UTF-8) for accented or special characters.
 - If you copy-and-paste from your PDF file, please be sure to rejoin words broken by hyphenation.
 
+## 2. Copyright (Part B in the form)
+
+### What about copyright?
+When you submit the paper, you will be asked to sign the ACL Copyright Transfer Agreement on behalf of all authors, electronically (via the START Conference Manager). Authors retain many rights under this agreement and it is appropriate in the vast majority of cases. Please contact the publication chairs at acl2021publicationchairs@googlegroups.com, with any concerns regarding copyright.
+
+### Who should sign the copyright form?
+Before signing this form, please confirm with your co-authors (and, if applicable, your and their employers) that they authorize you to sign on their behalf. Only the authorized representative needs to sign the copyright form. Please sign your full name (not just your first or last initials). 
+
 
 
 
