@@ -89,6 +89,7 @@ You need to run the aclpub_check package (see the Appendix), and pay special att
 	<ul>
 	<li>Using pdfinfo. The pdfinfo command should include "Page size: 595.276 x 841.89 pts" in its output.</li>
 	<li>Using Apple's Preview.app. Open the PDF, and type Ctrl-I. It should report the correct page size.</li>
+	<li>Using Adobe Acrobat. Open the PDF, navigate to File, Properties..., Description. The field labeled "Page Size" should read 8.27 × 11.69 inches in.</li>
 	</ul>
 </li></ul>
 
