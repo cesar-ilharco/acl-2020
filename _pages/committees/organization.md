@@ -85,7 +85,6 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 <h3>Virtual Infrastructure Committee (VIC)</h3> 
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines<br/>
-[Jin-Woo Chung](https://www.linkedin.com/in/jin-woo-chung-10a379b7), S2W LAB Inc., Korea<br/>
 [Wei Lu](http://statnlp.org/), Singapore University of Technology and Design, Singapore<br/>
 [Alessandro Raganato](https://raganato.github.io), University of Helsinki, Finland<br/>
 [Shaonan Wang](https://wangshaonan.github.io/), Institute of Automation, Chinese Academy of Sciences, China<br/>
