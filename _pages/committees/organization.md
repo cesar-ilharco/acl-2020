@@ -84,12 +84,13 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 
 
 <h3>Virtual Infrastructure Committee (VIC)</h3> 
-[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines<br/>
-[Wei Lu](http://statnlp.org/), Singapore University of Technology and Design, Singapore<br/>
 [Alessandro Raganato](https://raganato.github.io), University of Helsinki, Finland<br/>
-[Shaonan Wang](https://wangshaonan.github.io/), Institute of Automation, Chinese Academy of Sciences, China<br/>
-[Liang-Chih Yu](http://nlp.innobic.yzu.edu.tw/~lcyu/), Yuan Ze University, Taiwan<br/>
+[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines<br/>
 [Jianfei Yu](https://sites.google.com/site/jfyu1990/ ), Nanjing University of Science and Technology, China<br/>
+[Liang-Chih Yu](http://nlp.innobic.yzu.edu.tw/~lcyu/), Yuan Ze University, Taiwan<br/>
+Krich Nasingkun, National Electronics and Computer Technology Center, Thailand <br/>
+[Shaonan Wang](https://wangshaonan.github.io/), Institute of Automation, Chinese Academy of Sciences, China<br/>
+[Wei Lu](http://statnlp.org/), Singapore University of Technology and Design, Singapore<br/>
 
 <h3>Student Volunteer Coordinator:</h3>
 [Dongyan Zhao](http://www.icst.pku.edu.cn/zhaodongyan/ywjj/), Peking University, China<br/>
