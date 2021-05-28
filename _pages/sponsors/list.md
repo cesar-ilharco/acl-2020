@@ -46,6 +46,10 @@ platinum:
     title: "Microsoft"
   - image_path: /assets/images/logos/blank-logo.png
 gold:
+  - url: https://www.research.ibm.com/
+    image_path: /assets/images/logos/ibm-logo.png
+    alt: "IBM Logo"
+    title: "IBM"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 silver:
@@ -54,10 +58,13 @@ silver:
     alt: "Duolingo Logo"
     title: "Duolingo"
   - url: https://europe.naverlabs.com/
+    image_path: /assets/images/logos/navereu-logo.png
+    alt: "Naver Europe Logo"
+    title: "Naver Lab Europe"
+  - url: https://www.navercorp.com/en/
     image_path: /assets/images/logos/naver-logo.png
     alt: "Naver Logo"
     title: "Naver Lab"
-  - image_path: /assets/images/logos/blank-logo.png
 bronze:
   - url: https://babelscape.com
     image_path: /assets/images/logos/babelscape-logo.png
