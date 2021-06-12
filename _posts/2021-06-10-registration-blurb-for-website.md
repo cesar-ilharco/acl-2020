@@ -36,4 +36,8 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 ## Reduced Rate Memberships
 The ACL offers a discount to members from developing countries. We hope this discount will allow for more people from these countries to become a part of the ACL and enjoy its benefits. To be able to benefit from reduced rate memberships, you need to become a member through the ACL Member Portal. You can then register for the conference as a current member. For more information follow this link: [https://www.aclweb.org/portal/content/membership-fees](https://www.aclweb.org/portal/content/membership-fees)
 
+## Virtual Conference Cancellation Policy
+For cancellations received up to two weeks prior to the conference, registration fees will be reimbursed; ACL membership (if paid as part of the registration) is not reimbursable.
+
+
 
