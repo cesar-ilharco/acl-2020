@@ -13,7 +13,7 @@ toc_icon: "cog"
 The following tutorials have been accepted for ACL-IJCNLP 2021 and will be held on Sunday, August 1st, 2021. 
 		
 ### T1: Advances in Debating Technologies: Building AI That Can Debate Humans (3 Hours) <br/>
-*Organizers: Roy Bar-Haim, Liat Ein-Dor, Matan Orbach and Noam Slonim*
+*Organizers: Roy Bar-Haim , Liat Ein-Dor , Matan Orbach , Elad Venezian and Noam Slonim*
 
 ![t1](/assets/images/t1.png)
 
