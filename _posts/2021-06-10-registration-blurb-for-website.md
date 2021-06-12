@@ -18,7 +18,7 @@ For planning purposes, we hope to set registration fees similar to those charged
 
 Reminders:  It is ACL's policy that at least one author of each accepted paper (including ACL Finding papers) must register for the conference. 
 
-** Registration Types
+## Registration Types
 - Regular  
 - Student
 - I am a Volunteer (student or non-student)
@@ -29,4 +29,9 @@ Reminders:  It is ACL's policy that at least one author of each accepted paper (
 - I am a Keynote Speaker
 - I am a Tutorial Presenter
 - I am an invited Sponsor or Exhibitor (Invited by sponsoring company providing list of their complimentary people)
+
+## ACL Membership
+The ACL policy is that everyone attending an ACL conference must be a current (CY 2021) ACL member. So, in addition to the above registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2021 paid member. ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
+
+
 
