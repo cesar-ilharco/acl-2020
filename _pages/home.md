@@ -9,6 +9,9 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**June 10, 2021**. <b>An update on the ACL-IJCNLP 2021 registration are [here](https://2021.aclweb.org/blog/registration-blurb-for-website/)</b>
+{: .notice--info}
+
 **May 14, 2021**. <b>Instructions for Camera-ready submission are [here](https://2021.aclweb.org/blog/instructions-for-camera-ready/)</b>
 {: .notice--info}
 
