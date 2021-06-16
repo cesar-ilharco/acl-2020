@@ -39,5 +39,7 @@ The ACL offers a discount to members from developing countries. We hope this dis
 ## Virtual Conference Cancellation Policy
 For cancellations received up to two weeks prior to the conference, registration fees will be reimbursed; ACL membership (if paid as part of the registration) is not reimbursable.
 
+## Call for Diversity & Inclusion Subsidies
+ACL-IJCNLP 2021 is providing D&I funds for registration, caregiving, bandwidth and VPN subsidies. The grants are intended for individuals for whom attending the conference would cause a financial burden or create risks to their safety or privacy. Please apply by June 27, 2021 (2 weeks before the early registration deadline) at this link: [https://forms.gle/EekTNXekyHeKQpDY9](https://forms.gle/EekTNXekyHeKQpDY9). Informal enquiries can be made to [acl2021_div_incl@googlegroups.com](mailto:acl2021_div_incl@googlegroups.com).
 
 
