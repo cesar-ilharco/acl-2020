@@ -4,7 +4,7 @@ author: Antoine Bosselut, Christophe Gravier, Jing Huang
 author_profile: true
 excerpt: ""
 tags:
-announcement, diversity-inclusion
+  announcement, diversity-inclusion
 categories:
     blog
 ---
