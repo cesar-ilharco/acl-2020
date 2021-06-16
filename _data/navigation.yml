@@ -12,6 +12,9 @@ main:
 
   - title: "Calls"
     url: /calls/papers
+
+  - title: "Registeration"
+    url: /blog/registration-blurb-for-website
   
   - title: "Tutorials"
     url: /tutorials/program
