@@ -23,8 +23,6 @@ w04 [Third Workshop on Gender Bias for Natural Language Processing]( https://gen
 <i>Marta R. Costa-jussà, Kellie Webster and Christian Hardmeier</i><br/>
 w05 [The  Eighteenth SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology](https://sigmorphon.github.io/workshops/2021/)<br/>
 <i>Garrett Nicolai, Kyle Gorman and Ryan Cotterell</i><br/>
-w08 [The 4th Workshop on e-Commerce and NLP (ECNLP 4)](https://sites.google.com/view/ecnlp)<br/>
-<i>Shervin Malmasi, Eugene Agichtein, Nicola Ueffing, Surya Kallumadi, Oleg Rokhlenko and Ido Guy</i><br/>
 w09 [Interactive Learning for Natural Language Processing](https://sites.google.com/view/internlp2021/home)<br/>
 <i>Kianté Brantley, Soham Dan, Iryna Gurevych, Ji-Ung Lee, Filip Radlinski, Hinrich Schütze, 
 Edwin Simpson and Lili Yu</i><br/>
@@ -55,6 +53,8 @@ Katsuhito Sudoh, Sadao Kurohashi and Pushpak Bhattacharyya</i><br/>
 w07 [Workshop on Natural Language Processing for Programming](https://nlp4prog.github.io/2021/)<br/>
 <i>Royi Lachmy, Ziyu Yao, Greg Durrett, Milos Gligoric, Junyi Jessy Li, Raymond Mooney, 
 Graham Neubig, Yu Su, Huan Sun and Reut Tsarfaty</i><br/>
+w08 [The 4th Workshop on e-Commerce and NLP (ECNLP 4)](https://sites.google.com/view/ecnlp)<br/>
+<i>Shervin Malmasi, Eugene Agichtein, Nicola Ueffing, Surya Kallumadi, Oleg Rokhlenko and Ido Guy</i><br/>
 w10 [GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/)<br/>
 <i>Sebastian Gehrmann, Antoine Bosselut, Esin Durmus, Varun Gangal, Laura Perez-Beltrachini, 
 Samira Shaikh and Wei Xu</i><br/>
