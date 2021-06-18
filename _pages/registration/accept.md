@@ -51,3 +51,24 @@ toc_max_header: 4
 
 **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger's Adversarial Attacks**<br/>
 *Thai Le, Noseong Park and Dongwon Lee*
+
+**Cross-Lingual Abstractive Summarization with Limited Parallel Resources**<br/>
+*Yu Bai, Yang Gao and Heyan Huang*
+
+**Rewriter-Evaluator Architecture for Neural Machine Translation**<br/>
+*Yangming Li and Kaisheng Yao*
+
+**HERALD: An Annotation Efficient Method to Detect User Disengagement in Social Conversations**<br/>
+*Weixin Liang, Kai-Hui Liang and Zhou Yu*
+
+**How is BERT surprised? Layerwise detection of linguistic anomalies**<br/>
+*Bai Li, Zining Zhu, Guillaume Thomas, Yang Xu and Frank Rudzicz*
+
+**Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering**<br/>
+*Reinald Adrian Pugoy and Hung-Yu Kao*
+
+**Prefix-Tuning: Optimizing Continuous Prompts for Generation**<br/>
+*Xiang Lisa Li and Percy Liang*
+
+**Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models**<br/>
+*Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld*
