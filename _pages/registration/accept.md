@@ -157,77 +157,152 @@ toc_max_header: 4
 **Directed Acyclic Graph Network for Conversational Emotion Recognition**<br/>
 *Weizhou Shen, Siyue Wu, Yunyi Yang and Xiaojun Quan*
 
-**Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks**
+**Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks**<br/>
 *Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Yuguang Chen and Weihua Peng*
 
-**BACO: A Background Knowledge- and Content-Based Framework for Citing Sentence Generation**
+**BACO: A Background Knowledge- and Content-Based Framework for Citing Sentence Generation**<br/>
 *Yubin Ge, Ly Dinh, Xiaofeng Liu, Jinsong Su, Ziyao Lu, Ante Wang and Jana Diesner*
 
-**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**
+**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**<br/>
 *Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang*
 
-**Psycholinguistic Tripartite Graph Network for Personality Detection**
+**Psycholinguistic Tripartite Graph Network for Personality Detection**<br/>
 *Tao Yang, Feifan Yang, Haolan Ouyang and Xiaojun Quan*
 
-**Mention Flags (MF): Constraining Transformer-based Text Generators**
+**Mention Flags (MF): Constraining Transformer-based Text Generators**<br/>
 *Yufei Wang, Ian Wood, Stephen Wan, Mark Dras and Mark Johnson*
 
-**Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting**
+**Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting**<br/>
 *Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin and Yefeng Zheng*
 
-**OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**
+**OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**<br/>
 *Jian Guan, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan and Minlie Huang*
 
-**Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation**
+**Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation**<br/>
 *Liang Li, Can Ma, Yinliang Yue and Dayong Hu*
 
-**Automated Concatenation of Embeddings for Structured Prediction**
+**Automated Concatenation of Embeddings for Structured Prediction**<br/>
 *Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
 
-**Improving Factual Consistency of Abstractive Summarization via Question Answering**
+**Improving Factual Consistency of Abstractive Summarization via Question Answering**<br/>
 *Feng Nan, Cicero Nogueira Dos Santos, Henghui Zhu, Patrick Ng, Kathleen McKeown, Ramesh Nallapati, Dejiao Zhang, Zhiguo Wang, Andrew O. Arnold and Bing Xiang*
 
-**Explanations for CommonsenseQA: New Dataset and Models**
+**Explanations for CommonsenseQA: New Dataset and Models**<br/>
 *Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla and Dinesh Garg*
 
 **DynaSent: A Dynamic Benchmark for Sentiment Analysis**
 *Christopher Potts, Zhengxuan Wu, Atticus Geiger and Douwe Kiela
 
-**IrEne: Interpretable Energy Prediction for Transformers**
+**IrEne: Interpretable Energy Prediction for Transformers**<br/>
 *Qingqing Cao, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian*
 
-**Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation**
+**Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation**<br/>
 *Xingyi Yang, Muchao Ye, Quanzeng You and Fenglong Ma*
 
-**Long-Span Summarization via Local Attention and Content Selection**
+**Long-Span Summarization via Local Attention and Content Selection**<br/>
 *Potsawee Manakul and Mark Gales*
 
-**Claim Matching Beyond English to Scale Global Fact-Checking**
+**Claim Matching Beyond English to Scale Global Fact-Checking**<br/>
 *Ashkan Kazemi, Kiran Garimella, Devin Gaffney and Scott Hale*
 
-**A Large-Scale Chinese Multimodal NER Dataset with Speech Clues**
+**A Large-Scale Chinese Multimodal NER Dataset with Speech Clues**<br/>
 *Dianbo Sui, Zhengkun Tian, Yubo Chen, Kang Liu and Jun Zhao*
 
-**Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach**
+**Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach**<br/>
 *Jie Huang, Kevin Chang, JinJun Xiong and Wen-mei Hwu*
 
-**Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction**
+**Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction**<br/>
 *Yifan Gao, Henghui Zhu, Patrick Ng, Cicero Nogueira Dos Santos, Zhiguo Wang, Feng Nan, Dejiao Zhang, Ramesh Nallapati, Andrew O. Arnold and Bing Xiang*
 
-**Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**
+**Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**<br/>
 *Li-Ming Zhan, Haowen Liang, Bo LIU, Lu Fan, Xiao-Ming Wu and Albert Y.S. Lam*
 
-**SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation**
+**SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation**<br/>
 *Shuo Ren, Long Zhou, Shujie Liu, Furu Wei, Ming Zhou and Shuai Ma*
 
-**Consistency Regularization for Cross-Lingual Fine-Tuning**
+**Consistency Regularization for Cross-Lingual Fine-Tuning**<br/>
 *Bo Zheng, Li Dong, Shaohan Huang, Wenhui Wang, Zewen Chi, Saksham Singhal, Wanxiang Che, Ting Liu, Xia Song and Furu Wei*
 
-**Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval**
+**Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval**<br/>
 *Hongyin Tang, Xingwu Sun, Beihong Jin, Jingang Wang, Fuzheng Zhang and Wei Wu*
 
-**Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment**
+**Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment**<br/>
 *Zewen Chi, Li Dong, Bo Zheng, Shaohan Huang, Xian-Ling Mao, Heyan Huang and Furu Wei*
 
-**GhostBERT: Generate More Features with Cheap Operations for BERT**
+**GhostBERT: Generate More Features with Cheap Operations for BERT**<br/>
 *Zhiqi Huang, Lu Hou, Lifeng Shang, Xin Jiang, Xiao Chen and Qun Liu*
+
+**Improving Zero-Shot Translation by Disentangling Positional Information**<br/>
+*Danni Liu, Jan Niehues, James Cross, Francisco Guzmán and Xian Li*
+
+**Diversifying Dialog Generation via Adaptive Label Smoothing**<br/>
+*Yida Wang, Yinhe Zheng, Yong Jiang and Minlie Huang*
+
+**Supporting Cognitive and Emotional Empathic Writing of Students**<br/>
+*Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister*
+
+**Fast and Accurate Neural Machine Translation with Translation Memory**<br/>
+*Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu*
+
+**Syntax-Enhanced Pre-trained Model**<br/>
+*Zenan Xu, Daya Guo, Duyu Tang, Qinliang Su, Linjun Shou, Ming Gong, Wanjun Zhong, Xiaojun Quan, Daxin Jiang and Nan Duan*
+
+**Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**<br/>
+*Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue and Songlin Hu*
+
+**PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction**<br/>
+*Shulin Liu, Tao Yang, Tianchi Yue, Feng Zhang and Di Wang*
+
+**Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification**<br/>
+*Xuepeng Wang, Li Zhao, Bing Liu, Tao Chen, Feng Zhang and Di Wang*
+
+**Joint Verification and Reranking for Open Fact Checking Over Tables**<br/>
+*Michael Sejr Schlichtkrull, Vladimir Karpukhin, Barlas Oguz, Mike Lewis, Wen-tau Yih and Sebastian Riedel*
+
+**CoSQA: 20,000+ Web Queries for Code Search and Question Answering**<br/>
+*Junjie Huang, Duyu Tang, Linjun Shou, Ming Gong, Ke Xu, Daxin Jiang, Ming Zhou and Nan Duan*
+
+**BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data**<br/>
+*Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang and Ting Liu*
+
+**Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction**<br/>
+*Hanqi Yan, Lin Gui, Gabriele Pergola and Yulan He*
+
+**Evaluation of Thematic Coherence in Microblogs**<br/>
+*Iman Munire Bilal, Bo Wang, Maria Liakata, Rob Procter and Adam Tsakalidis*
+
+**Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech**<br/>
+*Margherita Fanton, Helena Bonaldi, Serra Sinem Tekirolu and Marco Guerini*
+ 
+**Factorising Meaning and Form for Intent-Preserving Paraphrasing**<br/>
+*Tom Hosking and Mirella Lapata*
+
+**EnsLM: Ensemble Language Model for Data Diversity by Semantic Clustering**<br/>
+*Zhibin Duan, Hao Zhang, Chaojie Wang, Zhengjue Wang, Bo Chen and Mingyuan Zhou*
+
+**LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification**<br/>
+*Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng and Yuguang Chen*
+
+**Coreference Reasoning in Machine Reading Comprehension**<br/>
+*Mingzhu Wu, Nafise Sadat Moosavi, Dan Roth and Iryna Gurevych*
+
+**Evidence-based Factual Error Correction**<br/>
+*James Thorne and Andreas Vlachos*
+
+**StructFormer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling**<br/>
+*Yikang Shen, Yi Tay, Che Zheng, Dara Bahri, Donald Metzler and Aaron Courville*
+
+**Convolutions and Self-Attention: Re-interpreting Relative Positions in Pre-trained Language Models**<br/>
+*Tyler Chang, Yifan Xu, Weijian Xu and Zhuowen Tu*
+
+**Learning Faithful Representations of Causal Graphs**<br/>
+*Ananth Balashankar and Lakshminarayanan Subramanian*
+
+**The Art of Abstention: Selective Prediction and Error Regularization for Natural Language Processing**<br/>
+*Ji Xin, Raphael Tang, Yaoliang Yu and Jimmy Lin*
+
+**Ruddit: Norms of Offensiveness for English Reddit Comments**<br/>
+*Rishav Hada, Sohi Sudhir, Pushkar Mishra, Helen Yannakoudakis, Saif M. Mohammad and Ekaterina Shutova*
+
+**Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data**<br/>
+*Paul Pu Liang, Terrance Liu, Anna Cai, Michal Muszynski, Ryo Ishii, Nick Allen, Randy Auerbach, David Brent, Ruslan Salakhutdinov and Louis-Philippe Morency*
