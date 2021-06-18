@@ -72,6 +72,8 @@ registration:
          url: /registration/volunteer/	 
        - title: "ACL-IJCNLP 2021 Registration"
          url: /registration/page/
+       - title: "Accepted Paper List"
+         url: /registration/accept/
 
 tutorials:
    - title: Tutorial Details
