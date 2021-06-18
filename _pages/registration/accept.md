@@ -156,3 +156,78 @@ toc_max_header: 4
 
 **Directed Acyclic Graph Network for Conversational Emotion Recognition**<br/>
 *Weizhou Shen, Siyue Wu, Yunyi Yang and Xiaojun Quan*
+
+**Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks**
+*Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Yuguang Chen and Weihua Peng*
+
+**BACO: A Background Knowledge- and Content-Based Framework for Citing Sentence Generation**
+*Yubin Ge, Ly Dinh, Xiaofeng Liu, Jinsong Su, Ziyao Lu, Ante Wang and Jana Diesner*
+
+**Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**
+*Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang*
+
+**Psycholinguistic Tripartite Graph Network for Personality Detection**
+*Tao Yang, Feifan Yang, Haolan Ouyang and Xiaojun Quan*
+
+**Mention Flags (MF): Constraining Transformer-based Text Generators**
+*Yufei Wang, Ian Wood, Stephen Wan, Mark Dras and Mark Johnson*
+
+**Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting**
+*Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin and Yefeng Zheng*
+
+**OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**
+*Jian Guan, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan and Minlie Huang*
+
+**Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation**
+*Liang Li, Can Ma, Yinliang Yue and Dayong Hu*
+
+**Automated Concatenation of Embeddings for Structured Prediction**
+*Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
+
+**Improving Factual Consistency of Abstractive Summarization via Question Answering**
+*Feng Nan, Cicero Nogueira Dos Santos, Henghui Zhu, Patrick Ng, Kathleen McKeown, Ramesh Nallapati, Dejiao Zhang, Zhiguo Wang, Andrew O. Arnold and Bing Xiang*
+
+**Explanations for CommonsenseQA: New Dataset and Models**
+*Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla and Dinesh Garg*
+
+**DynaSent: A Dynamic Benchmark for Sentiment Analysis**
+*Christopher Potts, Zhengxuan Wu, Atticus Geiger and Douwe Kiela
+
+**IrEne: Interpretable Energy Prediction for Transformers**
+*Qingqing Cao, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian*
+
+**Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation**
+*Xingyi Yang, Muchao Ye, Quanzeng You and Fenglong Ma*
+
+**Long-Span Summarization via Local Attention and Content Selection**
+*Potsawee Manakul and Mark Gales*
+
+**Claim Matching Beyond English to Scale Global Fact-Checking**
+*Ashkan Kazemi, Kiran Garimella, Devin Gaffney and Scott Hale*
+
+**A Large-Scale Chinese Multimodal NER Dataset with Speech Clues**
+*Dianbo Sui, Zhengkun Tian, Yubo Chen, Kang Liu and Jun Zhao*
+
+**Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach**
+*Jie Huang, Kevin Chang, JinJun Xiong and Wen-mei Hwu*
+
+**Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction**
+*Yifan Gao, Henghui Zhu, Patrick Ng, Cicero Nogueira Dos Santos, Zhiguo Wang, Feng Nan, Dejiao Zhang, Ramesh Nallapati, Andrew O. Arnold and Bing Xiang*
+
+**Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**
+*Li-Ming Zhan, Haowen Liang, Bo LIU, Lu Fan, Xiao-Ming Wu and Albert Y.S. Lam*
+
+**SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation**
+*Shuo Ren, Long Zhou, Shujie Liu, Furu Wei, Ming Zhou and Shuai Ma*
+
+**Consistency Regularization for Cross-Lingual Fine-Tuning**
+*Bo Zheng, Li Dong, Shaohan Huang, Wenhui Wang, Zewen Chi, Saksham Singhal, Wanxiang Che, Ting Liu, Xia Song and Furu Wei*
+
+**Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval**
+*Hongyin Tang, Xingwu Sun, Beihong Jin, Jingang Wang, Fuzheng Zhang and Wei Wu*
+
+**Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment**
+*Zewen Chi, Li Dong, Bo Zheng, Shaohan Huang, Xian-Ling Mao, Heyan Huang and Furu Wei*
+
+**GhostBERT: Generate More Features with Cheap Operations for BERT**
+*Zhiqi Huang, Lu Hou, Lifeng Shang, Xin Jiang, Xiao Chen and Qun Liu*
