@@ -239,7 +239,7 @@ toc_max_header: 4
 *Yida Wang, Yinhe Zheng, Yong Jiang and Minlie Huang*
 
 **Supporting Cognitive and Emotional Empathic Writing of Students**<br/>
-*Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister*
+*Thiemo Wambsganss, Christina Niklaus, Matthias Sollner, Siegfried Handschuh and Jan Marco Leimeister*
 
 **Fast and Accurate Neural Machine Translation with Translation Memory**<br/>
 *Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu*
