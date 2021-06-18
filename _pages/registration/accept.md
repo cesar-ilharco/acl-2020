@@ -514,3 +514,21 @@ toc_max_header: 4
 
 **Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning**
 *Bill Yuchen Lin, Seyeon Lee, Xiaoyang Qiao and Xiang Ren*
+
+**Lightweight Cross-Lingual Sentence Representation Learning**
+*Zhuoyuan Mao, Prakhar Gupta, Chenhui Chu, Martin Jaggi and Sadao Kurohashi*
+
+**HateCheck: Functional Tests for Hate Speech Detection Models**
+*Paul Rottger, Bertie Vidgen, Dong Nguyen, Zeerak Waseem, Helen Margetts and Janet Pierrehumbert*
+
+**Robustifying Multi-hop QA through Pseudo-Evidentiality Training**
+*Kyungjae Lee, Seung-won Hwang, Sang-eun Han and Dohyeon Lee*
+
+**ERNIE-Doc: A Retrospective Long-Document Modeling Transformer**
+*SiYu Ding, Junyuan Shang, Shuohuan Wang, Yu Sun, Hao Tian, Hua Wu and Haifeng Wang*
+
+**LeeBERT: Learned Early Exit for BERT with cross-level optimization**
+*Wei Zhu*
+
+**Probing Toxic Content in Large Pre-Trained Language Models**
+*Nedjma Ousidhoum, Xinran Zhao, Tianqing Fang, Yangqiu Song and Dit-Yan Yeung*
