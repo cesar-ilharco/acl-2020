@@ -69,7 +69,7 @@ registration:
    - title: Registration for
      children:
        - title: "VOLUNTEER/SCHOLARSHIP PROGRAM"
-         url: /registration/volunteers/	 
+         url: /registration/volunteer/	 
        - title: "ACL-IJCNLP 2021 Registration"
          url: /registration/page/
 
