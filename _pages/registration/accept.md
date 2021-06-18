@@ -607,3 +607,78 @@ Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding and Minlie Huang*
 
 **Including Signed Languages in Natural Language Processing**
 *Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg and Malihe Alikhani*
+
+**Label-Specific Dual Graph Neural Network for Multi-Label Text Classification**
+*Qianwen Ma, Chunyuan Yuan, Wei Zhou and Songlin Hu*
+
+**Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference**
+*Tuan Lai, Heng Ji, ChengXiang Zhai and Quan Hung Tran*
+
+**Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding**
+*Hidetaka Kamigaito and Katsuhiko Hayashi*
+
+**Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding**
+*Liying Cheng, Tianyu Wu, Lidong Bing and Luo Si*
+
+**Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach**
+*Lu Cheng, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall and Huan Liu*
+
+**Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System**
+*Yanan Wu, Zhiyuan Zeng, Keqing He, Hong Xu, Yuanmeng Yan, Huixing Jiang and Weiran Xu*
+
+**Generation-Augmented Retrieval for Open-Domain Question Answering**
+*Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han and Weizhu Chen*
+
+**A Systematic Investigation of KB-Text Embedding Alignment at Scale**
+*Vardaan Pahuja, Yu Gu, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen and Yu Su*
+
+**Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**
+*Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan and Ming Zhou*
+
+**Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path**
+*Yiran Wang, Hiroyuki Shindo, Yuji Matsumoto and Taro Watanabe*
+
+**COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion**
+*Debjit Paul and Anette Frank*
+
+**Bridge-Based Active Domain Adaptation for Aspect Term Extraction**
+*Zhuang Chen and Tieyun Qian*
+
+**The Limitations of Limited Context for Constituency Parsing**
+*Yuchen Li and Andrej Risteski*
+
+**Dynamic Contextualized Word Embeddings**
+*Valentin Hofmann, Janet Pierrehumbert and Hinrich Schutze*
+
+**Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words**
+*Valentin Hofmann, Janet Pierrehumbert and Hinrich Schuze*
+
+**RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems**
+*Baolin Peng, Chunyuan Li, Zhu Zhang, Chenguang Zhu, Jinchao Li and Jianfeng Gao*
+
+**How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction**
+*Zikun Hu, Yixin Cao, Lifu Huang and Tat-Seng Chua*
+
+**InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection**
+*Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal and Avi Sil*
+
+**Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach**
+*Yifan Hou and Mrinmaya Sachan*
+
+**A DQN-based Approach to Finding Precise Evidences for Fact Verification**
+*Hai Wan, Haicheng Chen, Jianfeng Du, Weilin Luo and Rongzhen Ye*
+
+**Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection**
+*Lixing Zhu, Gabriele Pergola, Lin Gui, Deyu Zhou and Yulan He*
+
+**RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English)**
+*Sean Trott and Benjamin Bergen*
+
+**Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning**
+*Armen Aghajanyan, Sonal Gupta and Luke Zettlemoyer*
+
+**Optimizing Deeper Transformers on Small Datasets**
+*Peng Xu, Dhruv Kumar, Wei Yang, Wenjie Zi, Keyi Tang, Chenyang Huang, Jackie Chi Kit Cheung, Simon J.D. Prince and Yanshuai Cao*
+
+**Unsupervised Out-of-Domain Detection via Pre-trained Transformers**
+*Keyang Xu, Tongzheng Ren, Shikun Zhang, Yihao Feng and Caiming Xiong*
