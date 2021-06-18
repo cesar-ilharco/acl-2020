@@ -306,3 +306,81 @@ toc_max_header: 4
 
 **Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data**<br/>
 *Paul Pu Liang, Terrance Liu, Anna Cai, Michal Muszynski, Ryo Ishii, Nick Allen, Randy Auerbach, David Brent, Ruslan Salakhutdinov and Louis-Philippe Morency*
+
+**Prosodic segmentation for parsing spoken dialogue**
+*Elizabeth Nielsen, Mark Steedman and Sharon Goldwater*
+
+**End-to-End Training of Neural Retrievers for Open-Domain Question Answering**
+*Devendra Sachan, Mostofa Patwary, Mohammad Shoeybi, Neel Kant, Wei Ping, William L. Hamilton and Bryan Catanzaro*
+
+**Using Meta-Knowledge Mined from Identifiers to Improve Intent Recognition in Conversational Systems**
+*Claudio Pinhanez, Paulo Cavalin, Victor Henrique Alves Ribeiro, Ana Appel, Heloisa Candello, Julio Nogima, Mauro Pichiliani, Melina Guerra, Maira De Bayser, Gabriel Malfatti and Henrique Ferreira*
+
+**TextSETTR: Few-Shot Text Style Extraction and Tunable Targeted Restyling**
+*Parker Riley, Noah Constant, Mandy Guo, Girish Kumar, David Uthus and Zarana Parekh*
+
+**I like fish, especially dolphins: Addressing Contradictions in Dialogue Modeling**
+*Yixin Nie, Mary Williamson, Mohit Bansal, Douwe Kiela and Jason Weston*
+
+**Implicit Representations of Meaning in Neural Language Models**
+*Belinda Z. Li, Maxwell Nye and Jacob Andreas*
+
+**Personalized Transformer for Explainable Recommendation**
+*Lei Li, Yongfeng Zhang and Li Chen*
+
+**Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor**
+*Xinyu Wang, Yong Jiang, Zhaohui Yan, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
+
+**UnNatural Language Inference**
+*Koustuv Sinha, Prasanna Parthasarathi, Joelle Pineau and Adina Williams*
+
+**ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning**
+*Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou*
+
+**RepSum: Unsupervised Dialogue Summarization based on Replacement Strategy**
+*Xiyan Fu, Yating Zhang, Tianyi Wang, Xiaozhong Liu, Changlong Sun and Zhenglu Yang*
+
+**A Conditional Splitting Framework for Efficient Constituency Parsing**
+*Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty and Xiaoli Li*
+
+**Reliability Testing for Natural Language Processing Systems**
+*Samson Tan, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett and Min-Yen Kan*
+
+**Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation**
+*Hongfei Xu, Qiuhui Liu, Josef Van Genabith, Deyi Xiong and Meng Zhang*
+
+**N-ary Constituent Tree Parsing with Recursive Semi-Markov Model**
+*Xin Xin, Jinlong Li and Zeqi Tan*
+
+**Math Word Problem Solving with Explicit Numerical Values**
+*Qinzhuo Wu, Qi Zhang, Zhongyu Wei and Xuanjing Huang*
+
+**Improving Formality Style Transfer with Context-Aware Rule Injection**
+*Zonghai Yao and Hong Yu*
+
+**CDRNN: Discovering Complex Dynamics in Human Language Processing**
+*Cory Shain*
+
+**DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling**
+*Lanqing Xue, Kaitao Song, Duocai Wu, Xu Tan, Nevin L. Zhang, Tao Qin, Wei-Qiang Zhang and Tie-Yan Liu*
+
+**CIL: Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction**
+*Tao Chen, Haizhou Shi, Siliang Tang, Zhigang Chen, Fei Wu and Yueting Zhuang*
+
+**COSY: COunterfactual SYntax for Cross-Lingual Understanding**
+*SICHENG YU, Hao Zhang, Yulei Niu, Qianru Sun and Jing Jiang*
+
+**A Knowledge-Guided Framework for Frame Identification**
+*Xuefeng Su, Ru Li, Xiaoli Li, Jeff Z. Pan, Hu Zhang, Qinghua Chai and Xiaoqi Han*
+
+**A Bidirectional Transformer Based Alignment Model for Unsupervised Word Alignment**
+*Jingyi Zhang and Josef Van Genabith*
+
+**Beyond Offline Mapping: Learning Cross-lingual Word Embeddings through Context Anchoring**
+*Aitor Ormazabal, Mikel Artetxe, Aitor Soroa, Gorka Labaka and Eneko Agirre*
+
+**Few-Shot Question Answering by Pretraining Span Selection**
+*Ori Ram, Yuval Kirstain, Jonathan Berant, Amir Globerson and Omer Levy*
+
+**Few-NERD: A Few-shot Named Entity Recognition Dataset**
+*Ning Ding, Guangwei Xu, Yulin Chen, Xiaobin Wang, Xu Han, Pengjun Xie, Haitao Zheng and Zhiyuan Liu*
