@@ -465,3 +465,18 @@ toc_max_header: 4
 
 **Shortformer: Better Language Modeling using Shorter Inputs**
 *Ofir Press, Noah A. Smith and Mike Lewis*
+
+**An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization**
+*Baohang Zhou, Xiangrui Cai, Ying Zhang and Xiaojie Yuan*
+
+**Making Pre-trained Language Models Better Few-shot Learners**
+*Tianyu Gao, Adam Fisch and Danqi Chen*
+
+**Counterfactual Inference for Text Classification Debiasing**
+*Chen Qian, Fuli Feng, Lijie Wen, Chunping Ma and Pengjun Xie*
+
+**Intent Classification and Slot Filling for Privacy Policies**
+*Wasi Ahmad, Jianfeng Chi, Tu Le, Thomas Norton, Yuan Tian and Kai-Wei Chang*
+
+**One2Set: Generating Diverse Keyphrases as a Set**
+*Jiacheng Ye, Tao Gui, Yichao Luo, Yige Xu and Qi Zhang*
