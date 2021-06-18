@@ -33,3 +33,21 @@ toc_max_header: 4
 
 **Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble**<br/>
 *Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-Wei Chang and Xuanjing Huang*
+
+**Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning**<br/>
+*Pan Lu, Ran Gong, Shibiao Jiang, Liang Qiu, Siyuan Huang, Xiaodan Liang and Song-Chun Zhu*
+
+**Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantification**<br/>
+*Tetsuya Sakai*
+
+**SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues**<br/>
+*Liang Qiu, Yuan Liang, Yizhou Zhao, Pan Lu, Baolin Peng, Zhou Yu, Ying Nian Wu and Song-Chun Zhu*
+
+**Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains**<br/>
+*Haojie Pan, Chengyu Wang, Minghui Qiu, Yichang Zhang, Yaliang Li and Jun Huang*
+
+**DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations**<br/>
+*John Giorgi, Osvald Nitski, Bo Wang and Gary Bader*
+
+**A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger's Adversarial Attacks**<br/>
+*Thai Le, Noseong Park and Dongwon Lee*
