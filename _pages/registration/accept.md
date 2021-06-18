@@ -457,303 +457,304 @@ toc_max_header: 4
 **A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition**<br/>
 *Fei Li, ZhiChao Lin, Meishan Zhang and Donghong Ji*
 
-**Neural Stylistic Response Generation with Disentangled Latent Variables**
+**Neural Stylistic Response Generation with Disentangled Latent Variables**<br/>
 *Qingfu Zhu, Wei-Nan Zhang, Ting Liu and William Yang Wang*
 
-**A Cognitive Regularizer for Language Modeling**
+**A Cognitive Regularizer for Language Modeling**<br/>
 *Jason Wei, Clara Meister and Ryan Cotterell*
 
-**Shortformer: Better Language Modeling using Shorter Inputs**
+**Shortformer: Better Language Modeling using Shorter Inputs**<br/>
 *Ofir Press, Noah A. Smith and Mike Lewis*
 
-**An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization**
+**An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization**<br/>
 *Baohang Zhou, Xiangrui Cai, Ying Zhang and Xiaojie Yuan*
 
-**Making Pre-trained Language Models Better Few-shot Learners**
+**Making Pre-trained Language Models Better Few-shot Learners**<br/>
 *Tianyu Gao, Adam Fisch and Danqi Chen*
 
-**Counterfactual Inference for Text Classification Debiasing**
+**Counterfactual Inference for Text Classification Debiasing**<br/>
 *Chen Qian, Fuli Feng, Lijie Wen, Chunping Ma and Pengjun Xie*
 
-**Intent Classification and Slot Filling for Privacy Policies**
+**Intent Classification and Slot Filling for Privacy Policies**<br/>
 *Wasi Ahmad, Jianfeng Chi, Tu Le, Thomas Norton, Yuan Tian and Kai-Wei Chang*
 
-**One2Set: Generating Diverse Keyphrases as a Set**
+**One2Set: Generating Diverse Keyphrases as a Set**<br/>
 *Jiacheng Ye, Tao Gui, Yichao Luo, Yige Xu and Qi Zhang*
 
-**Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking**
+**Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking**<br/>
 *Jinyu Guo, Kai Shuang, Jijie Li and Zihan Wang*
 
-**Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval**
+**Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval**<br/>
 *Zijing Ou, Qinliang Su, Jianxing Yu, Bang Liu, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng*
 
-**Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization**
+**Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization**<br/>
 *Dongkyu Lee, Zhiliang Tian, Lanqing Xue and Nevin L. Zhang*
 
-
-**ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information**
+**ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information**<br/>
 *Zijun Sun, Xiaoya Li, Xiaofei Sun, Yuxian Meng, Xiang Ao, Qing He, Fei Wu and Jiwei Li*
 
-**MLBiNet: A Cross-Sentence Collective Event Detection Network**
+**MLBiNet: A Cross-Sentence Collective Event Detection Network**<br/>
 *Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang and Huajun Chen*
 
-**Self-Attention Networks Can Process Bounded Hierarchical Languages**
+**Self-Attention Networks Can Process Bounded Hierarchical Languages**<br/>
 *Shunyu Yao, Binghui Peng, Christos Papadimitriou and Karthik Narasimhan*
 
-**Data Augmentation for Text Generation Without Any Augmented Data**
+**Data Augmentation for Text Generation Without Any Augmented Data**<br/>
 *Wei Bi, Huayang Li and Jiacheng Huang*
 
-**Are Pretrained Convolutions Better than Pretrained Transformers?**
+**Are Pretrained Convolutions Better than Pretrained Transformers?**<br/>
 *Yi Tay, Mostafa Dehghani, Jai Prakash Gupta, Vamsi Aribandi, Dara Bahri, Zhen Qin and Donald Metzler*
 
-**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**
+**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**<br/>
 *Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Xu Ming and Yefeng Zheng*
 
-**ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation**
+**ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation**<br/>
 *Vijit Malik, Rishabh Sanjay, Shubham Kumar Nigam, Kripabandhu Ghosh, Shouvik Kumar Guha, Arnab Bhattacharya and Ashutosh Modi*
 
-**Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning**
+**Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning**<br/>
 *Bill Yuchen Lin, Seyeon Lee, Xiaoyang Qiao and Xiang Ren*
 
-**Lightweight Cross-Lingual Sentence Representation Learning**
+**Lightweight Cross-Lingual Sentence Representation Learning**<br/>
 *Zhuoyuan Mao, Prakhar Gupta, Chenhui Chu, Martin Jaggi and Sadao Kurohashi*
 
-**HateCheck: Functional Tests for Hate Speech Detection Models**
+**HateCheck: Functional Tests for Hate Speech Detection Models**<br/>
 *Paul Rottger, Bertie Vidgen, Dong Nguyen, Zeerak Waseem, Helen Margetts and Janet Pierrehumbert*
 
-**Robustifying Multi-hop QA through Pseudo-Evidentiality Training**
+**Robustifying Multi-hop QA through Pseudo-Evidentiality Training**<br/>
 *Kyungjae Lee, Seung-won Hwang, Sang-eun Han and Dohyeon Lee*
 
-**ERNIE-Doc: A Retrospective Long-Document Modeling Transformer**
+**ERNIE-Doc: A Retrospective Long-Document Modeling Transformer**<br/>
 *SiYu Ding, Junyuan Shang, Shuohuan Wang, Yu Sun, Hao Tian, Hua Wu and Haifeng Wang*
 
-**LeeBERT: Learned Early Exit for BERT with cross-level optimization**
+**LeeBERT: Learned Early Exit for BERT with cross-level optimization**<br/>
 *Wei Zhu*
 
-**Probing Toxic Content in Large Pre-Trained Language Models**
+**Probing Toxic Content in Large Pre-Trained Language Models**<br/>
 *Nedjma Ousidhoum, Xinran Zhao, Tianqing Fang, Yangqiu Song and Dit-Yan Yeung*
 
-**Align Voting Behavior with Public Statements for Legislator Representation Learning**
+**Align Voting Behavior with Public Statements for Legislator Representation Learning**<br/>
 *Xinyi Mou, Zhongyu Wei, Lei Chen, Shangyi Ning, Yancheng He, Changjian Jiang and Xuanjing Huang*
 
-**Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks**
+**Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks**<br/>
 *Jinghui Qin, Xiaodan Liang, Yining Hong, Jianheng Tang and Liang Lin*
 
-**BanditMTL: Bandit-based Multi-task Learning for Text Classification**
+**BanditMTL: Bandit-based Multi-task Learning for Text Classification**<br/>
 *Yuren Mao, Zekai Wang, Weiwei Liu, Xuemin Lin and Wenbin Hu*
 
-**Verb Metaphor Detection via Contextual Relation Learning**
+**Verb Metaphor Detection via Contextual Relation Learning**<br/>
 *Wei Song, Shuhui Zhou, Ruiji Fu, Ting Liu and Lizhen Liu*
 
-**Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence**
+**Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence**<br/>
 Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding and Minlie Huang*
 
-**Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning**
+**Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning**<br/>
 *Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
 
-**On Finding the K-best Non-projective Dependency Trees**
+**On Finding the K-best Non-projective Dependency Trees**<br/>
 *Ran Zmigrod, Tim Vieira and Ryan Cotterell*
 
-**Towards Robustness of Text-to-SQL Models against Synonym Substitution**
+**Towards Robustness of Text-to-SQL Models against Synonym Substitution**<br/>
 *Yujian Gan, Xinyun Chen, Qiuping Huang, Matthew Purver, John R. Woodward, Jinxia Xie and Pengsheng Huang*
 
-**Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**
+**Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**<br/>
 *Tong Zhang, Long Zhang, Wei Ye, Bo Li, Jinan Sun, Xiaoyu Zhu, Wen Zhao and Shikun Zhang*
 
 **VECO: Variable and Flexible Cross-lingual Pre-training for Language Understanding and Generation**
 *Fuli Luo, Wei Wang, Jiahao Liu, Yijia Liu, Bin Bi, Songfang Huang, Fei Huang and Luo Si
 
-**ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer**
+**ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer**<br/>
 *Yuanmeng Yan, Rumei Li, Sirui Wang, Fuzheng Zhang, Wei Wu and Weiran Xu*
 
-**Structurizing Misinformation Stories via Rationalizing Fact-Checks**
+**Structurizing Misinformation Stories via Rationalizing Fact-Checks**<br/>
 *Shan Jiang and Christo Wilson*
 
-**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**
+**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**<br/>
 *Linlin Chao, Jianshan He, Taifeng Wang and Wei Chu*
 
-**Positional Artefacts Propagate Through Masked Language Model Embeddings**
+**Positional Artefacts Propagate Through Masked Language Model Embeddings**<br/>
 *Ziyang Luo, Artur Kulmizev and Xiaoxi Mao*
 
-**Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy**
+**Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy**<br/>
 *Marcos Garcia*
 
 **Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification**
 *Rami Aly, Andreas Vlachos and Ryan McDonald*
 
-**Learning from Perturbations: Diverse and Informative Dialogue Generation with Inverse Adversarial Training**
+**Learning from Perturbations: Diverse and Informative Dialogue Generation with Inverse Adversarial Training**<br/>
 *Wangchunshu Zhou, Qifei LI and Chenle Li*
 
-**Exploring Dynamic Selection of Branch Expansion Orders for Code Generation
+**Exploring Dynamic Selection of Branch Expansion Orders for Code Generation**<br/>
 *Hui Jiang, Chulun Zhou, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu and Jinsong Su*
  
-**Learning Dense Representations of Phrases at Scale**
+**Learning Dense Representations of Phrases at Scale**<br/>
 *Jinhyuk Lee, Mujeen Sung, Jaewoo Kang and Danqi Chen*
 
-**Modeling Bilingual Conversational Characteristics for Neural Chat Translation**
+**Modeling Bilingual Conversational Characteristics for Neural Chat Translation**<br/>
 *Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu and Jie Zhou*
 
-**Revisiting the Negative Data of Distantly Supervised Relation Extraction**
+**Revisiting the Negative Data of Distantly Supervised Relation Extraction**<br/>
 *Chenhao Xie, Jiaqing Liang, Jingping Liu, Chengsong Huang, Wenhao Huang and Yanghua Xiao*
 
-**Rational LAMOL: A Rationale-based Lifelong Learning Framework**
+**Rational LAMOL: A Rationale-based Lifelong Learning Framework**<br/>
 *Kasidis Kanwatchara, Thanapapas Horsuwan, Piyawat Lertvittayakumjorn, Boonserm Kijsirikul and Peerapon Vateekul*
 
-**Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition**
+**Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition**<br/>
 *Meihan Tong, Shuai Wang, Bin Xu, Yixin Cao, Minghui Liu, Lei Hou and Juanzi Li*
 
-**Knowing the No-match: Entity Alignment with Dangling Cases**
+**Knowing the No-match: Entity Alignment with Dangling Cases**<br/>
 *Zequn Sun, Muhao Chen and Wei Hu*
 
 **Including Signed Languages in Natural Language Processing**
 *Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg and Malihe Alikhani*
 
-**Label-Specific Dual Graph Neural Network for Multi-Label Text Classification**
+**Label-Specific Dual Graph Neural Network for Multi-Label Text Classification**<br/>
 *Qianwen Ma, Chunyuan Yuan, Wei Zhou and Songlin Hu*
 
-**Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference**
+**Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference**<br/>
 *Tuan Lai, Heng Ji, ChengXiang Zhai and Quan Hung Tran*
 
-**Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding**
+**Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding**<br/>
 *Hidetaka Kamigaito and Katsuhiko Hayashi*
 
-**Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding**
+**Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding**<br/>
 *Liying Cheng, Tianyu Wu, Lidong Bing and Luo Si*
 
-**Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach**
+**Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach**<br/>
 *Lu Cheng, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall and Huan Liu*
 
-**Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System**
+**Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System**<br/>
 *Yanan Wu, Zhiyuan Zeng, Keqing He, Hong Xu, Yuanmeng Yan, Huixing Jiang and Weiran Xu*
 
-**Generation-Augmented Retrieval for Open-Domain Question Answering**
+**Generation-Augmented Retrieval for Open-Domain Question Answering**<br/>
 *Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han and Weizhu Chen*
 
-**A Systematic Investigation of KB-Text Embedding Alignment at Scale**
+**A Systematic Investigation of KB-Text Embedding Alignment at Scale**<br/>
 *Vardaan Pahuja, Yu Gu, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen and Yu Su*
 
-**Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**
+**Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**<br/>
 *Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan and Ming Zhou*
 
-**Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path**
+**Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path**<br/>
 *Yiran Wang, Hiroyuki Shindo, Yuji Matsumoto and Taro Watanabe*
 
-**COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion**
+**COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion**<br/>
 *Debjit Paul and Anette Frank*
 
-**Bridge-Based Active Domain Adaptation for Aspect Term Extraction**
+**Bridge-Based Active Domain Adaptation for Aspect Term Extraction**<br/>
 *Zhuang Chen and Tieyun Qian*
 
-**The Limitations of Limited Context for Constituency Parsing**
+**The Limitations of Limited Context for Constituency Parsing**<br/>
 *Yuchen Li and Andrej Risteski*
 
-**Dynamic Contextualized Word Embeddings**
+**Dynamic Contextualized Word Embeddings**<br/>
 *Valentin Hofmann, Janet Pierrehumbert and Hinrich Schutze*
 
-**Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words**
+**Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words**<br/>
 *Valentin Hofmann, Janet Pierrehumbert and Hinrich Schuze*
 
-**RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems**
+**RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems**<br/>
 *Baolin Peng, Chunyuan Li, Zhu Zhang, Chenguang Zhu, Jinchao Li and Jianfeng Gao*
 
-**How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction**
+**How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction**<br/>
 *Zikun Hu, Yixin Cao, Lifu Huang and Tat-Seng Chua*
 
-**InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection**
+**InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection**<br/>
 *Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal and Avi Sil*
 
-**Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach**
+**Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach**<br/>
 *Yifan Hou and Mrinmaya Sachan*
 
-**A DQN-based Approach to Finding Precise Evidences for Fact Verification**
+**A DQN-based Approach to Finding Precise Evidences for Fact Verification**<br/>
 *Hai Wan, Haicheng Chen, Jianfeng Du, Weilin Luo and Rongzhen Ye*
 
-**Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection**
+**Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection**<br/>
 *Lixing Zhu, Gabriele Pergola, Lin Gui, Deyu Zhou and Yulan He*
 
-**RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English)**
+**RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English)**<br/>
 *Sean Trott and Benjamin Bergen*
 
-**Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning**
+**Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning**<br/>
 *Armen Aghajanyan, Sonal Gupta and Luke Zettlemoyer*
 
-**Optimizing Deeper Transformers on Small Datasets**
+**Optimizing Deeper Transformers on Small Datasets**<br/>
 *Peng Xu, Dhruv Kumar, Wei Yang, Wenjie Zi, Keyi Tang, Chenyang Huang, Jackie Chi Kit Cheung, Simon J.D. Prince and Yanshuai Cao*
 
-**Unsupervised Out-of-Domain Detection via Pre-trained Transformers**
+**Unsupervised Out-of-Domain Detection via Pre-trained Transformers**<br/>
 *Keyang Xu, Tongzheng Ren, Shikun Zhang, Yihao Feng and Caiming Xiong*
 
-**Learning to Ask Conversational Questions by Optimizing Levenshtein Distance**
+**Learning to Ask Conversational Questions by Optimizing Levenshtein Distance**<br/>
 *Zhongkun Liu, Pengjie Ren, Zhumin CHEN, Zhaochun Ren, Maarten De Rijke and Ming Zhou*
 
-**Multi-stage Pre-training over Simplified Multimodal Pre-training Models**
+**Multi-stage Pre-training over Simplified Multimodal Pre-training Models**<br/>
 *Tongtong Liu, Fangxiang Feng and Xiaojie WANG*
 
-**When Do You Need Billions of Words of Pretraining Data?**
+**When Do You Need Billions of Words of Pretraining Data?**<br/>
 *Yian Zhang, Alex Warstadt, Xiaocheng Li and Samuel R. Bowman*
 
-**Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment**
+**Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment**<br/>
 *Haoyue Shi, Luke Zettlemoyer and Sida I. Wang*
 
-**xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering**
+**xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering**<br/>
 *Nan Yang, Furu Wei, Binxing Jiao, Daxing Jiang and Linjun Yang*
 
-**Importance-based Neuron Allocation for Multilingual Neural Machine Translation**
+**Importance-based Neuron Allocation for Multilingual Neural Machine Translation**<br/>
 *Wanying Xie, Yang Feng, Shuhao Gu and Dong Yu*
 
-**DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue**
+**DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue**<br/>
 *Hung Le, Chinnadhurai Sankar, Seungwhan Moon, Ahmad Beirami, Alborz Geramifard and Satwik Kottur*
 
-**CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network**
+**CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network**<br/>
 *Jiajia Tang, Kang Li, Xuanyu Jin, Andrzej Cichocki, Qibin Zhao and Wanzeng Kong*
 
-**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases**
+**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases**<br/>
 *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
 
-**End-to-End AMR Corefencence Resolution**
+**End-to-End AMR Corefencence Resolution**<br/>
 *Qiankun Fu, Linfeng Song, Wenyu Du and Yue Zhang*
 
-**Neural Machine Translation with Monolingual Translation Memory**
+**Neural Machine Translation with Monolingual Translation Memory**<br/>
 *Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu*
 
-**Can Sequence-to-Sequence Models Crack Substitution Ciphers?**
+**Can Sequence-to-Sequence Models Crack Substitution Ciphers?**<br/>
 *Nada Aldarrab and Jonathan May*
 
-**From Discourse to Narrative: Knowledge Projection for Event Relation Extraction**
+**From Discourse to Narrative: Knowledge Projection for Event Relation Extraction**<br/>
 *Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu*
  
-**EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets**
+**EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets**<br/>
 *Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Zhangyang Wang and Jingjing Liu*
 
-**VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation**
+**VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation**<br/>
 *Changhan Wang, Morgane Riviere, Ann Lee, Anne Wu, Chaitanya Talnikar, Daniel Haziza, Mary Williamson, Juan Pino and Emmanuel Dupoux*
 
-**Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation**
+**Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation**<br/>
 *Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed Elsayed, Skatje Myers and Martha Palmer*
 
-**SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining**
+**SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining**<br/>
 *Taolin Zhang, Zerui Cai, Chengyu Wang, Minghui Qiu, Bite Yang and XIAOFENG HE*
 
-**Structural Guidance for Transformer Language Models**
+**Structural Guidance for Transformer Language Models**<br/>
 *Peng Qian, Tahira Naseem, Roger Levy and Ramon Fernandez Astudillo*
 
-**COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic**
+**COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic**<br/>
 *Arkadiy Saakyan, Tuhin Chakrabarty and Smaranda Muresan*
 
-**Robustness Testing of Language Understanding in Task-Oriented Dialog**
+**Robustness Testing of Language Understanding in Task-Oriented Dialog**<br/>
 *Jiexi Liu, Ryuichi Takanobu, Jiaxin Wen, Dazhen Wan, Hongguang Li, Weiran Nie, Cheng LI, Wei Peng and Minlie Huang*
 
-**TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance**
+**TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance**<br/>
 *Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng and Tat-Seng Chua*
 
-**SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis**
+**SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis**<br/>
 *Joshua Feinglass and Yezhou Yang
 
-**A Unified Generative Framework for Various NER Subtasks**
+**A Unified Generative Framework for Various NER Subtasks**<br/>
 Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
-**Societal Biases in Language Generation: Progress and Challenges**
+**Societal Biases in Language Generation: Progress and Challenges**<br/>
 *Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng*
 
-**Weight Distillation: Transferring the Knowledge in Neural Network Parameters**
+**Weight Distillation: Transferring the Knowledge in Neural Network Parameters**<br/>
 *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao and Jingbo Zhu*
+
+<< More >>
