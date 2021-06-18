@@ -384,3 +384,75 @@ toc_max_header: 4
 
 **Few-NERD: A Few-shot Named Entity Recognition Dataset**
 *Ning Ding, Guangwei Xu, Yulin Chen, Xiaobin Wang, Xu Han, Pengjun Xie, Haitao Zheng and Zhiyuan Liu*
+
+**Matching Distributions between Model and Data: Cross-domain Knowledge Distillation for Unsupervised Domain Adaptation**
+*Bo Zhang, Xiaoming Zhang, Yun Liu, Lei Cheng and Zhoujun Li*
+
+**Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset**
+*Alexandra Ils, Dan Liu, Daniela Grunow and Steffen Eger*
+
+**SENT: Sentence-level Distant Relation Extraction via Negative Training**
+*Ruotian Ma, Tao Gui, Linyang Li, Qi Zhang, Xuanjing Huang and Yaqian Zhou*
+
+**BinaryBERT: Pushing the Limit of BERT Quantization**
+*Haoli Bai, Wei Zhang, Lu Hou, Lifeng Shang, Jin JIN, Xin Jiang, Qun Liu, Michael Lyu and Irwin King*
+
+**Modularized Interaction Network for Named Entity Recognition**
+*Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He and Meihuizi Jia*
+
+**Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision*
+*Si Sun, Yingzhuo Qian, Zhenghao Liu, Chenyan Xiong, Kaitao Zhang, Jie Bao, Zhiyuan Liu and Paul Bennett*
+
+**Breaking the Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training**
+*Linqing Chen, Junhui Li, Zhengxian Gong, Boxing Chen, Weihua Luo, Min Zhang and Guodong Zhou*
+
+**MultiMET: A Multimodal Dataset for Metaphor Understanding**
+*Dongyu Zhang, Minghao Zhang, Heting Zhang, Liang Yang and Hongfei LIN*
+
+**OoMMix: Out-of-manifold Regularization in Contextual Embedding Space for Text Classification**
+*Seonghyeon Lee, Dongha Lee and Hwanjo Yu*
+
+**Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions**
+*Saumya Sahai, Oana Balalau and Roxana Horincar*
+
+**Towards Quantifiable Dialogue Coherence Evaluation**
+*Zheng Ye, Liucun Lu, Lishan Huang, Liang Lin and Xiaodan Liang*
+
+**Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**
+*Weicheng Ma, Kai Zhang, Renze Lou, Lili Wang and Soroush Vosoughi*
+
+**Evaluation Examples are not Equally Informative: How should that change NLP Leaderboards?**
+*Pedro Rodriguez, Joe Barrow, Alexander Miserlis Hoyle, John P. Lalor, Robin Jia and Jordan Boyd-Graber*
+
+**Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder**
+*Xi Xiangyu, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu*
+
+**Parameter-Efficient Transfer Learning with Diff Pruning**
+*Demi Guo, Alexander Rush and Yoon Kim*
+
+**Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network**
+*Justin Lovelace, Denis Newman-Griffis, Shikhar Vashishth, Jill Fain Lehman and Carolyn Rose*
+
+**A Human-machine Collaborative Framework for Evaluating Malevolence in Dialogues**
+*Yangjun Zhang, Pengjie Ren and Maarten De Rijke*
+
+**ADEPT: An Adjective-Dependent Plausibility Task**
+*Ali Emami, Ian Porada, Alexandra Olteanu, Kaheer Suleman, Adam Trischler and Jackie Chi Kit Cheung*
+
+**Database reasoning over text**
+*James Thorne, Majid Yazdani, Marzieh Saeidi, Fabrizio Silvestri, Sebastian Riedel and Alon Halevy*
+
+**Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem**
+*Raphael Schumann and Stefan Riezler*
+
+**A Sequence-to-Sequence Approach to Dialogue State Tracking**
+*Yue Feng, Yang Wang and Hang Li*
+
+**Verb Knowledge Injection for Multilingual Event Processing**
+*Olga Majewska, Ivan Vuli, Goran Glavas, Edoardo Maria Ponti and Anna Korhonen*
+
+**Generating Relevant and Coherent Dialogue Responses using Self-Separated Conditional Variational AutoEncoders**
+*Bin Sun, Shaoxiong Feng, Yiwei Li, Jiamou Liu and Kan Li*
+
+**A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition**
+*Fei Li, ZhiChao Lin, Meishan Zhang and Donghong Ji*
