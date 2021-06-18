@@ -682,3 +682,78 @@ Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding and Minlie Huang*
 
 **Unsupervised Out-of-Domain Detection via Pre-trained Transformers**
 *Keyang Xu, Tongzheng Ren, Shikun Zhang, Yihao Feng and Caiming Xiong*
+
+**Learning to Ask Conversational Questions by Optimizing Levenshtein Distance**
+*Zhongkun Liu, Pengjie Ren, Zhumin CHEN, Zhaochun Ren, Maarten De Rijke and Ming Zhou*
+
+**Multi-stage Pre-training over Simplified Multimodal Pre-training Models**
+*Tongtong Liu, Fangxiang Feng and Xiaojie WANG*
+
+**When Do You Need Billions of Words of Pretraining Data?**
+*Yian Zhang, Alex Warstadt, Xiaocheng Li and Samuel R. Bowman*
+
+**Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment**
+*Haoyue Shi, Luke Zettlemoyer and Sida I. Wang*
+
+**xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering**
+*Nan Yang, Furu Wei, Binxing Jiao, Daxing Jiang and Linjun Yang*
+
+**Importance-based Neuron Allocation for Multilingual Neural Machine Translation**
+*Wanying Xie, Yang Feng, Shuhao Gu and Dong Yu*
+
+**DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue**
+*Hung Le, Chinnadhurai Sankar, Seungwhan Moon, Ahmad Beirami, Alborz Geramifard and Satwik Kottur*
+
+**CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network**
+*Jiajia Tang, Kang Li, Xuanyu Jin, Andrzej Cichocki, Qibin Zhao and Wanzeng Kong*
+
+**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases**
+*Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
+
+**End-to-End AMR Corefencence Resolution**
+*Qiankun Fu, Linfeng Song, Wenyu Du and Yue Zhang*
+
+**Neural Machine Translation with Monolingual Translation Memory**
+*Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu*
+
+**Can Sequence-to-Sequence Models Crack Substitution Ciphers?**
+*Nada Aldarrab and Jonathan May*
+
+**From Discourse to Narrative: Knowledge Projection for Event Relation Extraction**
+*Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu*
+ 
+**EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets**
+*Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Zhangyang Wang and Jingjing Liu*
+
+**VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation**
+*Changhan Wang, Morgane Riviere, Ann Lee, Anne Wu, Chaitanya Talnikar, Daniel Haziza, Mary Williamson, Juan Pino and Emmanuel Dupoux*
+
+**Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation**
+*Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed Elsayed, Skatje Myers and Martha Palmer*
+
+**SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining**
+*Taolin Zhang, Zerui Cai, Chengyu Wang, Minghui Qiu, Bite Yang and XIAOFENG HE*
+
+**Structural Guidance for Transformer Language Models**
+*Peng Qian, Tahira Naseem, Roger Levy and Ramon Fernandez Astudillo*
+
+**COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic**
+*Arkadiy Saakyan, Tuhin Chakrabarty and Smaranda Muresan*
+
+**Robustness Testing of Language Understanding in Task-Oriented Dialog**
+*Jiexi Liu, Ryuichi Takanobu, Jiaxin Wen, Dazhen Wan, Hongguang Li, Weiran Nie, Cheng LI, Wei Peng and Minlie Huang*
+
+**TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance**
+*Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng and Tat-Seng Chua*
+
+**SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis**
+*Joshua Feinglass and Yezhou Yang
+
+**A Unified Generative Framework for Various NER Subtasks**
+Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
+
+**Societal Biases in Language Generation: Progress and Challenges**
+*Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng*
+
+**Weight Distillation: Transferring the Knowledge in Neural Network Parameters**
+*Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao and Jingbo Zhu*
