@@ -9,6 +9,9 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**June 15, 2021**. <b>Call for VOLUNTEER/SCHOLARSHIP PROGRAM [here](https://2021.aclweb.org/registration/volunteer/)</b>
+{: .notice--info}
+
 **June 10, 2021**. <b>An update on the ACL-IJCNLP 2021 registration are [here](https://2021.aclweb.org/blog/registration-blurb-for-website/)</b>
 {: .notice--info}
 
