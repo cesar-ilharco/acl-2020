@@ -14,7 +14,7 @@ main:
     url: /calls/papers
 
   - title: "Registration"
-    url: /blog/registration-blurb-for-website
+    url: /registration/page
   
   - title: "Tutorials"
     url: /tutorials/program
@@ -64,6 +64,14 @@ calls:
          url: https://2021.aclweb.org/blog/paper-submission-faqs/
        - title: "Call For System Demonstrations"
          url: /calls/demos/ 
+
+registration:
+   - title: Registration for
+     children:
+       - title: "VOLUNTEER/SCHOLARSHIP PROGRAM"
+         url: /registration/volunteers/	 
+       - title: "ACL-IJCNLP 2021 Registration"
+         url: /registration/page/
 
 tutorials:
    - title: Tutorial Details
