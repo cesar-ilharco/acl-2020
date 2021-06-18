@@ -235,3 +235,74 @@ toc_max_header: 4
 **Improving Zero-Shot Translation by Disentangling Positional Information**<br/>
 *Danni Liu, Jan Niehues, James Cross, Francisco Guzman and Xian Li*
 
+**Diversifying Dialog Generation via Adaptive Label Smoothing**<br/>
+*Yida Wang, Yinhe Zheng, Yong Jiang and Minlie Huang*
+
+**Supporting Cognitive and Emotional Empathic Writing of Students**<br/>
+*Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister*
+
+**Fast and Accurate Neural Machine Translation with Translation Memory**<br/>
+*Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu*
+
+**Syntax-Enhanced Pre-trained Model**<br/>
+*Zenan Xu, Daya Guo, Duyu Tang, Qinliang Su, Linjun Shou, Ming Gong, Wanjun Zhong, Xiaojun Quan, Daxin Jiang and Nan Duan*
+
+**Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**<br/>
+*Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue and Songlin Hu*
+
+**PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction**<br/>
+*Shulin Liu, Tao Yang, Tianchi Yue, Feng Zhang and Di Wang*
+
+**Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification**<br/>
+*Xuepeng Wang, Li Zhao, Bing Liu, Tao Chen, Feng Zhang and Di Wang*
+
+**Joint Verification and Reranking for Open Fact Checking Over Tables**<br/>
+*Michael Sejr Schlichtkrull, Vladimir Karpukhin, Barlas Oguz, Mike Lewis, Wen-tau Yih and Sebastian Riedel*
+
+**CoSQA: 20,000+ Web Queries for Code Search and Question Answering**<br/>
+*Junjie Huang, Duyu Tang, Linjun Shou, Ming Gong, Ke Xu, Daxin Jiang, Ming Zhou and Nan Duan*
+
+**BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data**<br/>
+*Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang and Ting Liu*
+
+**Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction**<br/>
+*Hanqi Yan, Lin Gui, Gabriele Pergola and Yulan He*
+
+**Evaluation of Thematic Coherence in Microblogs**<br/>
+*Iman Munire Bilal, Bo Wang, Maria Liakata, Rob Procter and Adam Tsakalidis*
+
+**Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech**<br/>
+*Margherita Fanton, Helena Bonaldi, Serra Sinem Tekirolu and Marco Guerini*
+ 
+**Factorising Meaning and Form for Intent-Preserving Paraphrasing**<br/>
+*Tom Hosking and Mirella Lapata*
+
+**EnsLM: Ensemble Language Model for Data Diversity by Semantic Clustering**<br/>
+*Zhibin Duan, Hao Zhang, Chaojie Wang, Zhengjue Wang, Bo Chen and Mingyuan Zhou*
+
+**LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification**<br/>
+*Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng and Yuguang Chen*
+
+**Coreference Reasoning in Machine Reading Comprehension**<br/>
+*Mingzhu Wu, Nafise Sadat Moosavi, Dan Roth and Iryna Gurevych*
+
+**Evidence-based Factual Error Correction**<br/>
+*James Thorne and Andreas Vlachos*
+
+**StructFormer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling**<br/>
+*Yikang Shen, Yi Tay, Che Zheng, Dara Bahri, Donald Metzler and Aaron Courville*
+
+**Convolutions and Self-Attention: Re-interpreting Relative Positions in Pre-trained Language Models**<br/>
+*Tyler Chang, Yifan Xu, Weijian Xu and Zhuowen Tu*
+
+**Learning Faithful Representations of Causal Graphs**<br/>
+*Ananth Balashankar and Lakshminarayanan Subramanian*
+
+**The Art of Abstention: Selective Prediction and Error Regularization for Natural Language Processing**<br/>
+*Ji Xin, Raphael Tang, Yaoliang Yu and Jimmy Lin*
+
+**Ruddit: Norms of Offensiveness for English Reddit Comments**<br/>
+*Rishav Hada, Sohi Sudhir, Pushkar Mishra, Helen Yannakoudakis, Saif M. Mohammad and Ekaterina Shutova*
+
+**Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data**<br/>
+*Paul Pu Liang, Terrance Liu, Anna Cai, Michal Muszynski, Ryo Ishii, Nick Allen, Randy Auerbach, David Brent, Ruslan Salakhutdinov and Louis-Philippe Morency*
