@@ -480,3 +480,37 @@ toc_max_header: 4
 
 **One2Set: Generating Diverse Keyphrases as a Set**
 *Jiacheng Ye, Tao Gui, Yichao Luo, Yige Xu and Qi Zhang*
+
+**Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking**
+*Jinyu Guo, Kai Shuang, Jijie Li and Zihan Wang*
+
+**Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval**
+*Zijing Ou, Qinliang Su, Jianxing Yu, Bang Liu, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng*
+
+**Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization**
+*Dongkyu Lee, Zhiliang Tian, Lanqing Xue and Nevin L. Zhang*
+
+
+**ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information**
+*Zijun Sun, Xiaoya Li, Xiaofei Sun, Yuxian Meng, Xiang Ao, Qing He, Fei Wu and Jiwei Li*
+
+**MLBiNet: A Cross-Sentence Collective Event Detection Network**
+*Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang and Huajun Chen*
+
+**Self-Attention Networks Can Process Bounded Hierarchical Languages**
+*Shunyu Yao, Binghui Peng, Christos Papadimitriou and Karthik Narasimhan*
+
+**Data Augmentation for Text Generation Without Any Augmented Data**
+*Wei Bi, Huayang Li and Jiacheng Huang*
+
+**Are Pretrained Convolutions Better than Pretrained Transformers?**
+*Yi Tay, Mostafa Dehghani, Jai Prakash Gupta, Vamsi Aribandi, Dara Bahri, Zhen Qin and Donald Metzler*
+
+**PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction**
+*Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Xu Ming and Yefeng Zheng*
+
+**ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation**
+*Vijit Malik, Rishabh Sanjay, Shubham Kumar Nigam, Kripabandhu Ghosh, Shouvik Kumar Guha, Arnab Bhattacharya and Ashutosh Modi*
+
+**Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning**
+*Bill Yuchen Lin, Seyeon Lee, Xiaoyang Qiao and Xiang Ren*
