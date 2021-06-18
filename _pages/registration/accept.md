@@ -72,3 +72,27 @@ toc_max_header: 4
 
 **Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models**<br/>
 *Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld*
+
+**KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference**<br/>
+*Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen and Yin Zhang*
+
+**Multi-Label Few-Shot Learning for Aspect Category Detection**<br/>
+*Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng and Zhong Su*
+
+**Word Sense Disambiguation: Towards Interactive Context Exploitation from Both Word and Sense Perspectives**<br/>
+*Ming Wang and Yinglin Wang*
+
+**Crafting Adversarial Examples for Neural Machine Translation**<br/>
+*Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He*
+
+**Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering**<br/>
+*Alexander Hanbo Li, Patrick Ng, Peng Xu, Henghui Zhu, Zhiguo Wang and Bing Xiang*
+
+**PhotoChat: A Human-Human Dialogue Dataset With Photo Sharing Behavior For Joint Image-Text Modeling**<br/>
+*Xiaoxue Zang, Lijuan Liu, Maria Wang, Yang Song, Hao Zhang and Jindong Chen*
+
+**Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?**<br/>
+*Puhai Yang, Heyan Huang and Xian-Ling Mao*
+
+**Control Image Captioning Spatially and Temporally**<br/>
+*Kun Yan, Lei Ji, Huaishao Luo, Ming Zhou, Nan Duan and Shuai Ma*
