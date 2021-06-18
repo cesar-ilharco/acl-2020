@@ -532,3 +532,78 @@ toc_max_header: 4
 
 **Probing Toxic Content in Large Pre-Trained Language Models**
 *Nedjma Ousidhoum, Xinran Zhao, Tianqing Fang, Yangqiu Song and Dit-Yan Yeung*
+
+**Align Voting Behavior with Public Statements for Legislator Representation Learning**
+*Xinyi Mou, Zhongyu Wei, Lei Chen, Shangyi Ning, Yancheng He, Changjian Jiang and Xuanjing Huang*
+
+**Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks**
+*Jinghui Qin, Xiaodan Liang, Yining Hong, Jianheng Tang and Liang Lin*
+
+**BanditMTL: Bandit-based Multi-task Learning for Text Classification**
+*Yuren Mao, Zekai Wang, Weiwei Liu, Xuemin Lin and Wenbin Hu*
+
+**Verb Metaphor Detection via Contextual Relation Learning**
+*Wei Song, Shuhui Zhou, Ruiji Fu, Ting Liu and Lizhen Liu*
+
+**Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence**
+Jian Guan, Xiaoxi Mao, Changjie Fan, Zitao Liu, Wenbiao Ding and Minlie Huang*
+
+**Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning**
+*Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
+
+**On Finding the K-best Non-projective Dependency Trees**
+*Ran Zmigrod, Tim Vieira and Ryan Cotterell*
+
+**Towards Robustness of Text-to-SQL Models against Synonym Substitution**
+*Yujian Gan, Xinyun Chen, Qiuping Huang, Matthew Purver, John R. Woodward, Jinxia Xie and Pengsheng Huang*
+
+**Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**
+*Tong Zhang, Long Zhang, Wei Ye, Bo Li, Jinan Sun, Xiaoyu Zhu, Wen Zhao and Shikun Zhang*
+
+**VECO: Variable and Flexible Cross-lingual Pre-training for Language Understanding and Generation**
+*Fuli Luo, Wei Wang, Jiahao Liu, Yijia Liu, Bin Bi, Songfang Huang, Fei Huang and Luo Si
+
+**ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer**
+*Yuanmeng Yan, Rumei Li, Sirui Wang, Fuzheng Zhang, Wei Wu and Weiran Xu*
+
+**Structurizing Misinformation Stories via Rationalizing Fact-Checks**
+*Shan Jiang and Christo Wilson*
+
+**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**
+*Linlin Chao, Jianshan He, Taifeng Wang and Wei Chu*
+
+**Positional Artefacts Propagate Through Masked Language Model Embeddings**
+*Ziyang Luo, Artur Kulmizev and Xiaoxi Mao*
+
+**Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy**
+*Marcos Garcia*
+
+**Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification**
+*Rami Aly, Andreas Vlachos and Ryan McDonald*
+
+**Learning from Perturbations: Diverse and Informative Dialogue Generation with Inverse Adversarial Training**
+*Wangchunshu Zhou, Qifei LI and Chenle Li*
+
+**Exploring Dynamic Selection of Branch Expansion Orders for Code Generation
+*Hui Jiang, Chulun Zhou, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu and Jinsong Su*
+ 
+**Learning Dense Representations of Phrases at Scale**
+*Jinhyuk Lee, Mujeen Sung, Jaewoo Kang and Danqi Chen*
+
+**Modeling Bilingual Conversational Characteristics for Neural Chat Translation**
+*Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu and Jie Zhou*
+
+**Revisiting the Negative Data of Distantly Supervised Relation Extraction**
+*Chenhao Xie, Jiaqing Liang, Jingping Liu, Chengsong Huang, Wenhao Huang and Yanghua Xiao*
+
+**Rational LAMOL: A Rationale-based Lifelong Learning Framework**
+*Kasidis Kanwatchara, Thanapapas Horsuwan, Piyawat Lertvittayakumjorn, Boonserm Kijsirikul and Peerapon Vateekul*
+
+**Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition**
+*Meihan Tong, Shuai Wang, Bin Xu, Yixin Cao, Minghui Liu, Lei Hou and Juanzi Li*
+
+**Knowing the No-match: Entity Alignment with Dangling Cases**
+*Zequn Sun, Muhao Chen and Wei Hu*
+
+**Including Signed Languages in Natural Language Processing**
+*Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg and Malihe Alikhani*
