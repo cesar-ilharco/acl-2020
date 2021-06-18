@@ -233,5 +233,5 @@ toc_max_header: 4
 *Zhiqi Huang, Lu Hou, Lifeng Shang, Xin Jiang, Xiao Chen and Qun Liu*
 
 **Improving Zero-Shot Translation by Disentangling Positional Information**<br/>
-*Danni Liu, Jan Niehues, James Cross, Francisco Guzmán and Xian Li*
+*Danni Liu, Jan Niehues, James Cross, Francisco Guzman and Xian Li*
 
