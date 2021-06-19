@@ -48,7 +48,6 @@ platinum:
     image_path: /assets/images/logos/baidu.png
     alt: "Baidu Logo"
     title: "Baidu"
-  - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.research.ibm.com/
     image_path: /assets/images/logos/ibm-logo.png
