@@ -11,7 +11,7 @@ toc_max_header: 4
 ---
 
 Registration
-Registration is now open!
+Registration is now open! **Please register [here](https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=37393&StepNumber=1&v=M2I1MDI5OWQtMDVmOS00MThiLTlmNzUtNzlkMGYxM2I3NWQx)**
 
 We were able to keep the registration fees similar to those charged for the virtual ACL 2020. The one fee allows attendance at the main conference and any/all tutorials and workshops. These fees would be $125 Regular Early and $175 Regular Late; $50 Student Early and $75 Student Late.  Early registration closes at midnight July 11, 2021 (Eastern Daylight Time).
 
