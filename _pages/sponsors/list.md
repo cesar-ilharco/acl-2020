@@ -44,6 +44,10 @@ platinum:
     image_path: /assets/images/logos/microsoft-logo.png
     alt: "Microsoft Logo"
     title: "Microsoft"
+  - url: https://megagon.ai
+    image_path: /assets/images/logos/megagon-logo.png
+    alt: "Megagon Logo"
+    title: "Megagon"
   - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.research.ibm.com/
