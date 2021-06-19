@@ -9,6 +9,9 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**June 18, 2021**. <b>Online Registration for ACL-IJCNLP 2021 are [here](www.yesevents.com/aclijcnlp)</b>
+{: .notice--info}
+
 **June 15, 2021**. <b>Call for VOLUNTEER/SCHOLARSHIP PROGRAM [here](https://2021.aclweb.org/registration/volunteer/)</b>
 {: .notice--info}
 
