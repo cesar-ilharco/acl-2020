@@ -1178,7 +1178,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Rita Sevastjanova, Aikaterini-Lida Kalouli, Christin Beck, Hanna Schafer and Mennatallah El-Assady*
  
 **Evaluating morphological typology in zero-shot cross-lingual transfer**<br/>
-*Antonio Martinez-García, Toni Badia and Jeremy Barnes*
+*Antonio Martinez-Garcia, Toni Badia and Jeremy Barnes*
  
 **Improving Dialog Systems for Negotiation with Personality Modeling**<br/>
 *Runzhe Yang, Jingxiao Chen and Karthik Narasimhan*
