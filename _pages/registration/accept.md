@@ -1171,14 +1171,3 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Chase: A Large-Scale and Pragmatic Chinese Dataset for Cross-Database Context-Dependent Text-to-SQL**<br/>
 *Jiaqi Guo, Ziliang Si, Yu Wang, Qian Liu, Ming Fan, Jian-Guang LOU, Zijiang Yang and Ting Liu*
  
-**Bad Seeds: Evaluating Lexical Methods for Bias Measurement**<br/>
-*Maria Antoniak and David Mimno*
- 
-**Explaining Contextualization in Language Models using Visual Analytics**<br/>
-*Rita Sevastjanova, Aikaterini-Lida Kalouli, Christin Beck, Hanna Schafer and Mennatallah El-Assady*
- 
-**Evaluating morphological typology in zero-shot cross-lingual transfer**<br/>
-*Antonio Martinez-García, Toni Badia and Jeremy Barnes*
- 
-**Improving Dialog Systems for Negotiation with Personality Modeling**<br/>
-*Runzhe Yang, Jingxiao Chen and Karthik Narasimhan*
