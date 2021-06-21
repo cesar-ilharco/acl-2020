@@ -1282,4 +1282,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models**<br/>
 *Matthew Finlayson, Aaron Mueller, Sebastian Gehrmann, Stuart Shieber, Tal Linzen and Yonatan Belinkov*
 
+**To POS Tag or Not to POS Tag: The Impact of POS Tags on Morphological Learning in Low-Resource Settings**<br/>
+*Sarah Moeller, Ling Liu and Mans Hulden*
 
+**Edited Media Understanding Frames: Reasoning About the Intent and Implications of Visual Misinformation**<br/>
+*Jeff Da, Maxwell Forbes, Rowan Zellers, Anthony Zheng, Jena D. Hwang, Antoine Bosselut and Yejin Choi*
+ 
+**Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features**<br/>
+*Hannah Rashkin, David Reitter, Gaurav Singh Tomar and Dipanjan Das*
+
+**Beyond Noise: Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation**<br/>
+*Eleftheria Briakou and Marine Carpuat*
+ 
+**Continuous Language Generative Flow**<br/>
+*Zineng Tang, Shiyue Zhang, Hyounghun Kim and Mohit Bansal*
+ 
+**Recursive Tree-Structured Self-Attention for Answer Sentence Selection**<br/>
+*Khalil Mrini, Emilia Farcas and Ndapa Nakashole*
+ 
+**AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding**<br/>
+*Jun Yan, Nasser Zalmout, Yan Liang, Christan Grant, Xiang Ren and Xin Luna Dong*
+ 
+**Better than Average: Paired Evaluation of NLP systems**<br/>
+*Maxime Peyrard, Wei Zhao, Steffen Eger and Robert West*
+ 
+**Modeling Fine-Grained Entity Types with Box Embeddings**<br/>
+*Yasumasa Onoe, Michael Boratko, Andrew McCallum and Greg Durrett*
+ 
+**Value-Agnostic Conversational Semantic Parsing**<br/>
+*Emmanouil Antonios Platanios, Adam Pauls, Subhro Roy, Yuchen Zhang, Alexander Kyte, Alan Guo, Sam Thomson, Jayant Krishnamurthy, Jason Wolfe, Jacob Andreas and Dan Klein*
+
+**CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction**<br/>
+*Zhengbao Jiang, Jialong Han, BUNYAMIN SISMAN and Xin Luna Dong*
+ 
+**Syntopical Graphs for Computational Argumentation Tasks**<br/>
+*Joe Barrow, Rajiv Jain, Nedim Lipka, Franck Dernoncourt, Vlad Morariu, Varun Manjunatha, Douglas Oard, Philip Resnik and Henning Wachsmuth*
+
+**Anonymisation Models for Text Data: State of the art, Challenges and Future Directions**<br/>
+*Pierre Lison, Ildiko Pilan, David Sanchez, Montserrat Batet and Lilja Ovrelid*
+ 
+**Selecting Informative Contexts Improves Language Model Fine-tuning**<br/>
+*Richard Antonello, Nicole Beckage, Javier Turek and Alexander Huth*
+ 
+**BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies?**<br/>
+*Asahi Ushio, Luis Espinosa Anke, Steven Schockaert and Jose Camacho-Collados*
+ 
+**Measure and Evaluation of Semantic Divergence across Two Languages**<br/>
+*Syrielle Montariol and Alexandre Allauzen*
+
+**Discriminative Reranking for Neural Machine Translation**<br/>
+*Ann Lee, Michael Auli and Marc'Aurelio Ranzato*
+ 
+**Probabilistic, Structure-Aware Algorithms for Improved Variety, Accuracy, and Coverage of AMR Alignments**<br/>
+*Austin Blodgett and Nathan Schneider*
+ 
+**Meta-Learning to Compositionally Generalize**<br/>
+*Henry Conklin, Bailin Wang, Kenny Smith and Ivan Titov*
+ 
+**Handling Extreme Class Imbalance in Technical Logbook Datasets**<br/>
+*Farhad Akhbardeh, Cecilia Ovesdotter Alm, Marcos Zampieri and Travis Desell*
+ 
+**W-RST: Towards a Weighted RST-style Discourse Framework**<br/>
+*Patrick Huber, Wen Xiao and Giuseppe Carenini*
+ 
+**Examining the Inductive Bias of Neural Language Models with Artificial Languages**<br/>
+*Jennifer C. White and Ryan Cotterell*
+ 
+**Factoring Statutory Reasoning as Language Understanding Challenges**<br/>
+*Nils Holzenberger and Benjamin Van Durme*
+ 
+**CitationIE: Leveraging the Citation Graph for Scientific Information Extraction**<br/>
+*Vijay Viswanathan, Graham Neubig and Pengfei Liu*
+ 
+**Changing the World by Changing the Data**<br/>
+*Anna Rogers*
+ 
