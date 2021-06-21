@@ -832,3 +832,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation**
 *Tao Qi, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie and Yongfeng Huang*
 
+**Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction**
+*Kaiwen Wei, Xian Sun, Zequn Zhang, Jingyuan Zhang, Guo Zhi and Li Jin*
+
+**Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children’s mindreading ability**
+*Venelin Kovatchev, Phillip Smith, Mark Lee and Rory Devine*
+
+**Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning**
+*Shuoran Jiang, Qingcai Chen, Xin Liu, Baotian Hu and Lisai Zhang*
+
+**Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances**
+*Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng and Jie Zhou*
+
+**Determinantal Beam Search**
+*Clara Meister, Martina Forster and Ryan Cotterell*
+
+**Language Model Evaluation Beyond Perplexity**
+*Clara Meister and Ryan Cotterell*
+
+**Self-Guided Contrastive Learning for BERT Sentence Representations**
+*Taeuk Kim, Kang Min Yoo and Sang-goo Lee*
+
+**A Dataset and Baselines for Multilingual Reply Suggestion**
+*Mozhi Zhang, Wei Wang, Budhaditya Deb, Guoqing Zheng, Milad Shokouhi and Ahmed Hassan Awadallah*
+
+**Element Intervention for Open Relation Extraction**
+*Fangchao Liu, Lingyong Yan, Hongyu Lin, Xianpei Han and Le Sun*
+
+**BERTGen: Multi-task Generation through BERT**
+*Faidon Mitzalis, Ozan Caglayan, Pranava Madhyastha and Lucia Specia*
+
+**Semantic Representation for Dialogue Modeling**
+*Xuefeng Bai, Yulong Chen, Linfeng Song and Yue Zhang*
+
+**Selective Knowledge Distillation for Neural Machine Translation**
+*Fusheng Wang, Jianhao Yan, Fandong Meng and Jie Zhou*
+
+**Lexical Semantic Change Discovery**
+*Sinan Kurtyigit, Maike Park, Dominik Schlechtweg, Jonas Kuhn and Sabine Schulte Im Walde*
+
+**Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction**
+*Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao and Shaoyi Chen*
+
+**Mid-Air Hand Gestures for Post-Editing of Machine Translation**
+*Rashad Albo Jamara, Nico Herbig, Antonio Krüger and Josef Van Genabith*
+
+**Good for Misconceived Reasons: An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation**
+*Zhiyong Wu, Lingpeng Kong, Wei Bi, Xiang Li and Ben Kao*
+
+**Pre-training Universal Language Representation**
+*Yian Li and Hai Zhao*
+
+**De-Confounded Variational Encoder-Decoder for Logical Table-to-Text Generation**
+*Wenqing Chen, Jidong Tian, Yitian Li, Hao He and Yaohui Jin*
+
+**Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection**
+*Bertie Vidgen, Tristan Thrush, Zeerak Waseem and Douwe Kiela*
+
+**Towards User-Driven Neural Machine Translation**
+*Huan Lin, Liang Yao, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su*
+
+**Explaining Relationships Between Scientific Documents**
+*Kelvin Luu, Xinyi Wu, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola and Noah A. Smith*
+
+**XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation**
+*Dongqin Xu, Junhui Li, Muhua Zhu, Min Zhang and Guodong Zhou*
+
+**Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference**
+*Ziye Chen, Cheng Ding, Zusheng Zhang, Yanghui Rao and Haoran Xie*
+
+**CLEVE: Contrastive Pre-training for Event Extraction**
+*Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li and Jie Zhou*
+
+**TWAG: A Topic-Guided Wikipedia Abstract Generator**
+*Fangwei Zhu, Shangqing Tu, Jiaxin Shi, Juanzi Li, Lei Hou and Tong Cui*
+
