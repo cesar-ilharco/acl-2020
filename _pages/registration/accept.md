@@ -1581,3 +1581,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering**<br/>
 *Yunshi Lan and Jing Jiang*
+
+**Vocabulary Learning via Optimal Transport for Neural Machine Translation**<br/>
+*Jingjing Xu, Hao Zhou, Chun Gan, Zaixiang Zheng and Lei Li*
+
+**A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding**<br/>
+*Khalil Mrini, Franck Dernoncourt, Seunghyun Yoon, Trung Bui, Walter Chang, Emilia Farcas and Ndapa Nakashole*
+
+**Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques**<br/>
+*Kundan Krishna, Sopan Khosla, Jeffrey Bigham and Zachary C. Lipton*
+ 
+**Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**<br/>
+*Hongjie Cai, Rui Xia and Jianfei Yu*
+
+**DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts**<br/>
+*Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith and Yejin Choi*
+
+**Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification**<br/>
+*Jiasheng Si, Deyu Zhou, Tongzhe Li, Xingyu Shi and Yulan He*
+
+**Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger**<br/>
+*Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang and Maosong Sun*
+
+**Multimodal Multi-Speaker Merger &amp; Acquisition Financial Modeling: A New Task, Dataset, and Neural Baselines**<br/>
+*Ramit Sawhney, Mihir Goyal, Prakhar Goel, Puneet Mathur and Rajiv Ratn Shah*
+
+**Exploring Discourse Structures for Argument Impact Classification**<br/>
+*Xin Liu, Jiefu Ou, Yangqiu Song and Xin Jiang*
+
+**Evaluating Entity Disambiguation and the Role of Popularity in Retrieval-Based NLP**<br/>
+*Anthony Chen, Pallavi Gudipati, Shayne Longpre, Xiao Ling and Sameer Singh*
+ 
+**QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus**<br/>
+*Hamdy Mubarak, Amir Hussein, Shammur Absar Chowdhury and Ahmed Ali*
+
+**LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations**<br/>
+*Ruisheng Cao, Lu Chen, Zhi Chen, Yanbin Zhao, Su Zhu and Kai Yu*
+
+**Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering**<br/>
+*Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei and Christopher Manning*
+
+**ARBERT &amp; MARBERT: Deep Bidirectional Transformers for Arabic**<br/>
+*Muhammad Abdul-Mageed, AbdelRahim Elmadany and El Moatez Billah Nagoudi*
+
+**Glancing Transformer for Non-Autoregressive Neural Machine Translation**<br/>
+*Lihua Qian, Hao Zhou, Yu Bao, Mingxuan Wang, Lin Qiu, Weinan Zhang, Yong Yu and Lei Li*
+
+**Alignment Rationale for Natural Language Inference**<br/>
+*Zhongtao Jiang, Yuanzhe Zhang, Zhao Yang, Jun Zhao and Kang Liu*
+
+**Learning Event Graph Knowledge for Abductive Reasoning**<br/>
+*Li Du, Xiao Ding, Ting Liu and Bing Qin*
+
+**Towards Table-to-Text Generation with Numerical Reasoning**<br/>
+*Lya Hulliyyatus Suadaa, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura and Hiroya Takamura*
+
+**Check It Again: Progressive Visual Question Answering via Visual Entailment**<br/>
+*Qingyi Si, Zheng Lin, Ming Yu Zheng, Peng Fu and Weiping Wang*
+
+**Assessing the Representations of Idiomaticity in Vector Models with a Noun Compound Dataset Labeled at Type and Token Levels**<br/>
+*Marcos Garcia, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart and Aline Villavicencio*
+
+**Document-level Event Extraction via Parallel Prediction Networks**<br/>
+*Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao and Taifeng Wang*
+
+**More Identifiable yet Equally Performant Transformers for Text Classification**<br/>
+*Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria and Eduard Hovy*
+
+**Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation**<br/>
+*Yang Feng, Shuhao Gu, Dengji Guo, Zhengxin Yang and Chenze Shao*
+ 
+**StructuralLM: Structural Pre-training for Form Understanding**<br/>
+*Chenliang Li, Bin Bi, Ming Yan, Wei Wang, Songfang Huang, Fei Huang and Luo Si*
+
+**A Mutual Information Maximization Approach for the Spurious Solution Problem in Weakly Supervised Question Answering**<br/>
+*Zhihong Shao, Lifeng Shang, Qun Liu and Minlie Huang*
