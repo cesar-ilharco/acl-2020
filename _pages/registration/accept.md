@@ -935,7 +935,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Chen Gong, Saihao Huang, Houquan Zhou, Zhenghua Li, Min Zhang, Zhefeng Wang, Baoxing Huai and Nicholas Jing Yuan*
 
 **Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation**
-*Mathias Müller and Rico Sennrich*
+*Mathias Muller and Rico Sennrich*
 
 **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization**
 *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin and Ting Liu*
