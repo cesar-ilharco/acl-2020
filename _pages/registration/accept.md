@@ -1056,3 +1056,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **UXLA: A Robust Unsupervised Data Augmentation Framework for Cross-Lingual NLP**
 *M Saiful Bari, Tasnim Mohiuddin and Shafiq Joty*
+
+**Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer**<br/>
+*Fabian Galetzka, Jewgeni Rose, David Schlangen and Jens Lehmann*
+
+**Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models**<br/>
+*Sandipan Sikdar, Parantapa Bhattacharya and Kieran Heese*
+
+**Engage the Public: Poll Question Generation for Social Media Posts**<br/>
+*Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu*
+
+**Generating Query Focused Summaries from Query-Free Resources**<br/>
+*Yumo Xu and Mirella Lapata*
+
+**Hate Speech Detection Based on Sentiment Knowledge Sharing**<br/>
+*Xianbing Zhou, Yang Yong, Xiaochao Fan, Ge Ren, Yunfeng Song, Yufeng Diao, Liang Yang and Hongfei LIN*
+
+**UniRE: A Unified Label Space for Entity Relation Extraction**<br/>
+*Yijun Wang, Changzhi Sun, Yuanbin Wu, Hao Zhou, Lei Li and Junchi Yan*
+
+**Question Answering Over Temporal Knowledge Graphs**<br/>
+*Apoorv Saxena, Soumen Chakrabarti and Partha Talukdar*
+
+**MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**<br/>
+*Jingwen Hu, Yuchen Liu, Jinming Zhao and Qin Jin*
+
+**Introducing Orthogonal Constraint in Structural Probes**<br/>
+*Tomasz Limisiewicz and David Mareek*
+
+**PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context**<br/>
+*Xinyun Chen, Linyuan Gong, Alvin Cheung and Dawn Song*
+
+**Can Generative Pre-trained Language Models Serve As Knowledge Bases for Closed-book QA?**<br/>
+*Cunxiang Wang, Pai Liu and Yue Zhang*
+
+**Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**<br/>
+*Peru Bhardwaj, John Kelleher, Luca Costabello and Declan O'Sullivan*
+
+**On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation**<br/>
+*Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, BOSHENG DING, Liying Cheng, Jiawei Low, Lidong Bing and Luo Si*
+
+**Multi-View Cross-Lingual Structured Prediction with Minimum Supervision**<br/>
+*Zechuan Hu, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
+
+**Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis**<br/>
+*Linyi Yang, Jiazheng Li, Padraig Cunningham, Yue Zhang, Barry Smyth and Ruihai Dong*
+
+**Detecting Propaganda Techniques in Memes**<br/>
+*Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov and Giovanni Da San Martino*
+
+**Adapting Unsupervised Syntactic Parsing Methodology for Discourse Dependency Parsing**<br/>
+*Liwen Zhang, Ge Wang, Wenjuan Han and Kewei Tu*
+
+**A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters**<br/>
+*Mengjie Zhao, Yi Zhu, Ehsan Shareghi, Ivan Vuli, Roi Reichart, Anna Korhonen and Hinrich Schutze*
+
+**Towards Argument Mining for Social Good: A Survey**<br/>
+*Eva Maria Vecchi, Neele Falk, Iman Jundi and Gabriella Lapesa*
+
+**What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?**<br/>
+*Nikita Nangia, Saku Sugawara, Harsh Trivedi, Alex Warstadt, Clara Vania and Samuel R. Bowman*
+
+**Cross-language Sentence Selection via Data Augmentation and Rationale Training**<br/>
+*Yanda Chen, Chris Kedzie, Suraj Nair, Petra Galuscakova, Rui Zhang, Douglas Oard and Kathleen McKeown*
+
+**RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models**<br/>
+*Soumya Barikeri, Anne Lauscher, Ivan Vuli and Goran Glavas*
+
+**Transferable Dialogue Systems and User Simulators**<br/>
+*Bo-Hsiang Tseng, Yinpei Dai, Florian Kreyssig and Bill Byrne*
+
+**PASS: Perturb-and-Select Summarizer for Product Reviews**<br/>
+*Nadav Oved and Ran Levy*
+
+**Comparing Test Sets with Item Response Theory**<br/>
+*Clara Vania, Phu Mon Htut, William Huang, Dhara Mungra, Richard Yuanzhe Pang, Jason Phang, Haokun Liu, Kyunghyun Cho and Samuel R. Bowman*
