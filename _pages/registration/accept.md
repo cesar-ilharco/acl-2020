@@ -981,3 +981,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Focus Attention: Promoting Faithfulness and Diversity in Summarization**
 *Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe and Ryan McDonald*
+
+**De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention**
+*Wenkai Zhang, Hongyu Lin, Xianpei Han and Le Sun*
+
+**Beyond Sentence-Level End-to-End Speech Translation: Context Helps**
+*Biao Zhang, Ivan Titov, Barry Haddow and Rico Sennrich*
+
+**Every Bite Is an Experience: Key Point Analysis of Business Reviews**
+*Roy Bar-Haim, Lilach Eden, Yoav Kantor, Roni Friedman and Noam Slonim*
+
+**POS-Constrained Parallel Decoding for Non-autoregressive Generation**
+*Kexin Yang, Wenqiang Lei, Dayiheng Liu, Weizhen Qi and Jiancheng Lv*
+
+**Structural Pre-training for Dialogue Comprehension**
+*Zhuosheng Zhang and Hai Zhao*
+
+**Learning Language Specific Sub-network for Multilingual Machine Translation**
+*Zehui Lin, Liwei Wu, Mingxuan Wang and Lei Li*
+
+**AutoTinyBERT: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models**
+*Yichun Yin, Cheng Chen, Lifeng Shang, Xin Jiang, Xiao Chen and Qun Liu*
+
+**PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity**
+*Tao Qi, Fangzhao Wu, Chuhan Wu and Yongfeng Huang*
+
+**Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model**
+*Hongliang Dai, Yangqiu Song and Haixun Wang*
+
+**Investigating label suggestions for opinion mining in German Covid-19 social media**
+*Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring and Iryna Gurevych*
+
+**Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation**
+*Xin Liu, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang and Jinsong Su*
+
+**How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements**
+*Chen Shani, Nadav Borenstein and Dafna Shahaf*
+
+**Deep Differential Amplifier for Extractive Summarization**
+*Ruipeng Jia, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang*
+
+**AggGen: Ordering and Aggregating while Generating**
+*Xinnuo Xu, Ondej Dusek, Verena Rieser and Ioannis Konstas*
+
+**Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter**
+*Wei Liu, Xiyan Fu, Yue Zhang and Wenming Xiao*
+
+**Multi-perspective Coherent Reasoning for Helpfulness Prediction of Multimodal Reviews**
+*Junhao Liu, Zhen Hai, Min Yang and Lidong Bing*
+
+**AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation**
+*Xinnuo Xu, Guoyin Wang, Young-Bum Kim and Sungjin Lee*
+
+**Metaphor Generation with Conceptual Mappings**
+*Kevin Stowe, Tuhin Chakrabarty, Nanyun Peng, Smaranda Muresan and Iryna Gurevych*
+
+**Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering**
+*Ahjeong Seo, Gi-Cheon Kang, Joonhan Park and Byoung-Tak Zhang*
+
+**Learning Syntactic Dense Embedding with Correlation Graph for Automatic Readability Assessment**
+*Xinying Qiu, Yuan Chen, Hanwu Chen, Jian-Yun Nie, Yuming Shen and Dawei Lu*
+
+**Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**
+*Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu and Maosong Sun*
+
+**NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation**
+*Sungdong Kim, Minsuk Chang and Sang-Woo Lee*
+
+**A Unified Generative Framework for Aspect-based Sentiment Analysis**
+*Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu and Zheng Zhang*
+
+**Hierarchy-aware Label Semantics Matching Network for Hierarchical Text Classification**
+*Haibin Chen, Qianli Ma, Zhenxi Lin and Jiangyue Yan*
+
+**UXLA: A Robust Unsupervised Data Augmentation Framework for Cross-Lingual NLP**
+*M Saiful Bari, Tasnim Mohiuddin and Shafiq Joty*
