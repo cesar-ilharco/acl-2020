@@ -757,4 +757,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Weight Distillation: Transferring the Knowledge in Neural Network Parameters**<br/>
 *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao and Jingbo Zhu*
 
-<< More >>
+ **UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning**
+*Wei Li, Can Gao, Guocheng Niu, Xinyan Xiao, Hao Liu, Jiachen Liu, Hua Wu and Haifeng Wang*
+
+**What is Your Article Based On? Inferring Fine-grained Provenance**
+*Yi Zhang, Zachary Ives and Dan Roth*
+
+**MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition**
+*Shuang Wu, Xiaoning Song and Zhenhua Feng*
+
+**VisualSparta: An Embarrassingly Simple Approach to Large-scale Text-to-Image Search with Weighted Bag-of-words**
+*Xiaopeng Lu, Tiancheng Zhao and Kyusong Lee*
+
+**Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion**
+*Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen and Hanwang Zhang*
+
+**Unleash GPT-2 Power for Event Detection**
+*Amir Pouran Ben Veyseh, Viet Lai, Franck Dernoncourt and Thien Huu Nguyen*
+
+**G-Transformer for Document-Level Machine Translation**
+*Guangsheng Bao, Yue Zhang, Zhiyang Teng, Boxing Chen and Weihua Luo*
+
+**Prevent the Language Model from being Overconfident in Neural Machine Translation**
+*Mengqi Miao, Fandong Meng, Yijin Liu, Xiao-Hua Zhou and Jie Zhou*
+
+**Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders**
+*Chen Xu, Bojie Hu, Yanyang Li, Yuhao Zhang, Shen Huang, Qi Ju, Tong Xiao and Jingbo Zhu*
+
+**Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models**
+*Sumanta Bhattacharyya, Amirmohammad Rooshenas, Subhajit Naskar, Simeng Sun, Mohit Iyyer and Andrew McCallum*
+
+**PENS: A Dataset and Generic Framework for Personalized News Headline Generation**
+*Xiang Ao, Xiting Wang, Ling Luo, Ying Qiao, Qing He and Xing Xie*
+
+**Cross-modal Memory Networks for Radiology Report Generation**
+*Zhihong Chen, Yaling Shen, Yan Song and Xiang Wan*
+
+**On Compositional Generalization of Neural Machine Translation**
+*Yafu Li, Yongjing Yin, Yulong Chen and Yue Zhang*
+
+**A Novel Estimator of Mutual Information for Learning to Disentangle Textual Representations**
+*Pierre Colombo, Pablo Piantanida and Chloe Clavel*
+
+**Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks**
+*Xiaocui Yang, Shi Feng, Yifei Zhang and Daling Wang*
+
+**Document-Level Event Argument Extraction via Optimal Transport**
+*Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen*
+
+**MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding**
+*Jia-Chen Gu, Chongyang Tao, Zhenhua Ling, Can Xu, Xiubo Geng and Daxin Jiang*
+
+**Mask-Align: Self-Supervised Neural Word Alignment**
+*Chi Chen, Maosong Sun and Yang Liu*
+
+**Reasoning over Entity-Action-Location Graph for Procedural Text Understanding**
+*Hao Huang, Xiubo Geng, Jian Pei, Guodong Long and Daxin Jiang*
+
+**From Paraphrasing to Semantic Parsing: Unsupervised Semantic Parsing via Synchronous Semantic Decoding**
+*Shan Wu, Bo Chen, Chunlei Xin, Xianpei Han, Le Sun, Weipeng Zhang, Jiansong Chen, Fan Yang and Xunliang Cai*
+
+**GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation**
+*Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi*
+
+**CogAlign: Learning to Align Textual Neural Representations to Cognitive Language Processing Signals**
+*Yuqi Ren and Deyi Xiong*
+
+**Distributed Representations of Emotion Categories in Emotion Space**
+*Xiangyu Wang and Chengqing Zong*
+
+**Transfer Learning for Sequence Generation: from Single-source to Multi-source**
+*Xuancheng Huang, Jingfang Xu, Maosong Sun and Yang Liu*
+
+**HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation**
+*Tao Qi, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie and Yongfeng Huang*
+
