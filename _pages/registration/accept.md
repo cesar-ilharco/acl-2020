@@ -1162,3 +1162,23 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation**<br/>
 *Yuanxin LIU, Fandong Meng, Zheng Lin, Weiping Wang and Jie Zhou*
  
+**Measuring and Increasing Context Usage in Context-Aware Machine Translation**<br/>
+*Patrick Fernandes, Kayo Yin, Graham Neubig and Andre F. T. Martins*
+ 
+**Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort**<br/>
+*Vania Mendonca, Ricardo Rei, Luisa Coheur, Alberto Sardinha and Ana Lucia Santos*
+ 
+**Chase: A Large-Scale and Pragmatic Chinese Dataset for Cross-Database Context-Dependent Text-to-SQL**<br/>
+*Jiaqi Guo, Ziliang Si, Yu Wang, Qian Liu, Ming Fan, Jian-Guang LOU, Zijiang Yang and Ting Liu*
+ 
+**Bad Seeds: Evaluating Lexical Methods for Bias Measurement**<br/>
+*Maria Antoniak and David Mimno*
+ 
+**Explaining Contextualization in Language Models using Visual Analytics**<br/>
+*Rita Sevastjanova, Aikaterini-Lida Kalouli, Christin Beck, Hanna Schafer and Mennatallah El-Assady*
+ 
+**Evaluating morphological typology in zero-shot cross-lingual transfer**<br/>
+*Antonio Martínez-García, Toni Badia and Jeremy Barnes*
+ 
+**Improving Dialog Systems for Negotiation with Personality Modeling**<br/>
+*Runzhe Yang, Jingxiao Chen and Karthik Narasimhan*
