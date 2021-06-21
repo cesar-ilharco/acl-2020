@@ -1506,3 +1506,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation**<br/>
 *Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao and Zhaopeng Tu*
+
+**All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text**<br/>
+*Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan and Noah A. Smith*
+
+**ReadOnce Transformers: Reusable Representations of Text for Transformers**<br/>
+*Shih-Ting Lin, Ashish Sabharwal and Tushar Khot*
+
+**Automatic ICD Coding via Interactive Shared Representation Networks with Self-distillation Mechanism**<br/>
+*Tong Zhou, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Kun Niu, Weifeng Chong and Shengping Liu*
+
+**E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning**<br/>
+*Haiyang Xu, Ming Yan, Chenliang Li, Bin Bi, Songfang Huang, Wenming Xiao and Fei Huang*
+
+**DynaEval: Unifying Turn and Dialogue Level Evaluation**<br/>
+*Chen Zhang, Yiming Chen, Luis Fernando D'Haro, Yan Zhang, Thomas Friedrichs, Grandee Lee and Haizhou Li*
+
+**Stance Detection in COVID-19 Tweets**<br/>
+*Kyle Glandt, Sarthak Khanal, Yingjie Li, Doina Caragea and Cornelia Caragea*
+
+**Bootstrapped Unsupervised Sentence Representation Learning**<br/>
+*Yan Zhang, Ruidan He, ZUOZHU LIU, Lidong Bing and Haizhou Li*
+
+**Neural Bi-Lexicalized PCFG Induction**<br/>
+*Songlin Yang, Yanpeng Zhao and Kewei Tu*
+
+**Surprisal Estimators for Human Reading Times Need Character Models**<br/>
+*Byung-Doh Oh, Christian Clark and William Schuler*
+
+**Weakly Supervised Named Entity Tagging with Learnable Logical Rules**<br/>
+*Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley and Zhe Feng*
+
+**Intrinsic Bias Metrics Do Not Correlate with Application Bias**<br/>
+*Seraphina Goldfarb-Tarrant, Rebecca Marchant, Ricardo Munoz Sanchez, Mugdha Pandya and Adam Lopez*
+
+**A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow**<br/>
+*Bidisha Samanta, Mohit Agrawal and NIloy Ganguly*
+
+**DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation**<br/>
+*Xinyu Hua, Ashwin Sreevatsa and Lu Wang*
+ 
+**Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers**<br/>
+*Benjamin Marie, Atsushi Fujita and Raphael Rubino*
+
+**SpanNER: Named Entity Re-/Recognition as Span Prediction**<br/>
+*Jinlan Fu, Xuanjing Huang and Pengfei Liu*
+
+**Self-Supervised Multimodal Opinion Summarization**<br/>
+*Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho and Sehee Chung*
+
+**Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering**<br/>
+*Najoung Kim, Ellie Pavlick, Burcu Karagol Ayan and Deepak Ramachandran*
+
+**How to Adapt Your Pretrained Multilingual Model to 1600 Languages**<br/>
+*Abteen Ebrahimi and Katharina Kann*
+
+**A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy**<br/>
+*Wang Chen, Piji Li and Irwin King*
+
+**PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World**<br/>
+*Rowan Zellers, Ari Holtzman, Matthew Peters, Roozbeh Mottaghi, Aniruddha Kembhavi, Ali Farhadi and Yejin Choi*
+
+**LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking**<br/>
+*Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, Yunyao Li and Alexander Gray*
+
+**Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction**<br/>
+*Li Cui, Deqing Yang, Jiaxin Yu, Chengwei Hu, Jiayang Cheng, Jingjie Yi and Yanghua Xiao*
+
+**Controllable Open-ended Question Generation with A New Question Type Ontology**<br/>
+*Shuyang Cao and Lu Wang*
+
+**Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions**<br/>
+*Dorottya Demszky, Jing Liu, Zid Mancenido, Julie Cohen, Heather Hill, Dan Jurafsky and Tatsunori Hashimoto*
+
+**Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering**<br/>
+*Yunshi Lan and Jing Jiang*
