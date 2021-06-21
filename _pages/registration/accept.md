@@ -1356,4 +1356,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
  
 **Changing the World by Changing the Data**<br/>
 *Anna Rogers*
+
+**Cross-replication Reliability - An Empirical Approach to Interpreting Inter-rater Reliability**<br/>
+*Ka Wong, Praveen Paritosh and Lora Aroyo*
+
+**Select, Extract and Generate: Neural Keyphrase Generation with Layer-wise Coverage Attention**<br/>
+*Wasi Ahmad, Xiao Bai, Soomin Lee and Kai-Wei Chang*
+
+**Automated Generation of Storytelling Vocabulary from Photographs for use in AAC**<br/>
+*Mauricio Fontana De Vargas and Karyn Moffatt*
+
+**DESCGEN: A Distantly Supervised Datasetfor Generating Entity Descriptions**<br/>
+*Weijia Shi, Mandar Joshi and Luke Zettlemoyer*
+
+**An Empirical Study on Hyperparameter Optimization for Fine-Tuning Pre-trained Language Models**<br/>
+*Xueqing Liu and Chi Wang*
+
+**Keep It Simple: Unsupervised Simplification of Multi-Paragraph Text**<br/>
+*Philippe Laban, Tobias Schnabel, Paul Bennett and Marti A. Hearst*
+
+**Exploiting Document Structures and Cluster Consistencies for Event Coreference Resolution**<br/>
+*Hieu Minh Tran, Duy Phung and Thien Huu Nguyen*
  
+**A Targeted Assessment of Incremental Processing in Neural Language Models and Humans**<br/>
+*Ethan Wilcox, Pranali Vani and Roger Levy*
+
+**Data Augmentation with Adversarial Training for Cross-Lingual NLI**<br/>
+*Xin Dong, Yaxin Zhu, Zuohui Fu, Dongkuan Xu and Gerard De Melo*
+ 
+**Factuality Assessment as Modal Dependency Parsing**<br/>
+*Jiarui Yao, Haoling Qiu, Jin Zhao, Bonan Min and Nianwen Xue*
+
+**Accelerating Text Communication via Abbreviated Sentence Input**<br/>
+*Jiban Adhikary, Jamie Berger and Keith Vertanen*
+
+**End-to-End Lexically Constrained Machine Translation for Morphologically Rich Languages**<br/>
+*Josef Jon, Joao Paulo Aires, Dusan Varis and Ondej Bojar*
+
+**Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets**<br/>
+*Su Lin Blodgett, Gilsinia Lopez, Alexandra Olteanu, Robert Sim and Hanna Wallach*
+
+**Syntax-augmented Multilingual BERT for Cross-lingual Transfer**<br/>
+*Wasi Ahmad, Haoran Li, Kai-Wei Chang and Yashar Mehdad*
+
+**Language Embeddings for Typology and Cross-lingual Transfer Learning**<br/>
+*Dian Yu, Taiqi He and Kenji Sagae*
+
+**Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy?**<br/>
+*Abhilasha Ravichander, Alan W Black, Thomas Norton, Shomir Wilson and Norman Sadeh*
+
+**HiddenCut: Simple Data Augmentation for Natural Language Understanding with Better Generalizability**<br/>
+*Jiaao Chen, Dinghan Shen, Weizhu Chen and Diyi Yang*
+ 
+**ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining**<br/>
+*Alexander Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad and Dragomir Radev*
+
+**Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data**<br/>
+*Wei-Jen Ko, Ahmed El-Kishky, Adithya Renduchintala, Vishrav Chaudhary, Naman Goyal, Francisco Guzman, Pascale Fung, Philipp Koehn and Mona Diab*
+
+**Learning Latent Structures for Cross Action Phrase Relations in Wet Lab Protocols**<br/>
+*Chaitanya Kulkarni, Jany Chan, Eric Fosler-Lussier and Raghu Machiraju*
+ 
+**Modeling Language Usage and Listener Engagement in Podcasts**<br/>
+*Sravana Reddy, Mariya Lazarova, Yongze Yu and Rosie Jones*
+ 
+**Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task**<br/>
+*Yun Tang, Juan Pino, Xian Li, Changhan Wang and Dmitriy Genzel*
+
+**On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized Study**<br/>
+*Divyansh Kaushik, Douwe Kiela, Zachary C. Lipton and Wen-tau Yih*
+ 
+**Learning Prototypical Functions for Physical Artifacts**<br/>
+*Tianyu Jiang and Ellen Riloff*
+
+**A unified approach to sentence segmentation of punctuated text in many languages**<br/>
+*Rachel Wicks and Matt Post*
