@@ -907,3 +907,77 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **TWAG: A Topic-Guided Wikipedia Abstract Generator**
 *Fangwei Zhu, Shangqing Tu, Jiaxin Shi, Juanzi Li, Lei Hou and Tong Cui*
 
+**Towards Emotional Support Dialog Systems**
+*Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang and Minlie Huang*
+
+**Contrastive Learning for Many-to-many Multilingual Neural Machine Translation**
+*Xiao Pan, Mingxuan Wang, Liwei Wu and Lei Li*
+
+**A Semantic-based Method for Unsupervised Commonsense Question Answering**
+*Yilin Niu, Fei Huang, Jiaming Liang, Wenkai Chen, Xiaoyan Zhu and Minlie Huang*
+
+**Rethinking Stealthiness of Backdoor Attack against NLP Models**
+*Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou and Xu Sun*
+
+**A Neural Model for Joint Document and Snippet Ranking in Question Answering for Large Document Collections**
+*Dimitris Pappas and Ion Androutsopoulos*
+
+**Cascaded Head-colliding Attention**
+*Lin Zheng, Zhiyong Wu and Lingpeng Kong*
+
+**DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**
+*Dou Hu, Lingwei Wei and Xiaoyong Huai*
+
+**Challenges in Information-Seeking QA: Unanswerable Questions and Paragraph Retrieval**
+*Akari Asai and Eunsol Choi*
+
+**An In-depth Study on Internal Structure of Chinese Words**
+*Chen Gong, Saihao Huang, Houquan Zhou, Zhenghua Li, Min Zhang, Zhefeng Wang, Baoxing Huai and Nicholas Jing Yuan*
+
+**Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation**
+*Mathias Müller and Rico Sennrich*
+
+**Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization**
+*Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin and Ting Liu*
+
+**Span-based Semantic Parsing for Compositional Generalization**
+*Jonathan Herzig and Jonathan Berant*
+
+**BASS: Boosting Abstractive Summarization with Unified Semantic Graph**
+*Wenhao Wu, Wei Li, Xinyan Xiao, Jiachen Liu, Ziqiang Cao, Sujian Li, Hua Wu and Haifeng Wang*
+
+**Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities**
+*Jinming Zhao, Ruichen Li and Qin Jin*
+
+**Controversy and Conformity: from Generalized to Personalized Aggressiveness Detection**
+*Kamil Kanclerz, Alicja Figas, Marcin Gruza, Tomasz Kajdanowicz, Jan Kocon, Daria Puchalska and Przemyslaw Kazienko*
+
+**A Neural Transition-based Model for Argumentation Mining**
+*Jianzhu Bao, Chuang Fan, Jipeng Wu, Yixue Dang, Jiachen Du and Ruifeng Xu*
+
+**MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER**
+*Linlin Liu, BOSHENG DING, Lidong Bing, Shafiq Joty, Luo Si and Chunyan Miao*
+
+**Discovering Dialogue Slots with Weak Supervision**
+*Vojtch Hudeek, Ondej Dusek and Zhou Yu*
+
+**Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation**
+*Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael Lyu and Irwin King*
+
+**Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks**
+*Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani and James Henderson*
+
+**Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation**
+*Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao and Rui Yan*
+
+**Attention Calibration for Transformer in Neural Machine Translation**
+*Yu Lu, Jiali Zeng, Jiajun Zhang, Shuangzhi Wu and Mu Li*
+
+**Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation**
+*Elena Voita, Rico Sennrich and Ivan Titov*
+
+**Accelerating BERT Inference for Sequence Labeling via Early-Exit**
+*Xiaonan Li, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu and Xuanjing Huang*
+
+**Focus Attention: Promoting Faithfulness and Diversity in Summarization**
+*Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe and Ryan McDonald*
