@@ -875,7 +875,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao and Shaoyi Chen*
 
 **Mid-Air Hand Gestures for Post-Editing of Machine Translation**
-*Rashad Albo Jamara, Nico Herbig, Antonio Krüger and Josef Van Genabith*
+*Rashad Albo Jamara, Nico Herbig, Antonio Kruger and Josef Van Genabith*
 
 **Good for Misconceived Reasons: An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation**
 *Zhiyong Wu, Lingpeng Kong, Wei Bi, Xiang Li and Ben Kao*
