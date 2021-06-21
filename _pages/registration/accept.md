@@ -1656,3 +1656,75 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **A Mutual Information Maximization Approach for the Spurious Solution Problem in Weakly Supervised Question Answering**<br/>
 *Zhihong Shao, Lifeng Shang, Qun Liu and Minlie Huang*
+
+**Learning Relation Alignment for Calibrated Cross-modal Retrieval**<br/>
+*Shuhuai Ren, Junyang Lin, Guangxiang Zhao, Rui Men, An Yang, Jingren Zhou, Xu Sun and Hongxia Yang*
+
+**TGEA: An Error-Annotated Dataset and Benchmark Tasks for TextGeneration from Pretrained Language Models**<br/>
+*Jie He, Bo Peng, Yi Liao, Qun Liu and Deyi Xiong*
+
+**Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering**<br/>
+*Gangwoo Kim, Hyunjae Kim, Jungsoo Park and Jaewoo Kang*
+
+**AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER**<br/>
+*Weile Chen, Huiqiang Jiang, Qianhui Wu, Borje Karlsson and Yi Guan*
+
+**A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies**<br/>
+*A. Seza Doruoz, Sunayana Sitaram, Barbara E. Bullock and Almedia Jacqueline Toribio*
+
+**Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction**<br/>
+*Piji Li and Shuming Shi*
+
+**Risk Minimization for Zero-shot Sequence Labeling**<br/>
+*Zechuan Hu, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu*
+
+**Exploring Distantly-Labeled Rationales in Neural Network Models**<br/>
+*Quzhe Huang, Shengqi Zhu, Yansong Feng and Dongyan Zhao*
+
+**CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding**<br/>
+*Dong Wang, Ning Ding, Piji Li and Haitao Zheng*
+
+**Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction**<br/>
+*Lu Xu, Yew Ken Chia and Lidong Bing*
+
+**PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check**<br/>
+*Li Huang, Junjie Li, Weiwei Jiang, Zhiyu Zhang, Minchuan Chen, Shaojun Wang and Jing Xiao*
+
+**Learning to Perturb Word Embeddings for Out-of-distribution QA**<br/>
+*Seanie Lee, Minki Kang, Juho Lee and Sung Ju Hwang*
+
+**The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing**<br/>
+*Valentina Pyatkin, Shoval Sadde, Aynat Rubinstein, Paul Portner and Reut Tsarfaty*
+
+**WARP: Word-level Adversarial ReProgramming**<br/>
+*Karen Hambardzumyan, Hrant Khachatrian and Jonathan May*
+
+**BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks**<br/>
+*Jong-Hoon Oh, Ryu Iida, Julien Kloetzer and Kentaro Torisawa*
+
+**A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization**<br/>
+*Zongcheng Ji, Tian Xia, Mei Han and Jing Xiao*
+
+**Annotating Online Misogyny**<br/>
+*Philine Zeinert, Nanna Inie and Leon Derczynski*
+
+**Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs**<br/>
+*Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang and Xueqi Cheng*
+
+**Exploiting Language Relatedness for Low Web-Resource Language Model Adaptation: An Indic Languages Study**<br/>
+*Yash Khemchandani, Sarvesh Mehtani, Vaidehi Patil, Abhijeet Awasthi, Partha Talukdar and Sunita Sarawagi*
+
+**Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**<br/>
+*Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, YICHI ZHANG and Zelin Dai*
+
+**Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators**<br/>
+*Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Zhi-Yuan Xie, Zhong-Yi Lu and Ji-Rong Wen*
+
+**On Sample Based Explanation Methods for NLP: Faithfulness, Efficiency and Semantic Evaluation**<br/>
+*Wei Zhang, Ziming Huang, Yada Zhu, Guangnan Ye, Xiaodong Cui and Fan Zhang*
+
+**Length-Adaptive Transformer: Train Once with Length Drop, Use Anytime with Search**<br/>
+*Gyuwan Kim and Kyunghyun Cho*
+
+**H-Transformer-1D: Fast One-Dimensional Hierarchical Attention for Sequences**<br/>
+*Zhenhai Zhu and Radu Soricut*
