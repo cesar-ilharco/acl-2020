@@ -1143,3 +1143,22 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
  
 **Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning**<br/>
 *Cheonbok Park, Yunwon Tae, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo*
+
+**Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation**<br/>
+*Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song and Tong Zhang*
+ 
+**Crowdsourcing Learning as Domain Adaptation: A Case Study on Named Entity Recognition**<br/>
+*Xin Zhang, Guangwei Xu, Yueheng Sun, Meishan Zhang and Pengjun Xie*
+ 
+**ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning**<br/>
+*Li Du, Xiao Ding, Kai Xiong, Ting Liu and Bing Qin*
+ 
+**CLIP: A Dataset for Extracting Action Items for Physicians from Hospital Discharge Notes**<br/>
+*James Mullenbach, Yada Pruksachatkun, Sean Adler, Jennifer Seale, Jordan Swartz, Greg McKelvey, Hui Dai, Yi Yang and David Sontag*
+
+**Assessing Emoji Use in Modern Text Processing Tools**<br/>
+*Abu Awal Md Shoeb and Gerard De Melo*
+ 
+**Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation**<br/>
+*Yuanxin LIU, Fandong Meng, Zheng Lin, Weiping Wang and Jie Zhou*
+ 
