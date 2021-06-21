@@ -1431,3 +1431,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **A unified approach to sentence segmentation of punctuated text in many languages**<br/>
 *Rachel Wicks and Matt Post*
+
+**Multilingual Speech Translation from Efficient Finetuning of Pretrained Models**<br/>
+*Xian Li, Changhan Wang, Yun Tang, Chau Tran, Yuqing Tang, Juan Pino, Alexei Baevski, Alexis Conneau and Michael Auli*
+ 
+**Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding**<br/>
+*Xin Sun, Tao Ge, Furu Wei and Houfeng Wang*
+ 
+**Regression Bugs Are In Your Model! Measuring, Reducing and Analyzing Regressions In NLP Model Updates**<br/>
+*YUQING XIE, Yi-An Lai, Yuanjun Xiong, Yi Zhang and Stefano Soatto*
+
+**Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries**<br/>
+*Yi Yu, Adam Jatowt, Antoine Doucet, Kazunari Sugiyama and Masatoshi Yoshikawa*
+ 
+**Learning to Explain: Generating Stable Explanations Fast**<br/>
+*Xuelin Situ, Ingrid Zukerman, Cecile Paris, Sameen Maruf and Gholamreza Haffari*
+
+**StereoSet: Measuring stereotypical bias in pretrained language models**<br/>
+*Moin Nadeem, Anna Bethke and Siva Reddy*
+
+**Neural semi-Markov CRF for Monolingual Word Alignment**<br/>
+*Wuwei Lan, Chao Jiang and Wei Xu*
+ 
+**Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies**<br/>
+*Mukund Srinath, Shomir Wilson and C Lee Giles*
+
+**GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling**<br/>
+*Libo Qin, Fuxuan Wei, Tianbao Xie, Xiao Xu, Wanxiang Che and Ting Liu*
+
+**Explainable Prediction of Text Complexity: The Missing Preliminaries for Text Simplification**<br/>
+*Cristina Garbacea, Mengtian Guo, Samuel Carton and Qiaozhu Mei*
+
+**EmailSum: Abstractive Email Thread Summarization**<br/>
+*Shiyue Zhang, Asli Celikyilmaz, Jianfeng Gao and Mohit Bansal*
+ 
+**The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity**<br/>
+*David Gros, Yu Li and Zhou Yu*
+
+**Multi-Task Retrieval for Knowledge-Intensive Tasks**<br/>
+*Jean Maillard, Vladimir Karpukhin, Fabio Petroni, Wen-tau Yih, Barlas Oguz, Veselin Stoyanov and Gargi Ghosh*
+
+**Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks**<br/>
+*Yuanhe Tian, Guimin Chen, Yan Song and Xiang Wan*
+
+**Benchmarking Scalable Methods for Streaming Cross Document Entity Coreference**<br/>
+*Robert L Logan IV, Andrew McCallum, Sameer Singh and Dan Bikel*
+
+**Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?**<br/>
+*Peter Shaw, Ming-Wei Chang, Panupong Pasupat and Kristina Toutanova*
+
+**KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers**<br/>
+*Chia-Hsuan Lee, Oleksandr Polozov and Matthew Richardson*
+
+**The statistical advantage of automatic NLG metrics at the system level**<br/>
+*Johnny Wei and Robin Jia*
+
+**Style is NOT a single variable: Case Studies for Cross-Stylistic Language Understanding**<br/>
+*Dongyeop Kang and Eduard Hovy*
+
+**GTM: A Generative Triple-wise Model for Conversational Question Generation**<br/>
+*Lei Shen, Fandong Meng, Jinchao Zhang, Yang Feng and Jie Zhou*
+
+**Discontinuous Named Entity Recognition as Maximal Clique Discovery**<br/>
+*Yucheng Wang, Bowen Yu, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun*
+
+**Joint Models for Answer Verification in Question Answering Systems**<br/>
+*Zeyu Zhang, Thuy Vu and Alessandro Moschitti*
+
+**Language Model Augmented Relevance Score**<br/>
+*Ruibo Liu, Jason Wei and Soroush Vosoughi*
+
+**Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution**<br/>
+*Jiacheng Xu and Greg Durrett*
+
+**Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation**<br/>
+*Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao and Zhaopeng Tu*
