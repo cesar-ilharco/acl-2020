@@ -1207,4 +1207,79 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Early Detection of Sexual Predators in Chats**<br/>
 *Matthias Vogt, Ulf Leser and Alan Akbik*
 
+ **StereoRel: Relational Triple Extraction from a Stereoscopic Perspective**<br/>
+*Xuetao Tian, Liping Jing, Lu He and Feng Liu*
+ 
+**Do Context-Aware Translation Models Pay the Right Attention?**<br/>
+*Kayo Yin, Patrick Fernandes, Danish Pruthi, Aditi Chaudhary, Andre F. T. Martins and Graham Neubig*
+
+**Transition-based Bubble Parsing: Improvements on Coordination Structure Prediction**<br/>
+*Tianze Shi and Lillian Lee*
+
+**UnitedQA: A Hybrid Approach for Open Domain Question Answering**<br/>
+*Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen and Jianfeng Gao*
+
+**ABCD: A Graph Framework to Convert Complex Sentences to a Covering Set of Simple Sentences**<br/>
+*Yanjun Gao, Ting-Hao Huang and Rebecca J. Passonneau*
+
+**Supporting Land Reuse of Former Open Pit Mining Sites using Text Classification and Active Learning**<br/>
+*Christopher Schroder, Kim Burgl, Yves Annanias, Andreas Niekler, Lydia Muller, Daniel Wiegreffe, Christian Bender, Christoph Mengs, Gerik Scheuermann and Gerhard Heyer*
+
+**Reservoir Transformers**<br/>
+*Sheng Shen, Alexei Baevski, Ari Morcos, Kurt Keutzer, Michael Auli and Douwe Kiela*
+
+**KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation**<br/>
+*Yiran Xing, Zai Shi, Zhao Meng, Gerhard Lakemeyer, Yunpu Ma and Roger Wattenhofer*
+
+**CCMatrix: Mining Billions of High-Quality Parallel Sentences on the Web**<br/>
+*Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave, Armand Joulin and Angela Fan*
+
+**Improving Paraphrase Detection with the Adversarial Paraphrasing Task**<br/>
+*Animesh Nighojkar and John Licato*
+
+**Structured Sentiment Analysis as Dependency Graph Parsing**<br/>
+*Jeremy Barnes, Robin Kurtz, Stephan Oepen, Lilja Ovrelid and Erik Velldal*
+
+**A Survey of Race, Racism, and Anti-Racism in NLP**<br/>
+*Anjalie Field, Su Lin Blodgett, Zeerak Waseem and Yulia Tsvetkov*
+
+**TIMEDIAL: Temporal Commonsense Reasoning in Dialog**<br/>
+*Lianhui Qin, Aditya Gupta, Shyam Upadhyay, Luheng He, Yejin Choi and Manaal Faruqui*
+
+**MATE-KD: Masked Adversarial TExt, a Companion to Knowledge Distillation**<br/>
+*Ahmad Rashid, Vasileios Lioutas and Mehdi Rezagholizadeh*
+
+**Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation**<br/>
+*Yingjun Du, Nithin Holla, Xiantong Zhen, Cees Snoek and Ekaterina Shutova*
+
+**Diverse Pretrained Context Encodings Improve Document Translation**<br/>
+*Domenic Donato, Lei Yu and Chris Dyer*
+
+**Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning**<br/>
+*Forrest Davis and Marten Van Schijndel*
+
+**Lexicon Learning for Few Shot Sequence Modeling**<br/>
+*Ekin Akyurek and Jacob Andreas*
+
+**Employing Argumentation Knowledge Graphs for Neural Argument Generation**<br/>
+*Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou and Benno Stein*
+
+**TAN-NTM: Topic Attention Networks for Neural Topic Modeling**<br/>
+*Madhur Panwar, Shashank Shailabh, Milan Aggarwal and Balaji Krishnamurthy*
+
+**LexFit: Lexical Fine-Tuning of Pretrained Language Models**<br/>
+*Ivan Vuli, Edoardo Maria Ponti, Anna Korhonen and Goran Glavas*
+
+**OTTers: One-turn Topic Transitions for Open-Domain Dialogue**<br/>
+*Karin Sevegnani, David M. Howcroft, Ioannis Konstas and Verena Rieser*
+
+**ForecastQA: A Question Answering Challenge for Event Forecasting with Temporal Text Data**<br/>
+*Woojeong Jin, Rahul Khanna, Suji Kim, Dong-Ho Lee, Fred Morstatter, Aram Galstyan and Xiang Ren*
+
+**Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**<br/>
+*Yilin Shen, Yen-Chang Hsu, Avik Ray and Hongxia Jin*
+
+**Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models**<br/>
+*Matthew Finlayson, Aaron Mueller, Sebastian Gehrmann, Stuart Shieber, Tal Linzen and Yonatan Belinkov*
+
 
