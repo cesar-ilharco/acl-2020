@@ -835,7 +835,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction**
 *Kaiwen Wei, Xian Sun, Zequn Zhang, Jingyuan Zhang, Guo Zhi and Li Jin*
 
-**Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children’s mindreading ability**
+**Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children's mindreading ability**
 *Venelin Kovatchev, Phillip Smith, Mark Lee and Rory Devine*
 
 **Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning**
