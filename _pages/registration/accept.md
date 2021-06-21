@@ -1183,4 +1183,28 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Improving Dialog Systems for Negotiation with Personality Modeling**<br/>
 *Runzhe Yang, Jingxiao Chen and Karthik Narasimhan*
 
+**Lower Perplexity is Not Always Human-Like**<br/>
+*Tatsuki Kuribayashi, Yohei Oseki, Takumi Ito, Ryo Yoshida, Masayuki Asahara and Kentaro Inui*
+ 
+**Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model**<br/>
+*Kathleen C. Fraser, Isar Nejadgholi and Svetlana Kiritchenko*
+
+**Obtaining Better Static Word Embeddings Using Contextual Embedding Models**<br/>
+*Prakhar Gupta and Martin Jaggi*
+ 
+**What Context Features Can Transformer Language Models Use?**<br/>
+*Joe O'Connor and Jacob Andreas*
+
+**From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text**<br/>
+*Ishan Tarunesh, Syamantak Kumar and Preethi Jyothi*
+
+**Best of Both Worlds: Making High Accuracy Non-incremental Transformer-based Disfluency Detection Incremental**<br/>
+*Morteza Rohanian and Julian Hough*
+ 
+**Reflective Decoding: Beyond Unidirectional Generation with Off-the-Shelf Language Models**<br/>
+*Peter West, Ximing Lu, Ari Holtzman, Chandra Bhagavatula, Jena D. Hwang and Yejin Choi*
+
+**Early Detection of Sexual Predators in Chats**<br/>
+*Matthias Vogt, Ulf Leser and Alan Akbik*
+
 
