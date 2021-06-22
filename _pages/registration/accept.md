@@ -2033,3 +2033,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Input Representations for Parsing Discourse Representation Structures: Comparing English with Chinese**<br/>
 *Chunliu Wang, Rik Van Noord, Arianna Bisazza and Johan Bos*
+
+**AdElectra - Effective Adversarial Electra**<br/>
+*Makesh Narsimhan Sreedhar, Alessandro Sordoni, Siva Reddy and Aaron Courville*
+
+**Code Generation from Natural Language with Less Prior Knowledge and More Monolingual Data**<br/>
+*Sajad Norouzi, Keyi Tang and Yanshuai Cao*
+
+**Gender bias amplification during Speed-Quality optimization in Neural Machine Translation**<br/>
+*Adithya Renduchintala, Denise Diaz, Kenneth Heafield, Xian Li and Mona Diab*
+
+**Enforcing Consistency in Weakly Supervised Semantic Parsing**<br/>
+*Nitish Gupta, Sameer Singh and Matt Gardner*
+
+**Multilingual Agreement for Multilingual Neural Machine Translation**<br/>
+*Jian Yang, Yuwei Yin, Shuming Ma, Haoyang Huang, Dongdong Zhang, Zhoujun Li and Furu Wei*
+
+**Robust Transfer Learning with Pretrained Language Models through Adapters**<br/>
+*Wenjuan Han, Bo Pang and Ying Nian Wu*
+
+**mTVR: Multilingual Moment Retrieval in Videos**<br/>
+*Jie Lei, Tamara Berg and Mohit Bansal*
+
+**Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards**<br/>
+*Shweta Yadav, Deepak Gupta, Asma Ben Abacha and Dina Demner-Fushman*
+
+**Embracing Ambiguity: Shifting the Training Target of NLI Models**<br/>
+*Johannes Mario Meissner, Napat Thumwanit, Saku Sugawara and Akiko Aizawa*
+
+**Machine Translation into Low-resource Language Varieties**<br/>
+*Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner and Yulia Tsvetkov*
+
+**On Positivity Bias in Negative Reviews**<br/>
+*Madhusudhan Aithal and Chenhao Tan*
+
+**A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering**<br/>
+*Tahira Naseem, Srinivas Ravishankar, Nandana Mihindukulasooriya, Ibrahim Abdelaziz, Young-Suk Lee, Pavan Kapanipathi, Salim Roukos, Alfio Gliozzo and Alexander Gray*
+
+**Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction**<br/>
+*Quzhe Huang, Shengqi Zhu, Yansong Feng, Yuan Ye, Yuxuan Lai and Dongyan Zhao*
+
+**More than Text: Multi-modal Chinese Word Segmentation**<br/>
+*Dong Zhang, Zheng Hu, Shoushan Li, Hanqian Wu, Qiaoming Zhu and Guodong Zhou*
+
+**Unsupervised Enrichment of Persona-grounded Dialog with Background Stories**<br/>
+*Bodhisattwa Prasad Majumder, Taylor Berg-Kirkpatrick, Julian McAuley and Harsh Jhamtani*
+
+**Exploring Listwise Evidence Reasoning with T5 for Fact Verification**<br/>
+*Kelvin Jiang, Ronak Pradeep and Jimmy Lin*
+
+**Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning**<br/>
+*Linzi Xing, Wen Xiao and Giuseppe Carenini*
+
+**SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization**<br/>
+*Yixin Liu and Pengfei Liu*
+
+**Avoiding Overlap in Data Augmentation for AMR-to-Text Generation**<br/>
+*Wenchao Du and Jeffrey Flanigan*
+
+**Quotation Recommendation and Interpretation Based on Transformation from Queries to Quotations**<br/>
+*Lingzhi Wang, Xingshan Zeng and Kam-Fai Wong*
+
+**Don't Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models**<br/>
+*Mahnaz Koupaee, Greg Durrett, Nathanael Chambers and Niranjan Balasubramanian*
+
+**eMLM: A New Pre-training Objective for Emotion Related Tasks**<br/>
+*Tiberiu Sosea and Cornelia Caragea*
+
+**Discrete Cosine Transform as Universal Sentence Encoder**<br/>
+*Nada Almarwani and Mona Diab*
+ 
+**Semantic Frame Induction using Masked Word Embeddings and Two-Step Clustering**<br/>
+*Kosuke Yamada, Ryohei Sasano and Koichi Takeda*
+
+**A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space**<br/>
+*Sara Rajaee and Mohammad Taher Pilehvar*
