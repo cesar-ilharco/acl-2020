@@ -2254,5 +2254,5 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *DongHyun Choi, Myeong Cheol Shin, EungGyun Kim and Dong Ryeol Shin*
 
 **GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning**<br/>
-*Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing and Liang Lin*
+*Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing and Liang Li*
 
