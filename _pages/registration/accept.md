@@ -2252,7 +2252,3 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **OutFlip: Generating Examples for Unknown Intent Detection with Natural Language Attack**<br/>
 *DongHyun Choi, Myeong Cheol Shin, EungGyun Kim and Dong Ryeol Shin*
-
-**GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning**<br/>
-*Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing and Liang Lin*
-
