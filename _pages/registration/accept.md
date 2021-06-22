@@ -2016,7 +2016,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**<br/>
 *Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth*
 
-**AND does not mean OR: Using Formal Languages to Study Language Models’ Representations**<br/>
+**AND does not mean OR: Using Formal Languages to Study Language Models' Representations**<br/>
 *Aaron Traylor, Roman Feiman and Ellie Pavlick*
 
 **Can Transformer Models Measure Coherence In Text: Re-Thinking the Shuffle Test**<br/>
