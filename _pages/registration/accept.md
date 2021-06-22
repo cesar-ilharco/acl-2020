@@ -2108,3 +2108,45 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space**<br/>
 *Sara Rajaee and Mohammad Taher Pilehvar*
+
+**Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation**<br/>
+*Yinfei Yang, Ning Jin, Kuo Lin, Mandy Guo and Daniel Cer*
+
+**Happy Dance, Slow Clap: Using Reaction GIFs to Predict Induced Affect on Twitter**<br/>
+*Boaz Shmueli, Soumya Ray and Lun-Wei Ku*
+
+**Don't Rule Out Monolingual Speakers: A Method For Crowdsourcing Machine Translation Data**<br/>
+*Rajat Bhatnagar, Ananya Ganesh and Katharina Kann*
+
+**Automatic Fake News Detection: Are Models Learning to Reason?**<br/>
+*Casper Hansen, Christian Hansen and Lucas Chaves Lima*
+
+**Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction**<br/>
+*Chenliang Li, Bin Bi, Ming Yan, Wei Wang and Songfang Huang*
+
+**Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer**<br/>
+*Sharmila Reddy Nangi, Niyati Chhaya, Sopan Khosla, Nikhil Kaushik and Harshit Nyati*
+
+**UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning**<br/>
+*Hwanhee Lee, Seunghyun Yoon, Franck Dernoncourt, Trung Bui and Kyomin Jung*
+
+**Issues with Entailment-based Zero-shot Text Classification**<br/>
+*Tingting Ma, Jin-Ge Yao, Chin-Yew Lin and Tiejun Zhao*
+
+**Difficulty-Aware Machine Translation Evaluation**<br/>
+*Runzhe Zhan, Xuebo Liu, Derek F. Wong and Lidia S. Chao*
+
+**A Span-based Dynamic Local Attention Model for Sequential Sentence Classification**<br/>
+*Xichen Shang, Qianli Ma, Zhenxi Lin, Jiangyue Yan and Zipeng Chen*
+
+**X-Fact: A New Benchmark Dataset for Multilingual Fact Checking**<br/>
+*Ashim Gupta and Vivek Srikumar*
+
+**Neural-Symbolic Commonsense Reasoner with Relation Predictors**<br/>
+*Farhad Moghimifar, Lizhen Qu, Terry Yue Zhuo, Gholamreza Haffari and Mahsa Baktashmotlagh*
+
+**In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering**<br/>
+*Peter Vickers, Nikolaos Aletras, Emilio Monti and Loic Barrault*
+
+**N-Best ASR Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses**<br/>
+*Karthik Ganesan, Pakhi Bamdev, Jaivarsan B, Amresh Venugopal and Abhinav Tushar*
