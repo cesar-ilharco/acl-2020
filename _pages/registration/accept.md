@@ -2298,4 +2298,5 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection**<br/>
 *Jiawen Li, Shiwen Ni and Hung-Yu Kao*
+<<More>>
 
