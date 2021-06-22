@@ -2150,3 +2150,75 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **N-Best ASR Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses**<br/>
 *Karthik Ganesan, Pakhi Bamdev, Jaivarsan B, Amresh Venugopal and Abhinav Tushar*
+
+## Findings of ACL
+### Long Paper
+
+**Explainable Inference Over Grounding-Abstract Chains for Science Questions**<br/>
+*Mokanarangan Thayaparan, Marco Valentino and Andre Freitas*
+
+**LV-BERT: Exploiting Layer Variety for BERT**<br/>
+*Weihao Yu, Zihang Jiang, Fei Chen, Qibin Hou and Jiashi Feng*
+
+**Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**<br/>
+*Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Wang Yubin and Bin Wang*
+
+**LUX (Linguistic aspects Under eXamination): Discourse Analysis for Automatic Fake News Classification**<br/>
+*Lucas Azevedo, Mathieu d'Aquin, Brian Davis and Manel Zarrouk*
+
+**Semantic Relation-aware Difference Representation Learning for Change Captioning**<br/>
+*Yunbin Tu, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu and Chenggang Yan*
+
+**The Authors Matter: Understanding and Mitigating Implicit Bias in Deep Text Classification**<br/>
+*Haochen Liu, Wei Jin, Hamid Karimi, Zitao Liu and Jiliang Tang*
+
+**From What to Why: Improving Relation Extraction with Rationale Graph**<br/>
+*Zhenyu Zhang, Bowen Yu, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo*
+
+**SyGNS: A Systematic Generalization Testbed Based on Natural Language Semantics**<br/>
+*Hitomi Yanaka, Koji Mineshima and Kentaro Inui*
+
+**Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade**<br/>
+*Jiatao Gu and Xiang Kong*
+
+**Generate, Prune, Select: A Pipeline for Counterspeech Generation against Online Hate Speech**<br/>
+*Wanzheng Zhu and Suma Bhat*
+
+**REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**<br/>
+*Fangkai Jiao, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li and Liqiang Nie*
+
+**CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction**<br/>
+*Jiawei Sheng, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu*
+
+**Discovering Topics in Long-tailed Corpora with Causal Intervention**<br/>
+*Xiaobao Wu, Chunping Li and Yishu Miao*
+
+**WikiTableT: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections**<br/>
+*Mingda Chen, Sam Wiseman and Kevin Gimpel*
+
+**Deep Cognitive Reasoning Network for Multi-hop Question Answering over Knowledge Graphs**<br/>
+*Jianyu Cai, Zhanqiu Zhang, Feng Wu and Jie Wang*
+
+**GoG: Relation-aware Graph-over-Graph Network for Visual Dialog**<br/>
+*Feilong Chen, Xiuyi Chen, Fandong Meng, Peng Li and Jie Zhou*
+
+**Joint Optimization of Tokenization and Downstream Model**<br/>
+*Tatsuya Hiraoka, Sho Takase, Kei Uchiumi, Atsushi Keyaki and Naoaki Okazaki*
+
+**How does Attention Affect the Model?**<br/>
+*Cheng Zhang, Qiuchi Li, Lingyu Hua and Dawei Song*
+
+**Contrastive Attention for Automatic Chest X-ray Report Generation**<br/>
+*Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Ping Zhang and Xu Sun*
+
+**O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning**<br/>
+*Fenglin Liu, Xuancheng Ren, Xian Wu, Bang Yang, Shen Ge and Xu Sun*
+
+**Enhancing Transformers with Gradient Boosted Decision Trees for NLI Fine-Tuning**<br/>
+*Benjamin Minixhofer, Milan Gritta and Ignacio Iacobacci*
+
+**Empirical Error Modeling Improves Robustness of Noisy Neural Sequence Labeling**<br/>
+*Marcin Namysl, Sven Behnke and Joachim Kohler*
+
+**Spatial Dependency Parsing for Semi-Structured Document Information Extraction**<br/>
+*Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang and Minjoon Seo*
