@@ -1729,7 +1729,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **H-Transformer-1D: Fast One-Dimensional Hierarchical Attention for Sequences**<br/>
 *Zhenhai Zhu and Radu Soricut*
 
-##Short Paper
+### Short Paper
 
 **The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes**<br/>
 *Nils Reimers and Iryna Gurevych*
