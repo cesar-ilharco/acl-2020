@@ -2237,3 +2237,21 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization**<br/>
 *Xinsong Zhang, Pengshuai Li and Hang Li*
+
+**Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation**<br/>
+*Feilong Chen, Fandong Meng, Xiuyi Chen, Peng Li and Jie Zhou*
+
+**Retrieve &amp; Memorize: Dialog Policy Learning with Multi-Action Memory**<br/>
+*YunHao Li, Yunyi Yang, Xiaojun Quan and Jianxing Yu*
+
+**Adapt-and-Distill: Developing Small, Fast and Effective Pretrained Language Models for Domains**<br/>
+*Yunzhi Yao, Shaohan Huang, Wenhui Wang, Li Dong and Furu Wei*
+
+**DNN-driven Gradual Machine Learning for Aspect-term Sentiment Analysis**<br/>
+*Murtadha Ahmed, Qun Chen, Yanyan Wang, Youcef Nafa, Zhanhuai Li and Tianyi Duan*
+
+**OutFlip: Generating Examples for Unknown Intent Detection with Natural Language Attack**<br/>
+*DongHyun Choi, Myeong Cheol Shin, EungGyun Kim and Dong Ryeol Shin*
+
+**GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning**<br/>
+*Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing and Liang Lin*
