@@ -1958,3 +1958,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network**<br/>
 *Nicholas FitzGerald, Dan Bikel, Jan Botha, Daniel Gillick, Tom Kwiatkowski and Andrew McCallum*
+
+**Thank you BART! Rewarding Pre-Trained Models Improves Formality Style Transfer**<br/>
+*Huiyuan Lai, Antonio Toral and Malvina Nissim*
+
+**DefSent: Sentence Embeddings using Definition Sentences**<br/>
+*Hayato Tsukagoshi, Ryohei Sasano and Koichi Takeda*
+
+**OntoGUM: Evaluating Contextualized SOTA Coreference Resolution on 12 More Genres**<br/>
+*Yilun Zhu, Sameer Pradhan and Amir Zeldes*
+
+**An Improved Model for Voicing Silent Speech**<br/>
+*David Gaddy and Dan Klein*
+
+**A Simple Recipe for Multilingual Grammatical Error Correction**<br/>
+*Sascha Rothe, Jonathan Mallinson, Eric Malmi, Sebastian Krause and Aliaksei Severyn*
+
+**Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence**<br/>
+*Federico Bianchi, Silvia Terragni and Dirk Hovy*
+
+**Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition**<br/>
+*Pei Chen, Haibo Ding, Jun Araki and Ruihong Huang*
+
+**Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents**<br/>
+*Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang and Daqing He*
+
+**Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction**<br/>
+*Ming Shen, Pratyay Banerjee and Chitta Baral*
+
+**Anchor-based Bilingual Word Embeddings for Low-Resource Languages**<br/>
+*Tobias Eder, Viktor Hangya and Alexander Fraser*
+
+**Learning to Solve NLP Tasks in an Incremental Number of Languages**<br/>
+*Giuseppe Castellucci, Simone Filice, Danilo Croce and Roberto Basili*
+
+**Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing**<br/>
+*Jonathan K. Kummerfeld*
+
+**The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models**<br/>
+*Ulme Wennberg and Gustav Eje Henter*
+
+**Question Generation for Adaptive Education**<br/>
+*Megha Srivastava and Noah Goodman*
+
+**Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning.**<br/>
+*Piotr Pikos, Mateusz Malinowski and Henryk Michalewski*
+
+**MedNLI Is Not Immune: Natural Language Inference Artifacts in the Clinical Domain**<br/>
+*Christine Herlihy and Rachel Rudinger*
+
+**Lightweight Adapter Tuning for Multilingual Speech Translation**<br/>
+*Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab and Laurent Besacier*
+
+**Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations**<br/>
+*Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell*
+ 
+**Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**<br/>
+*Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth*
+
+**AND does not mean OR: Using Formal Languages to Study Language Models’ Representations**<br/>
+*Aaron Traylor, Roman Feiman and Ellie Pavlick*
+
+**Can Transformer Models Measure Coherence In Text: Re-Thinking the Shuffle Test**<br/>
+*Philippe Laban, Luke Dai, Lucas Bandarkar and Marti A. Hearst*
+
+**An Exploratory Analysis of Multilingual Word-Level Quality Estimation with Cross-Lingual Transformers**<br/>
+*Tharindu Ranasinghe, Constantin Orasan and Ruslan Mitkov*
+
+**Towards more equitable question answering systems: How much more data do you need?**<br/>
+*Arnab Debnath, Navid Rajabi, Fardina Fathmiul Alam and Antonios Anastasopoulos*
+
+**nmT5 - Is parallel data still relevant for pre-training massively multilingual language models?**<br/>
+*Mihir Kale, Aditya Siddhant, Rami Al-Rfou, Linting Xue, Noah Constant and Melvin Johnson*
+
+**Input Representations for Parsing Discourse Representation Structures: Comparing English with Chinese**<br/>
+*Chunliu Wang, Rik Van Noord, Arianna Bisazza and Johan Bos*
