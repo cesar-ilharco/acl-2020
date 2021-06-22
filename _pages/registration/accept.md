@@ -1808,3 +1808,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking**<br/>
 *Fangyu Liu, Ivan Vuli, Anna Korhonen and Nigel Collier*
+
+**BERTTune: Fine-Tuning Neural Machine Translation with BERTScore**<br/>
+*Inigo Jauregi Unanue, Jacob Parnell and Massimo Piccardi*
+
+**SaRoCo: Detecting Satire in a Novel Romanian Corpus of News Articles**<br/>
+*Ana-Cristina Rogoz, Gaman Mihaela and Radu Tudor Ionescu*
+
+**Improving Arabic Diacritization with Regularized Decoding and Adversarial Training**<br/>
+*Han Qin, Guimin Chen, Yuanhe Tian and Yan Song*
+
+**Higher-order Derivatives of Weighted Finite-state Machines**<br/>
+*Ran Zmigrod, Tim Vieira and Ryan Cotterell*
+
+**Multi-Scale Progressive Attention Network for Video Question Answering**<br/>
+*Zhicheng Guo, Jiaxuan Zhao, Licheng Jiao, Xu Liu and Lingling Li*
+
+**Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions**<br/>
+*Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart*
+
+**Efficient Passage Retrieval with Hashing for Open-domain Question Answering**<br/>
+*Ikuya Yamada, Akari Asai and Hannaneh Hajishirzi*
+
+**Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries**<br/>
+*Ashish Shrivastava, Kaustubh Dhole, Abhinav Bhatt and Sharvani Raghunath*
+
+**An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter**<br/>
+*Zhiyuan Zeng and Deyi Xiong*
+
+**Doing Good or Doing Right? Exploring the Weakness of Commonsense Causal Reasoning Models**<br/>
+*Mingyue Han and Yinglin Wang*
+
+**Catchphrase: Automatic Detection of Cultural References**<br/>
+*Nir Sweed and Dafna Shahaf*
+
+**Towards Visual Question Answering on Pathology Images**<br/>
+*Xuehai He, Zhuo Cai, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing and Pengtao Xie*
+
+**Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection**<br/>
+*Debora Nozza*
+
+**QA-Driven Zero-shot Slot Filling with Weak Supervision Pretraining**<br/>
+*Xinya Du, Luheng He, Qi Li, Dian Yu, Panupong Pasupat and Yuan Zhang*
+
+**Entity Concept-enhanced Few-shot Relation Extraction**<br/>
+*Shan Yang, Yongfei Zhang, Guanglin Niu, Qinghua Zhao and Shiliang Pu*
+
+**Enhancing Descriptive Image Captioning with Natural Language Inference**<br/>
+*Zhan Shi, Hui Liu and Xiaodan Zhu*
+
+**Cross-lingual Text Classification with Heterogeneous Graph Neural Network**<br/>
+*Ziyun Wang, Xuan Liu, Peiji Yang, Shixing Liu and Zhisheng Wang*
+
+**Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialogue State Tracking**<br/>
+*Yinpei Dai, Hangyu Li, Yongbin Li, Jian Sun, Fei Huang, Luo Si and Xiaodan Zhu*
+
+**Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking**<br/>
+*Binzong Geng, Fajie Yuan, Qiancheng Xu, Ying Shen, Ruifeng Xu and Min Yang*
+
+**On the Generation of Medical Dialogs for COVID-19**<br/>
+*Meng Zhou, Zechen Li, Bowen Tan, Guangtao Zeng, Wenmian Yang, Xuehai He, Zeqian Ju, Subrato Chakravorty, Shu Chen, Xingyi Yang, Yichen Zhang, Qingyang Wu, Zhou Yu, Kun Xu, Eric Xing and Pengtao Xie*
+
+**Domain-Adaptive Pretraining Methods for Dialogue Understanding**<br/>
+*Han Wu, Kun Xu, Linfeng Song, Lifeng Jin, Haisong Zhang and Linqi Song*
+
+**Zero-shot Fact Verification by Claim Generation**<br/>
+*Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan and William Yang Wang*
+
+**Hi-Transformer: Hierarchical Interactive Transformer for Efficient and Effective Long Document Modeling**<br/>
+*Chuhan Wu, Fangzhao Wu, Tao Qi and Yongfeng Huang*
+
+**Improving Compositional Generalization in Classification Tasks via Structure Annotations**<br/>
+*Juyong Kim, Pradeep Ravikumar, Joshua Ainslie and Santiago Ontanon*
+
+**Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation**<br/>
+*Yangyifan Xu, Yijin Liu, Fandong Meng, Jiajun Zhang, Jinan Xu and Jie Zhou*
