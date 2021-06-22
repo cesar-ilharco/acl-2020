@@ -9,7 +9,7 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
-**June 18, 2021**. <b>Online Registration for ACL-IJCNLP 2021 are [here](https://2021.aclweb.org/blog/registration-blurb-for-website/)</b> <font color="red">** Update **</font>
+**June 18, 2021**. <b>Online Registration for ACL-IJCNLP 2021 are [here](https://2021.aclweb.org/registration/page/)</b> <font color="red">** Update **</font>
 {: .notice--info}
 
 **June 15, 2021**. <b>Call for VOLUNTEER/SCHOLARSHIP PROGRAM [here](https://2021.aclweb.org/registration/volunteer/)</b>
