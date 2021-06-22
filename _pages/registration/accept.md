@@ -1883,3 +1883,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation**<br/>
 *Yangyifan Xu, Yijin Liu, Fandong Meng, Jiajun Zhang, Jinan Xu and Jie Zhou*
+
+**Improving Model Generalization: A Chinese Named Entity Recognition Case Study**<br/>
+*Guanqing Liang and Cane Wing-Ki Leung*
+
+**On Orthogonality Constraints for Transformers**<br/>
+*Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, Shuai Zhang, Huajie Shao, Shuochao Yao and Roy Ka-Wei Lee*
+
+**Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction**<br/>
+*Gyubok Lee, Seongjun Yang and Edward Choi*
+ 
+**Is Sparse Attention more Interpretable?**<br/>
+*Clara Meister, Stefan Lazov, Isabelle Augenstein and Ryan Cotterell*
+
+**What Motivates You? Benchmarking Automatic Detection of Basic Needs from Short Posts**<br/>
+*Sanja Stajner, Seren Yenikent, Bilal Ghanem and Marc Franco-Salvador*
+
+**Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images**<br/>
+*Nyoungwoo Lee, Suwon Shin, Jaegul Choo, Ho-Jin Choi and Sung-Hyon Myaeng*
+
+**Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models**<br/>
+*Jieyu Lin, Jiajie Zou and Nai Ding*
+
+**Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation**<br/>
+*Hongfei Xu, Qiuhui Liu, Josef Van Genabith and Deyi Xiong*
+
+**Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia**<br/>
+*Jiao Sun and Nanyun Peng*
+
+**Learning to Generate Task-Specific Adapters from Task Description**<br/>
+*Qinyuan Ye and Xiang Ren*
+
+**Continual Quality Estimation with Online Bayesian Meta-Learning**<br/>
+*Abiola Obamuyide, Marina Fomicheva and Lucia Specia*
+
+**Relative Importance in Sentence Processing**<br/>
+*Nora Hollenstein and Lisa Beinborn*
+
+**PRAL: A Tailored Pre-Training Model for Task-Oriented Dialog Generation**<br/>
+*Jing Gu, Qingyang Wu, Chongruo Wu, Weiyan Shi and Zhou Yu*
+
+**WikiSum: Coherent Summarization Dataset for Efficient Human-Evaluation**<br/>
+*Nachshon Cohen, Oren Kalinsky, Yftah Ziser and Alessandro Moschitti*
+
+**Replicating and Extending ``Because Their Treebanks Leak'': Graph Isomorphism, Covariants, and Parser Performance**<br/>
+*Mark Anderson, Anders Sogaard and Carlos Gomez-Rodriguez*
+
+**Distinct Label Representations for Few-Shot Text Classification**<br/>
+*Sora Ohashi, Junya Takayama, Tomoyuki Kajiwara and Yuki Arase*
+
+**Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis**<br/>
+*Shinhyeok Oh, Dongyub Lee, Taesun Whang, IlNam Park, Seo Gaeun, EungGyun Kim and Harksoo Kim*
+
+**Towards Generative Aspect-Based Sentiment Analysis**<br/>
+*Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing and Wai Lam*
+
+**Adaptive Nearest Neighbor Machine Translation**<br/>
+*Xin Zheng, Zhirui Zhang, Junliang Guo, Shujian Huang, Boxing Chen, Weihua Luo and Jiajun CHEN*
+
+**VAULT: VAriable Unified Long Text Representation for Machine Reading Comprehension**<br/>
+*Haoyang Wen, Anthony Ferritto, Heng Ji, Radu Florian and Avi Sil*
+
+**When is Char Better Than Subword: A Systematic Study of Segmentation Algorithms for Neural Machine Translation**<br/>
+*Jiahuan Li, Yutong Shen, Shujian Huang, Xinyu Dai and Jiajun CHEN*
+ 
+**On Training Instance Selection for Few-Shot Neural Text Generation**<br/>
+*Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh and Vera Demberg*
+
+**How Helpful is Inverse Reinforcement Learning for Table-to-Text Generation?**<br/>
+*Sayan Ghosh, Zheng Qi, Snigdha Chaturvedi and Shashank Srivastava*
+
+**Weakly-Supervised Methods for Suicide Risk Assessment: Role of Related Domains**<br/>
+*Chenghao Yang, Yudong Zhang and Smaranda Muresan*
+
+**MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network**<br/>
+*Nicholas FitzGerald, Dan Bikel, Jan Botha, Daniel Gillick, Tom Kwiatkowski and Andrew McCallum*
