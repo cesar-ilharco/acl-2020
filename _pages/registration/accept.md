@@ -2260,7 +2260,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Shuang Zeng, Yuting Wu and Baobao Chang*
 
 **KGPool: Dynamic Knowledge Graph Context Selection for Relation Extraction**<br/>
-*Abhishek Nadgeri, Anson Bastos, Kuldeep Singh, Isaiah Onando Mulang', Johannes Hoffart, Saeedeh Shekarpour and Vijay Saraswat*
+*Abhishek Nadgeri, Anson Bastos, Kuldeep Singh, Isaiah Onando Mulang, Johannes Hoffart, Saeedeh Shekarpour and Vijay Saraswat*
 
 **Better Combine Them Together! Integrating Syntactic Constituency and Dependency Representations for Semantic Role Labeling**<br/>
 *Hao Fei, Shengqiong Wu, Yafeng Ren, Fei Li and Donghong Ji*
@@ -2285,15 +2285,3 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **A Dialogue-based Information Extraction System for Medical Insurance Assessment**<br/>
 *Shuang Peng, Mengdi Zhou, Minghui Yang, Haitao Mi, Shaosheng Cao, Zujie Wen, Teng Xu, Hongbin Wang and Lei Liu*
-
-**Prediction or Comparison: Toward Interpretable Qualitative Reasoning**<br/>
-*Mucheng Ren, Heyan Huang and Yang Gao*
-
-**On Commonsense Cues in BERT for Solving Commonsense Tasks**<br/>
-*Leyang Cui, Sijie Cheng, Yu Wu and Yue Zhang*
-
-**Weakly Supervised Pre-Training for Multi-Hop Retriever**<br/>
-*Yeon Seonwoo, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh*
-
-**Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection**<br/>
-*Jiawen Li, Shiwen Ni and Hung-Yu Kao*
