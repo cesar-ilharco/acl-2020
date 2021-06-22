@@ -1728,3 +1728,83 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **H-Transformer-1D: Fast One-Dimensional Hierarchical Attention for Sequences**<br/>
 *Zhenhai Zhu and Radu Soricut*
+
+##Short Paper
+
+**The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes**<br/>
+*Nils Reimers and Iryna Gurevych*
+ 
+**What's in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus**<br/>
+*Alexandra Luccioni and Joseph Viviano*
+
+**Uncertainty and Surprisal Jointly Deliver the Punchline: Exploiting Incongruity-Based Features for Humor Recognition**<br/>
+*Yubo Xie, Junze Li and Pearl Pu*
+ 
+**Parameter Selection: Why We Should Pay More Attention to It**<br/>
+*Jie-Jyun Liu, Tsung-Han Yang, Si-An Chen and Chih-Jen Lin*
+ 
+**DuReader_robust: A Chinese Dataset Towards Evaluating Robustness and Generalization of Machine Reading Comprehension in Real-World Applications**<br/>
+*Hongxuan Tang, Hongyu Li, Jing Liu, Yu Hong, Hua Wu and Haifeng Wang*
+
+**How effective is BERT without word ordering? Implications for language understanding and data privacy**<br/>
+*Jack Hessel and Alexandra Schofield*
+ 
+**Attentive Multiview Text Representation for Differential Diagnosis**<br/>
+*Hadi Amiri, Mitra Mohtarami and Isaac Kohane*
+ 
+**AligNarr: Aligning Narratives on Movies**<br/>
+*Paramita Mirza, Mostafa Abouhamra and Gerhard Weikum*
+ 
+**Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models**<br/>
+*Chong Li, Cenyuan Zhang, Xiaoqing Zheng and Xuanjing Huang*
+ 
+**Targeting the Benchmark: On Methodology in Current Natural Language Processing Research**<br/>
+*David Schlangen*
+
+**Towards a more Robust Evaluation for Conversational Question Answering**<br/>
+*Wissam Siblini, Baris Sayil and Yacine Kessaci*
+
+**TIMERS: Document-level Temporal Relation Extraction**<br/>
+*Puneet Mathur, Rajiv Jain, Franck Dernoncourt, Vlad Morariu, Quan Hung Tran and Dinesh Manocha*
+
+**ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction**<br/>
+*Chen-Yu Lee, Chun-Liang Li, Chu Wang, Renshen Wang, Yasuhisa Fujii, Siyang Qin, Ashok Popat and Tomas Pfister*
+
+**Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition**<br/>
+*Chun Chen and Fang Kong*
+
+**Coreference Resolution without Span Representations**<br/>
+*Yuval Kirstain, Ori Ram and Omer Levy*
+
+**Sequence to General Tree: Knowledge-Guided Geometry Word Problem Solving**<br/>
+*Shih-hung Tsai, Chao-Chun Liang, Hsin-Min Wang and Keh-Yih Su*
+
+**Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints**<br/>
+*Yuxiang Wu, Pasquale Minervini, Pontus Stenetorp and Sebastian Riedel*
+
+**Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event**<br/>
+*Nazanin Dehghani, Hassan Hajipoor and Hadi Amiri*
+
+**Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders**<br/>
+*Irene Li, Vanessa Yan, Tianxiao Li, Rihao Qu and Dragomir Radev*
+
+**Beyond Laurel/Yanny: An Autoencoder-Enabled Search for Polyperceivable Audio**<br/>
+*Kartik Chandra, Chuma Kabaghe and Gregory Valiant*
+
+**Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning**<br/>
+*Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang and Weiran Xu*
+
+**Video Paragraph Captioning as a Text Summarization Task**<br/>
+*Hui Liu and Xiaojun Wan*
+
+**Entity Enhancement for Implicit Discourse Relation Classification in the Biomedical Domain**<br/>
+*Wei Shi and Vera Demberg*
+
+**A Mixture-of-Experts Model for Antonym-Synonym Discrimination**<br/>
+*Zhipeng Xie and Nan Zeng*
+
+**Attention Flows are Shapley Value Explanations**<br/>
+*Kawin Ethayarajh and Dan Jurafsky*
+
+**Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking**<br/>
+*Fangyu Liu, Ivan Vuli, Anna Korhonen and Nigel Collier*
