@@ -2257,3 +2257,45 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing and Liang Lin*
 
 
+**SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction**<br/>
+*Shuang Zeng, Yuting Wu and Baobao Chang*
+
+**KGPool: Dynamic Knowledge Graph Context Selection for Relation Extraction**<br/>
+*Abhishek Nadgeri, Anson Bastos, Kuldeep Singh, Isaiah Onando Mulang, Johannes Hoffart, Saeedeh Shekarpour and Vijay Saraswat*
+
+**Better Combine Them Together! Integrating Syntactic Constituency and Dependency Representations for Semantic Role Labeling**<br/>
+*Hao Fei, Shengqiong Wu, Yafeng Ren, Fei Li and Donghong Ji*
+
+**Keep the Primary, Rewrite the Secondary: A Two-Stage Approach for Paraphrase Generation**<br/>
+*Yixuan Su, David Vandyke, Simon Baker, Yan Wang and Nigel Collier*
+
+**Contrastive Fine-tuning Improves Robustness for Neural Rankers**<br/>
+*Xiaofei Ma, Cicero Nogueira Dos Santos and Andrew O. Arnold*
+
+**Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking**<br/>
+*Elliot Schumacher, James Mayfield and Mark Dredze*
+
+**TellMeWhy: A Dataset for Answering Why-Questions in Narratives**<br/>
+*Yash Kumar Lal, Nathanael Chambers, Raymond Mooney and Niranjan Balasubramanian*
+
+**Dialogue in the Wild: Learning from a Deployed Role-Playing Game with Humans and Bots**<br/>
+*Kurt Shuster, Jack Urbanek, Emily Dinan, Arthur Szlam and Jason Weston*
+
+**Deep Learning against COVID-19: Respiratory Insufficiency Detection in Brazilian Portuguese Speech**<br/>
+*Edresson Casanova, Lucas Gris, Augusto Camargo, Daniel Da Silva, Murilo Gazzola, Ester Sabino, Anna Levin, Arnaldo Candido Jr, Sandra Aluisio and Marcelo Finger*
+
+**A Dialogue-based Information Extraction System for Medical Insurance Assessment**<br/>
+*Shuang Peng, Mengdi Zhou, Minghui Yang, Haitao Mi, Shaosheng Cao, Zujie Wen, Teng Xu, Hongbin Wang and Lei Liu*
+
+**Prediction or Comparison: Toward Interpretable Qualitative Reasoning**<br/>
+*Mucheng Ren, Heyan Huang and Yang Gao*
+
+**On Commonsense Cues in BERT for Solving Commonsense Tasks**<br/>
+*Leyang Cui, Sijie Cheng, Yu Wu and Yue Zhang*
+
+**Weakly Supervised Pre-Training for Multi-Hop Retriever**<br/>
+*Yeon Seonwoo, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh*
+
+**Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection**<br/>
+*Jiawen Li, Shiwen Ni and Hung-Yu Kao*
+
