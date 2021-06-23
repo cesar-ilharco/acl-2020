@@ -85,10 +85,10 @@ bronze:
     image_path: /assets/images/logos/legalforce-logo.png
     alt: "Legalforce Logo"
     title: "Legalforce"
-  - url: https://www.legalforce.co.jp/
-    image_path: /assets/images/logos/legalforce-logo.png
-    alt: "Legalforce Logo"
-    title: "Legalforce"
+  - url: https://www.ets.org/
+    image_path: /assets/images/logos/ets-logo.png
+    alt: "ETS Logo"
+    title: "ETS"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
