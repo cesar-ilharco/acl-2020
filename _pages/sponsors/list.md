@@ -85,6 +85,12 @@ bronze:
     image_path: /assets/images/logos/legalforce-logo.png
     alt: "Legalforce Logo"
     title: "Legalforce"
+  - url: https://www.legalforce.co.jp/
+    image_path: /assets/images/logos/legalforce-logo.png
+    alt: "Legalforce Logo"
+    title: "Legalforce"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 supporter:
   - url: https://research.adobe.com/
     image_path: /assets/images/logos/adobe-logo.jpg
