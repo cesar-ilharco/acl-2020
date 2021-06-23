@@ -48,10 +48,10 @@ platinum:
     image_path: /assets/images/logos/baidu.png
     alt: "Baidu Logo"
     title: "Baidu"
-  - url: https://microsoft.com
-    image_path: /assets/images/logos/microsoft-logo.png
-    alt: "Microsoft Logo"
-    title: "Microsoft"
+  - url: https://deepmind.com
+    image_path: /assets/images/logos/deepmind-logo.png
+    alt: "Deepmind Logo"
+    title: "Deepmind"
 gold:
   - url: https://www.research.ibm.com/
     image_path: /assets/images/logos/ibm-logo.png
