@@ -2385,3 +2385,15 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Learning Algebraic Recombination for Compositional Generalization**<br/>
 *Chenyao Liu, Shengnan An, Zeqi Lin, Qian Liu, Bei Chen, Jian-Guang Lou, Lijie Wen, Nanning Zheng and Dongmei Zhang*
+
+**Out of Order: How important is the sequential order of words in a sentence in Natural Language Understanding tasks?**<br/>
+*Thang Pham, Trung Bui, Long Mai and Anh Nguyen*
+
+**RevCore: Review-Augmented Conversational Recommendation**<br/>
+*Yu Lu, Junwei Bao, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu and Xiaodong He*
+
+**Awakening Latent Grounding from Pretrained Language Models for Semantic Parsing**<br/>
+*Qian Liu, Dejian Yang, Jiahui Zhang, Jiaqi Guo, Bin Zhou and Jian-Guang Lou*
+
+**Enhancing Label Correlation Feedback in Multi-Label Text Classification via Multi-Task Learning**<br/>
+*Ximing Zhang, Qian-Wen Zhang, Zhao Yan, Ruifang Liu and Yunbo Cao*
