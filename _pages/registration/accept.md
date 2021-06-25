@@ -2407,7 +2407,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Unsupervised Knowledge Selection for Dialogue Generation**<br/>
 *Xiuyi Chen, Feilong Chen, Fandong Meng, Peng Li and Jie Zhou*
 
-**Minimax and Neyman–Pearson Meta-Learning for Outlier Languages**<br/>
+**Minimax and Neyman-Pearson Meta-Learning for Outlier Languages**<br/>
 *Edoardo Maria Ponti, Rahul Aralikatte, Disha Shrivastava, Siva Reddy and Anders Sogaard*
  
 **On-the-Fly Attention Modulation for Neural Generation**<br/>
