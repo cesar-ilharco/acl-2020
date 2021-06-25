@@ -2566,6 +2566,5 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Enhancing Metaphor Detection by Gloss-based Interpretations**<br/>
 *Hai Wan, Jinxia Lin, Jianfeng Du, Dawei Shen and Manrong Zhang*
 
-**Evaluating Word Embeddings with Categorical Modularity**<br/>
-*Sílvia Casacuberta, Karina Halevy and Damian Blasi*
+
 
