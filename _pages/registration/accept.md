@@ -2965,12 +2965,3 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer**<br/>
 *Machel Reid and Victor Zhong*
-
-**Constructing Flow Graphs from Procedural Cybersecurity Texts**<br/>
-*Kuntal Kumar Pal, Kazuaki Kashihara, Pratyay Banerjee, Swaroop Mishra, Ruoyu Wang and Chitta Baral*
-
-**Cluster-Former: Clustering-based Sparse Transformer for Question Answering**<br/>
-*Shuohang Wang, Luowei Zhou, Zhe Gan, Yen-Chun Chen, Yuwei Fang, Siqi Sun, Yu Cheng and Jingjing Liu*
-
-**Multi-Task Learning and Adapted Knowledge Models for Emotion-Cause Extraction**<br/>
-*Elsbeth Turcan, Shuai Wang, Rishita Anubhai, Kasturi Bhattacharjee, Yaser Al-Onaizan and Smaranda Muresan*
