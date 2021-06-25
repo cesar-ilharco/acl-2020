@@ -2673,3 +2673,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **REAM$\sharp$: An Enhancement Approach to Reference-based Evaluation Metrics for Open-domain Dialog Generation**<br/>
 *Jun Gao, Wei Bi, Ruifeng Xu and Shuming Shi*
+
+**Relation Extraction with Type-aware Map Memories of Word Dependencies**<br/>
+*Guimin Chen, Yuanhe Tian, Yan Song and Xiang Wan*
+
+**PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning**<br/>
+*Siqi Bao, Huang He, Fan Wang, Hua Wu, Haifeng Wang, Wenquan Wu, Zhen Guo, Zhibin Liu and Xinchao Xu*
+
+**JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs**<br/>
+*Pei Ke, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, Linfeng Song, Xiaoyan Zhu and Minlie Huang*
+
+**OKGIT: Open Knowledge Graph Link Prediction with Implicit Types**<br/>
+*Chandrahas and Partha Talukdar*
+
+**Multimodal Fusion with Co-Attention Networks for Fake News Detection**<br/>
+*Yang Wu, Pengwei Zhan, Yunjian Zhang, Liming Wang and Zhen Xu*
+
+**Joint Multi-Decoder Framework with Hierarchical Pointer Network for Frame Semantic Parsing**<br/>
+*Xudong Chen, Ce Zheng and Baobao Chang*
+
+**H-FND: Hierarchical False-Negative Denoising for Distant Supervision Relation Extraction**<br/>
+*Jhih-wei Chen, Tsu-Jui Fu, Chen-Kang Lee and Wei-Yun Ma*
+
+**GEM: A General Evaluation Benchmark for Multimodal Tasks**<br/>
+*Lin Su, Nan Duan, Edward Cui, Lei Ji, Chenfei Wu, Huaishao Luo, Yongfei Liu, Ming Zhong, Taroon Bharti and Arun Sacheti*
+
+**Graph Relational Topic Model with Higher-order Graph Attention Auto-encoders**<br/>
+*Qianqian Xie, Jimin Huang, Pan Du and Min Peng*
+
+**Paths to Relation Extraction through Semantic Structure**<br/>
+*Jonathan Yellin and Omri Abend*
+
+**Dynamic and Multi-Channel Graph Convolutional Networks for Aspect-Based Sentiment Analysis**<br/>
+*Shiguan Pang, Yun Xue, Zehao Yan, Weihao Huang and Jinhui Feng*
+
+**Automatic Text Simplification for Social Good: Progress and Challenges**<br/>
+*Sanja Stajner*
+
+**Dialogue-oriented Pre-training**<br/>
+*Yi Xu and Hai Zhao*
+
+**GrantRel: Grant Information Extraction via Joint Entity and Relation Extraction**<br/>
+*Junyi Bian, Li Huang, Xiaodi Huang, Hong Zhou and Shanfeng Zhu*
+
+**Making Flexible Use of Subtasks: A Multiplex Interaction Network for Unified Aspect-based Sentiment Analysis**<br/>
+*Guoxin Yu, Xiang Ao, Ling Luo, Min Yang, Xiaofei Sun, Jiwei Li and Qing He*
+
+**Continual Mixed-Language Pre-Training for Extremely Low-Resource Neural Machine Translation**<br/>
+*Zihan Liu, Genta Indra Winata and Pascale Fung*
+
+**Two Parents, One Child: Dual Transfer for Low-Resource Neural Machine Translation**<br/>
+*Meng Zhang, Liangyou Li and Qun Liu*
+
+**Contrastive Aligned Joint Learning for Multilingual Summarization**<br/>
+*Danqing Wang, Jiaze Chen, Hao Zhou, Xipeng Qiu and Lei Li*
+
+**When Time Makes Sense: A Historically-Aware Approach to Targeted Sense Disambiguation**<br/>
+*Kaspar Beelen, Federico Nanni, Mariona Coll Ardanuy, Kasra Hosseini, Giorgia Tolfo and Barbara McGillivray*
+ 
+**Understanding Feature Focus in Multitask Settings for Lexico-semantic Relation Identification**<br/>
+*Houssam Akhmouch, Gael Dias and Jose G. Moreno*
+
+**Don't Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification**<br/>
+*Qiaoyang Luo, Lingqiao Liu, Yuhao Lin and Wei Zhang*
+
+**Detecting Harmful Memes and Their Targets**<br/>
+*Shraman Pramanick, Dimitar Dimitrov, Rituparna Mukherjee, Shivam Sharma, Md. Shad Akhtar, Preslav Nakov and Tanmoy Chakraborty*
+
+**ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation**<br/>
+*Kaushal Kumar Maurya, Maunendra Sankar Desarkar, Yoshinobu Kano and Kumari Deepshikha*
+
+**HacRED: A Large-Scale Relation Extraction Dataset Toward Hard Cases in Practical Applications**<br/>
+*Qiao Cheng, Juntao Liu, Xiaoye Qu, Jin Zhao, Jiaqing Liang, Zhefeng Wang, Baoxing Huai, Nicholas Jing Yuan and Yanghua Xiao*
+
+**Learning Sequential and Structural Information for Source Code Summarization**<br/>
+*YunSeok Choi, JinYeong Bak, CheolWon Na and Jee-Hyong Lee*
