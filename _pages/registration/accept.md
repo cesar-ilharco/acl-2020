@@ -2374,5 +2374,77 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Code Summarization with Structure-induced Transformer**<br/>
 *Hongqiu Wu, Hai Zhao and Min Zhang*
 
+**Scheduled Dialog Policy Learning: An Automatic Curriculum Learning Framework for Task-oriented Dialog System**<br/>
+*Sihong Liu, Jinchao Zhang, Keqing He, Weiran Xu and Jie Zhou*
 
+**Do Explanations Help Users Detect Errors in Open-Domain QA? An Evaluation of Spoken vs. Visual Explanations**<br/>
+*Ana Valeria González, Gagan Bansal, Angela Fan, Yashar Mehdad, Robin Jia and Srinivasan Iyer*
 
+**OntoEA: Ontology-guided Entity Alignment via Joint Knowledge Graph Embedding**<br/>
+*Yuejia Xiang, Ziheng Zhang, Jiaoyan Chen, Xi Chen, Zhenxi Lin and Yefeng Zheng*
+
+**Learning Algebraic Recombination for Compositional Generalization**<br/>
+*Chenyao Liu, Shengnan An, Zeqi Lin, Qian Liu, Bei Chen, Jian-Guang Lou, Lijie Wen, Nanning Zheng and Dongmei Zhang*
+
+**Out of Order: How important is the sequential order of words in a sentence in Natural Language Understanding tasks?**<br/>
+*Thang Pham, Trung Bui, Long Mai and Anh Nguyen*
+
+**RevCore: Review-Augmented Conversational Recommendation**<br/>
+*Yu Lu, Junwei Bao, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu and Xiaodong He*
+
+**Awakening Latent Grounding from Pretrained Language Models for Semantic Parsing**<br/>
+*Qian Liu, Dejian Yang, Jiahui Zhang, Jiaqi Guo, Bin Zhou and Jian-Guang Lou*
+
+**Enhancing Label Correlation Feedback in Multi-Label Text Classification via Multi-Task Learning**<br/>
+*Ximing Zhang, Qian-Wen Zhang, Zhao Yan, Ruifang Liu and Yunbo Cao*
+
+**Unsupervised Energy-based Adversarial Domain Adaptation for Cross-domain Text Classification**<br/>
+*Han Zou, Jianfei Yang and Xiaojian Wu*
+
+**Survival text regression for time-to-event prediction in conversations**<br/>
+*Christine De Kock and Andreas Vlachos*
+
+**Unsupervised Knowledge Selection for Dialogue Generation**<br/>
+*Xiuyi Chen, Feilong Chen, Fandong Meng, Peng Li and Jie Zhou*
+
+**Minimax and Neyman–Pearson Meta-Learning for Outlier Languages**<br/>
+*Edoardo Maria Ponti, Rahul Aralikatte, Disha Shrivastava, Siva Reddy and Anders Sogaard*
+ 
+**On-the-Fly Attention Modulation for Neural Generation**<br/>
+*Yue Dong, Chandra Bhagavatula, Ximing Lu, Jena D. Hwang, Antoine Bosselut, Jackie Chi Kit Cheung and Yejin Choi*
+
+**Enhanced Metaphor Detection via Incorporation of External Knowledge Based on Linguistic Theories**<br/>
+*Chang Su, Kechun Wu and Yijiang Chen*
+
+**Controlling Text Edition by Changing Answers of Specific Questions**<br/>
+*Lei Sha, Patrick Hohenecker and Thomas Lukasiewicz*
+
+**Manual Evaluation Matters: Reviewing Test Protocols of Distantly Supervised Relation Extraction**<br/>
+*Tianyu Gao, Xu Han, Yuzhuo Bai, Keyue Qiu, Zhiyu Xie, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun and Jie Zhou*
+
+**GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation**<br/>
+*Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, Yunxiao Zhao and Xiaoqi Han*
+
+**Zero-shot Label-Aware Event Trigger and Argument Classification**<br/>
+*Hongming Zhang, Haoyu Wang and Dan Roth*
+
+**Incorporating Global Information in Local Attention for Knowledge Representation Learning**<br/>
+*Yu Zhao, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li and Ji Liu*
+
+**MRN: A Locally and Globally Mention-Based Reasoning Network for Document-Level Relation Extraction**<br/>
+*Jingye Li, Kang Xu, Fei Li, Hao Fei, Yafeng Ren and Donghong Ji*
+
+**Adversary-Aware Rumor Detection**<br/>
+*Yun-Zhu Song, Yi-Syuan Chen, Yi-Ting Chang, Shao-Yu Weng and Hong-Han Shuai*
+
+**LICHEE: Improving Language Model Pre-training with Multi-grained Tokenization**<br/>
+*Weidong Guo, Mingjun Zhao, Lusheng Zhang, Di Niu, Jinwen Luo, Zhenhua Liu, Zhenyang Li and Jianbo Tang*
+
+**Detecting Hallucinated Content in Conditional Neural Sequence Generation**<br/>
+*Chunting Zhou, Graham Neubig, Jiatao Gu, Mona Diab, Francisco Guzman, Luke Zettlemoyer and Marjan Ghazvininejad*
+
+**K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**<br/>
+*Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang and Ming Zhou*
+
+**Global Attention Decoder for Chinese Spelling Error Correction**<br/>
+*Zhao Guo, Yuan Ni, Keqiang Wang, Wei Zhu and Guotong Xie*
