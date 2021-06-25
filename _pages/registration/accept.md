@@ -2428,3 +2428,23 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Zero-shot Label-Aware Event Trigger and Argument Classification**<br/>
 *Hongming Zhang, Haoyu Wang and Dan Roth*
 
+**Incorporating Global Information in Local Attention for Knowledge Representation Learning**<br/>
+*Yu Zhao, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li and Ji Liu*
+
+**MRN: A Locally and Globally Mention-Based Reasoning Network for Document-Level Relation Extraction**<br/>
+*Jingye Li, Kang Xu, Fei Li, Hao Fei, Yafeng Ren and Donghong Ji*
+
+**Adversary-Aware Rumor Detection**<br/>
+*Yun-Zhu Song, Yi-Syuan Chen, Yi-Ting Chang, Shao-Yu Weng and Hong-Han Shuai*
+
+**LICHEE: Improving Language Model Pre-training with Multi-grained Tokenization**<br/>
+*Weidong Guo, Mingjun Zhao, Lusheng Zhang, Di Niu, Jinwen Luo, Zhenhua Liu, Zhenyang Li and Jianbo Tang*
+
+**Detecting Hallucinated Content in Conditional Neural Sequence Generation**<br/>
+*Chunting Zhou, Graham Neubig, Jiatao Gu, Mona Diab, Francisco Guzman, Luke Zettlemoyer and Marjan Ghazvininejad*
+
+**K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**<br/>
+*Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang and Ming Zhou*
+
+**Global Attention Decoder for Chinese Spelling Error Correction**<br/>
+*Zhao Guo, Yuan Ni, Keqiang Wang, Wei Zhu and Guotong Xie*
