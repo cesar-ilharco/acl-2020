@@ -2935,5 +2935,6 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Using surprisal and fMRI to map the neural bases of broad and local contextual prediction during natural language comprehension**<br/>
 *Shohini Bhattasali and Philip Resnik*
 
-
+**Assessing the Syntactic Capabilities of Transformer-based Multilingual Language Models**<br/>
+*Laura Perez-Mayos, Alba Taboas García, Simon Mille and Leo Wanner*
 
