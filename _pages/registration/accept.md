@@ -2598,3 +2598,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Language-based General Action Template for Reinforcement Learning Agents**<br/>
 *Ryosuke Kohita, Akifumi Wachi, Daiki Kimura, Subhajit Chaudhury, Michiaki Tatsubori and Asim Munawar*
+
+**MiniLMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers**<br/>
+*Wenhui Wang, Hangbo Bao, Shaohan Huang, Li Dong and Furu Wei*
+
+**Attending via both Fine-tuning and Compressing**<br/>
+*Jie Zhou, Yuanbin Wu, Qin Chen, Xuanjing Huang and Liang He*
+
+**Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement**<br/>
+*Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng and Yuguang Chen*
+
+**PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval**<br/>
+*Ruiyang Ren, Shangwen Lv, Yingqi Qu, Jing Liu, Wayne Xin Zhao, QiaoQiao She, Hua Wu, Haifeng Wang and Ji-Rong Wen*
+
+**Neural Combinatory Constituency Parsing**<br/>
+*Zhousi Chen, Longtu Zhang, Aizhan Imankulova and Mamoru Komachi*
+
+**Learning Shared Semantic Space for Speech-to-Text Translation**<br/>
+*Chi Han, Mingxuan Wang, Heng Ji and Lei Li*
+
+**Empowering Language Understanding with Counterfactual Reasoning**<br/>
+*Fuli Feng, Jizhi Zhang, Xiangnan He, Hanwang Zhang and Tat-Seng Chua*
+
+**Knowledge-Empowered Representation Learning for Chinese Medical Reading Comprehension: Task, Model and Resources**<br/>
+*Taolin Zhang, Chengyu Wang, Minghui Qiu, Bite Yang, Zerui Cai, Xiaofeng He and Jun Huang*
+ 
+**Correcting Chinese Spelling Errors with Phonetic Pre-training**<br/>
+*Ruiqing Zhang, Chao Pang, Chuanqiang Zhang, Shuohuan Wang, Zhongjun He, Yu Sun, Hua Wu and Haifeng Wang*
+
+**Multi-Lingual Question Generation with Language Agnostic Language Model**<br/>
+*Bingning Wang, Ting Yao, Weipeng Chen, Jingfang Xu and Xiaochuan Wang*
+
+**On the Interplay Between Fine-tuning and Composition in Transformers**<br/>
+*Lang Yu and Allyson Ettinger*
+
+**Lifelong Learning of Topics and Domain-Specific Word Embeddings**<br/>
+*Xiaorui Qin, Yuyin Lu, Yufu Chen and Yanghui Rao*
+
+**Leveraging Argumentation Knowledge Graph for Interactive Argument Pair Identification**<br/>
+*Jian Yuan, Zhongyu Wei, Donghua Zhao, Qi Zhang and Changjian Jiang*
+
+**Confidence-Aware Scheduled Sampling for Neural Machine Translation**<br/>
+*Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu and Jie Zhou*
+
+**A Closer Look into the Robustness of Neural Dependency Parsers Using Better Adversarial Examples**<br/>
+*Yuxuan Wang, Wanxiang Che, Ivan Titov, Shay B. Cohen, Zhilin Lei and Ting Liu*
+
+**P-Stance: A Large Dataset for Stance Detection in Political Domain**<br/>
+*Yingjie Li, Tiberiu Sosea, Aditya Sawant, Ajith Jayaraman Nair, Diana Inkpen and Cornelia Caragea*
+
+**WIND: Weighting Instances Differentially for Model-Agnostic Domain Adaptation**<br/>
+*Xiang Chen, Yue Cao and Xiaojun Wan*
+
+**DocOIE: A Document-level Context-Aware Dataset for OpenIE**<br/>
+*Kuicai Dong, Zhao Yilin, Aixin Sun, Jung-Jae Kim and Xiaoli Li*
+
+**CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection**<br/>
+*Henry Weld, Guanghao Huang, Jean Lee, Tongshu Zhang, Kunze Wang, Xinghong Guo, Siqu Long, Josiah Poon and Caren Han*
+
+**Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection**<br/>
+*Shirong Shen, Tongtong Wu, Guilin Qi, Yuan-Fang Li, Gholamreza Haffari and Sheng Bi*
+
+**Dynamic Connected Networks for Chinese Spelling Check**<br/>
+*Baoxin Wang, Wanxiang Che, Dayong Wu, Shijin Wang, Guoping Hu and Ting Liu*
+
+**A Multi-Level Attention Model for Evidence-Based Fact Checking**<br/>
+*Canasai Kruengkrai, Junichi Yamagishi and Xin Wang*
+
+**RealTranS: End-to-End Simultaneous Speech Translation with Convolutional Weighted-Shrinking Transformer**<br/>
+*Xingshan Zeng, Liangyou Li and Qun Liu*
+ 
+**Training ELECTRA Augmented with Multi-word Selection**<br/>
+*Jiaming Shen, Jialu Liu, Tianqi Liu, Cong Yu and Jiawei Han*
+
+**REAM$\sharp$: An Enhancement Approach to Reference-based Evaluation Metrics for Open-domain Dialog Generation**<br/>
+*Jun Gao, Wei Bi, Ruifeng Xu and Shuming Shi*
