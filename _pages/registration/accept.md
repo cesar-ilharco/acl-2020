@@ -2974,3 +2974,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Multi-Task Learning and Adapted Knowledge Models for Emotion-Cause Extraction**<br/>
 *Elsbeth Turcan, Shuai Wang, Rishita Anubhai, Kasturi Bhattacharjee, Yaser Al-Onaizan and Smaranda Muresan*
+
+**The Utility and Interplay of Gazetteers and Entity Segmentation for Named Entity Recognition in English**<br/>
+*Oshin Agarwal and Ani Nenkova*
+
+**On the Cost-Effectiveness of Stacking of Neural and Non-Neural Methods for Text Classification: Scenarios and Performance Prediction**<br/>
+*Christian Gomes, Marcos Goncalves, Leonardo Rocha and Sergio Canuto*
+
+**Unsupervised Domain Adaptation for Event Detection using Domain-specific Adapters**<br/>
+*Nghia Ngo Trung, Duy Phung and Thien Huu Nguyen*
+
+**Learning Contextualized Knowledge Structures for Commonsense Reasoning**<br/>
+*Jun Yan, Mrigank Raman, Aaron Chan, Tianyu Zhang, Ryan Rossi, Handong Zhao, Sungchul Kim, Nedim Lipka and Xiang Ren*
+
+**Analyzing Stereotypes in Generative Text Inference Tasks**<br/>
+*Anna Sotnikova, Yang Trista Cao, Hal Daume Iii and Rachel Rudinger*
+
+**HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction**<br/>
+*Liliang Ren, Chenkai Sun, Heng Ji and Julia Hockenmaier*
+
+**Who Blames or Endorses Whom? Entity-to-Entity Directed Sentiment Extraction in News Text**<br/>
+*Kunwoo Park, Zhufeng Pan and Jungseock Joo*
+
+**A Formidable Ability: Detecting Adjectival Extremeness with DSMs**<br/>
+*Farhan Samir, Barend Beekhuizen and Suzanne Stevenson*
+
+**Compositionality of Complex Graphemes in the Undeciphered Proto-Elamite Script using Image and Text Embedding Models**<br/>
+*Logan Born, Kathryn Kelley, M. Willis Monroe and Anoop Sarkar*
+
+**Unsupervised Label Refinement Improves Dataless Text Classification**<br/>
+*Zewei Chu, Karl Stratos and Kevin Gimpel*
+
+**Prompting Contrastive Explanations for Commonsense Reasoning Tasks**<br/>
+*Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Hannaneh Hajishirzi and Luke Zettlemoyer*
+
+**SMS Spam Detection Through Skip-gram Embeddings and Shallow Networks**<br/>
+*Gustavo Sousa, Daniel Carlos Guimaraes Pedronette, Joao Paulo Papa and Ivan Rizzo Guilherme*
+
+**Hierarchical Task Learning from Language Instructions with Unified Transformers and Self-Monitoring**<br/>
+*Yichi Zhang and Joyce Chai*
+
+**Marked Attribute Bias in Natural Language Inference**<br/>
+*Hillary Dawkins*
+
+**VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding**<br/>
+*Hu Xu, Gargi Ghosh, Po-Yao Huang, Prahal Arora, Masoumeh Aminzadeh, Christoph Feichtenhofer, Florian Metze and Luke Zettlemoyer*
+
+**Corpus-Level Evaluation for Event QA: The IndiaPoliceEvents Corpus Covering the 2002 Gujarat Violence**<br/>
+*Andrew Halterman, Katherine Keith, Sheikh Sarwar and Brendan O'Connor*
+
+**Memory-Efficient Differentiable Transformer Architecture Search**<br/>
+*Yuekai Zhao, Li Dong, Yelong Shen, Zhihua Zhang, Furu Wei and Weizhu Chen*
+
+**On the Copying Behaviors of Pre-Training for Neural Machine Translation**<br/>
+*Xuebo Liu, Longyue Wang, Derek F. Wong, Liang Ding, Lidia S. Chao, Shuming Shi and Zhaopeng Tu*
+
+**Grounding 'Grounding' in NLP**<br/>
+*Khyathi Raghavi Chandu, Yonatan Bisk and Alan W Black*
+
+**MLMLM: Link Prediction with Mean Likelihood Masked Language Model**<br/>
+*Louis Clouatre, Philippe Trempe, Amal Zouaq and Sarath Chandar*
+
+**Effective Batching for Recurrent Neural Network Grammars**<br/>
+*Hiroshi Noji and Yohei Oseki*
+
+**Verb Sense Clustering using Contextualized Word Representations for Semantic Frame Induction**<br/>
+*Kosuke Yamada, Ryohei Sasano and Koichi Takeda*
+
+**Enhancing Chinese Word Segmentation via Pseudo Labels for Practicability**<br/>
+*Kaiyu Huang, Junpeng Liu, Degen Huang, Deyi Xiong, Zhuang Liu and Jinsong Su*
+
+**Logic-Consistency Text Generation from Semantic Parses**<br/>
+*Chang Shu, Yusen Zhang, Xiangyu Dong, Peng Shi, Tao Yu and Rui Zhang*
+
+**Inducing Semantic Roles Without Syntax**<br/>
+*Julian Michael and Luke Zettlemoyer*
