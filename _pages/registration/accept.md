@@ -2524,7 +2524,6 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **A Query-Driven Topic Model**<br/>
 *Zheng Fang, Yulan He and Rob Procter*
 
-
 **Gaussian Process based Deep Dyna-Q approach for Dialogue Policy Learning**<br/>
 *Guanlin Wu, Wenqi Fang, Ji Wang, Jiang Cao, Weidong Bao, Yang Ping, Xiaomin Zhu and Zheng Wang*
 
@@ -2568,7 +2567,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Hai Wan, Jinxia Lin, Jianfeng Du, Dawei Shen and Manrong Zhang*
 
 **Evaluating Word Embeddings with Categorical Modularity**<br/>
-*Sílvia Casacuberta, Karina Halevy and Damián Blasi*
+*Sílvia Casacuberta, Karina Halevy and Damian Blasi*
 
 **Attention-based Contextual Language Model Adaptation for Speech Recognition**<br/>
 *Richard Diehl Martinez, Scott Novotney, Ivan Bulyko, Ariya Rastrow, Andreas Stolcke and Ankur Gandhe*
