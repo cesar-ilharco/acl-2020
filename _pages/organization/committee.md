@@ -84,7 +84,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nafise Moosavi](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_43136.en.jsp), TU Darmstadt, Germany<br/><br/>
 [Alvin Grissom](http://alving.me), Haverford College, Leader of Sub-Committee of Socio-cultural Inclusion<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Members of Sub-Committee of Socio-cultural Inclusion:</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xanda Scofield](https://www.cs.hmc.edu/~xanda), Harvey Mudd College, USA<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xanda Schofield](https://www.cs.hmc.edu/~xanda), Harvey Mudd College, USA<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pedro Rodriguez](https://www.pedro.ai/), University of Maryland, College Park, USA<br/>
 
 
@@ -102,7 +102,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Qi Zhang](http://qizhang.info/), Fudan University, China<br/>
 [Angeliki Lazaridou](http://angelikilazaridou.github.io/), DeepMind, USA<br/>
 
-<h3>Reviewer Mentoring Program Chairs:</h3>
+<h3>Reviewer Mentoring Committee Chairs:</h3>
 [Jing Huang](https://sites.google.com/view/drjinghuang), JD AI Research, China<br/>
 [Antoine Bosselut](https://atcbosselut.github.io/), Stanford University, USA<br/>
 [Christophe Gravier](http://twitter.com/chgravier), Universite de Saint-Etienne/Lyon, France<br/>

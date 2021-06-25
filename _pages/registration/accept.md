@@ -802,9 +802,6 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks**
 *Xiaocui Yang, Shi Feng, Yifei Zhang and Daling Wang*
 
-**Document-Level Event Argument Extraction via Optimal Transport**
-*Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen*
-
 **MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding**
 *Jia-Chen Gu, Chongyang Tao, Zhenhua Ling, Can Xu, Xiubo Geng and Daxin Jiang*
 
@@ -3175,3 +3172,5 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Elaborative Simplification: Content Addition and Explanation Generation in Text Simplification**<br/>
 *Neha Srikanth and Junyi Jessy Li*
+
+### Short Papers
