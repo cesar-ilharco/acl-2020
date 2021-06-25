@@ -3049,3 +3049,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Inducing Semantic Roles Without Syntax**<br/>
 *Julian Michael and Luke Zettlemoyer*
+
+**Plot and Rework: Modeling Storylines for Visual Storytelling**<br/>
+*Chi-yang Hsu, Yun-Wei Chu, Ting-Hao Huang and Lun-Wei Ku*
+
+**Disentangled Code Representation Learning for Multiple Programming Languages**<br/>
+*Jingfeng Zhang, Haiwen Hong, Yin Zhang, Yao Wan, Ye Liu and Yulei Sui*
+
+**Exploring Self-Identified Counseling Expertise in Online Support Forums**<br/>
+*Allison Lahnala, Yuntian Zhao, Charles Welch, Jonathan K. Kummerfeld, Lawrence C An, Kenneth Resnicow, Rada Mihalcea and Veronica Perez-Rosas*
+
+**An Investigation of Suitability of Pre-Trained Language Models for Dialogue Generation -- Avoiding Discrepancies**<br/>
+*Yan Zeng and Jian-Yun Nie*
+
+**Learning to Sample Replacements for ELECTRA Pre-Training**<br/>
+*Yaru Hao, Li Dong, Hangbo Bao, Ke Xu and Furu Wei*
+
+**Reordering Examples Helps during Priming-based Few-Shot Learning**<br/>
+*Sawan Kumar and Partha Talukdar*
+
+**Constrained Labeled Data Generation for Low-Resource Named Entity Recognition**<br/>
+*Ruohao Guo and Dan Roth*
+
+**He is very intelligent, she is very beautiful? On Mitigating Social Biases in Language Modelling and Generation**<br/>
+*Aparna Garimella, Akhash Amarnath, Kiran Kumar, Akash Pramod Yalla, Anandhavelu N, Niyati Chhaya and Balaji Vasan Srinivasan*
+
+**Using Social and Linguistic Information to Adapt Pretrained Representations for Political Perspective Identification**<br/>
+*Chang Li and Dan Goldwasser*
+
+**Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning**<br/>
+*Yucheng Zhou, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang and Daxin Jiang*
+
+**PROST: Physical Reasoning about Objects through Space and Time**<br/>
+*Stephane Aroca-Ouellette, Cory Paik, Alessandro Roncone and Katharina Kann*
+
+**Revisiting the Evaluation of End-to-end Event Extraction**<br/>
+*Shun Zheng, Wei Cao, Wei Xu and Jiang Bian*
+
+**HIT - A Hierarchically Fused Deep Attention Network for Robust Code-mixed Language Representation**<br/>
+*Ayan Sengupta, Sourabh Kumar Bhattacharjee, Tanmoy Chakraborty and Md. Shad Akhtar*
+
+**Semi-Supervised Data Programming with Subset Selection**<br/>
+*Ayush Maheshwari, Oishik Chatterjee, Krishnateja Killamsetty, Ganesh Ramakrishnan and Rishabh Iyer*
+
+**Fingerprinting Fine-tuned Language Models in the Wild**<br/>
+*Nirav Diwan, Tanmoy Chakraborty and Zubair Shafiq*
+
+**Automatic Construction of Sememe Knowledge Bases via Dictionaries**<br/>
+*Fanchao Qi, Yangyi Chen, Fengyu Wang, Zhiyuan Liu, Xiao Chen and Maosong Sun*
+
+**XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages**<br/>
+*Tahmid Hasan, Abhik Bhattacharjee, Md. Saiful Islam, Kazi Mubasshir, Yuan-Fang Li, Yong-Bin Kang, M. Sohel Rahman and Rifat Shahriyar*
+
+**Investigating Memorization of Conspiracy Theories in Text Generation**<br/>
+*Sharon Levy, Michael Saxon and William Yang Wang*
+
+**A Text-Centered Shared-Private Framework via Cross-Modal Prediction for Multimodal Sentiment Analysis**<br/>
+*Yang Wu, Zijie Lin, Yanyan Zhao, Bing Qin and Li-Nan Zhu*
+
+**What Would a Teacher Do? Predicting Future Talk Moves**<br/>
+*Ananya Ganesh, Martha Palmer and Katharina Kann*
+
+**Cross-Domain Review Generation for Aspect-Based Sentiment Analysis**<br/>
+*Jianfei Yu, Chenggong Gong and Rui Xia*
+
+**On the Language Coverage Bias for Neural Machine Translation**<br/>
+*Shuo Wang, Zhaopeng Tu, Zhixing Tan, Shuming Shi, Maosong Sun and Yang Liu*
+
+**Named Entity Recognition via Noise Aware Training Mechanism with Data Filter**<br/>
+*Xiusheng Huang, Yubo Chen, Shun Wu, Jun Zhao, Yuantao Xie and Weijian Sun*
+
+**A Multi-Task Approach for Improving Biomedical Named Entity Recognition by Incorporating Multi-Granularity information**<br/>
+*Yiqi Tong, Yidong Chen and Xiaodong Shi*
+
+**EBERT: Efficient BERT Inference with Dynamic Structured Pruning**<br/>
+*Zejian Liu, Fanrong Li, Gang Li and Jian Cheng*
