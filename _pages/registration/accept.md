@@ -2918,58 +2918,10 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Shuai Wang, Guangyi Lv, Sahisnu Mazumder and Bing Liu*
 
 **Analyzing Online Political Advertisements**<br/>
-*Danae Sánchez Villegas, Saeid Mokaram and Nikolaos Aletras*
+*Danae Sanchez Villegas, Saeid Mokaram and Nikolaos Aletras*
 
 **Probing Multi-modal Machine Translation with Pre-trained Language Model**<br/>
 *Kong Yawei and Kai Fan*
 
 **The interplay between language similarity and script on a novel multi-layer Algerian dialect corpus**<br/>
 *Samia Touileb and Jeremy Barnes*
-
-**A Non-Autoregressive Edit-Based Approach to Controllable Text Simplification**<br/>
-*Sweta Agrawal, Weijia Xu and Marine Carpuat*
-
-**Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference**<br/>
-*Hai Hu, He Zhou, Zuoyu Tian, Yiwen Zhang, Yina Patterson, Yanting Li, Yixin Nie and Kyle Richardson*
-
-**Using surprisal and fMRI to map the neural bases of broad and local contextual prediction during natural language comprehension**<br/>
-*Shohini Bhattasali and Philip Resnik*
-
-**Assessing the Syntactic Capabilities of Transformer-based Multilingual Language Models**<br/>
-*Laura Perez-Mayos, Alba Taboas García, Simon Mille and Leo Wanner*
-
-**Are Larger Pretrained Language Models Uniformly Better? Comparing Performance at the Instance Level**<br/>
-*Ruiqi Zhong, Dhruba Ghosh, Dan Klein and Jacob Steinhardt*
-
-**Named Entity Recognition through Deep Representation Learning and Weak Supervision**<br/>
-*Jerrod Parker and Shi Yu*
-
-**Explaining NLP Models via Minimal Contrastive Editing (MiCE)**<br/>
-*Alexis Ross, Ana Marasovi and Matthew Peters*
-
-**Differential Privacy for Text Analytics via Natural Text Sanitization**<br/>
-*Xiang Yue, Minxin Du, Tianhao Wang, Yaliang Li, Huan Sun and Sherman S. M. Chow*
-
-**Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation**<br/>
-*Prakhar Gupta, Yulia Tsvetkov and Jeffrey Bigham*
-
-**Leveraging Abstract Meaning Representation for Knowledge Base Question Answering**<br/>
-*Pavan Kapanipathi, Ibrahim Abdelaziz, Srinivas Ravishankar, Salim Roukos, Alexander Gray, Ramón Fernandez Astudillo, Maria Chang, Cristina Cornelio, Saswati Dana, Achille Fokoue, Dinesh Garg, Alfio Gliozzo, Sairam Gurajada, Hima Karanam, Naweed Khan, Dinesh Khandelwal, Young-Suk Lee, Yunyao Li, Francois Luus, Ndivhuwo Makondo, Nandana Mihindukulasooriya, Tahira Naseem, Sumit Neelam, Lucian Popa, Revanth Gangi Reddy, Ryan Riegel, Gaetano Rossiello, Udit Sharma, G P Shrivatsa Bhargav and Mo Yu*
- 
-**Perceptual Models of Machine-Edited Text**<br/>
-*Elizabeth Merkhofer, Monica-Ann Mendoza, Rebecca Marvin and John Henderson*
-
-**Scaling Within Document Coreference to Long Texts**<br/>
-*Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum*
-
-**LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer**<br/>
-*Machel Reid and Victor Zhong*
-
-**Constructing Flow Graphs from Procedural Cybersecurity Texts**<br/>
-*Kuntal Kumar Pal, Kazuaki Kashihara, Pratyay Banerjee, Swaroop Mishra, Ruoyu Wang and Chitta Baral*
-
-**Cluster-Former: Clustering-based Sparse Transformer for Question Answering**<br/>
-*Shuohang Wang, Luowei Zhou, Zhe Gan, Yen-Chun Chen, Yuwei Fang, Siqi Sun, Yu Cheng and Jingjing Liu*
-
-**Multi-Task Learning and Adapted Knowledge Models for Emotion-Cause Extraction**<br/>
-*Elsbeth Turcan, Shuai Wang, Rishita Anubhai, Kasturi Bhattacharjee, Yaser Al-Onaizan and Smaranda Muresan*
