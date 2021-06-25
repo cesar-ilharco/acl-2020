@@ -2932,3 +2932,8 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference**<br/>
 *Hai Hu, He Zhou, Zuoyu Tian, Yiwen Zhang, Yina Patterson, Yanting Li, Yixin Nie and Kyle Richardson*
 
+**Using surprisal and fMRI to map the neural bases of broad and local contextual prediction during natural language comprehension**<br/>
+*Shohini Bhattasali and Philip Resnik*
+
+
+
