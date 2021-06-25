@@ -2748,3 +2748,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Learning Sequential and Structural Information for Source Code Summarization**<br/>
 *YunSeok Choi, JinYeong Bak, CheolWon Na and Jee-Hyong Lee*
+
+**Energy-based Unknown Intent Detection with Data Manipulation**<br/>
+*Yawen Ouyang, Jiasheng Ye, Yu Chen, Xinyu Dai, Shujian Huang and Jiajun Chen*
+
+**Automatic Rephrasing of Transcripts-based Action Items**<br/>
+*Amir Cohen, Amir Kantor, Sagi Hilleli and Eyal Kolman*
+
+**MergeDistill: Merging Language Models using Pre-trained Distillation**<br/>
+*Simran Khanuja, Melvin Johnson and Partha Talukdar*
+
+**On Sparsifying Encoder Outputs in Sequence-to-Sequence Models**<br/>
+*Biao Zhang, Ivan Titov and Rico Sennrich*
+
+**FrameNet-assisted Noun Compound Interpretation**<br/>
+*Girishkumar Ponkiya, Diptesh Kanojia, Pushpak Bhattacharyya and Girish Palshikar*
+
+**Hypernym Discovery via a Recurrent Mapping Model**<br/>
+*Yuhang Bai, Richong Zhang, Fanshuang Kong, Junfan Chen and Yongyi Mao*
+
+**On the Interaction of Belief Bias and Explanations**<br/>
+*Ana Valeria Gonzalez, Anna Rogers and Anders Sogaard*
+
+**Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction**<br/>
+*Jinpeng Zhang, Baijun Ji, Nini Xiao, Xiangyu Duan, Min Zhang, Yangbin Shi and Weihua Luo*
+
+**Exploring Unsupervised Pretraining Objectives for Machine Translation**<br/>
+*Christos Baziotis, Ivan Titov, Alexandra Birch and Barry Haddow*
+
+**Knowledge-Grounded Dialogue Generation with Term-level De-noising**<br/>
+*Wen Zheng, Natasa Milic-Frayling and Ke Zhou*
+
+**Inspecting the concept knowledge graph encoded by modern language models**<br/>
+*Carlos Aspillaga, Marcelo Mendoza and Alvaro Soto*
+
+**Latent Reasoning for Low-Resource Question Generation**<br/>
+*Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang*
+
+**Probing Pre-Trained Language Models for Disease Knowledge**<br/>
+*Israa Alghanmi, Luis Espinosa Anke and Steven Schockaert*
+
+**AugVic: Exploiting BiText Vicinity for Low-Resource NMT**<br/>
+*Tasnim Mohiuddin, M Saiful Bari and Shafiq Joty*
+
+**Provably Secure Generative Linguistic Steganography**<br/>
+*Siyu Zhang, Zhongliang Yang, Jinshuai Yang and Yongfeng Huang*
+
+**Decoupled Dialogue Modeling and Semantic Parsing for Multi-Turn Text-to-SQL**<br/>
+*Zhi Chen, Lu Chen, Hanqi Li, Ruisheng Cao, Da Ma, Mengyue Wu and Kai Yu*
+
+**Adjacency List Oriented Relational Fact Extraction via Adaptive Multi-task Learning**<br/>
+*Fubang Zhao, Zhuoren Jiang, Yangyang Kang, Changlong Sun and Xiaozhong Liu*
+
+**Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**<br/>
+*Dvir Ginzburg, Itzik Malkiel, Oren Barkan, Avi Caciularu and Noam Koenigstein*
+
+**How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact**<br/>
+*Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan and Rada Mihalcea*
+
+**IgSEG: Image-guided Story Ending Generation**<br/>
+*Qingbao Huang, Chuan Huang, Linzhang Mo, Jielong Wei, Yi Cai, Ho-fung Leung and Qing Li*
+ 
+**Probabilistic Graph Reasoning for Natural Proof Generation**<br/>
+*Changzhi Sun, Xinbo Zhang, Jiangjie Chen, Chun Gan, Yuanbin Wu, Jiaze Chen, Hao Zhou and Lei Li*
+
+**Dialogue Graph Modeling for Conversational Machine Reading**<br/>
+*Siru Ouyang, Zhuosheng Zhang and Hai Zhao*
+
+**IndoCollex: A Testbed for Morphological Transformation of Indonesian Word Colloquialism**<br/>
+*Haryo Akbarianto Wibowo, Made Nindyatama Nityasya, Afra Feyza Akyürek, Suci Fitriany, Alham Fikri Aji, Radityo Eko Prasojo and Derry Tanti Wijaya*
+
+**Effective Cascade Dual-Decoder Model for Joint Entity and Relation Extraction**<br/>
+*Lianbo Ma, Huimin Ren, Zhiwei Lin and Xiliang Zhang*
+
+**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**<br/>
+*Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu*
