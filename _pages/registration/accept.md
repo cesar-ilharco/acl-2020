@@ -2397,3 +2397,34 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Enhancing Label Correlation Feedback in Multi-Label Text Classification via Multi-Task Learning**<br/>
 *Ximing Zhang, Qian-Wen Zhang, Zhao Yan, Ruifang Liu and Yunbo Cao*
+
+**Unsupervised Energy-based Adversarial Domain Adaptation for Cross-domain Text Classification**<br/>
+*Han Zou, Jianfei Yang and Xiaojian Wu*
+
+**Survival text regression for time-to-event prediction in conversations**<br/>
+*Christine De Kock and Andreas Vlachos*
+
+**Unsupervised Knowledge Selection for Dialogue Generation**<br/>
+*Xiuyi Chen, Feilong Chen, Fandong Meng, Peng Li and Jie Zhou*
+
+**Minimax and Neyman–Pearson Meta-Learning for Outlier Languages**<br/>
+*Edoardo Maria Ponti, Rahul Aralikatte, Disha Shrivastava, Siva Reddy and Anders Sogaard*
+ 
+**On-the-Fly Attention Modulation for Neural Generation**<br/>
+*Yue Dong, Chandra Bhagavatula, Ximing Lu, Jena D. Hwang, Antoine Bosselut, Jackie Chi Kit Cheung and Yejin Choi*
+
+**Enhanced Metaphor Detection via Incorporation of External Knowledge Based on Linguistic Theories**<br/>
+*Chang Su, Kechun Wu and Yijiang Chen*
+
+**Controlling Text Edition by Changing Answers of Specific Questions**<br/>
+*Lei Sha, Patrick Hohenecker and Thomas Lukasiewicz*
+
+**Manual Evaluation Matters: Reviewing Test Protocols of Distantly Supervised Relation Extraction**<br/>
+*Tianyu Gao, Xu Han, Yuzhuo Bai, Keyue Qiu, Zhiyu Xie, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun and Jie Zhou*
+
+**GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation**<br/>
+*Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, Yunxiao Zhao and Xiaoqi Han*
+
+**Zero-shot Label-Aware Event Trigger and Argument Classification**<br/>
+*Hongming Zhang, Haoyu Wang and Dan Roth*
+
