@@ -2569,3 +2569,32 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Evaluating Word Embeddings with Categorical Modularity**<br/>
 *Silvia Casacuberta, Karina Halevy and Damian Blasi*
 
+**Attention-based Contextual Language Model Adaptation for Speech Recognition**<br/>
+*Richard Diehl Martinez, Scott Novotney, Ivan Bulyko, Ariya Rastrow, Andreas Stolcke and Ankur Gandhe*
+ 
+**Exploring Cross-Lingual Transfer Learning with Unsupervised Machine Translation**<br/>
+*Chao Wang, Judith Gaspers, Thi Ngoc Quynh Do and Hui Jiang*
+
+**Pipeline Signed Japanese Translation Focusing on a Post-positional Particle Complement and Conjugation in a Low-resource Setting**<br/>
+*Ken Yano and Akira Utsumi*
+
+**Language-Mediated, Object-Centric Representation Learning**<br/>
+*Ruocheng Wang, Jiayuan Mao, Samuel Gershman and Jiajun Wu*
+ 
+**Entheos: A Multimodal Dataset for Studying Enthusiasm**<br/>
+*Carla Viegas and Malihe Alikhani*
+
+**Are Rotten Apples Edible? Challenging Commonsense Inference Ability with Exceptions**<br/>
+*Nam Do and Ellie Pavlick*
+
+**GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning**<br/>
+*Zilong Zheng, Shuwen Qiu, Lifeng Fan, Yixin Zhu and Song-Chun Zhu*
+
+**Automatic Document Sketching: Generating Drafts from Analogous Texts**<br/>
+*Zeqiu Wu, Michel Galley, Chris Brockett, Yizhe Zhang and Bill Dolan*
+
+**Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading**<br/>
+*Zhihan Zhou, Liqian Ma and Han Liu*
+
+**Language-based General Action Template for Reinforcement Learning Agents**<br/>
+*Ryosuke Kohita, Akifumi Wachi, Daiki Kimura, Subhajit Chaudhury, Michiaki Tatsubori and Asim Munawar*
