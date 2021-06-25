@@ -2812,3 +2812,14 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Probabilistic Graph Reasoning for Natural Proof Generation**<br/>
 *Changzhi Sun, Xinbo Zhang, Jiangjie Chen, Chun Gan, Yuanbin Wu, Jiaze Chen, Hao Zhou and Lei Li*
 
+**Dialogue Graph Modeling for Conversational Machine Reading**<br/>
+*Siru Ouyang, Zhuosheng Zhang and Hai Zhao*
+
+**IndoCollex: A Testbed for Morphological Transformation of Indonesian Word Colloquialism**<br/>
+*Haryo Akbarianto Wibowo, Made Nindyatama Nityasya, Afra Feyza Akyurek, Suci Fitriany, Alham Fikri Aji, Radityo Eko Prasojo and Derry Tanti Wijaya*
+
+**Effective Cascade Dual-Decoder Model for Joint Entity and Relation Extraction**<br/>
+*Lianbo Ma, Huimin Ren, Zhiwei Lin and Xiliang Zhang*
+
+**Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**<br/>
+*Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu*
