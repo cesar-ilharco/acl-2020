@@ -2779,3 +2779,36 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Knowledge-Grounded Dialogue Generation with Term-level De-noising**<br/>
 *Wen Zheng, Natasa Milic-Frayling and Ke Zhou*
 
+**Inspecting the concept knowledge graph encoded by modern language models**<br/>
+*Carlos Aspillaga, Marcelo Mendoza and Alvaro Soto*
+
+**Latent Reasoning for Low-Resource Question Generation**<br/>
+*Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang*
+
+**Probing Pre-Trained Language Models for Disease Knowledge**<br/>
+*Israa Alghanmi, Luis Espinosa Anke and Steven Schockaert*
+
+**AugVic: Exploiting BiText Vicinity for Low-Resource NMT**<br/>
+*Tasnim Mohiuddin, M Saiful Bari and Shafiq Joty*
+
+**Provably Secure Generative Linguistic Steganography**<br/>
+*Siyu Zhang, Zhongliang Yang, Jinshuai Yang and Yongfeng Huang*
+
+**Decoupled Dialogue Modeling and Semantic Parsing for Multi-Turn Text-to-SQL**<br/>
+*Zhi Chen, Lu Chen, Hanqi Li, Ruisheng Cao, Da Ma, Mengyue Wu and Kai Yu*
+
+**Adjacency List Oriented Relational Fact Extraction via Adaptive Multi-task Learning**<br/>
+*Fubang Zhao, Zhuoren Jiang, Yangyang Kang, Changlong Sun and Xiaozhong Liu*
+
+**Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**<br/>
+*Dvir Ginzburg, Itzik Malkiel, Oren Barkan, Avi Caciularu and Noam Koenigstein*
+
+**How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact**<br/>
+*Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan and Rada Mihalcea*
+
+**IgSEG: Image-guided Story Ending Generation**<br/>
+*Qingbao Huang, Chuan Huang, Linzhang Mo, Jielong Wei, Yi Cai, Ho-fung Leung and Qing Li*
+ 
+**Probabilistic Graph Reasoning for Natural Proof Generation**<br/>
+*Changzhi Sun, Xinbo Zhang, Jiangjie Chen, Chun Gan, Yuanbin Wu, Jiaze Chen, Hao Zhou and Lei Li*
+
