@@ -2823,3 +2823,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling**<br/>
 *Yutai Hou, Yongkui Lai, Cheng Chen, Wanxiang Che and Ting Liu*
+
+**Insertion-based Tree Decoding**<br/>
+*Denis Lukovnikov and Asja Fischer*
+
+**Detecting Bot-Generated Text by Characterizing Linguistic Accommodation in Human-Bot Interactions**<br/>
+*Paras Bhatt and Anthony Rios*
+
+**Defending Pre-trained Language Models from Adversarial Word Substitution Without Performance Sacrifice**<br/>
+*Rongzhou Bao, Jiayi Wang and Hai Zhao*
+
+**BERT-Proof Syntactic Structures: Investigating Errors in Discontinuous Constituency Parsing**<br/>
+*Maximin Coavoux*
+
+**Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures**<br/>
+*Sebastien Montella, Lina M. Rojas Barahona and Johannes Heinecke*
+
+**Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering**<br/>
+*Aditya Gupta, Jiacheng Xu, Shyam Upadhyay, Diyi Yang and Manaal Faruqui*
+
+**Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification**<br/>
+*Yada Pruksachatkun, Satyapriya Krishna, Jwala Dhamala, Rahul Gupta and Kai-Wei Chang*
+
+**A Joint Model for Structure-based News Genre Classification with Application to Text Summarization**<br/>
+*Zeyu Dai and Ruihong Huang*
+
+**Representing Syntax and Composition with Geometric Transformations**<br/>
+*Lorenzo Bertolini, Julie Weeds, David Weir and Qiwei Peng*
+
+**To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text**<br/>
+*Matt Wilber, William Timkey and Marten Van Schijndel*
+
+**AgreeSum: Agreement-Oriented Multi-Document Summarization**<br/>
+*Richard Yuanzhe Pang, Adam Lelkes, Vinh Tran and Cong Yu*
+
+**BERT Busters: Outlier Dimensions that Disrupt Transformers**<br/>
+*Olga Kovaleva, Saurabh Kulshreshtha, Anna Rogers and Anna Rumshisky*
+
+**"We will Reduce Taxes" - Identifying Election Pledges with Language Models**<br/>
+*Tommaso Fornaciari, Dirk Hovy, Elin Naurin, Julia Runeson, Robert Thomson and Pankaj Adhikari*
+
+**WeaQA: Weak Supervision via Captions for Visual Question Answering**<br/>
+*Pratyay Banerjee, Tejas Gokhale, Yezhou Yang and Chitta Baral*
+
+**How well do you know your summarization datasets?**<br/>
+*Priyam Tejaswin, Dhruv Naik and Pengfei Liu*
+
+**Multilingual Translation from Denoising Pre-Training**<br/>
+*Yuqing Tang, Chau Tran, Xian Li, Peng-Jen Chen, Naman Goyal, Vishrav Chaudhary, Jiatao Gu and Angela Fan*
+
+**Annotations Matter: Leveraging Multi-task Learning to Parse UD and SUD**<br/>
+*Zeeshan Ali Sayyed and Daniel Dakota*
+
+**Generating Informative Conclusions for Argumentative Texts**<br/>
+*Shahbaz Syed, Khalid Al Khatib, Milad Alshomary, Henning Wachsmuth and Martin Potthast*
+
+**Substructure Substitution: Structured Data Augmentation for NLP**<br/>
+*Haoyue Shi, Karen Livescu and Kevin Gimpel*
+
+**Towards Protecting Vital Healthcare Programs by Extracting Actionable Knowledge from Policy**<br/>
+*Vanessa Lopez, Nagesh Yadav, Gabriele Picco, Inge Vejsbjerg, Eoin Carrol, Seamus Brady, Marco Luca Sbodio, Lam Thanh Hoang, Miao Wei and John Segrave*
+
+**Not Far Away, Not So Close: Sample Efficient Nearest Neighbour Data Augmentation via MiniMax**<br/>
+*Ehsan Kamalloo, Mehdi Rezagholizadeh, Peyman Passban and Ali Ghodsi*
+
+**It's All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual Transfer in Commonsense Reasoning**<br/>
+*Alexey Tikhonov and Max Ryabinin*
+
+**Biomedical Interpretable Entity Representations**<br/>
+*Diego Garcia-Olano, Yasumasa Onoe, Ioana Baldini, Joydeep Ghosh, Byron Wallace and Kush Varshney*
+
+**Learning Robust Latent Representations for Controllable Speech Synthesis**<br/>
+*Shakti Kumar, Jithin Pradeep and Hussain Zaidi*
+
+**How to Split: the Effect of Word Segmentation on Gender Bias in Speech Translation**<br/>
+*Marco Gaido, Beatrice Savoldi, Luisa Bentivogli, Matteo Negri and Marco Turchi*
