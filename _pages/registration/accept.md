@@ -2448,3 +2448,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Global Attention Decoder for Chinese Spelling Error Correction**<br/>
 *Zhao Guo, Yuan Ni, Keqiang Wang, Wei Zhu and Guotong Xie*
+
+**Exploring the Role of Context in Utterance-level Emotion, Act and Intent Classification in Conversations: An Empirical Study**<br/>
+*Deepanway Ghosal, Navonil Majumder, Rada Mihalcea and Soujanya Poria*
+
+**Putting words into the system's mouth: A targeted attack on neural machine translation using monolingual data poisoning**<br/>
+*Jun Wang, Chang Xu, Francisco Guzman, Ahmed El-Kishky, Yuqing Tang, Benjamin Rubinstein and Trevor Cohn*
+
+**Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction**<br/>
+*Zhexue Chen, Hong Huang, Bang Liu, Xuanhua Shi and Hai Jin*
+
+**PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support**<br/>
+*Hao Sun, Zhenru Lin, Chujie Zheng, Siyang Liu and Minlie Huang*
+
+**RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge**<br/>
+*Bill Yuchen Lin, Ziyi Wu, Yichi Yang, Dong-Ho Lee and Xiang Ren*
+
+**Learning to Generate Questions by Learning to Recover Answer-containing Sentences**<br/>
+*Seohyun Back, Akhil Kedia, Sai Chetan Chinthakindi, Haejun Lee and Jaegul Choo*
+
+**Making Better Use of Bilingual Information for Cross-Lingual AMR Parsing**<br/>
+*Yitao Cai, Zhe Lin and Xiaojun Wan*
+
+**Pushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach**<br/>
+*Zhe Lin and Xiaojun Wan*
+
+**Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models**<br/>
+*Junyi Li, Tianyi Tang, Wayne Xin Zhao, Zhicheng Wei, Nicholas Jing Yuan and Ji-Rong Wen*
+
+**NAST: A Non-Autoregressive Generator with Word Alignment for Unsupervised Text Style Transfer**<br/>
+*Fei Huang, Zikai Chen, Chen Henry Wu, Qihan Guo, Xiaoyan Zhu and Minlie Huang*
+
+**HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management**<br/>
+*Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu and Minlie Huang*
+
+**Target-oriented Fine-tuning for Zero-Resource Named Entity Recognition**<br/>
+*Ying Zhang, Fandong Meng, Yufeng Chen, Jinan Xu and Jie Zhou*
+
+**BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks**<br/>
+*Yannik Keller, Jan Mackensen and Steffen Eger*
+
+**Event Detection as Graph Parsing**<br/>
+*Jianye Xie, Haotong Sun, Junsheng Zhou, Weiguang Qu and Xinyu Dai*
+
+**Toward Fully Exploiting Heterogeneous Corpus: A Decoupled Named Entity Recognition Model with Two-stage Training**<br/>
+*Yun Hu, Yeshuang Zhu, Jinchao Zhang, Changwen Zheng and Jie Zhou*
+
+**Discriminative Reasoning for Document-level Relation Extraction**<br/>
+*Wang Xu, Kehai Chen and Tiejun Zhao*
+
+**Meta-Learning Adversarial Domain Adaptation Network for Few-Shot Text Classification**<br/>
+*Chengcheng Han, Zeqiu Fan, Dongxiang Zhang, Minghui Qiu, Ming Gao and Aoying Zhou*
+
+**Documents Representation via Generalized Coupled Tensor Chain with the Rotation Group constraint**<br/>
+*Igor Vorona, Anh-Huy Phan, Alexander Panchenko and Andrzej Cichocki*
+
+**Improving Unsupervised Extractive Summarization with Facet-Aware Modeling**<br/>
+*Xinnian Liang, Shuangzhi Wu, Mu Li and Zhoujun Li*
+
+**Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder**<br/>
+*Yao Qiu, Jinchao Zhang and Jie Zhou*
+
+**Multi-Granularity Contrasting for Cross-Lingual Pre-Training**<br/>
+*Shicheng Li, Pengcheng Yang, Fuli Luo and Jun Xie*
+
+**A Comparison between Pre-training and Large-scale Back-translation for Neural Machine Translation**<br/>
+*Dandan Huang, Kun Wang and Yue Zhang*
+
+**Bi-Granularity Contrastive Learning for Post-Training in Few-Shot Scene**<br/>
+*Ruikun Luo, Guanhuan Huang and Xiaojun Quan*
+
+**KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion**<br/>
+*Jie Zhou, Shengding Hu, Xin Lv, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li and Maosong Sun*
+
+**A Query-Driven Topic Model**<br/>
+*Zheng Fang, Yulan He and Rob Procter*
