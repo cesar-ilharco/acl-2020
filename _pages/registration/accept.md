@@ -2378,7 +2378,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Sihong Liu, Jinchao Zhang, Keqing He, Weiran Xu and Jie Zhou*
 
 **Do Explanations Help Users Detect Errors in Open-Domain QA? An Evaluation of Spoken vs. Visual Explanations**<br/>
-*Ana Valeria González, Gagan Bansal, Angela Fan, Yashar Mehdad, Robin Jia and Srinivasan Iyer*
+*Ana Valeria Gonzalez, Gagan Bansal, Angela Fan, Yashar Mehdad, Robin Jia and Srinivasan Iyer*
 
 **OntoEA: Ontology-guided Entity Alignment via Joint Knowledge Graph Embedding**<br/>
 *Yuejia Xiang, Ziheng Zhang, Jiaoyan Chen, Xi Chen, Zhenxi Lin and Yefeng Zheng*
