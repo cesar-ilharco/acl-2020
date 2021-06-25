@@ -2553,27 +2553,3 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Studying the Evolution of Scientific Topics and their Relationships**<br/>
 *Ana Sabina Uban, Cornelia Caragea and Liviu P. Dinu*
-
-**A Mixed-Method Design Approach for Empirically Based Selection of Unbiased Data Annotators**<br/>
-*Gautam Thakur, Janna Caspersen, Drahomira Herrmannova, Bryan Eaton and Jordan Burdette*
-
-**An Evaluation of Disentangled Representation Learning for Texts**<br/>
-*Krishnapriya Vishnubhotla, Graeme Hirst and Frank Rudzicz*
-
-**Knowing More About Questions Can Help: Improving Calibration in Question Answering**<br/>
-*Shujian Zhang, Chengyue Gong and Eunsol Choi*
-
-**Enhancing Metaphor Detection by Gloss-based Interpretations**<br/>
-*Hai Wan, Jinxia Lin, Jianfeng Du, Dawei Shen and Manrong Zhang*
-
-**Evaluating Word Embeddings with Categorical Modularity**<br/>
-*Sílvia Casacuberta, Karina Halevy and Damian Blasi*
-
-**Attention-based Contextual Language Model Adaptation for Speech Recognition**<br/>
-*Richard Diehl Martinez, Scott Novotney, Ivan Bulyko, Ariya Rastrow, Andreas Stolcke and Ankur Gandhe*
- 
-**Exploring Cross-Lingual Transfer Learning with Unsupervised Machine Translation**<br/>
-*Chao Wang, Judith Gaspers, Thi Ngoc Quynh Do and Hui Jiang*
-
-**Pipeline Signed Japanese Translation Focusing on a Post-positional Particle Complement and Conjugation in a Low-resource Setting**<br/>
-*Ken Yano and Akira Utsumi*
