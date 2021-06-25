@@ -3124,3 +3124,54 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **EBERT: Efficient BERT Inference with Dynamic Structured Pruning**<br/>
 *Zejian Liu, Fanrong Li, Gang Li and Jian Cheng*
+
+**Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation**<br/>
+*Peng Wang, Junyang Lin, An Yang, Chang Zhou, Yichang Zhang, Jingren Zhou and Hongxia Yang*
+
+**TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation**<br/>
+*Shizhe Diao, Xinwei Shen, Kashun Shum, Yan Song and Tong Zhang*
+
+**John praised Mary because _he_? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs**<br/>
+*Yova Kementchedjhieva, Mark Anderson and Anders Sogaard*
+
+**Enhancing the Open-Domain Dialogue Evaluation in Latent Space**<br/>
+*Zhangming Chan, Lemao Liu, Juntao Li, Haisong Zhang, Dongyan Zhao, Shuming Shi and Rui Yan*
+
+**DocNLI: A Large-scale Dataset for Document-level Natural Language Inference**<br/>
+*Wenpeng Yin, Dragomir Radev and Caiming Xiong*
+
+**Are Multilingual Models the Best Choice for Moderately Under-resourced Languages? A Comprehensive Assessment for Catalan**<br/>
+*Jordi Armengol-Estape, Casimiro Pio Carrino, Carlos Rodriguez-Penagos, Ona De Gibert Bonet, Carme Armentano-Oller, Aitor Gonzalez-Agirre, Maite Melero and Marta Villegas*
+
+**Language Models Use Monotonicity to Assess NPI Licensing**<br/>
+*Jaap Jumelet, Milica Denic, Jakub Szymanik, Dieuwke Hupkes and Shane Steinert-Threlkeld*
+
+**Slot Transferability for Cross-domain Slot Filling**<br/>
+*Hengtong Lu, Zhuoxin Han, Caixia Yuan, Xiaojie Wang, Shuyu Lei, Huixing Jiang and Wei Wu*
+
+**Word Graph Guided Summarization for Radiology Findings**<br/>
+*Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan and Tsung-Hui Chang*
+
+**Generalized Supervised Attention for Text Generation**<br/>
+*Yixian Liu, Liwen Zhang, Xinyu Zhang, Yong Jiang, Yue Zhang and Kewei Tu*
+
+**Automatically Select Emotion for Response via Personality-affected Emotion Transition**<br/>
+*Zhiyuan Wen, Jiannong Cao, Ruosong Yang, Shuaiqi Liu and Jiaxing Shen*
+
+**Phrase-Level Action Reinforcement Learning for Neural Dialog Response Generation**<br/>
+*Takato Yamazaki and Akiko Aizawa*
+
+**Automatic Speech Recognition in Sanskrit: A New Speech Corpus and Modelling Insights**<br/>
+*Devaraja Adiga, Rishabh Kumar, Amrith Krishna, Preethi Jyothi, Ganesh Ramakrishnan and Pawan Goyal*
+
+**DialogSum: A Real-Life Scenario Dialogue Summarization Dataset**<br/>
+*Yulong Chen, Yang Liu, Liang Chen and Yue Zhang*
+
+**What Did You Refer to? Evaluating Co-References in Dialogue**<br/>
+*Wei-Nan Zhang, Yue Zhang, Hanlin Tang, Zhengyu Zhao, Caihai Zhu and Ting Liu*
+
+**Controllable Abstractive Dialogue Summarization with Sketch Supervision**<br/>
+*Chien-Sheng Wu, Linqing Liu, Wenhao Liu, Pontus Stenetorp and Caiming Xiong*
+
+**Elaborative Simplification: Content Addition and Explanation Generation in Text Simplification**<br/>
+*Neha Srikanth and Junyi Jessy Li*
