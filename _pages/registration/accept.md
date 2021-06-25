@@ -2298,5 +2298,81 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection**<br/>
 *Jiawen Li, Shiwen Ni and Hung-Yu Kao*
-<<More>>
+
+**Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking**<br/>
+*Heng-Da Xu, Zhongli Li, Qingyu Zhou, Chao Li, Zizhen Wang, Yunbo Cao, Heyan Huang and Xian-Ling Mao*
+
+**TransSum: Translating Aspect and Sentiment Embeddings for Self-Supervised Opinion Summarization**<br/>
+*Ke Wang and Xiaojun Wan*
+
+**Hashing based Efficient Inference for Image-Text Matching**<br/>
+*Rong-Cheng Tu, Lei Ji, Huaishao Luo, Botian Shi, Heyan Huang, Nan Duan and Xian-Ling Mao*
+
+**Rationalization through Concepts**<br/>
+*Diego Antognini and Boi Faltings*
+
+**Parallel Attention Network with Sequence Matching for Video Grounding**<br/>
+*Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou and Siow Mong Rick Goh*
+
+**MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training**<br/>
+*Mingliang Zeng, Xu Tan, Rui Wang, Zeqian Ju, Tao Qin and Tie-Yan Liu*
+
+**CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation**<br/>
+*Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng and Minlie Huang*
+
+**UniKeyphrase: A Unified Extraction and Generation Framework for Keyphrase Prediction**<br/>
+*Huanqin Wu, Wei Liu, Lei Li, Dan Nie, Tao Chen, Feng Zhang and Di Wang*
+
+**As Good as New. How to Successfully Recycle English GPT-2 to Make Models for Other Languages**<br/>
+*Wietse De Vries and Malvina Nissim*
+
+**Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?**<br/>
+*Clementine Fourrier, Rachel Bawden and Benoit Sagot*
+
+**What if This Modified That? Syntactic Interventions with Counterfactual Embeddings**<br/>
+*Mycal Tucker, Peng Qian and Roger Levy*
+
+**COM2SENSE: A Commonsense Reasoning Benchmark with Complementary Sentences**<br/>
+*Shikhar Singh, Nuan Wen, Yu Hou, Pegah Alipoormolabashi, Te-lin Wu, Xuezhe Ma and Nanyun Peng*
+
+**Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech**<br/>
+*Yi-Ling Chung, Serra Sinem Tekirolu and Marco Guerini*
+
+**SOLID: A Large-Scale Semi-Supervised Dataset for Offensive Language Identification**<br/>
+*Sara Rosenthal, Pepa Atanasova, Georgi Karadzhov, Marcos Zampieri and Preslav Nakov*
+
+**RealFormer: Transformer Likes Residual Attention**<br/>
+*Ruining He, Anirudh Ravula, Bhargav Kanagal and Joshua Ainslie*
+
+**Promoting Graph Awareness in Linearized Graph-to-Text Generation**<br/>
+*Alexander Miserlis Hoyle, Ana Marasovi and Noah A. Smith*
+
+**Predicting cross-linguistic adjective order with information gain**<br/>
+*William Dyer, Richard Futrell, Zoey Liu and Greg Scontras*
+
+**A Survey of Data Augmentation Approaches for NLP**<br/>
+*Steven Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura and Eduard Hovy*
+
+**Why Machine Reading Comprehension Models Learn Shortcuts?**<br/>
+*Yuxuan Lai, Chen Zhang, Yansong Feng, Quzhe Huang and Dongyan Zhao*
+
+**Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation**<br/>
+*Peerat Limkonchotiwat, Wannaphong Phatthiyaphaibun, Raheem Sarwar, Ekapol Chuangsuwanich and Sarana Nutanong*
+
+**Sensei: Self-Supervised Sensor Name Segmentation**<br/>
+*Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang*
+
+**Medical Code Assignment with Gated Convolution and Note-Code Interaction**<br/>
+*Shaoxiong Ji, Shirui Pan and Pekka Marttinen*
+
+**Dynamic Semantic Graph Construction and Reasoning for Explainable Multi-hop Science Question Answering**<br/>
+*Weiwen Xu, Huihui Zhang, Deng Cai and Wai Lam*
+
+**Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency**<br/>
+*Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng and Jie Zhou*
+
+**Code Summarization with Structure-induced Transformer**<br/>
+*Hongqiu Wu, Hai Zhao and Min Zhang*
+
+
 
