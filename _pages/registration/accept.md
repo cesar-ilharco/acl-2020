@@ -2957,11 +2957,3 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **Leveraging Abstract Meaning Representation for Knowledge Base Question Answering**<br/>
 *Pavan Kapanipathi, Ibrahim Abdelaziz, Srinivas Ravishankar, Salim Roukos, Alexander Gray, Ramón Fernandez Astudillo, Maria Chang, Cristina Cornelio, Saswati Dana, Achille Fokoue, Dinesh Garg, Alfio Gliozzo, Sairam Gurajada, Hima Karanam, Naweed Khan, Dinesh Khandelwal, Young-Suk Lee, Yunyao Li, Francois Luus, Ndivhuwo Makondo, Nandana Mihindukulasooriya, Tahira Naseem, Sumit Neelam, Lucian Popa, Revanth Gangi Reddy, Ryan Riegel, Gaetano Rossiello, Udit Sharma, G P Shrivatsa Bhargav and Mo Yu*
  
-**Perceptual Models of Machine-Edited Text**<br/>
-*Elizabeth Merkhofer, Monica-Ann Mendoza, Rebecca Marvin and John Henderson*
-
-**Scaling Within Document Coreference to Long Texts**<br/>
-*Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum*
-
-**LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer**<br/>
-*Machel Reid and Victor Zhong*
