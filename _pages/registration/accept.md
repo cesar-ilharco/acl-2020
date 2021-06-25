@@ -2936,5 +2936,20 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Shohini Bhattasali and Philip Resnik*
 
 **Assessing the Syntactic Capabilities of Transformer-based Multilingual Language Models**<br/>
-*Laura Perez-Mayos, Alba Taboas García, Simon Mille and Leo Wanner*
+*Laura Perez-Mayos, Alba Taboas Garcia, Simon Mille, and Leo Wanner*
 
+
+**Are Larger Pretrained Language Models Uniformly Better? Comparing Performance at the Instance Level**<br/>
+*Ruiqi Zhong, Dhruba Ghosh, Dan Klein and Jacob Steinhardt*
+
+**Named Entity Recognition through Deep Representation Learning and Weak Supervision**<br/>
+*Jerrod Parker and Shi Yu*
+
+**Explaining NLP Models via Minimal Contrastive Editing (MiCE)**<br/>
+*Alexis Ross, Ana Marasovi and Matthew Peters*
+
+**Differential Privacy for Text Analytics via Natural Text Sanitization**<br/>
+*Xiang Yue, Minxin Du, Tianhao Wang, Yaliang Li, Huan Sun and Sherman S. M. Chow*
+
+**Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation**<br/>
+*Prakhar Gupta, Yulia Tsvetkov and Jeffrey Bigham*
