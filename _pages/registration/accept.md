@@ -3184,5 +3184,18 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods**<br/>
 *Thomas Bott, Dominik Schlechtweg and Sabine Schulte Im Walde*
 
-**CoDesc: A Large Code–Description Parallel Dataset**<br/>
+**CoDesc: A Large Code-Description Parallel Dataset**<br/>
 *Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Ahmad, Anindya Iqbal and Rifat Shahriyar*
+
+
+**Better Chinese Sentence Segmentation with Reinforcement Learning**<br/>
+*Srivatsan Srinivasan and Chris Dyer*
+
+**Reader-Guided Passage Reranking for Open-Domain Question Answering**<br/>
+*Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han and Weizhu Chen*
+
+**LenAtten: An Effective Length Controlling Unit For Text Summarization**<br/>
+*Zhongyi Yu, Zhenghao Wu, Hao Zheng, Zhe XuanYuan, Jefferson Fong and Weifeng Su*
+
+**Using Word Embeddings to Analyze Teacher Evaluations: An Application to a Filipino Education Non-Profit Organization**<br/>
+*Francesca Vera*
