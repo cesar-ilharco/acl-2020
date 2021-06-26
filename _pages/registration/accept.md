@@ -3199,3 +3199,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Using Word Embeddings to Analyze Teacher Evaluations: An Application to a Filipino Education Non-Profit Organization**<br/>
 *Francesca Vera*
+
+**Relation Classification with Entity Type Restriction**<br/>
+*Shengfei Lyu and Huanhuan Chen*
+
+**Decoupling Adversarial Training for Fair NLP**<br/>
+*Xudong Han, Timothy Baldwin and Trevor Cohn*
+
+**GO FIGURE: A Meta Evaluation of Factuality in Summarization**<br/>
+*Saadia Gabriel, Asli Celikyilmaz, Rahul Jha, Yejin Choi and Jianfeng Gao*
+
+**Error Detection in Large-Scale Natural Language Understanding Systems Using Transformer Models**<br/>
+*Rakesh Chada, Pradeep Natarajan, Darshan Fofadiya and Prathap Ramachandra*
+
+**Benchmarking Robustness of Machine Reading Comprehension Models**<br/>
+*Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu and Shijin Wang*
+
+**Improving BERT with Syntax-aware Local Attention**<br/>
+*Zhongli Li, Qingyu Zhou, Chao Li, Ke Xu and Yunbo Cao*
+
+**Boundary Detection with BERT for Span-level Emotion Cause Analysis**<br/>
+*Xiangju Li, Wei Gao, Shi Feng, Yifei Zhang and Daling Wang*
+
+**Can the Transformer Learn Nested Recursion with Symbol Masking?**<br/>
+*Jean-Philippe Bernardy, Adam Ek and Vladislav Maraev*
+
+**Evaluating the Efficacy of Summarization Evaluation across Languages**<br/>
+*Fajri Koto, Jey Han Lau and Timothy Baldwin*
+
+**Investigating Text Simplification Evaluation**<br/>
+*Laura Vasquez-Rodriguez, Matthew Shardlow, Piotr Przybya and Sophia Ananiadou*
+
+**Frustratingly Simple Few-Shot Slot Tagging**<br/>
+*Jianqiang Ma, Zeyu Yan, Chang Li and Yang Zhang*
+
+**Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation**<br/>
+*Shun-Po Chuang, Yung-Sung Chuang, Chih-Chiang Chang and Hung-yi Lee*
+
+**Fusing Context Into Knowledge Graph for Commonsense Question Answering**<br/>
+*Yichong Xu, Chenguang Zhu, Ruochen Xu, Yang Liu, Michael Zeng and Xuedong Huang*
+
+**Grammar-Constrained Neural Semantic Parsing with LR Parsers**<br/>
+*Artur Baranowski and Nico Hochgeschwender*
+
+**Grammar-Based Patches Generation for Automated Program Repair**<br/>
+*Yu Tang, Long Zhou, Ambrosio Blanco, Shujie Liu, Furu Wei, Ming Zhou and Muyun Yang*
+
+**Exploiting Position Bias for Robust Aspect Sentiment Classification**<br/>
+*Fang Ma, Chen Zhang and Dawei Song*
+
+**Jointly Identifying Rhetoric and Implicit Emotions via Multi-Task Learning**<br/>
+*Xin Chen, Zhen Hai, Deyu Li, Suge Wang and Dian Wang*
+
+**Encouraging Neural Machine Translation to Satisfy Terminology Constraints**<br/>
+*Melissa Ailem, Jingshu Liu and Raheel Qader*
+
+**BertGCN: Transductive Text Classification by Combining GNN and BERT**<br/>
+*Yuxiao Lin, Yuxian Meng, Xiaofei Sun, Qinghong Han, Kun Kuang, Jiwei Li and Fei Wu*
+
+**UserAdapter: Few-Shot User Learning in Sentiment Analysis**<br/>
+*Wanjun Zhong, Duyu Tang, Jiahai Wang, Jian Yin and Nan Duan*
+
+**Learning Slice-Aware Representations with Mixture of Attentions**<br/>
+*Cheng Wang, Sungjin Lee, Sunghyun Park, Han Li, Young-Bum Kim and Ruhi Sarikaya*
+
+**Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning**<br/>
+*Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu and Maosong Sun*
+
+**Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification**<br/>
+*Yijin Xiong, Yukun Feng, Hao Wu, Hidetaka Kamigaito and Manabu Okumura*
+
+**How Reliable are Model Diagnostics?**<br/>
+*Vamsi Aribandi, Yi Tay and Donald Metzler*
+
+**Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts**<br/>
+*Barbara Plank*
