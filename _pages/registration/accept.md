@@ -1726,7 +1726,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 **H-Transformer-1D: Fast One-Dimensional Hierarchical Attention for Sequences**<br/>
 *Zhenhai Zhu and Radu Soricut*
 
-### Short Paper
+### Short Papers
 
 **The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes**<br/>
 *Nils Reimers and Iryna Gurevych*
@@ -3174,3 +3174,27 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Neha Srikanth and Junyi Jessy Li*
 
 ### Short Papers
+
+**Diagnosing Transformers in Task-Oriented Semantic Parsing**<br/>
+*Shrey Desai and Ahmed Aly*
+
+**More Parameters? No Thanks!**<br/>
+*Zeeshan Khan, Kartheek Akella, Vinay Namboodiri and C V Jawahar*
+
+**More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods**<br/>
+*Thomas Bott, Dominik Schlechtweg and Sabine Schulte Im Walde*
+
+**CoDesc: A Large Code–Description Parallel Dataset**<br/>
+*Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Ahmad, Anindya Iqbal and Rifat Shahriyar*
+
+**Better Chinese Sentence Segmentation with Reinforcement Learning**<br/>
+*Srivatsan Srinivasan and Chris Dyer*
+
+**Reader-Guided Passage Reranking for Open-Domain Question Answering**<br/>
+*Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han and Weizhu Chen*
+
+**LenAtten: An Effective Length Controlling Unit For Text Summarization**<br/>
+*Zhongyi Yu, Zhenghao Wu, Hao Zheng, Zhe XuanYuan, Jefferson Fong and Weifeng Su*
+
+**Using Word Embeddings to Analyze Teacher Evaluations: An Application to a Filipino Education Non-Profit Organization**<br/>
+*Francesca Vera*
