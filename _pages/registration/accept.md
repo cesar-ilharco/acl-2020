@@ -3349,3 +3349,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Learning a Reversible Embedding Mapping using Bi-Directional Manifold Alignment**<br/>
 *Ashwinkumar Ganesan, Francis Ferraro and Tim Oates*
+
+**Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph**<br/>
+*Rui Liu, Zheng Lin, Yutong Tan and Weiping Wang*
+
+**Manifold Adversarial Augmentation for Neural Machine Translation**<br/>
+*Guandan Chen, Kai Fan, Kaibo Zhang, Boxing Chen and Zhongqiang Huang*
+
+**Is the Lottery Fair? Evaluating Winning Tickets Across Demographics**<br/>
+*Victor Petren Bach Hansen and Anders Sogaard*
+
+**SSMix: Saliency-Based Span Mixup for Text Classification**<br/>
+*Soyoung Yoon, Gyuwan Kim and Kyumin Park*
+
+**DoT: An efficient Double Transformer for NLP tasks with tables**<br/>
+*Syrine Krichene, Thomas Muller and Julian Eisenschlos*
+
+**Grammatical Error Correction as GAN-like Sequence Labeling**<br/>
+*Kevin Parnow, Zuchao Li and Hai Zhao*
+
+**Neural Entity Recognition with Gazetteer based Fusion**<br/>
+*Qing Sun and Parminder Bhatia*
+
+**Figurative Language in Recognizing Textual Entailment**<br/>
+*Tuhin Chakrabarty, Debanjan Ghosh, Adam Poliak and Smaranda Muresan*
+
+**An Exploratory Analysis of the Relation between Offensive Language and Mental Health**<br/>
+*Ana-Maria Bucur, Marcos Zampieri and Liviu P. Dinu*
+
+**Do Language Models Perform Generalizable Commonsense Inference?**<br/>
+*Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
+
+**Few-Shot Upsampling for Protest Size Detection**<br/>
+*Andrew Halterman and Benjamin J. Radford*
+
+**Modeling the Unigram Distribution**<br/>
+*Irene Nikkarinen, Tiago Pimentel, Damian Blasi and Ryan Cotterell*
+
+**On the Lack of Robust Interpretability of Neural Text Classifiers**<br/>
+*Muhammad Bilal Zafar, Michele Donini, Dylan Slack, Cedric Archambeau, Sanjiv Das and Krishnaram Kenthapadi*
+
+**Multimodal Graph-based Transformer Framework for Biomedical Relation Extraction**<br/>
+*Sriram Pingali, Shweta Yadav, Pratik Dutta and Sriparna Saha*
+
+**Summary Grounded Conversation Generation**<br/>
+*Chulaka Gunasekara, Guy Feigenblat, Benjamin Sznajder, Sachindra Joshi and David Konopnicki*
+
+**On the Gap between Adoption and Understanding in NLP**<br/>
+*Federico Bianchi and Dirk Hovy*
+
+**Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification**<br/>
+*John Dougrez-Lewis, Maria Liakata, Elena Kochkina and Yulan He*
+
+**Minimally-Supervised Morphological Segmentation using Adaptor Grammars with Linguistic Priors**<br/>
+*Ramy Eskander, Cass Lowry, Sujay Khandagale, Francesca Callejas, Judith Klavans, Maria Polinsky and Smaranda Muresan*
+
+**Predicting in-hospital mortality by combining clinical notes with time-series data**<br/>
+*Iman Deznabi, Mohit Iyyer and Madalina Fiterau*
+
+**Sequence Models for Computational Etymology of Borrowings**<br/>
+*Winston Wu, Kevin Duh and David Yarowsky*
+
+**Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation**<br/>
+*Varun Gangal, Harsh Jhamtani, Eduard Hovy and Taylor Berg-Kirkpatrick*
+
+**New Dataset and Strong Baselines for the Grammatical Error Correction of Russian**<br/>
+*Viet Anh Trinh and Alla Rozovskaya*
+
+**Effective Attention Sheds Light On Interpretability**<br/>
+*Kaiser Sun and Ana Marasovi*
+
+**On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers**<br/>
+*Tianchu Ji, Shraddhan Jain, Michael Ferdman, Peter Milder, H. Andrew Schwartz and Niranjan Balasubramanian*
+
+**Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?**<br/>
+*Jieyu Zhao, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Kai-Wei Chang*
