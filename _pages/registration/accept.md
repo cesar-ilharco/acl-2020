@@ -3274,3 +3274,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts**<br/>
 *Barbara Plank*
+
+**Alternated Training with Synthetic and Authentic Data for Neural Machine Translation**<br/>
+*Rui Jiao, Zonghan Yang, Maosong Sun and Yang Liu*
+
+**End-to-End Self-Debiasing Framework for Robust NLU Training**<br/>
+*Abbas Ghaddar, Phillippe Langlais, Mehdi Rezagholizadeh and Ahmad Rashid*
+
+**Injecting Knowledge Base Information into End-to-End Joint Entity and Relation Extraction and Coreference Resolution**<br/>
+*Severine Verlinden, Klim Zaporojets, Johannes Deleu, Thomas Demeester and Chris Develder*
+
+**Annotation and Evaluation of Coreference Resolution in Screenplays**<br/>
+*Sabyasachee Baruah, Sandeep Nallan Chakravarthula and Shrikanth Narayanan*
+
+**RetroGAN: A Cyclic Post-Specialization System for Improving Out-of-Knowledge and Rare Word Representations**<br/>
+*Pedro Colon-Hernandez, Yida Xin, Henry Lieberman, Catherine Havasi, Cynthia Breazeal and Peter Chin*
+
+**Fusion: Towards Automated ICD Coding via Feature Compression**<br/>
+*Junyu Luo, Cao Xiao, Lucas Glass, Jimeng Sun and Fenglong Ma*
+
+**Is Human Scoring the Best Criteria for Summary Evaluation?**<br/>
+*Oleg Vasilyev and John Bohannon*
+
+**Assessing Dialogue Systems with Distribution Distances**<br/>
+*Jiannan Xiang, Yahui Liu, Deng Cai, Huayang Li, Defu Lian and Lemao Liu*
+
+**Structure-Aware Pre-Training for Table-to-Text Generation**<br/>
+*Xinyu Xing and Xiaojun Wan*
+
+**A Multi-Task Learning Framework for Multi-Target Stance Detection**<br/>
+*Yingjie Li and Cornelia Caragea*
+
+**MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers**<br/>
+*You Zhang, Jin Wang, Liang-Chih Yu and Xuejie Zhang*
+
+**Event Extraction from Historical Texts: A New Dataset for Black Rebellions**<br/>
+*Viet Lai, Minh Van Nguyen, Heidi Kaufman and Thien Huu Nguyen*
+
+**Zero-shot Medical Entity Retrieval without Annotation: Learning From Rich Knowledge Graph Semantics**<br/>
+*Luyang Kong, Christopher Winestock and Parminder Bhatia*
+
+**Stylized Story Generation with Style-Guided Planning**<br/>
+*Xiangzhe Kong, Jialiang Huang, Ziquan Tung, Jian Guan and Minlie Huang*
+
+**AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation**<br/>
+*Wuwei Huang, Dexin Wang and Deyi Xiong*
+
+**A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction**<br/>
+*Kohei Makino, Makoto Miwa and Yutaka Sasaki*
+
+**Enhancing Language Generation with Effective Checkpoints of Pre-trained Language Model**<br/>
+*Jeonghyeok Park and Hai Zhao*
+
+**Transformer-Exclusive Cross-Modal Representation for Vision and Language**<br/>
+*Andrew Shin and Takuya Narihira*
+
+**Progressive Multi-Granularity Training for Non-Autoregressive Translation**<br/>
+*Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao and Zhaopeng Tu*
+
+**Do Multilingual Neural Machine Translation Models Contain Language Pair Specific Attention Heads?**<br/>
+*Zae Myung Kim, Laurent Besacier, Vassilina Nikoulina and Didier Schwab*
+
+**Modeling the Influence of Verb Aspect on the Activation of Typical Event Locations with BERT**<br/>
+*Won Ik Cho, Emmanuele Chersoni, Yu-Yin Hsu and Chu-Ren Huang*
+
+**Language Tags Matter for Zero-Shot Neural Machine Translation**<br/>
+*Liwei Wu, Shanbo Cheng, Mingxuan Wang and Lei Li*
+
+**Retrieval Enhanced Model for Commonsense Generation**<br/>
+*Han Wang, Yang Liu, Chenguang Zhu, Linjun Shou, Ming Gong, Yichong Xu and Michael Zeng*
+
+**Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance**<br/>
+*Dan Su, Tiezheng Yu and Pascale Fung*
+
+**Learning a Reversible Embedding Mapping using Bi-Directional Manifold Alignment**<br/>
+*Ashwinkumar Ganesan, Francis Ferraro and Tim Oates*
