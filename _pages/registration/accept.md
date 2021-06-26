@@ -3499,3 +3499,33 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch**<br/>
 *Wenpeng Yin, Huan Wang, Jin Qu and Caiming Xiong*
+
+**Rule Augmented Unsupervised Constituency Parsing**<br/>
+*Atul Sahay, Anshul Nasery, Ayush Maheshwari, Ganesh Ramakrishnan and Rishabh Iyer*
+
+**How transfer learning impacts linguistic knowledge in deep NLP models?**<br/>
+*Nadir Durrani, Hassan Sajjad and Fahim Dalvi*
+
+**Uncertainty Aware Review Hallucination for Science Article Classification**<br/>
+*Korbinian Friedl, Georgios Rizos, Lukas Stappen, Madina Hasan, Lucia Specia, Thomas Hain and Bjorn Schuller*
+
+**Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization**<br/>
+*Shuaiqi Liu, Jiannong Cao, Ruosong Yang and Zhiyuan Wen*
+
+**Constraint based Knowledge Base Distillation in End-to-End Task Oriented Dialogs**<br/>
+*Dinesh Raghu, Atishya Jain, Mausam - and Sachindra Joshi*
+
+**Beyond Metadata: What Paper Authors Say About Corpora They Use**<br/>
+*Nikolay Kolyada, Martin Potthast and Benno Stein*
+
+**Knowledge Distillation for Quality Estimation**<br/>
+*Amit Gajbhiye, Marina Fomicheva, Fernando Alva-Manchego, Frederic Blain, Abiola Obamuyide, Nikolaos Aletras and Lucia Specia*
+
+**Cross-document Coreference Resolution over Predicted Mentions**<br/>
+*Arie Cattan, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan*
+
+**Could you give me a hint ? Generating inference graphs for defeasible reasoning**<br/>
+*Aman Madaan, Dheeraj Rajagopal, Niket Tandon, Yiming Yang and Eduard Hovy*
+
+**Characterizing Social Spambots by their Human Traits**<br/>
+*Salvatore Giorgi, Lyle Ungar and H. Andrew Schwartz*
