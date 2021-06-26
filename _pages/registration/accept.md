@@ -3424,3 +3424,78 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?**<br/>
 *Jieyu Zhao, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Kai-Wei Chang*
+
+**Answer Generation for Retrieval-based Question Answering Systems**<br/>
+*Chao-Chun Hsu, Eric Lind, Luca Soldaini and Alessandro Moschitti*
+
+**Federated Chinese Word Segmentation with Global Character Associations**<br/>
+*Yuanhe Tian, Guimin Chen, Han Qin and Yan Song*
+
+**PSED: A Dataset for Selecting Emphasis in Presentation Slides**<br/>
+*Amirreza Shirani, Giai Tran, Hieu Trinh, Franck Dernoncourt, Nedim Lipka, Jose Echevarria, Thamar Solorio and Paul Asente*
+
+**Modulating Language Models with Emotions**<br/>
+*Ruibo Liu, Jason Wei, Chenyan Jia and Soroush Vosoughi*
+
+**Benchmarking Neural Topic Models: An Empirical Study**<br/>
+*Thanh-Nam Doan and Tuan-Anh Hoang*
+
+**Analysis of Tree-Structured Architectures for Code Generation**<br/>
+*Samip Dahal, Adyasha Maharana and Mohit Bansal*
+
+**How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation?**<br/>
+*Weijia Xu, Shuming Ma, Dongdong Zhang and Marine Carpuat*
+
+**Leveraging Topic Relatedness for Argument Persuasion**<br/>
+*Xinran Zhao, Esin Durmus, Hongming Zhang and Claire Cardie*
+
+**One Teacher is Enough? Pre-trained Language Model Distillation from Multiple Teachers**<br/>
+*Chuhan Wu, Fangzhao Wu and Yongfeng Huang*
+
+**Task-adaptive Pre-training of Language Models with Word Embedding Regularization**<br/>
+*Kosuke Nishida, Kyosuke Nishida and Sen Yoshida*
+
+**Do Grammatical Error Correction Models Realize Grammatical Generalization?**<br/>
+*Masato Mita and Hitomi Yanaka*
+
+**Domain-Aware Dependency Parsing for Questions**<br/>
+*Aparna Garimella, Laura Chiticariu and Yunyao Li*
+
+**Enhancing Dialogue-based Relation Extraction by Speaker and Trigger Words Prediction**<br/>
+*Tianyang Zhao, Zhao Yan, Yunbo Cao and Zhoujun Li*
+
+**Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR**<br/>
+*Junkun Chen, Mingbo Ma, Renjie Zheng and Liang Huang*
+
+**Analyzing Code Embeddings for Coding Clinical Narratives**<br/>
+*Wei Shi, Jiewen Wu, Xiwen Yang, Nancy Chen, Ivan Ho Mien, Jung-Jae Kim and Pavitra Krishnaswamy*
+
+**Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning**<br/>
+*Zhongni Hou, Xiaolong Jin, Zixuan Li and Long Bai*
+
+**Use of Formal Ethical Reviews in NLP Literature: Historical Trends and Current Practices**<br/>
+*Sebastin Santy, Anku Rani and Monojit Choudhury*
+
+**As Easy as 1, 2, 3: Behavioural Testing of NMT Systems for Numerical Translation**<br/>
+*Jun Wang, Chang Xu, Francisco Guzman, Ahmed El-Kishky, Benjamin Rubinstein and Trevor Cohn*
+
+**BioGen: Generating Biography Summary under Table Guidance on Wikipedia**<br/>
+*Shen Gao, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan*
+
+**Multilingual Simultaneous Neural Machine Translation**<br/>
+*Philip Arthur, Dongwon Ryu and Gholamreza Haffari*
+
+**Strong and Light Baseline Models for Fact-Checking Joint Inference**<br/>
+*Kateryna Tymoshenko and Alessandro Moschitti*
+
+**Do It Once: An Embarrassingly Simple Joint Matching Approach to Response Selection**<br/>
+*Linhao Zhang, Dehong Ma, Sujian Li and Houfeng Wang*
+
+**Climbing the Tower of Treebanks: Improving Low-Resource Dependency Parsing via Hierarchical Source Selection**<br/>
+*Goran Glavas and Ivan Vuli*
+
+**Adapting Monolingual Models: Data can be Scarce when Language Similarity is High**<br/>
+*Wietse De Vries, Martijn Bartelds, Malvina Nissim and Martijn Wieling*
+
+**BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch**<br/>
+*Wenpeng Yin, Huan Wang, Jin Qu and Caiming Xiong*
