@@ -135,3 +135,9 @@ toc_max_header: 4
 
 **TweeNLP: A Twitter Exploration Portal for Natural Language Processing**<br/>
 *Viraj Shah, Shruti Singh and Mayank Singh*
+
+**{ESRA}: Explainable Scientific Research Assistant**<br/>
+*Pollawat Hongwimol, Peeranuth Kehasukcharoen, Pasit Laohawarutchai, Piyawat Lertvittayakumjorn, Aik Beng Ng, Zhangsheng Lai, Timothy Liu and Peerapon Vateekul*
+
+**{MT}-{T}elescope: {A}n interactive platform for contrastive evaluation of {MT} systems**<br/>
+*Ricardo Rei, Ana C Farinha, Craig Stewart, Luisa Coheur and Alon Lavie*
