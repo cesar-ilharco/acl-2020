@@ -1667,7 +1667,7 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 *Weile Chen, Huiqiang Jiang, Qianhui Wu, Borje Karlsson and Yi Guan*
 
 **A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies**<br/>
-*A. Seza Dor&#287;u&#246;z, Sunayana Sitaram, Barbara E. Bullock and Almeida Jacqueline Toribio*
+*A. Seza Do&#287;ru&#246;z, Sunayana Sitaram, Barbara E. Bullock and Almeida Jacqueline Toribio*
 
 **Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction**<br/>
 *Piji Li and Shuming Shi*
