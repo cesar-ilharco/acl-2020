@@ -42,3 +42,15 @@ toc_max_header: 4
 
 **ExplainaBoard: An Explainable Leaderboard for NLP**<br/>
 *Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye and Graham Neubig*
+
+**Exploring Word Usage Change with Continuously Evolving Embeddings**<br/>
+*Franziska Horn*
+
+**fastHan: A BERT-based Multi-Task Toolkit for Chinese NLP**<br/>
+*Zhichao Geng, Hang Yan, Xipeng Qiu and Xuanjing Huang*
+
+**FastSeq: Make Sequence Generation Faster**<br/>
+*Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi and Ruofei Zhang*
+
+**IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation**<br/>
+*Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, bo Zhu, Shijin Wang and Ting Liu*
