@@ -27,3 +27,18 @@ toc_max_header: 4
 
 **CRSLab: An Open-Source Toolkit for Building Conversational Recommender System**<br/>
 *Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen*
+
+**Dodrio: Exploring Transformer Models with Interactive Visualization**<br/>
+*Zijie J. Wang, Robert Turko and Duen Horng Chau*
+
+**Does My Representation Capture X? Probe-Ably**<br/>
+*Deborah Ferreira, Julia Rozanova, Mokanarangan Thayaparan, Marco Valentino and Andre Freitas*
+
+**Ecco: An Open Source Library for the Explainability of Transformer Language Models**<br/>
+*J Alammar*
+
+**Erase and Rewind: Manual Correction of NLP Output through a Web Interface**<br/>
+*Valentino Frasnelli, Lorenzo Bocchi and Alessio Palmero Aprosio*
+
+**ExplainaBoard: An Explainable Leaderboard for NLP**<br/>
+*Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye and Graham Neubig*
