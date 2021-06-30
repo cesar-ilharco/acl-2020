@@ -74,6 +74,8 @@ registration:
          url: /registration/page/
        - title: "Accepted Paper List"
          url: /registration/accept/
+       - title: "Accepted Demo Track"
+         url: /registration/demoaccept/
 
 tutorials:
    - title: Tutorial Details
