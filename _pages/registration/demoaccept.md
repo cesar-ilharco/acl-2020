@@ -120,3 +120,18 @@ toc_max_header: 4
 
 **TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing**<br/>
 *Xiao Wang, Qin Liu, Tao Gui, Qi Zhang, Yicheng Zou, Xin Zhou, Jiacheng Ye, Zhang Yongxin, Rui Zheng, Zexiong Pang, Qinzhuo Wu, Zhengyan Li, Chong Zhang, Ruotian Ma, Zichu Fei, Ruijian Cai, Jun Zhao, Xingwu Hu, Zhiheng Yan, Yiding Tan, Yuan Hu, Qiyuan Bian, Zhihua Liu, Shan Qin, Bolin Zhu, Xiaoyu Xing, Jinlan Fu, Yue Zhang, Minlong Peng, Xiaoqing Zheng, Yaqian Zhou, Zhongyu Wei, Xipeng Qiu and Xuanjing Huang*
+
+**TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**<br/>
+*Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao and Kai Gao*
+
+**The {C}lassical {L}anguage {T}oolkit: {A}n {NLP} Framework for Pre-Modern Languages**<br/>
+*Kyle P. P. Johnson, Patrick J. Burns, John D. Stewart, Todd G. Cook, Clement Besnier and William J. B. J.B. Mattingly*
+
+**Trafilatura: {A} Web Scraping Library and Command-Line Tool for Text Discovery and Extraction**<br/>
+*Adrien Barbaresi*
+
+**TURING: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface**<br/>
+*Peng Xu, Wenjie Zi, Hamidreza Shahidi, Akos Kadar, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon and Yanshuai Cao*
+
+**TweeNLP: A Twitter Exploration Portal for Natural Language Processing**<br/>
+*Viraj Shah, Shruti Singh and Mayank Singh*
