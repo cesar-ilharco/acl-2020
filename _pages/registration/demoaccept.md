@@ -54,3 +54,46 @@ toc_max_header: 4
 
 **IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation**<br/>
 *Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, bo Zhu, Shijin Wang and Ting Liu*
+
+**Inside ASCENT: Exploring a Deep Commonsense Knowledge Base and its Usage in Question Answering**<br/>
+*Tuan-Phong Nguyen, Simon Razniewski and Gerhard Weikum*
+
+**IntelliCAT: Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion**<br/>
+*Dongjun Lee, Junhyeong Ahn, Heesoo Park and Jaemin Jo*
+
+**KuiLeiXi: a Chinese Open-Ended Text Adventure Game**<br/>
+*Yadong Xi, Xiaoxi Mao, Le Li, Lei Lin, Yanjiang Chen, Shuhan Yang, Xuhan Chen, Kailun Tao, Zhi Li, Gongzheng Li, Lin Jiang, Siyan Liu, Zeng Zhao, Minlie Huang, changjie fan and Zhipeng Hu*
+
+**LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing**<br/>
+*Yu Li, Josh Arnold, Feifan Yan, Weiyan Shi and Zhou Yu*
+
+**LOA: Logical Optimal Actions for Text-based Interaction Games**<br/>
+*Daiki Kimura, Subhajit Chaudhury, Masaki Ono, Michiaki Tatsubori, Don Joven Agravante, Asim Munawar, Akifumi Wachi, Ryosuke Kohita and Alexander Gray*
+
+**Many-to-English Machine Translation Tools, Data, and Pretrained Models**<br/>
+*Thamme Gowda, Zhao Zhang, Chris Mattmann and Jonathan May*
+
+**Neural Extractive Search**<br/>
+*Shauli Ravfogel, Hillel Taub-Tabib and Yoav Goldberg*
+
+**NeurST: Neural Speech Translation Toolkit**<br/>
+*Chengqi Zhao, Mingxuan Wang, Qianqian Dong, Rong Ye and Lei Li*
+
+**OpenAttack: An Open-source Textual Adversarial Attack Toolkit**<br/>
+*Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Zixian Ma, Bairu Hou, Yuan Zang, Zhiyuan Liu and Maosong Sun*
+
+**ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus**<br/>
+*Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou and Hinrich Schutze*
+
+**PAWLS: PDF Annotation With Labels and Structure**<br/>
+*Mark Neumann, Zejiang Shen and Sam Skjonsberg*
+
+**ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**<br/>
+*Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li and Nan Duan*
+
+**REM: Efficient Semi-Automated Real-Time Moderation of Online Forums**<br/>
+*Jakob Smedegaard Andersen, Olaf Zukunft and Walid Maalej*
+
+**ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering**<br/>
+*Shuang Chen, Qian Liu, Zhiwei Yu, Chin-Yew Lin, Jian-Guang LOU and Feng Jiang*
+
