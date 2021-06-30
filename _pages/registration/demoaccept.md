@@ -108,3 +108,15 @@ toc_max_header: 4
 
 **SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization**<br/>
 *Jesse Vig, Wojciech Kryscinski, Karan Goel and Nazneen Fatema Rajani*
+
+**Supporting Complaints Investigation for Nursing and Midwifery Regulatory Agencies**<br/>
+*Piyawat Lertvittayakumjorn, Ivan Petej, Yang Gao, Yamuna Krishnamurthy, Anna van der Gaag, Robert Jago and Kostas Stathis*
+
+**TexSmart: A System for Enhanced Natural Language Understanding**<br/>
+*Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi*
+
+**TextBox: A Unified, Modularized, and Extensible Framework for Text Generation**<br/>
+*Junyi Li, Tianyi Tang, Gaole He, Jinhao Jiang, Xiaoxuan HU, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao and Ji-Rong Wen*
+
+**TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing**<br/>
+*Xiao Wang, Qin Liu, Tao Gui, Qi Zhang, Yicheng Zou, Xin Zhou, Jiacheng Ye, Zhang Yongxin, Rui Zheng, Zexiong Pang, Qinzhuo Wu, Zhengyan Li, Chong Zhang, Ruotian Ma, Zichu Fei, Ruijian Cai, Jun Zhao, Xingwu Hu, Zhiheng Yan, Yiding Tan, Yuan Hu, Qiyuan Bian, Zhihua Liu, Shan Qin, Bolin Zhu, Xiaoyu Xing, Jinlan Fu, Yue Zhang, Minlong Peng, Xiaoqing Zheng, Yaqian Zhou, Zhongyu Wei, Xipeng Qiu and Xuanjing Huang*
