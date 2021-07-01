@@ -72,7 +72,7 @@ sidebar:
 <b>SACs:</b> Jennifer Chu-Carroll, Alessandro Moschitti, Furu Wei<br/>
 <b>ACs:</b> Roberto Basili, Jordan Boyd-Graber, Weiwei Cheng, Eunsol Choi, Danilo Croce, Li Dong, Yansong Feng, Simone Filice, Radu Florian, Zornitsa Kozareva, Jing Liu, Anh Tuan Luu, Ramesh Nallapati Nallapati, Cicero Nogueira dos Santos, Siddharth Patwardhan, Matthias Petri, Oleg Rokhlenko, Minjoon Seo, Avi Sil, Luca Soldaini, Olga Uryupina, Thuy Vu, Fabio Massimo Zanzotto<br/>
 <br/>
-<b>Resource and Evaluation</b><br/>
+<b>Resources and Evaluation</b><br/>
 <b>SACs:</b> Samuel Bowman, Nancy Ide<br/>
 <b>ACs:</b> Johan Bos, Tommaso Caselli, Jesse Dodge, Kyle Gorman, Daniel Khashabi, Jin-Dong Kim, Jonathan K. Kummerfeld, John P. McCrae, Joakim Nivre, Massimo Poesio, Saku Sugawara, Adina Williams<br/>
 <br/>
