@@ -13,6 +13,9 @@ main:
   - title: "Calls"
     url: /calls/papers
 
+  - title: "Program"
+    url: /program/accept
+
   - title: "Registration"
     url: /registration/page
   
@@ -72,10 +75,6 @@ registration:
          url: /registration/volunteer/	 
        - title: "ACL-IJCNLP 2021 Registration"
          url: /registration/page/
-       - title: "Accepted Paper List"
-         url: /registration/accept/
-       - title: "Accepted Demo Track"
-         url: /registration/demoaccept/
 
 tutorials:
    - title: Tutorial Details
@@ -94,10 +93,10 @@ authors:
 program:
    - title: Program Details
      children:
-       - title: "Tutorial Proposals EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021"
-         url: https://2021.eacl.org/calls/tutorials/
-       - title: "Tutorials"
-         url: /program/tutorials/
+       - title: "Accepted Paper List"
+         url: /program/accept/
+       - title: "Accepted Demo Track"
+         url: /program/demoaccept/
 #     - title: "Workshops"
 #         url: /program/workshops/
 #       - title: "Keynote Speakers"
@@ -106,6 +105,10 @@ program:
 #         url: /program/accepted/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
+#       - title: "Tutorial Proposals EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021"
+#         url: https://2021.eacl.org/calls/tutorials/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
 
 organization:
    - title: Organization
