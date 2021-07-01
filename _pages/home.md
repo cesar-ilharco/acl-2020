@@ -9,6 +9,9 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**July 01, 2021**. <b>List of Accepted ACL-IJCNLP 2021 Paper are [here](https://2021.aclweb.org/program/accept/)</b> <font color="red">** Update **</font>
+{: .notice--info}
+
 **June 18, 2021**. <b>Online Registration for ACL-IJCNLP 2021 are [here](https://2021.aclweb.org/registration/page/)</b> <font color="red">** Update **</font>
 {: .notice--info}
 
