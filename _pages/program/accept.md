@@ -19,7 +19,7 @@ toc_max_header: 4
 *Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg and Malihe Alikhani*
 
 ### Outstanding papers
-**All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text**<br/>
+**All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text**<br/>
 *Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan and Noah A. Smith*
 
 **Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning**<br/>
