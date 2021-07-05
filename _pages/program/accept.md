@@ -9,6 +9,33 @@ toc_sticky: true
 toc_icon: "cog"
 toc_max_header: 4
 ---
+## Paper Awards
+### Best paper
+**Vocabulary Learning via Optimal Transport for Neural Machine Translation**<br/>
+*Jingjing Xu, Hao Zhou, Chun Gan, Zaixiang Zheng and Lei Li*
+
+### Best theme paper
+**Including Signed Languages in Natural Language Processing**<br/>
+*Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg and Malihe Alikhani*
+
+### Outstanding papers
+**All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text**<br/>
+*Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan and Noah A. Smith*
+
+**Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning**<br/>
+*Armen Aghajanyan, Sonal Gupta and Luke Zettlemoyer*
+
+**Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering**<br/>
+*Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei and Christopher Manning*
+
+**Neural Machine Translation with Monolingual Translation Memory**<br/>
+*Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu*
+
+**Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers**<br/>
+*Benjamin Marie, Atsushi Fujita and Raphael Rubino*
+
+**UnNatural Language Inference**<br/>
+*Koustuv Sinha, Prasanna Parthasarathi, Joelle Pineau and Adina Williams*
 
 ## Main Conference
 ### Long Papers
@@ -2030,9 +2057,6 @@ Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang and Xipeng Qiu*
 
 **Input Representations for Parsing Discourse Representation Structures: Comparing English with Chinese**<br/>
 *Chunliu Wang, Rik Van Noord, Arianna Bisazza and Johan Bos*
-
-**AdElectra - Effective Adversarial Electra**<br/>
-*Makesh Narsimhan Sreedhar, Alessandro Sordoni, Siva Reddy and Aaron Courville*
 
 **Code Generation from Natural Language with Less Prior Knowledge and More Monolingual Data**<br/>
 *Sajad Norouzi, Keyi Tang and Yanshuai Cao*
