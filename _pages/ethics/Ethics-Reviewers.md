@@ -33,3 +33,43 @@ Kathy Baxter, Salesforce, USA
 Steven Bedrick, Oregon Health & Science University, USA
 
 Luciana Benotti, Universidad Nacional de Cordoba, Argentina
+
+Steven Bird, Charles Darwin University, Australia
+
+Claudia Borg, University of Malta, Malta
+
+Jamie Brandon, Workhuman, USA
+
+Kai-Wei Chang, University of California Los Angeles, USA
+
+Luis Chiruzzo, Universidad de la Republica, Uruguay
+
+Marta R. Costa-jussa, Universitat Politecnica de Catalunya, Spain
+
+Guy Emerson, University of Cambridge, UK
+
+Albert Gatt, Institute of Linguistics and Language Technology, University of Malta, Malta
+
+Vasundhara Gautam, Simon Fraser University, Canada
+
+Dimitra Gkatzia, Edinburgh Napier University, UK
+
+Sharon Goldwater, University of Edinburgh, UK
+
+Alvin Grissom II, Haverford College, USA
+
+Jack Hessel, AI2, USA
+
+Shafiq Joty, Nanyang Technological University & Salesforce Research, Singapore
+
+Anne Lauscher, University of Mannheim, Germany
+
+Haley Lepp, Educational Testing Services, USA
+
+Nitin Madnani, Educational Testing Service, USA
+
+Emiel van Miltenburg, Tilburg University, Netherlands
+
+Aurelie Neveol, Universite Paris-Saclay, CNRS, LISN, France
+
+Nguyen Thi Minh Huyen, VNU University of Science, Hanoi, Vietnam
