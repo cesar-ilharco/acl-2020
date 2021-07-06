@@ -73,3 +73,32 @@ Emiel van Miltenburg, Tilburg University, Netherlands
 Aurelie Neveol, Universite Paris-Saclay, CNRS, LISN, France
 
 Nguyen Thi Minh Huyen, VNU University of Science, Hanoi, Vietnam
+
+Jose Ochoa-Luna, Universidad Catolica San Pablo, Peru
+
+Viviana Patti, University of Turin, Italy
+
+Ted Pedersen, University of Minnesota, USA
+
+Gabriela Ramirez-de-la-Rosa, Universidad Autonoma Metropolitana, Mexico
+
+Marta Recasens, Google, USA
+
+Tatjana Scheffler, Ruhr-Universität Bochum, Germany
+
+Kathleen Siminyu, Mozilla, Kenya
+
+Samson Tan, Salesforce Research & National University of Singapore, Singapore
+
+Rachael Tatman, Rasa, USA
+
+Esau Villatoro Tello, Universidad Autonoma Metropolitana Unidad Cuajimalpa, Mexico City & Idiap Research Institute, Martigny Switzerland
+
+Aline Villavicencio, University of Sheffield, UK
+
+Kellie Webster, Google Research, USA
+
+Rich Wicentowski, Swarthmore College, USA
+
+Jingbo Xia, Huazhong Agricultural University, China
+
