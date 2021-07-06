@@ -14,13 +14,22 @@ The Ethics Advisory Committee would like to accord thanks to all the technical r
 ### ACL-IJCNLP 2021 Ethics Reviewers
 
 Jade Abbott, Masakhane, South Africa
+
 Adewale Akinfaderin, Amazon, USA
+
 Nora Al-Twairesh, King Saud University & Saudi Data and Artificial Intelligence Authority, Saudi Arabia
+
 Laura Alonso Alemany, Universidad Nacional de Cordoba, Argentina
 David Alvarez-Melis, Microsoft Research, USA
+
 Maxime Amblard, Universite de Lorraine, France
+
 Jean-Yves Antoine, Universite de Tours, France
+
 Timothy Baldwin, The University of Melbourne, Australia
+
 Kathy Baxter, Salesforce, USA
+
 Steven Bedrick, Oregon Health & Science University, USA
+
 Luciana Benotti, Universidad Nacional de Cordoba, Argentina
