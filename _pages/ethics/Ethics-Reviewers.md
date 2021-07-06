@@ -84,7 +84,7 @@ Gabriela Ramirez-de-la-Rosa, Universidad Autonoma Metropolitana, Mexico
 
 Marta Recasens, Google, USA
 
-Tatjana Scheffler, Ruhr-Universität Bochum, Germany
+Tatjana Scheffler, Ruhr-Universitat Bochum, Germany
 
 Kathleen Siminyu, Mozilla, Kenya
 
