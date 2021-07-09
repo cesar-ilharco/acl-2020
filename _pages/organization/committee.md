@@ -131,8 +131,8 @@ Krich Nasingkun, National Electronics and Computer Technology Center, Thailand <
 [Witchaworn Mankhong](https://www.nectec.or.th/hccru/staff/view/77), NECTEC, NSTDA, Thailand<br/>
 
 <h3> Technical Support:</h3>
-[C. M. Downey](https://cmdowney88.github.io/), University of Washington, USA
-Caterina Lacerra, Sapienza University of Rome
-Rocco Tripodi, University of Bologna
-Naoki Okada, Osaka University
-Masato Yoshinaka, Osaka University
+[C. M. Downey](https://cmdowney88.github.io/), University of Washington, USA<br/>
+Caterina Lacerra, Sapienza University of Rome<br/>
+Rocco Tripodi, University of Bologna<br/>
+Naoki Okada, Osaka University<br/>
+Masato Yoshinaka, Osaka University<br/>
