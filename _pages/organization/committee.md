@@ -132,3 +132,7 @@ Krich Nasingkun, National Electronics and Computer Technology Center, Thailand <
 
 <h3> Technical Support:</h3>
 [C. M. Downey](https://cmdowney88.github.io/), University of Washington, USA
+Caterina Lacerra, Sapienza University of Rome
+Rocco Tripodi, University of Bologna
+Naoki Okada, Osaka University
+Masato Yoshinaka, Osaka University
