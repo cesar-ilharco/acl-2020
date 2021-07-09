@@ -9,6 +9,9 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**July 08, 2021**. <b>[Here](https://2021.aclweb.org/downloads/keynotes1.pdf) is the info of our keynote speakers</b> <font color="red">** Update **</font>
+{: .notice--info}
+
 **July 05, 2021**. <b>Annoucement of ACL-IJCNLP 2021 Paper Awards are [here](https://2021.aclweb.org/program/accept/)</b> <font color="red">** Update **</font>
 {: .notice--info}
 
