@@ -255,7 +255,60 @@ Difficulty-Aware Machine Translation Evaluation
 </i><br/>
 Runzhe Zhan, Xuebo Liu, Derek F. Wong and Lidia S. Chao
 </td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 2A: Sentiment Analysis, Stylistic Analysis, and Argument Mining 1
+<br/>(Session Chair: Yulan He)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>
+Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis
+</i><br/>
+Linyi Yang, Jiazheng Li, Padraig Cunningham, Yue Zhang, Barry Smyth and Ruihai Dong
+</td></tr>
+<tr>
+<td>11:10 - 11:20</td>
+<td><i>
+Bridge-Based Active Domain Adaptation for Aspect Term Extraction
+</i><br/>
+Zhuang Chen and Tieyun Qian
+</td></tr>
+<tr>
+<td>11:20 - 11:30</td>
+<td><i>
+Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks
+</i><br/>
+Xiaocui Yang, Shi Feng, Yifei Zhang and Daling Wang
+</td></tr>
+<tr>
+<td>11:30 - 11:40</td>
+<td><i>
+Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions
+</i><br/>
+Hongjie Cai, Rui Xia and Jianfei Yu
+</td></tr>
+<tr>
+<td>11:40 - 11:47</td>
+<td><i>
+Uncertainty and Surprisal Jointly Deliver the Punchline: Exploiting Incongruity-Based Features for Humor Recognition
+</i><br/>
+Yubo Xie, Junze Li and Pearl Pu
+</td></tr>
+<tr>
+<td>11:47 - 11:54</td>
+<td><i>
+Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer
+</i><br/>
+Sharmila Reddy Nangi, Niyati Chhaya, Sopan Khosla, Nikhil Kaushik and Harshit Nyati
+</td></tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>
 
+</i><br/>
+
+</td></tr>
 <tr>
 <td>10:00 - 10:10</td>
 <td><i>
