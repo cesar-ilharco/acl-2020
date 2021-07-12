@@ -18,6 +18,7 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 <tr>
 <td>08:15 - 08:35 </td>
 <td>Opening Session</td>
+</tr><tr>
 <td>08:40 - 09:00 </td>
 <td>Presidential Address</td>
 </tr>
