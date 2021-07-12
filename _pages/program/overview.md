@@ -162,6 +162,53 @@ Coreference Resolution without Span Representations
 Yuval Kirstain, Ori Ram and Omer Levy
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 1D: Information Extraction 1
+<br/>(Session Chair: Alan Akbik)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>
+Accelerating BERT Inference for Sequence Labeling via Early-Exit
+</i><br/>
+Xiaonan Li, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu and Xuanjing Huang
+</td></tr>
+<tr>
+<td>10:10 - 10:20</td>
+<td><i>
+Modularized Interaction Network for Named Entity Recognition
+</i><br/>
+Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He and meihuizi jia
+</td></tr>
+<tr>
+<td>10:20 - 10:30</td>
+<td><i>
+Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder
+</i><br/>
+Xi Xiangyu, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu
+</td></tr>
+<tr>
+<td>10:30 - 10:40</td>
+<td><i>
+UniRE: A Unified Label Space for Entity Relation Extraction
+</i><br/>
+Yijun Wang, Changzhi Sun, Yuanbin Wu, Hao Zhou, Lei Li and Junchi Yan
+</td></tr>
+<tr>
+<td>10:40 - 10:50</td>
+<td><i>
+Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction
+</i><br/>
+Li Cui, Deqing Yang, Jiaxin Yu, Chengwei Hu, Jiayang Cheng, Jingjie Yi and Yanghua Xiao
+</td></tr>
+<tr>
+<td>10:50 - 10:57</td>
+<td><i>
+Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition
+</i><br/>
+Chun Chen and Fang Kong
+</td></tr>
+<tr>
 <td>10:00 - 10:10</td>
 <td><i>
 
