@@ -209,6 +209,54 @@ Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition
 Chun Chen and Fang Kong
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 1E: Machine Translation and Multilinguality 1
+<br/>(Session Chair: Qun Liu)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>
+Contrastive Learning for Many-to-many Multilingual Neural Machine Translation
+</i><br/>
+Xiao Pan, Mingxuan Wang, Liwei Wu and Lei Li
+</td></tr>
+<tr>
+<td>10:10 - 10:20</td>
+<td><i>
+Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation
+</i><br/>
+Mathias Muller and Rico Sennrich
+</td></tr>
+<tr>
+<td>10:20 - 10:30</td>
+<td><i>
+Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation
+</i><br/>
+Hongfei Xu, Qiuhui Liu, Josef van Genabith, Deyi Xiong and Meng Zhang
+</td></tr>
+<tr>
+<td>10:30 - 10:40</td>
+<td><i>
+A Bidirectional Transformer Based Alignment Model for Unsupervised Word Alignment
+</i><br/>
+Jingyi Zhang and Josef van Genabith
+</td></tr>
+<tr>
+<td>10:40 - 10:50</td>
+<td><i>
+Learning Language Specific Sub-network for Multilingual Machine Translation
+</i><br/>
+Zehui Lin, Liwei Wu, Mingxuan Wang and Lei Li
+</td></tr>
+<tr>
+<td>10:50 - 10:57</td>
+<td><i>
+Difficulty-Aware Machine Translation Evaluation
+</i><br/>
+Runzhe Zhan, Xuebo Liu, Derek F. Wong and Lidia S. Chao
+</td></tr>
+
+<tr>
 <td>10:00 - 10:10</td>
 <td><i>
 
