@@ -350,12 +350,60 @@ DESCGEN: A Distantly Supervised Datasetfor Generating Entity Description
 Weijia Shi, Mandar Joshi and Luke Zettlemoyer
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 2C: Interpretability and Analysis of Models for NLP 1
+<br/>(Session Chair: Yonatan Belinkov)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>
+Introducing Orthogonal Constraint in Structural Probes
+</i><br/>
+Tomasz Limisiewicz and David Marecek
+</td></tr>
+<tr>
+<td>11:10 - 11:20</td>
+<td><i>
+Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger
+</i><br/>
+Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang and Maosong Sun
+</td></tr>
+<tr>
+<td>11:20 - 11:30</td>
+<td><i>
+Examining the Inductive Bias of Neural Language Models with Artificial Languages
+</i><br/>
+Jennifer C. White and Ryan Cotterell
+</td></tr>
+<tr>
+<td>11:30 - 11:40</td>
+<td><i>
+Explaining Contextualization in Language Models using Visual Analytics
+</i><br/>
+Rita Sevastjanova, Aikaterini-Lida Kalouli, Christin Beck, Hanna Schäfer and Mennatallah El-Assady
+</td></tr>
+<tr>
+<td>11:40 - 11:50</td>
+<td><i>
+Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification
+</i><br/>
+George Chrysostomou and Nikolaos Aletras
+</td></tr>
+<tr>
+<td>11:50 - 11:57</td>
+<td><i>
+Attention Flows are Shapley Value Explanations
+</i><br/>
+Kawin Ethayarajh and Dan Jurafsky
+</td></tr>
+<tr>
 <td>11:10 - 11:20</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
+
 </table>
 	
 
