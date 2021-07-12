@@ -380,7 +380,7 @@ Jennifer C. White and Ryan Cotterell
 <td><i>
 Explaining Contextualization in Language Models using Visual Analytics
 </i><br/>
-Rita Sevastjanova, Aikaterini-Lida Kalouli, Christin Beck, Hanna Schäfer and Mennatallah El-Assady
+Rita Sevastjanova, Aikaterini-Lida Kalouli, Christin Beck, Hanna Schafer and Mennatallah El-Assady
 </td></tr>
 <tr>
 <td>11:40 - 11:50</td>
