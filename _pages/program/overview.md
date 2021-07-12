@@ -25,7 +25,12 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 <td>&nbsp;</td>
 <td> 	<b>Session 1A: Computational Social Science and Cultural Analytics 1
 <br/>(Session Chair: Oren Tsur)</b></td>
+</tr><tr>
+<td>10:00 - 10:10</td>
+<td><i>Investigating label suggestions for opinion mining in German Covid-19 social media</i><br/>
+Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring and Iryna Gurevych</td>
 </tr>
+
 </table>
 	
 
