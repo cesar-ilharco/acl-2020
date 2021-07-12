@@ -397,13 +397,59 @@ Attention Flows are Shapley Value Explanations
 Kawin Ethayarajh and Dan Jurafsky
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 2D: Language Grounding to Vision, Robotics and Beyond 1
+<br/>(Session Chair: Quan Liu)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>
+Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem
+</i><br/>
+Raphael Schumann and Stefan Riezler
+</td></tr>
+<tr>
 <td>11:10 - 11:20</td>
+<td><i>
+E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning
+</i><br/>
+Haiyang Xu, Ming Yan, Chenliang Li, Bin Bi, Songfang Huang, Wenming Xiao and Fei Huang
+</td></tr>
+<tr>
+<td>11:20 - 11:30</td>
+<td><i>
+Learning Relation Alignment for Calibrated Cross-modal Retrieval
+</i><br/>
+Shuhuai Ren, Junyang Lin, Guangxiang Zhao, Rui Men, An Yang, Jingren Zhou, Xu Sun and Hongxia Yang
+</td></tr>
+<tr>
+<td>11:30 - 11:40</td>
+<td><i>
+KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation
+</i><br/>
+Yiran Xing, Zai Shi, Zhao Meng, Gerhard Lakemeyer, Yunpu Ma and Roger Wattenhofer
+</td></tr>
+<tr>
+<td>11:40 - 11:47</td>
+<td><i>
+Video Paragraph Captioning as a Text Summarization Task
+</i><br/>
+Hui Liu and Xiaojun Wan
+</td></tr>
+<tr>
+<td>11:47 - 11:54</td>
+<td><i>
+Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions
+</i><br/>
+Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart
+</td></tr>
+<tr>
+<td>11:00 - 11:10</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
-
 </table>
 	
 
