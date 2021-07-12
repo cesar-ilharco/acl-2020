@@ -21,9 +21,13 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 </tr><tr>
 <td>08:40 - 09:00 </td>
 <td><i>Presidential Address</i></td>
-</tr>
+</tr><tr>
 <td>09:00 -10:00 </td>
 <td><i>Keynote 1</i></td>
+</tr><tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 1A: Computational Social Science and Cultural Analytics 1
+<br/>(Session Chair: Oren Tsur)</b></td>
 </tr>
 </table>
 	
