@@ -132,7 +132,7 @@ Krich Nasingkun, National Electronics and Computer Technology Center, Thailand <
 
 <h3> Technical Support:</h3>
 [C. M. Downey](https://cmdowney88.github.io/), University of Washington, USA<br/>
-Caterina Lacerra, Sapienza University of Rome<br/>
-Rocco Tripodi, University of Bologna<br/>
-Naoki Okada, Osaka University<br/>
-Masato Yoshinaka, Osaka University<br/>
+[Caterina Lacerra](https://caterinalacerra.github.io/), Sapienza University of Rome<br/>
+[Rocco Tripodi](https://www.unibo.it/sitoweb/rocco.tripodi), University of Bologna<br/>
+[Naoki Okada](http://www-bigdata.ist.osaka-u.ac.jp/en/home/), Osaka University<br/>
+[Masato Yoshinaka](https://m-yoshinaka.github.io/en/), Osaka University<br/>
