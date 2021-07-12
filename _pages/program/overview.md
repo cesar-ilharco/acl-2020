@@ -39,6 +39,41 @@ How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievemen
 </i><br/>
 Chen Shani, Nadav Borenstein and Dafna Shahaf
 </td></tr>
+<tr>
+<td>10:20 - 10:30</td>
+<td><i>
+Engage the Public: Poll Question Generation for Social Media Posts
+</i><br/>
+Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu
+</td></tr>
+<tr>
+<td>10:30 - 10:40</td>
+<td><i>
+HateCheck: Functional Tests for Hate Speech Detection Models
+</i><br/>
+Paul Rottger, Bertie Vidgen, Dong Nguyen, Zeerak Waseem, Helen Margetts and Janet Pierrehumbert
+</td></tr>
+<tr>
+<td>10:40 - 10:50</td>
+<td><i>
+Unified Dual-view Cognitive Model for Interpretable Claim Verification
+</i><br/>
+Lianwei Wu, Yuan Rao, Yuqian Lan, Ling Sun and Zhaoyin Qi
+</td></tr>
+<tr>
+<td>10:50 - 10:57</td>
+<td><i>
+Catchphrase: Automatic Detection of Cultural References
+</i><br/>
+Nir Sweed and Dafna Shahaf
+</td></tr>
+<tr>
+<td>10:10 - 10:20</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
 
 </table>
 	
