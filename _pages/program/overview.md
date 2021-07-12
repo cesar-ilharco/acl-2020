@@ -115,7 +115,54 @@ On Training Instance Selection for Few-Shot Neural Text Generation
 Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh and Vera Demberg
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 1C: Dialog and Interactive Systems 1
+<br/>(Session Chair: Wei-Nan Zhang)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>
+Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
+</i><br/>
+Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng and Jie Zhou
+</td></tr>
+<tr>
 <td>10:10 - 10:20</td>
+<td><i>
+Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking
+</i><br/>
+Jinyu Guo, Kai Shuang, Jijie Li and Zihan Wang
+</td></tr>
+<tr>
+<td>10:20 - 10:30</td>
+<td><i>
+Transferable Dialogue Systems and User Simulators
+</i><br/>
+Bo-Hsiang Tseng, Yinpei Dai, Florian Kreyssig and Bill Byrne
+</td></tr>
+<tr>
+<td>10:30 - 10:40</td>
+<td><i>
+BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
+</i><br/>
+Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang and Ting Liu
+</td></tr>
+<tr>
+<td>10:40 - 10:50</td>
+<td><i>
+GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling
+</i><br/>
+Libo Qin, Fuxuan Wei, Tianbao Xie, Xiao Xu, Wanxiang Che and Ting Liu
+</td></tr>
+<tr>
+<td>10:50 - 10:57</td>
+<td><i>
+Coreference Resolution without Span Representations
+</i><br/>
+Yuval Kirstain, Ori Ram and Omer Levy
+</td></tr>
+<tr>
+<td>10:00 - 10:10</td>
 <td><i>
 
 </i><br/>
