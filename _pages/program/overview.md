@@ -303,14 +303,54 @@ Counterfactuals to Control Latent Disentangled Text Representations for Style Tr
 Sharmila Reddy Nangi, Niyati Chhaya, Sopan Khosla, Nikhil Kaushik and Harshit Nyati
 </td></tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>&nbsp;</td>
+<td> 	<b>Session 2B: Summarization 1
+<br/>(Session Chair: Min-Yen Kan)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
 <td><i>
-
+PASS: Perturb-and-Select Summarizer for Product Reviews
 </i><br/>
-
+Nadav Oved and Ran Levy
 </td></tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>11:10 - 11:20</td>
+<td><i>
+Deep Differential Amplifier for Extractive Summarization
+</i><br/>
+Ruipeng Jia, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang
+</td></tr>
+<tr>
+<td>11:20 - 11:30</td>
+<td><i>
+Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries
+</i><br/>
+Yi Yu, Adam Jatowt, Antoine Doucet, Kazunari Sugiyama and Masatoshi Yoshikawa
+</td></tr>
+<tr>
+<td>11:30 - 11:40</td>
+<td><i>
+Self-Supervised Multimodal Opinion Summarization
+</i><br/>
+Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho and Sehee Chung
+</td></tr>
+<tr>
+<td>11:40 - 11:50</td>
+<td><i>
+A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy
+</i><br/>
+Wang Chen, Piji Li and Irwin King
+</td></tr>
+<tr>
+<td>11:50 - 12:00</td>
+<td><i>
+DESCGEN: A Distantly Supervised Datasetfor Generating Entity Description
+</i><br/>
+Weijia Shi, Mandar Joshi and Luke Zettlemoyer
+</td></tr>
+<tr>
+<td>11:10 - 11:20</td>
 <td><i>
 
 </i><br/>
