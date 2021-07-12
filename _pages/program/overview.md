@@ -444,6 +444,53 @@ Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interve
 Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 2E: Machine Learning for NLP 1
+<br/>(Session Chair: Naoaki Okazaki)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>
+Cascaded Head-colliding Attention
+</i><br/>
+Lin Zheng, Zhiyong Wu and Lingpeng Kong
+</td></tr>
+<tr>
+<td>11:10 - 11:20</td>
+<td><i>
+Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor
+</i><br/>
+Xinyu Wang, Yong Jiang, Zhaohui Yan, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu
+</td></tr>
+<tr>
+<td>11:20 - 11:30</td>
+<td><i>
+Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks
+</i><br/>
+Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani and James Henderson
+</td></tr>
+<tr>
+<td>11:30 - 11:40</td>
+<td><i>
+COSY: COunterfactual SYntax for Cross-Lingual Understanding
+</i><br/>
+SICHENG YU, Hao Zhang, Yulei Niu, Qianru Sun and Jing Jiang
+</td></tr>
+<tr>
+<td>11:40 - 11:50</td>
+<td><i>
+OoMMix: Out-of-manifold Regularization in Contextual Embedding Space for Text Classification
+</i><br/>
+Seonghyeon Lee, Dongha Lee and Hwanjo Yu
+</td></tr>
+<tr>
+<td>11:50 - 11:57</td>
+<td><i>
+How Helpful is Inverse Reinforcement Learning for Table-to-Text Generation?
+</i><br/>
+Sayan Ghosh, Zheng Qi, Snigdha Chaturvedi and Shashank Srivastava
+</td></tr>
+<tr>
 <td>11:00 - 11:10</td>
 <td><i>
 
