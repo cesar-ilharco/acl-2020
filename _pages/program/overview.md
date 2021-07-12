@@ -27,9 +27,18 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 <br/>(Session Chair: Oren Tsur)</b></td>
 </tr><tr>
 <td>10:00 - 10:10</td>
-<td><i>Investigating label suggestions for opinion mining in German Covid-19 social media</i><br/>
-Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring and Iryna Gurevych</td>
-</tr>
+<td><i>
+Investigating label suggestions for opinion mining in German Covid-19 social media
+</i><br/>
+Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring and Iryna Gurevych
+</td></tr>
+<tr>
+<td>10:10 - 10:20</td>
+<td><i>
+How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements
+</i><br/>
+Chen Shani, Nadav Borenstein and Dafna Shahaf
+</td></tr>
 
 </table>
 	
