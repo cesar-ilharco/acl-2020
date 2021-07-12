@@ -17,11 +17,13 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 <table border="0">
 <tr>
 <td>08:15 - 08:35 </td>
-<td>*Opening Session*</td>
+<td><u>Opening Session</u></td>
 </tr><tr>
 <td>08:40 - 09:00 </td>
-<td>*Presidential Address*</td>
+<td><u>Presidential Address</u></td>
 </tr>
 </table>
-| 09:00 - 10:00 | *Keynote 1* | 
-| 09:00 - 10:00 | *Keynote 1* | 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
