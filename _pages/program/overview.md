@@ -68,13 +68,59 @@ Catchphrase: Automatic Detection of Cultural References
 Nir Sweed and Dafna Shahaf
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 1B: Language Generation 1
+<br/>(Session Chair: Nanyun (Violet) Peng)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>
+DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling
+</i><br/>
+Lanqing Xue, Kaitao Song, Duocai Wu, Xu Tan, Nevin L. Zhang, Tao Qin, Wei-Qiang Zhang and Tie-Yan Liu
+</td></tr>
+<tr>
+<td>10:10 - 10:20</td>
+<td><i>
+PENS: A Dataset and Generic Framework for Personalized News Headline Generation
+</i><br/>
+Xiang Ao, Xiting Wang, Ling Luo, Ying Qiao, Qing He and Xing Xie
+</td></tr>
+<tr>
+<td>10:20 - 10:30</td>
+<td><i>
+Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization
+</i><br/>
+Dongkyu Lee, Zhiliang Tian, Lanqing Xue and Nevin L. Zhang
+</td></tr>
+<tr>
+<td>10:30 - 10:40</td>
+<td><i>
+Mention Flags (MF): Constraining Transformer-based Text Generators
+</i><br/>
+Yufei Wang, Ian Wood, Stephen Wan, Mark Dras and Mark Johnson
+</td></tr>
+<tr>
+<td>10:40 - 10:50</td>
+<td><i>
+Generalising Multilingual Concept-to-Text NLG with Language Agnostic Delexicalisation
+</i><br/>
+Giulio Zhou and Gerasimos Lampouras
+</td></tr>
+<tr>
+<td>10:50 - 10:57</td>
+<td><i>
+On Training Instance Selection for Few-Shot Neural Text Generation
+</i><br/>
+Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh and Vera Demberg
+</td></tr>
+<tr>
 <td>10:10 - 10:20</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
-
 </table>
 	
 
