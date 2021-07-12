@@ -4,10 +4,7 @@ layout: single
 permalink: /program/overview/
 sidebar: 
     nav: "program"
-toc: true
-toc_sticky: true
-toc_icon: "cog"
-toc_max_header: 4
+
 ---
 
 The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing
