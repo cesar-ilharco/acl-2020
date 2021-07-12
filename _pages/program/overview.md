@@ -10,8 +10,13 @@ toc_icon: "cog"
 toc_max_header: 4
 ---
 
-## ACL-IJCNLP Demo Track 2021 
-### Accepted Submissions
+## The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing
 
-**A Graphical Interface for Curating Schemas**<br/>
-*Piyush Mishra, Akanksha Malhotra, Susan Windisch Brown, Martha Palmer and Ghazaleh Kazeminejad*
+### PROGRAM
+
+<table border="0">
+<tr>
+<td>08:15 - 08:35 </td>
+<td>Opening Session</td>
+</tr>
+</table>
