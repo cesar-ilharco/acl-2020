@@ -632,13 +632,59 @@ LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking
 Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, Yunyao Li and Alexander Gray
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 3D: Machine Translation and Multilinguality 2
+<br/>(Session Chair: Matthias Galle)</b></td>
+</tr>
+<tr>
+<td>14:00 - 14:10</td>
+<td><i>
+Do Context-Aware Translation Models Pay the Right Attention?
+</i><br/>
+Kayo Yin, Patrick Fernandes, Danish Pruthi, Aditi Chaudhary, Andre F. T. Martins and Graham Neubig
+</td></tr>
+<tr>
+<td>14:10 - 14:20</td>
+<td><i>
+Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data
+</i><br/>
+Wei-Jen Ko, Ahmed El-Kishky, Adithya Renduchintala, Vishrav Chaudhary, Naman Goyal, Francisco Guzmán, Pascale Fung, Philipp Koehn and Mona Diab
+</td></tr>
+<tr>
+<td>14:20 - 14:30</td>
+<td><i>
+Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment
+</i><br/>
+Haoyue Shi, Luke Zettlemoyer and Sida I. Wang
+</td></tr>
+<tr>
+<td>14:30 - 14:40</td>
+<td><i>
+Multilingual Speech Translation from Efficient Finetuning of Pretrained Models
+</i><br/>
+Xian Li, Changhan Wang, Yun Tang, Chau Tran, Yuqing Tang, Juan Pino, Alexei Baevski, Alexis Conneau and Michael Auli
+</td></tr>
+<tr>
+<td>14:40 - 14:47</td>
+<td><i>
+Gender bias amplification during Speed-Quality optimization in Neural Machine Translation
+</i><br/>
+Adithya Renduchintala, Denise Diaz, Kenneth Heafield, Xian Li and Mona Diab
+</td></tr>
+<tr>
+<td>14:47 - 14:54</td>
+<td><i>
+Machine Translation into Low-resource Language Varieties
+</i><br/>
+Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner and Yulia Tsvetkov
+</td></tr>
+<tr>
 <td>14:00 - 14:10</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
-
 
 
 </table>
