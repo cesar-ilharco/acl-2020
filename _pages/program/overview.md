@@ -1398,39 +1398,122 @@ Changes in European Solidarity Before and During COVID-19: Evidence from a Large
 Alexandra Ils, Dan Liu, Daniela Grunow and Steffen Eger
 </td></tr>
 <tr>
-<td>23:00 - 23:10</td>
+<td>23:10 - 23:20</td>
 <td><i>
 Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions
 </i><br/>
 Dorottya Demszky, Jing Liu, Zid Mancenido, Julie Cohen, Heather Hill, Dan Jurafsky and Tatsunori Hashimoto
 </td></tr>
 <tr>
-<td>23:00 - 23:10</td>
+<td>23:20 - 23:30</td>
 <td><i>
 A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies
 </i><br/>
 A. Seza Dogruoz, Sunayana Sitaram, Barbara E. Bullock and Almedia Jacqueline Toribio
 </td></tr>
 <tr>
-<td>23:00 - 23:10</td>
+<td>23:30 - 23:40</td>
 <td><i>
 Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection
 </i><br/>
 Bertie Vidgen, Tristan Thrush, Zeerak Waseem and Douwe Kiela
 </td></tr>
 <tr>
-<td>23:00 - 23:10</td>
+<td>23:40 - 23:50</td>
 <td><i>
 InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
 </i><br/>
 Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal and Avi Sil
 </td></tr>
 <tr>
-<td>23:00 - 23:10</td>
+<td>23:50 - 23:57</td>
 <td><i>
 On Positivity Bias in Negative Reviews
 </i><br/>
 Madhusudhan Aithal and Chenhao Tan
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 4B: Dialog and Interactive Systems 3
+<br/>(Session Chair: Zhou Yu) </b></td>
+</tr>
+<tr>
+<td>23:00 - 23:10</td>
+<td><i>
+I like fish, especially dolphins: Addressing Contradictions in Dialogue Modeling
+</i><br/>
+Yixin Nie, Mary Williamson, Mohit Bansal, Douwe Kiela and Jason Weston
+</td></tr>
+<tr>
+<td>23:10 - 23:20</td>
+<td><i>
+A Sequence-to-Sequence Approach to Dialogue State Tracking
+</i><br/>
+Yue Feng, Yang Wang and Hang Li
+</td></tr>
+<tr>
+<td>23:20 - 23:30</td>
+<td><i>
+Discovering Dialog Structure Graph for Coherent Dialog Generation
+</i><br/>
+Jun Xu, Zeyang Lei, Haifeng Wang, Zheng-Yu Niu, Hua Wu and Wanxiang Che
+</td></tr>
+<tr>
+<td>23:30 - 23:40</td>
+<td><i>
+Dialogue Response Selection with Hierarchical Curriculum Learning
+</i><br/>
+Yixuan Su, Deng Cai, Qingyu Zhou, Zibo Lin, Simon Baker, Yunbo Cao, Shuming Shi, Nigel Collier and Yan Wang
+</td></tr>
+<tr>
+<td>23:40 - 23:50</td>
+<td><i>
+A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in Chinese Conversational Speech
+</i><br/>
+Jingxuan Yang, Kerui Xu, Jun Xu, Si Li, Sheng Gao, Jun Guo, Nianwen Xue and Ji-Rong Wen
+</td></tr>
+<tr>
+<td>23:50 - 23:57</td>
+<td><i>
+PRAL: A Tailored Pre-Training Model for Task-Oriented Dialog Generation
+</i><br/>
+Jing Gu, Qingyang Wu, Chongruo Wu, Weiyan Shi and Zhou Yu
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
 </td></tr>
 <tr>
 <td>&nbsp;</td>
