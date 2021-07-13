@@ -1329,15 +1329,57 @@ Jiarui Yao, Haoling Qiu, Jin Zhao, Bonan Min and Nianwen Xue
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1V: Sentiment Analysis, Stylistic Analysis, and Argument Mining 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Directed Acyclic Graph Network for Conversational Emotion Recognition
 </i><br/>
-
+Weizhou Shen, Siyue Wu, Yunyi Yang and Xiaojun Quan
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Improving Formality Style Transfer with Context-Aware Rule Injection
+</i><br/>
+Zonghai Yao and hong yu
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection
+</i><br/>
+Lixing Zhu, Gabriele Pergola, Lin Gui, Deyu Zhou and Yulan He
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Syntopical Graphs for Computational Argumentation Tasks
+</i><br/>
+Joe Barrow, Rajiv Jain, Nedim Lipka, Franck Dernoncourt, Vlad Morariu, Varun Manjunatha, Douglas Oard, Philip Resnik and Henning Wachsmuth
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Stance Detection in COVID-19 Tweets
+</i><br/>
+Kyle Glandt, Sarthak Khanal, Yingjie Li, Doina Caragea and Cornelia Caragea
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+eMLM: A New Pre-training Objective for Emotion Related Tasks
+</i><br/>
+Tiberiu Sosea and Cornelia Caragea
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification
+</i><br/>
+Jiasheng Si, Deyu Zhou, Tongzhe Li, Xingyu Shi and Yulan He
 </td></tr>
 <tr>
 <td>&nbsp;</td>
