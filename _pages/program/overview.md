@@ -935,6 +935,202 @@ Jean Maillard, Vladimir Karpukhin, Fabio Petroni, Wen-tau Yih, Barlas Oguz, Vese
 </td></tr>
 <tr>
 <td>&nbsp;</td>
+<td> 	<b>Poster 1I: Interpretability and Analysis of Models for NLP 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+When Do You Need Billions of Words of Pretraining Data?
+</i><br/>
+Yian Zhang, Alex Warstadt, Xiaocheng Li and Samuel R. Bowman
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation
+</i><br/>
+Elena Voita, Rico Sennrich and Ivan Titov
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Comparing Test Sets with Item Response Theory
+</i><br/>
+Clara Vania, Phu Mon Htut, William Huang, Dhara Mungra, Richard Yuanzhe Pang, Jason Phang, Haokun Liu, Kyunghyun Cho and Samuel R. Bowman
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning
+</i><br/>
+Forrest Davis and Marten van Schijndel
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+More Identifiable yet Equally Performant Transformers for Text Classification
+</i><br/>
+Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria and Eduard Hovy
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
 <td> 	<b>Poster 1C: Semantics: Lexical Semantics 
 <br/></b></td>
 </tr>
