@@ -679,13 +679,59 @@ Machine Translation into Low-resource Language Varieties
 Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner and Yulia Tsvetkov
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 3E: Interpretability and Analysis of Models for NLP 2
+<br/>(Session Chair: Sebastian Gehrmann)</b></td>
+</tr>
+<tr>
+<td>14:00 - 14:10</td>
+<td><i>
+Learning Faithful Representations of Causal Graphs
+</i><br/>
+Ananth Balashankar and Lakshminarayanan Subramanian
+</td></tr>
+<tr>
+<td>14:10 - 14:20</td>
+<td><i>
+What Context Features Can Transformer Language Models Use?
+</i><br/>
+Joe O'Connor and Jacob Andreas
+</td></tr>
+<tr>
+<td>14:20 - 14:30</td>
+<td><i>
+Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models
+</i><br/>
+Sandipan Sikdar, Parantapa Bhattacharya and Kieran Heese
+</td></tr>
+<tr>
+<td>14:30 - 14:37</td>
+<td><i>
+Is Sparse Attention more Interpretable?
+</i><br/>
+Clara Meister, Stefan Lazov, Isabelle Augenstein and Ryan Cotterell
+</td></tr>
+<tr>
+<td>14:37 - 14:44</td>
+<td><i>
+The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models
+</i><br/>
+Ulme Wennberg and Gustav Eje Henter
+</td></tr>
+<tr>
+<td>14:44 - 14:51</td>
+<td><i>
+Relative Importance in Sentence Processing
+</i><br/>
+Nora Hollenstein and Lisa Beinborn
+</td></tr>
+<tr>
 <td>14:00 - 14:10</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
-
 
 </table>
 	
