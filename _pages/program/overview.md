@@ -1528,15 +1528,50 @@ Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
-<br/></b></td>
+<td> 	<b>Session 4D: Interpretability and Analysis of Models for NLP 3 
+<br/>(Session Chair: Niranjan Balasubramanian)</b></td>
 </tr>
 <tr>
-<td>15:00 - 17:00</td>
+<td>23:00 - 23:10</td>
 <td><i>
-
+Implicit Representations of Meaning in Neural Language Models
 </i><br/>
-
+Belinda Z. Li, Maxwell Nye and Jacob Andreas
+</td></tr>
+<tr>
+<td>23:10 - 23:20</td>
+<td><i>
+Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models
+</i><br/>
+Matthew Finlayson, Aaron Mueller, Sebastian Gehrmann, Stuart Shieber, Tal Linzen and Yonatan Belinkov
+</td></tr>
+<tr>
+<td>23:20 - 23:30</td>
+<td><i>
+Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach
+</i><br/>
+Yifan Hou and Mrinmaya Sachan
+</td></tr>
+<tr>
+<td>23:30 - 23:40</td>
+<td><i>
+Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases
+</i><br/>
+Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu
+</td></tr>
+<tr>
+<td>23:40 - 23:50</td>
+<td><i>
+Poisoning Knowledge Graph Embeddings via Relation Inference Patterns
+</i><br/>
+Peru Bhardwaj, John Kelleher, Luca Costabello and Declan O'Sullivan
+</td></tr>
+<tr>
+<td>23:50 - 23:57</td>
+<td><i>
+Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models
+</i><br/>
+Jieyu Lin, Jiajie Zou and Nai Ding
 </td></tr>
 <tr>
 <td>&nbsp;</td>
