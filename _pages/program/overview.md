@@ -491,6 +491,53 @@ How Helpful is Inverse Reinforcement Learning for Table-to-Text Generation?
 Sayan Ghosh, Zheng Qi, Snigdha Chaturvedi and Shashank Srivastava
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 3A: Computational Social Science and Cultural Analytics 2
+<br/>(Session Chair: Rob Voigt)</b></td>
+</tr>
+<tr>
+<td>14:00 - 14:10</td>
+<td><i>
+Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model
+</i><br/>
+Kathleen C. Fraser, Isar Nejadgholi and Svetlana Kiritchenko
+</td></tr>
+<tr>
+<td>14:10 - 14:20</td>
+<td><i>
+Structurizing Misinformation Stories via Rationalizing Fact-Checks
+</i><br/>
+Shan Jiang and Christo Wilson
+</td></tr>
+<tr>
+<td>14:20 - 14:30</td>
+<td><i>
+Modeling Language Usage and Listener Engagement in Podcasts
+</i><br/>
+Sravana Reddy, Mariya Lazarova, Yongze Yu and Rosie Jones
+</td></tr>
+<tr>
+<td>14:30 - 14:40</td>
+<td><i>
+Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions
+</i><br/>
+Saumya Sahai, Oana Balalau and Roxana Horincar
+</td></tr>
+<tr>
+<td>14:40 - 14:50</td>
+<td><i>
+SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues
+</i><br/>
+Liang Qiu, Yuan Liang, Yizhou Zhao, Pan Lu, Baolin Peng, Zhou Yu, Ying Nian Wu and Song-Chun Zhu
+</td></tr>
+<tr>
+<td>14:50 - 14:57</td>
+<td><i>
+Automatic Fake News Detection: Are Models Learning to Reason?
+</i><br/>
+Casper Hansen, Christian Hansen and Lucas Chaves Lima
+</td></tr>
+<tr>
 <td>11:00 - 11:10</td>
 <td><i>
 
