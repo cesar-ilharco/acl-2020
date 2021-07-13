@@ -1481,15 +1481,50 @@ Jing Gu, Qingyang Wu, Chongruo Wu, Weiyan Shi and Zhou Yu
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
-<br/></b></td>
+<td> 	<b>Session 4C: Information Extraction 3 
+<br/>(Session Chair: Wenhan Xiong)</b></td>
 </tr>
 <tr>
-<td>15:00 - 17:00</td>
+<td>23:00 - 23:10</td>
 <td><i>
-
+A Systematic Investigation of KB-Text Embedding Alignment at Scale
 </i><br/>
-
+Vardaan Pahuja, Yu Gu, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen and Yu Su
+</td></tr>
+<tr>
+<td>23:10 - 23:20</td>
+<td><i>
+Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Data
+</i><br/>
+Haoming Jiang, Danqing Zhang, Tianyu Cao, Bing Yin and Tuo Zhao
+</td></tr>
+<tr>
+<td>23:20 - 23:30</td>
+<td><i>
+Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model
+</i><br/>
+Hongliang Dai, Yangqiu Song and Haixun Wang
+</td></tr>
+<tr>
+<td>23:30 - 23:40</td>
+<td><i>
+Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning
+</i><br/>
+Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu
+</td></tr>
+<tr>
+<td>23:40 - 23:47</td>
+<td><i>
+ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction
+</i><br/>
+Chen-Yu Lee, Chun-Liang Li, Chu Wang, Renshen Wang, Yasuhisa Fujii, Siyang Qin, Ashok Popat and Tomas Pfister
+</td></tr>
+<tr>
+<td>23:47 - 23:54</td>
+<td><i>
+Zero-shot Event Extraction via Transfer Learning: Challenges and Insights
+</i><br/>
+Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth
 </td></tr>
 <tr>
 <td>&nbsp;</td>
