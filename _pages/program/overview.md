@@ -862,27 +862,76 @@ Su Lin Blodgett, Gilsinia Lopez, Alexandra Olteanu, Robert Sim and Hanna Wallach
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1G: Information Retrieval and Text Mining  
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network
 </i><br/>
-
+Justin Lovelace, Denis Newman-Griffis, Shikhar Vashishth, Jill Fain Lehman and Carolyn Rose
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+A DQN-based Approach to Finding Precise Evidences for Fact Verification
+</i><br/>
+Hai Wan, Haicheng Chen, Jianfeng Du, Weilin Luo and Rongzhen Ye
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1H: Machine Learning for NLP 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+The Art of Abstention: Selective Prediction and Error Regularization for Natural Language Processing
 </i><br/>
-
+Ji Xin, Raphael Tang, Yaoliang Yu and Jimmy Lin
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Unsupervised Out-of-Domain Detection via Pre-trained Transformers
+</i><br/>
+Keyang Xu, Tongzheng Ren, Shikun Zhang, Yihao Feng and Caiming Xiong
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Continual Quality Estimation with Online Bayesian Meta-Learning
+</i><br/>
+Abiola Obamuyide, Marina Fomicheva and Lucia Specia
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+MATE-KD: Masked Adversarial TExt, a Companion to Knowledge Distillation
+</i><br/>
+Ahmad Rashid, Vasileios Lioutas and Mehdi Rezagholizadeh
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Selecting Informative Contexts Improves Language Model Fine-tuning
+</i><br/>
+Richard Antonello, Nicole Beckage, Javier Turek and Alexander Huth
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Explainable Prediction of Text Complexity: The Missing Preliminaries for Text Simplification
+</i><br/>
+Cristina Garbacea, Mengtian Guo, Samuel Carton and Qiaozhu Mei
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Multi-Task Retrieval for Knowledge-Intensive Tasks
+</i><br/>
+Jean Maillard, Vladimir Karpukhin, Fabio Petroni, Wen-tau Yih, Barlas Oguz, Veselin Stoyanov and Gargi Ghosh
 </td></tr>
 <tr>
 <td>&nbsp;</td>
