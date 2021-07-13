@@ -849,7 +849,7 @@ David Gaddy and Dan Klein
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-What’s in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus
+What's in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus
 </i><br/>
 Alexandra Luccioni and Joseph Viviano
 </td></tr>
