@@ -1382,6 +1382,10 @@ Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verificatio
 Jiasheng Si, Deyu Zhou, Tongzhe Li, Xingyu Shi and Yulan He
 </td></tr>
 <tr>
+<td>17:00 -18:00 </td>
+<td><i>Keynote 2</i></td>
+</tr>
+<tr>
 <td>&nbsp;</td>
 <td> 	<b>Poster 1C: Semantics: Lexical Semantics 
 <br/></b></td>
