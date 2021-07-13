@@ -1251,39 +1251,81 @@ Shweta Yadav, Deepak Gupta, Asma Ben Abacha and Dina Demner-Fushman
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1S: Question Answering 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Challenges in Information-Seeking QA: Unanswerable Questions and Paragraph Retrieval
 </i><br/>
-
+Akari Asai and Eunsol Choi
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering
+</i><br/>
+Tahira Naseem, Srinivas Ravishankar, Nandana Mihindukulasooriya, Ibrahim Abdelaziz, Young-Suk Lee, Pavan Kapanipathi, Salim Roukos, Alfio Gliozzo and Alexander Gray
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding
+</i><br/>
+Khalil Mrini, Franck Dernoncourt, Seunghyun Yoon, Trung Bui, Walter Chang, Emilia Farcas and Ndapa Nakashole
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation
+</i><br/>
+Yinfei Yang, Ning Jin, Kuo Lin, Mandy Guo and Daniel Cer
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1T: Language Grounding to Vision, Robotics and Beyond 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Enhancing Descriptive Image Captioning with Natural Language Inference
 </i><br/>
-
+Zhan Shi, Hui Liu and Xiaodan Zhu
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1U: Information Extraction 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification
 </i><br/>
-
+Rami Aly, Andreas Vlachos and Ryan McDonald
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition
+</i><br/>
+Shuang Wu, Xiaoning Song and Zhenhua Feng
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network
+</i><br/>
+Nicholas FitzGerald, Dan Bikel, Jan Botha, Daniel Gillick, Tom Kwiatkowski and Andrew McCallum
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Factuality Assessment as Modal Dependency Parsing
+</i><br/>
+Jiarui Yao, Haoling Qiu, Jin Zhao, Bonan Min and Nianwen Xue
 </td></tr>
 <tr>
 <td>&nbsp;</td>
