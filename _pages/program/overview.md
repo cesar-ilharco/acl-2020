@@ -1387,15 +1387,50 @@ Jiasheng Si, Deyu Zhou, Tongzhe Li, Xingyu Shi and Yulan He
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
-<br/></b></td>
+<td> 	<b>Session 4A: Computational Social Science and Cultural Analytics 3 
+<br/>(Session Chair: Jing Li)</b></td>
 </tr>
 <tr>
-<td>15:00 - 17:00</td>
+<td>23:00 - 23:10</td>
 <td><i>
-
+Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset
 </i><br/>
-
+Alexandra Ils, Dan Liu, Daniela Grunow and Steffen Eger
+</td></tr>
+<tr>
+<td>23:00 - 23:10</td>
+<td><i>
+Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions
+</i><br/>
+Dorottya Demszky, Jing Liu, Zid Mancenido, Julie Cohen, Heather Hill, Dan Jurafsky and Tatsunori Hashimoto
+</td></tr>
+<tr>
+<td>23:00 - 23:10</td>
+<td><i>
+A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies
+</i><br/>
+A. Seza Dogruoz, Sunayana Sitaram, Barbara E. Bullock and Almedia Jacqueline Toribio
+</td></tr>
+<tr>
+<td>23:00 - 23:10</td>
+<td><i>
+Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection
+</i><br/>
+Bertie Vidgen, Tristan Thrush, Zeerak Waseem and Douwe Kiela
+</td></tr>
+<tr>
+<td>23:00 - 23:10</td>
+<td><i>
+InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
+</i><br/>
+Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal and Avi Sil
+</td></tr>
+<tr>
+<td>23:00 - 23:10</td>
+<td><i>
+On Positivity Bias in Negative Reviews
+</i><br/>
+Madhusudhan Aithal and Chenhao Tan
 </td></tr>
 <tr>
 <td>&nbsp;</td>
