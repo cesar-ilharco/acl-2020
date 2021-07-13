@@ -585,12 +585,60 @@ N-Best ASR Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses
 Karthik Ganesan, Pakhi Bamdev, Jaivarsan B, Amresh Venugopal and Abhinav Tushar
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 3C: Information Extraction 2
+<br/>(Session Chair: Parisa Kordjamshidi)</b></td>
+</tr>
+<tr>
+<td>14:00 - 14:10</td>
+<td><i>
+CitationIE: Leveraging the Citation Graph for Scientific Information Extraction
+</i><br/>
+Vijay Viswanathan, Graham Neubig and Pengfei Liu
+</td></tr>
+<tr>
+<td>14:10 - 14:20</td>
+<td><i>
+From Discourse to Narrative: Knowledge Projection for Event Relation Extraction
+</i><br/>
+Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu
+</td></tr>
+<tr>
+<td>14:20 - 14:30</td>
+<td><i>
+AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER
+</i><br/>
+Weile Chen, Huiqiang Jiang, Qianhui Wu, Börje Karlsson and Yi Guan
+</td></tr>
+<tr>
+<td>14:30 - 14:40</td>
+<td><i>
+Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge
+</i><br/>
+Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan and Ming Zhou
+</td></tr>
+<tr>
+<td>14:40 - 14:47</td>
+<td><i>
+Discontinuous Named Entity Recognition as Maximal Clique Discovery
+</i><br/>
+Yucheng Wang, Bowen Yu, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun
+</td></tr>
+<tr>
+<td>14:47 - 14:54</td>
+<td><i>
+LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking
+</i><br/>
+Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, Yunyao Li and Alexander Gray
+</td></tr>
+<tr>
 <td>14:00 - 14:10</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
+
 
 
 </table>
