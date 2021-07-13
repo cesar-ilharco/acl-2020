@@ -726,13 +726,66 @@ Relative Importance in Sentence Processing
 Nora Hollenstein and Lisa Beinborn
 </td></tr>
 <tr>
-<td>14:00 - 14:10</td>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1A: Semantics: Sentence-level Semantics, Textual Inference and Other areas
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
+</i><br/>
+John Giorgi, Osvald Nitski, Bo Wang and Gary Bader
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Doing Good or Doing Right? Exploring the Weakness of Commonsense Causal Reasoning Models
+</i><br/>
+Mingyue Han and Yinglin Wang
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation
+</i><br/>
+Dongqin Xu, Junhui Li, Muhua Zhu, Min Zhang and Guodong Zhou
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Span-based Semantic Parsing for Compositional Generalization
+</i><br/>
+Jonathan Herzig and Jonathan Berant
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+AND does not mean OR: Using Formal Languages to Study Language Models’ Representations
+</i><br/>
+Aaron Traylor, Roman Feiman and Ellie Pavlick
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Enforcing Consistency in Weakly Supervised Semantic Parsing
+</i><br/>
+Nitish Gupta, Sameer Singh and Matt Gardner
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?
+</i><br/>
+Peter Shaw, Ming-Wei Chang, Panupong Pasupat and Kristina Toutanova
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
-
 </table>
 	
 
