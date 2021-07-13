@@ -975,15 +975,22 @@ Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria and Eduard Hovy
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1J: Dialog and Interactive Systems 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation
 </i><br/>
-
+Xinnuo Xu, Guoyin Wang, Young-Bum Kim and Sungjin Lee
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+A Span-based Dynamic Local Attention Model for Sequential Sentence Classification
+</i><br/>
+Xichen Shang, Qianli Ma, Zhenxi Lin, Jiangyue Yan and Zipeng Chen
 </td></tr>
 <tr>
 <td>&nbsp;</td>
