@@ -608,7 +608,7 @@ Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie
 <td><i>
 AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER
 </i><br/>
-Weile Chen, Huiqiang Jiang, Qianhui Wu, Börje Karlsson and Yi Guan
+Weile Chen, Huiqiang Jiang, Qianhui Wu, Borje Karlsson and Yi Guan
 </td></tr>
 <tr>
 <td>14:30 - 14:40</td>
