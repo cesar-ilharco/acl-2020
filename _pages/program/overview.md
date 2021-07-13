@@ -1575,16 +1575,52 @@ Jieyu Lin, Jiajie Zou and Nai Ding
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
-<br/></b></td>
+<td> 	<b>Session 4E: Ethics in NLP 1 
+<br/>(Session Chair: Kai-Wei Chang)</b></td>
 </tr>
 <tr>
-<td>15:00 - 17:00</td>
+<td>23:00 - 23:10</td>
 <td><i>
-
+Bad Seeds: Evaluating Lexical Methods for Bias Measurement
 </i><br/>
-
+Maria Antoniak and David Mimno
 </td></tr>
+<tr>
+<td>23:10 - 23:20</td>
+<td><i>
+A Survey of Race, Racism, and Anti-Racism in NLP
+</i><br/>
+Anjalie Field, Su Lin Blodgett, Zeerak Waseem and Yulia Tsvetkov
+</td></tr>
+<tr>
+<td>23:20 - 23:30</td>
+<td><i>
+Intrinsic Bias Metrics Do Not Correlate with Application Bias
+</i><br/>
+Seraphina Goldfarb-Tarrant, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya and Adam Lopez
+</td></tr>
+<tr>
+<td>23:30 - 23:40</td>
+<td><i>
+RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models
+</i><br/>
+Soumya Barikeri, Anne Lauscher, Ivan Vulic and Goran Glavas
+</td></tr>
+<tr>
+<td>23:40 - 23:47</td>
+<td><i>
+Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing
+</i><br/>
+Jonathan K. Kummerfeld
+</td></tr>
+<tr>
+<td>23:47 - 23:54</td>
+<td><i>
+Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia
+</i><br/>
+Jiao Sun and Nanyun Peng
+</td></tr>
+
 <tr>
 <td>&nbsp;</td>
 <td> 	<b>Poster 1C: Semantics: Lexical Semantics 
