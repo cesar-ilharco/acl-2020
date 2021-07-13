@@ -1597,7 +1597,7 @@ Anjalie Field, Su Lin Blodgett, Zeerak Waseem and Yulia Tsvetkov
 <td><i>
 Intrinsic Bias Metrics Do Not Correlate with Application Bias
 </i><br/>
-Seraphina Goldfarb-Tarrant, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya and Adam Lopez
+Seraphina Goldfarb-Tarrant, Rebecca Marchant, Ricardo Munoz Sanchez, Mugdha Pandya and Adam Lopez
 </td></tr>
 <tr>
 <td>23:30 - 23:40</td>
