@@ -1185,27 +1185,69 @@ Wasi Ahmad, Xiao Bai, Soomin Lee and Kai-Wei Chang
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1Q: Language Generation 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Factorising Meaning and Form for Intent-Preserving Paraphrasing
 </i><br/>
-
+Tom Hosking and Mirella Lapata
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+AggGen: Ordering and Aggregating while Generating
+</i><br/>
+Xinnuo Xu, Ondrej Dusek, Verena Rieser and Ioannis Konstas
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Reflective Decoding: Beyond Unidirectional Generation with Off-the-Shelf Language Models
+</i><br/>
+Peter West, Ximing Lu, Ari Holtzman, Chandra Bhagavatula, Jena D. Hwang and Yejin Choi
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Towards Table-to-Text Generation with Numerical Reasoning
+</i><br/>
+Lya Hulliyyatus Suadaa, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura and Hiroya Takamura
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Data-to-text Generation with Macro Planning
+</i><br/>
+Ratish Puduppully and Mirella Lapata
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1R: Summarization 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+BACO: A Background Knowledge- and Content-Based Framework for Citing Sentence Generation
 </i><br/>
-
+Yubin Ge, Ly Dinh, Xiaofeng Liu, Jinsong Su, Ziyao Lu, Ante Wang and Jana Diesner
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization
+</i><br/>
+Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin and Ting Liu
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards
+</i><br/>
+Shweta Yadav, Deepak Gupta, Asma Ben Abacha and Dina Demner-Fushman
 </td></tr>
 <tr>
 <td>&nbsp;</td>
