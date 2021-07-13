@@ -994,27 +994,76 @@ Xichen Shang, Qianli Ma, Zhenxi Lin, Jiangyue Yan and Zipeng Chen
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1K: Resources and Evaluation  
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+How effective is BERT without word ordering? Implications for language understanding and data privacy
 </i><br/>
-
+Jack Hessel and Alexandra Schofield
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children's mindreading ability
+</i><br/>
+Venelin Kovatchev, Phillip Smith, Mark Lee and Rory Devine
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+A Dataset and Baselines for Multilingual Reply Suggestion
+</i><br/>
+Mozhi Zhang, Wei Wang, Budhaditya Deb, Guoqing Zheng, Milad Shokouhi and Ahmed Hassan Awadallah
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+WikiSum: Coherent Summarization Dataset for Efficient Human-Evaluation
+</i><br/>
+Nachshon Cohen, Oren Kalinsky, Yftah Ziser and Alessandro Moschitti
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?
+</i><br/>
+Nikita Nangia, Saku Sugawara, Harsh Trivedi, Alex Warstadt, Clara Vania and Samuel R. Bowman
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning
+</i><br/>
+Hwanhee Lee, Seunghyun Yoon, Franck Dernoncourt, Trung Bui and Kyomin Jung
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Neural OCR Post-Hoc Correction of Historical Corpora
+</i><br/>
+Lijun Lyu, Maria Koutraki, Martin Krikl and Besnik Fetahu
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1L: Computational Social Science and Cultural Analytics 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Align Voting Behavior with Public Statements for Legislator Representation Learning
 </i><br/>
-
+Xinyi Mou, Zhongyu Wei, Lei Chen, Shangyi Ning, Yancheng He, Changjian Jiang and Xuanjing Huang
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Measure and Evaluation of Semantic Divergence across Two Languages
+</i><br/>
+Syrielle Montariol and Alexandre Allauzen
 </td></tr>
 <tr>
 <td>&nbsp;</td>
