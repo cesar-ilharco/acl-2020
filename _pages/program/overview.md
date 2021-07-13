@@ -538,12 +538,61 @@ Automatic Fake News Detection: Are Models Learning to Reason?
 Casper Hansen, Christian Hansen and Lucas Chaves Lima
 </td></tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>&nbsp;</td>
+<td> 	<b>Session 3B: Dialog and Interactive Systems 2
+<br/>(Session Chair: Ioannis Konstas)</b></td>
+</tr>
+<tr>
+<td>14:00 - 14:10</td>
+<td><i>
+TicketTalk: Toward human-level performance with end-to-end, transaction-based dialog systems
+</i><br/>
+Bill Byrne, Karthik Krishnamoorthi, Saravanan Ganesh and Mihir Kale
+</td></tr>
+<tr>
+<td>14:10 - 14:20</td>
+<td><i>
+Improving Dialog Systems for Negotiation with Personality Modeling
+</i><br/>
+Runzhe Yang, Jingxiao Chen and Karthik Narasimhan
+</td></tr>
+<tr>
+<td>14:20 - 14:30</td>
+<td><i>
+Learning from Perturbations: Diverse and Informative Dialogue Generation with Inverse Adversarial Training
+</i><br/>
+Wangchunshu Zhou, Qifei LI and Chenle Li
+</td></tr>
+<tr>
+<td>14:30 - 14:40</td>
+<td><i>
+Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features
+</i><br/>
+Hannah Rashkin, David Reitter, Gaurav Singh Tomar and Dipanjan Das
+</td></tr>
+<tr>
+<td>14:40 - 14:47</td>
+<td><i>
+Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries
+</i><br/>
+Ashish Shrivastava, Kaustubh Dhole, Abhinav Bhatt and Sharvani Raghunath
+</td></tr>
+<tr>
+<td>14:47 - 14:54</td>
+<td><i>
+N-Best ASR Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses
+</i><br/>
+Karthik Ganesan, Pakhi Bamdev, Jaivarsan B, Amresh Venugopal and Abhinav Tushar
+</td></tr>
+<tr>
+<td>14:00 - 14:10</td>
 <td><i>
 
 </i><br/>
 
 </td></tr>
+
+
 </table>
 	
 
