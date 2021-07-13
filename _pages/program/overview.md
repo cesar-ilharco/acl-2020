@@ -780,6 +780,128 @@ Compositional Generalization and Natural Language Variation: Can a Semantic Pars
 Peter Shaw, Ming-Wei Chang, Panupong Pasupat and Kristina Toutanova
 </td></tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1B: Linguistic Theories, Cognitive Modeling and Psycholinguistics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+A Targeted Assessment of Incremental Processing in Neural Language Models and Humans
+</i><br/>
+Ethan Wilcox, Pranali Vani and Roger Levy
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing
+</i><br/>
+Valentina Pyatkin, Shoval Sadde, Aynat Rubinstein, Paul Portner and Reut Tsarfaty
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1D: Phonology, Morphology and Word Segmentation  
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+To POS Tag or Not to POS Tag: The Impact of POS Tags on Morphological Learning in Low-Resource Settings
+</i><br/>
+Sarah Moeller, Ling Liu and Mans Hulden
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1E: Speech and Multimodality 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Prosodic segmentation for parsing spoken dialogue
+</i><br/>
+Elizabeth Nielsen, Mark Steedman and Sharon Goldwater
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
+</i><br/>
+Changhan Wang, Morgane Riviere, Ann Lee, Anne Wu, Chaitanya Talnikar, Daniel Haziza, Mary Williamson, Juan Pino and Emmanuel Dupoux
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+An Improved Model for Voicing Silent Speech
+</i><br/>
+David Gaddy and Dan Klein
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1F: Ethics in NLP 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+What’s in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus
+</i><br/>
+Alexandra Luccioni and Joseph Viviano
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets
+</i><br/>
+Su Lin Blodgett, Gilsinia Lopez, Alexandra Olteanu, Robert Sim and Hanna Wallach
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+
+</i><br/>
+
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<br/></b></td>
+</tr>
+<tr>
 <td>15:00 - 17:00</td>
 <td><i>
 
