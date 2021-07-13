@@ -761,7 +761,7 @@ Jonathan Herzig and Jonathan Berant
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-AND does not mean OR: Using Formal Languages to Study Language Models’ Representations
+AND does not mean OR: Using Formal Languages to Study Language Models' Representations
 </i><br/>
 Aaron Traylor, Roman Feiman and Ellie Pavlick
 </td></tr>
