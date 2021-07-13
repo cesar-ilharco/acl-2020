@@ -648,7 +648,7 @@ Kayo Yin, Patrick Fernandes, Danish Pruthi, Aditi Chaudhary, Andre F. T. Martins
 <td><i>
 Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data
 </i><br/>
-Wei-Jen Ko, Ahmed El-Kishky, Adithya Renduchintala, Vishrav Chaudhary, Naman Goyal, Francisco Guzmán, Pascale Fung, Philipp Koehn and Mona Diab
+Wei-Jen Ko, Ahmed El-Kishky, Adithya Renduchintala, Vishrav Chaudhary, Naman Goyal, Francisco Guzman, Pascale Fung, Philipp Koehn and Mona Diab
 </td></tr>
 <tr>
 <td>14:20 - 14:30</td>
