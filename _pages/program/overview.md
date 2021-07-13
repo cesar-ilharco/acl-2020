@@ -1067,51 +1067,121 @@ Syrielle Montariol and Alexandre Allauzen
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1M: Machine Translation and Multilinguality 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Improving Zero-Shot Translation by Disentangling Positional Information
 </i><br/>
-
+Danni Liu, Jan Niehues, James Cross, Francisco Guzmán and Xian Li
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning
+</i><br/>
+Bill Yuchen Lin, Seyeon Lee, Xiaoyang Qiao and Xiang Ren
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Attention Calibration for Transformer in Neural Machine Translation
+</i><br/>
+Yu Lu, Jiali Zeng, Jiajun Zhang, Shuangzhi Wu and Mu Li
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Anchor-based Bilingual Word Embeddings for Low-Resource Languages
+</i><br/>
+Tobias Eder, Viktor Hangya and Alexander Fraser
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Diverse Pretrained Context Encodings Improve Document Translation
+</i><br/>
+Domenic Donato, Lei Yu and Chris Dyer
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Multilingual Agreement for Multilingual Neural Machine Translation
+</i><br/>
+Jian Yang, Yuwei Yin, Shuming Ma, Haoyang Huang, Dongdong Zhang, Zhoujun Li and Furu Wei
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Exploiting Language Relatedness for Low Web-Resource Language Model Adaptation: An Indic Languages Study
+</i><br/>
+Yash Khemchandani, Sarvesh Mehtani, Vaidehi Patil, Abhijeet Awasthi, Partha Talukdar and Sunita Sarawagi
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1N: Syntax: Tagging, Chunking, and Parsing
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+On Finding the K-best Non-projective Dependency Trees
 </i><br/>
-
+Ran Zmigrod, Tim Vieira and Ryan Cotterell
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Higher-order Derivatives of Weighted Finite-state Machines
+</i><br/>
+Ran Zmigrod, Tim Vieira and Ryan Cotterell
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1O: Theme 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+Towards Argument Mining for Social Good: A Survey
 </i><br/>
-
+Eva Maria Vecchi, Neele Falk, Iman Jundi and Gabriella Lapesa
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Automated Generation of Storytelling Vocabulary from Photographs for use in AAC
+</i><br/>
+Mauricio Fontana de Vargas and Karyn Moffatt
 </td></tr>
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b>Poster 1P: NLP Applications 
 <br/></b></td>
 </tr>
 <tr>
 <td>15:00 - 17:00</td>
 <td><i>
-
+CLIP: A Dataset for Extracting Action Items for Physicians from Hospital Discharge Notes
 </i><br/>
-
+James Mullenbach, Yada Pruksachatkun, Sean Adler, Jennifer Seale, Jordan Swartz, Greg McKelvey, Hui Dai, Yi Yang and David Sontag
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Assessing Emoji Use in Modern Text Processing Tools
+</i><br/>
+Abu Awal Md Shoeb and Gerard de Melo
+</td></tr>
+<tr>
+<td>15:00 - 17:00</td>
+<td><i>
+Select, Extract and Generate: Neural Keyphrase Generation with Layer-wise Coverage Attention
+</i><br/>
+Wasi Ahmad, Xiao Bai, Soomin Lee and Kai-Wei Chang
 </td></tr>
 <tr>
 <td>&nbsp;</td>
