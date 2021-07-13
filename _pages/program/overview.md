@@ -1075,7 +1075,7 @@ Syrielle Montariol and Alexandre Allauzen
 <td><i>
 Improving Zero-Shot Translation by Disentangling Positional Information
 </i><br/>
-Danni Liu, Jan Niehues, James Cross, Francisco Guzmán and Xian Li
+Danni Liu, Jan Niehues, James Cross, Francisco Guzman and Xian Li
 </td></tr>
 <tr>
 <td>15:00 - 17:00</td>
