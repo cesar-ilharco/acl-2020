@@ -8,7 +8,6 @@ tags:
 categories:
     blog
 ---
-### Outstanding Reviewers
 We would like to advertise outstanding reviewers, listed below  
 
 - Rami Al-Rfou
