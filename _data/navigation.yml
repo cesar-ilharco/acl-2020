@@ -14,7 +14,7 @@ main:
     url: /calls/papers
 
   - title: "Program"
-    url: /program/accept
+    url: /program/overview
 
   - title: "Registration"
     url: /registration/page
@@ -93,7 +93,9 @@ authors:
 program:
    - title: Program Details
      children:
-       - title: "Accepted Paper List"
+       - title: "Program Overview"
+         url: /program/overview/
+       - title: "Accepted Papers"
          url: /program/accept/
        - title: "Accepted Demo Track"
          url: /program/demoaccept/
