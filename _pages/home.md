@@ -9,6 +9,8 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**July 12, 2021**. <b>[Here](https://2021.aclweb.org/blog/reviewer-list/) is the list of outstanding reviewers</b> <font color="red">** Update **</font>
+{: .notice--info}
 **July 08, 2021**. <b>[Here](https://2021.aclweb.org/downloads/keynotes1.pdf) is the info of our keynote speakers</b> <font color="red">** Update **</font>
 {: .notice--info}
 
