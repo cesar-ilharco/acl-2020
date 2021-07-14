@@ -1623,11 +1623,11 @@ Jiao Sun and Nanyun Peng
 
 <tr>
 <td>&nbsp;</td>
-<td> 	<b> 
+<td> More	<b> 
 <br/></b></td>
 </tr>
 <tr>
-<td>15:00 - 17:00</td>
+<td></td>
 <td><i>
 
 </i><br/>
