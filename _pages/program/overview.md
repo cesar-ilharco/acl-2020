@@ -1623,7 +1623,7 @@ Jiao Sun and Nanyun Peng
 
 <tr>
 <td>&nbsp;</td>
-<td> 	<b>Poster 1C: Semantics: Lexical Semantics 
+<td> 	<b> 
 <br/></b></td>
 </tr>
 <tr>
