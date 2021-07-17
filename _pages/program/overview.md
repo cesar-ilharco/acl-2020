@@ -2019,25 +2019,67 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Xin Xin, Jinlong Li and Zeqi Tan</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:10 - 08:20</td>
 <td><i>Automated Concatenation of Embeddings for Structured Prediction</i> 
 <br/>Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:20 - 08:30</td>
 <td><i>Multi-View Cross-Lingual Structured Prediction with Minimum Supervision</i> 
 <br/>Zechuan Hu, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:30 - 08:40</td>
 <td><i>The Limitations of Limited Context for Constituency Parsing</i> 
 <br/>Yuchen Li and Andrej Risteski</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:40 - 08:50</td>
 <td><i>Neural Bi-Lexicalized PCFG Induction</i> 
 <br/>Songlin Yang, Yanpeng Zhao and Kewei Tu</td>
 </tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 7E: Resources and Evaluation 2
+<br/>(Session Chair: Jose Camacho-Collados)</b></td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Ruddit: Norms of Offensiveness for English Reddit Comments</i> 
+<br/>Rishav Hada, Sohi Sudhir, Pushkar Mishra, Helen Yannakoudakis, Saif M. Mohammad and Ekaterina Shutova</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Towards Quantifiable Dialogue Coherence Evaluation</i> 
+<br/>Zheng Ye, Liucun Lu, Lishan Huang, Liang Lin and Xiaodan Liang</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Assessing the Representations of Idiomaticity in Vector Models with a Noun Compound Dataset Labeled at Type and Token Levels</i> 
+<br/>Marcos Garcia, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart and Aline Villavicencio</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Factoring Statutory Reasoning as Language Understanding Challenges</i> 
+<br/>Nils Holzenberger and Benjamin Van Durme</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantification</i> 
+<br/>Tetsuya Sakai</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>AligNarr: Aligning Narratives on Movies</i> 
+<br/>Paramita Mirza, Mostafa Abouhamra and Gerhard Weikum</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i></i> 
+<br/></td>
+</tr>
+
+
 
 <tr>
 <td>08:00 - 08:10</td>
