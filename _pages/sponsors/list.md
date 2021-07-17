@@ -63,7 +63,10 @@ gold:
     image_path: /assets/images/logos/ibm-logo.png
     alt: "IBM Logo"
     title: "IBM"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.alibabagroup.com/en/about/overview
+    image_path: /assets/images/logos/alibaba-logo.png
+    alt: "Alibaba Logo"
+    title: "Alibaba"
   - image_path: /assets/images/logos/blank-logo.png
 silver:
   - url: https://research.duolingo.com
