@@ -1949,31 +1949,65 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Yujian Gan, Xinyun Chen, Qiuping Huang, Matthew Purver, John R. Woodward, Jinxia Xie and Pengsheng Huang</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:10 - 08:20</td>
 <td><i>KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference</i> 
 <br/>Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen and Yin Zhang</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:20 - 08:30</td>
 <td><i>Self-Guided Contrastive Learning for BERT Sentence Representations</i> 
 <br/>Taeuk Kim, Kang Min Yoo and Sang-goo Lee</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:30 - 08:40</td>
 <td><i>LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations</i> 
 <br/>Ruisheng Cao, Lu Chen, Zhi Chen, Yanbin Zhao, Su Zhu and Kai Yu</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:40 - 08:47</td>
 <td><i>DefSent: Sentence Embeddings using Definition Sentences</i> 
 <br/>Hayato Tsukagoshi, Ryohei Sasano and Koichi Takeda</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:47 - 08:54</td>
 <td><i>Discrete Cosine Transform as Universal Sentence Encoder</i> 
 <br/>Nada Almarwani and Mona Diab</td>
 </tr>
-
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 7C: Speech and Multimodality 1
+<br/>(Session Chair: Hung-yi Lee)</b></td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Multi-stage Pre-training over Simplified Multimodal Pre-training Models</i> 
+<br/>Tongtong Liu, Fangxiang Feng and Xiaojie WANG</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Beyond Sentence-Level End-to-End Speech Translation: Context Helps</i> 
+<br/>Biao Zhang, Ivan Titov, Barry Haddow and Rico Sennrich</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding</i> 
+<br/>Yang Xu, Yiheng Xu, Tengchao Lv, Lei Cui, Furu Wei, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang, Wanxiang Che, Min Zhang and Lidong Zhou</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning</i> 
+<br/>Wei Li, Can Gao, Guocheng Niu, Xinyan Xiao, Hao Liu, Jiachen Liu, Hua Wu and Haifeng Wang</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities</i> 
+<br/>Jinming Zhao, Ruichen Li and Qin Jin</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders</i> 
+<br/>Chen Xu, Bojie Hu, Yanyang Li, Yuhao Zhang, shen huang, Qi Ju, Tong Xiao and Jingbo Zhu</td>
+</tr>
 <tr>
 <td>08:00 - 08:10</td>
 <td><i></i> 
