@@ -2256,35 +2256,66 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Vania Mendonca, Ricardo Rei, Luisa Coheur, Alberto Sardinha and Ana Lucia Santos</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:10 - 10:20</td>
 <td><i>How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models</i> 
 <br/>Phillip Rust, Jonas Pfeiffer, Ivan Vulic, Sebastian Ruder and Iryna Gurevych</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:20 - 10:30</td>
 <td><i>Evaluating morphological typology in zero-shot cross-lingual transfer</i> 
 <br/>Antonio Martinez-Garcia, Toni Badia and Jeremy Barnes</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:30 - 10:40</td>
 <td><i>From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text</i> 
 <br/>Ishan Tarunesh, Syamantak Kumar and Preethi Jyothi</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:40 - 10:50</td>
 <td><i>Fast and Accurate Neural Machine Translation with Translation Memory</i> 
 <br/>Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:50 - 10:57</td>
 <td><i>An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter</i> 
 <br/>Zhiyuan Zeng and Deyi Xiong</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 9B: Resources and Evaluation 3
+<br/>(Session Chair: Margot Mieskes)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Annotating Online Misogyny</i> 
+<br/>Philine Zeinert, Nanna Inie and Leon Derczynski</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Few-NERD: A Few-shot Named Entity Recognition Dataset</i> 
+<br/>Ning Ding, Guangwei Xu, Yulin Chen, Xiaobin Wang, Xu Han, Pengjun Xie, Haitao Zheng and Zhiyuan Liu</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>MultiMET: A Multimodal Dataset for Metaphor Understanding</i> 
+<br/>Dongyu Zhang, Minghao Zhang, Heting Zhang, Liang Yang and Hongfei LIN</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech</i> 
+<br/>Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroglu and Marco Guerini</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>OntoGUM: Evaluating Contextualized SOTA Coreference Resolution on 12 More Genres</i> 
+<br/>Yilun Zhu, Sameer Pradhan and Amir Zeldes</td>
 </tr>
 <tr>
 <td>10:00 - 10:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
+
 <tr>
 <td>09:00 - 09:10</td>
 <td><i></i> 
