@@ -2566,36 +2566,36 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Asahi Ushio, Luis Espinosa Anke, Steven Schockaert and Jose Camacho-Collados</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:10 - 11:20</td>
 <td><i>Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy</i> 
 <br/>Marcos Garcia</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:20 - 11:30</td>
 <td><i>Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach</i> 
 <br/>Jie Huang, Kevin Chang, JinJun Xiong and Wen-mei Hwu</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:30 - 11:37</td>
 <td><i>A Mixture-of-Experts Model for Antonym-Synonym Discrimination</i> 
 <br/>Zhipeng Xie and Nan Zeng</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:37 - 11:44</td>
 <td><i>Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking</i> 
 <br/>Fangyu Liu, Ivan Vulic, Anna Korhonen and Nigel Collier</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:44 - 11:51</td>
 <td><i>A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space</i> 
 <br/>Sara Rajaee and Mohammad Taher Pilehvar</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>14:00 - 15:30</td>
 <td><i>Business meeting and Green NLP panel</i></td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>15:30 - 16:30</td>
 <td><i>Keynote 3: Reliable Characterizations of NLP Systems as a Social Responsibility (Christopher Potts)</i></td>
 </tr>
 <tr>
