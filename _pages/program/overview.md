@@ -2145,7 +2145,7 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <tr>
 <td>&nbsp;</td>
 <td><b>Session 8C: Machine Learning for NLP 4
-<br/>(Session Chair: Matthias Gallé)</b></td>
+<br/>(Session Chair: Matthias Galle)</b></td>
 </tr>
 <tr>
 <td>09:00 - 09:10</td>
