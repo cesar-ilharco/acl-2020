@@ -1808,34 +1808,70 @@ Jiao Sun and Nanyun Peng
 <br/>Joshua Feinglass and Yezhou Yang</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:10 - 00:20</td>
 <td><i>KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers</i>
 <br/>Chia-Hsuan Lee, Oleksandr Polozov and Matthew Richardson</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:20 - 00:30</td>
 <td><i>QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus</i>
 <br/>Hamdy Mubarak, Amir Hussein, Shammur Absar Chowdhury and Ahmed Ali</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:30 - 00:40</td>
 <td><i>An Empirical Study on Hyperparameter Optimization for Fine-Tuning Pre-trained Language Models</i>
 <br/>Xueqing Liu and Chi Wang</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:40 - 00:50</td>
 <td><i>Better than Average: Paired Evaluation of NLP systems</i>
 <br/>Maxime Peyrard, Wei Zhao, Steffen Eger and Robert West</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:50 - 00:57</td>
 <td><i>Happy Dance, Slow Clap: Using Reaction GIFs to Predict Induced Affect on Twitter</i>
 <br/>Boaz Shmueli, Soumya Ray and Lun-Wei Ku</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><i></i><b> 
-<br/></b></td>
+<td> 	<b>Session 6C: Semantics: Sentence-level Semantics, Textual Inference and Other areas 1
+<br/>(Session Chair: Elior Sulem)</b></td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Chase: A Large-Scale and Pragmatic Chinese Dataset for Cross-Database Context-Dependent Text-to-SQL</i> 
+<br/>Jiaqi Guo, Ziliang Si, Yu Wang, Qian Liu, Ming Fan, Jian-Guang LOU, Zijiang Yang and Ting Liu</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding</i>
+<br/>Dong Wang, Ning Ding, Piji Li and Haitao Zheng</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference</i> 
+<br/>Ziye Chen, Cheng Ding, Zusheng Zhang, Yanghui Rao and Haoran Xie</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning</i> 
+<br/>Li Du, Xiao Ding, Kai Xiong, Ting Liu and Bing Qin</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Infusing Finetuning with Semantic Dependencies</i>
+<br/>Zhaofeng Wu, Hao Peng and Noah Smith</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Exploring Listwise Evidence Reasoning with T5 for Fact Verification</i>
+<br/>Kelvin Jiang, Ronak Pradeep and Jimmy Lin</td>
+</tr>
+
+<tr>
+<td>00:00 - 00:10</td>
+<td><i></i> 
+<br/></td>
 </tr>
 <tr>
 <td></td>
