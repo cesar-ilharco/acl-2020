@@ -1648,18 +1648,18 @@ Jiao Sun and Nanyun Peng
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
-<td><i></i><b> 
-<br/></b></td>
+<td><i>Glancing Transformer for Non-Autoregressive Neural Machine Translation</i><b> 
+<br/>Lihua Qian, Hao Zhou, Yu Bao, Mingxuan Wang, Lin Qiu, Weinan Zhang, Yong Yu and Lei Li</b></td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
-<td><i></i><b> 
-<br/></b></td>
+<td><i>Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation</i><b> 
+<br/>Hongfei Xu, Qiuhui Liu, Josef van Genabith and Deyi Xiong</b></td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
-<td><i></i><b> 
-<br/></b></td>
+<td><i>Adaptive Nearest Neighbor Machine Translation</i><b> 
+<br/>Xin Zheng, Zhirui Zhang, Junliang Guo, Shujian Huang, Boxing Chen, Weihua Luo and Jiajun CHEN</b></td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
