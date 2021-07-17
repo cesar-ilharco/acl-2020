@@ -1412,7 +1412,7 @@ Dorottya Demszky, Jing Liu, Zid Mancenido, Julie Cohen, Heather Hill, Dan Jurafs
 <td><i>
 A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies
 </i><br/>
-A. Seza Dogruoz, Sunayana Sitaram, Barbara E. Bullock and Almedia Jacqueline Toribio
+A. Seza Dogruoz, Sunayana Sitaram, Barbara E. Bullock and Almeida Jacqueline Toribio
 </td></tr>
 <tr>
 <td>23:30 - 23:40</td>
