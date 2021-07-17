@@ -2527,7 +2527,7 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 </tr>
 <tr>
 <td>11:00 - 11:10</td>
-<td><i>Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation of Complex Words</i> 
+<td><i>Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words</i> 
 <br/>Valentin Hofmann, Janet Pierrehumbert and Hinrich Schutze</td>
 </tr>
 <tr>
