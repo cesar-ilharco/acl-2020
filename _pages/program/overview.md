@@ -13,6 +13,9 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 
 <table border="0">
 <tr>
+<td colspan="2">Monday, August 2, 2021 (all times are UTC+0)</td>
+</tr>
+<tr>
 <td width="25%">08:15 - 08:35 </td>
 <td><i>Opening Session</i></td>
 </tr><tr>
@@ -20,7 +23,7 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
 <td><i>Presidential Address</i></td>
 </tr><tr>
 <td>09:00 -10:00 </td>
-<td><i>Keynote 1</i></td>
+<td><i>Keynote 1:  Advancing Technological Equity in Speech and Language Processing (Helen Meng)</i></td>
 </tr><tr>
 <td>&nbsp;</td>
 <td> 	<b>Session 1A: Computational Social Science and Cultural Analytics 1
@@ -1620,10 +1623,55 @@ Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia
 </i><br/>
 Jiao Sun and Nanyun Peng
 </td></tr>
+<tr>
+<td colspan="2">Tuesday, August 3, 2021 (all times are UTC+0)</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 5A: Machine Translation and Multilinguality 3 
+<br/>(Session Chair: Tong Xiao)</b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</i><b> 
+<br/>Weicheng Ma, Kai Zhang, Renze Lou, Lili Wang and Soroush Vosoughi</b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i>Crafting Adversarial Examples for Neural Machine Translation</i><b> 
+<br/>Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He</b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP</i><b> 
+<br/>M Saiful Bari, Tasnim Mohiuddin and Shafiq Joty</b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i></i><b> 
+<br/></b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i></i><b> 
+<br/></b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i></i><b> 
+<br/></b></td>
+</tr>
+<tr>
+<td>00:00–00:10</td>
+<td><i></i><b> 
+<br/></b></td>
+</tr>
+<tr>
+
 
 <tr>
 <td>&nbsp;</td>
-<td> More	<b> 
+<td><i></i><b> 
 <br/></b></td>
 </tr>
 <tr>
