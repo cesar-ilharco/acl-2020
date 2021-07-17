@@ -93,6 +93,8 @@ authors:
 program:
    - title: Program Details
      children:
+       - title: "Tutorials Schedule"
+         url: /program/tutorials/
        - title: "Main Conference Schedule"
          url: /program/overview/
        - title: "Accepted Papers"
