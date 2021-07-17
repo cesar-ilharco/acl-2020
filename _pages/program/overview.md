@@ -1843,31 +1843,65 @@ Jiao Sun and Nanyun Peng
 <br/>Jiaqi Guo, Ziliang Si, Yu Wang, Qian Liu, Ming Fan, Jian-Guang LOU, Zijiang Yang and Ting Liu</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:10 - 00:20</td>
 <td><i>CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding</i>
 <br/>Dong Wang, Ning Ding, Piji Li and Haitao Zheng</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:20 - 00:30</td>
 <td><i>Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference</i> 
 <br/>Ziye Chen, Cheng Ding, Zusheng Zhang, Yanghui Rao and Haoran Xie</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:30 - 00:40</td>
 <td><i>ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning</i> 
 <br/>Li Du, Xiao Ding, Kai Xiong, Ting Liu and Bing Qin</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:40 - 00:50</td>
 <td><i>Infusing Finetuning with Semantic Dependencies</i>
 <br/>Zhaofeng Wu, Hao Peng and Noah Smith</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:50 - 00:57</td>
 <td><i>Exploring Listwise Evidence Reasoning with T5 for Fact Verification</i>
 <br/>Kelvin Jiang, Ronak Pradeep and Jimmy Lin</td>
 </tr>
-
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 6D: Sentiment Analysis, Stylistic Analysis, and Argument Mining 2
+<br/>(Session Chair: Kentaro Inui)</b></td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Distributed Representations of Emotion Categories in Emotion Space</i> 
+<br/>Xiangyu Wang and Chengqing Zong</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Style is NOT a single variable: Case Studies for Cross-Stylistic Language Understanding</i> 
+<br/>Dongyeop Kang and Eduard Hovy</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>DynaSent: A Dynamic Benchmark for Sentiment Analysis</i> 
+<br/>Christopher Potts, Zhengxuan Wu, Atticus Geiger and Douwe Kiela</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow</i> 
+<br/>Bidisha Samanta, Mohit Agrawal and NIloy Ganguly</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>A Unified Generative Framework for Aspect-based Sentiment Analysis</i> 
+<br/>Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu and Zheng Zhang</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Classifying Argumentative Relations Using Logical Mechanisms and Argumentation Schemes</i> 
+<br/>Yohan Jo, Seojin Bang, Chris Reed and Eduard Hovy</td>
+</tr>
 <tr>
 <td>00:00 - 00:10</td>
 <td><i></i> 
