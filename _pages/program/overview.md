@@ -1662,11 +1662,50 @@ Jiao Sun and Nanyun Peng
 <br/>Xin Zheng, Zhirui Zhang, Junliang Guo, Shujian Huang, Boxing Chen, Weihua Luo and Jiajun CHEN</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
-<td><i></i><b> 
-<br/></b></td>
+<td>&nbsp;</td>
+<td> 	<b>Session 5B: Language Grounding to Vision, Robotics and Beyond 2 
+<br/>(Session Chair: Parisa Kordjamshidi)</b></td>
 </tr>
-
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Hierarchical Context-aware Network for Dense Video Event Captioning</i>
+<br/>Lei Ji, Xianglin Guo, Haoyang Huang and Xilin Chen</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Control Image Captioning Spatially and Temporally</i>
+<br/>Kun Yan, Lei Ji, Huaishao Luo, Ming Zhou, Nan Duan and Shuai Ma</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Edited Media Understanding Frames: Reasoning About the Intent and Implications of Visual Misinformation</i>
+<br/>Jeff Da, Maxwell Forbes, Rowan Zellers, Anthony Zheng, Jena D. Hwang, Antoine Bosselut and Yejin Choi</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World</i>
+<br/>Rowan Zellers, Ari Holtzman, Matthew Peters, Roozbeh Mottaghi, Aniruddha Kembhavi, Ali Farhadi and Yejin Choi</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Neural Event Semantics for Grounded Language Understanding</i>
+<br/>Shyamal Buch, Li Fei-Fei and Noah Goodman</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i></i>
+<br/></td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i></i>
+<br/></td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i></i>
+<br/></td>
+</tr>
 <tr>
 <td>&nbsp;</td>
 <td><i></i><b> 
