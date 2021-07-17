@@ -2263,7 +2263,7 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <tr>
 <td>10:00 - 10:10</td>
 <td><i>Evaluating morphological typology in zero-shot cross-lingual transfer</i> 
-<br/>Antonio Martínez-García, Toni Badia and Jeremy Barnes</td>
+<br/>Antonio Martinez-Garcia, Toni Badia and Jeremy Barnes</td>
 </tr>
 <tr>
 <td>10:00 - 10:10</td>
