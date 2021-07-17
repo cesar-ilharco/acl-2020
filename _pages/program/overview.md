@@ -2084,28 +2084,68 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, YICHI ZHANG and zelin Dai</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:10 - 09:20</td>
 <td><i>Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</i> 
 <br/>Yongliang Shen, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang and Weiming Lu</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:20 - 09:30</td>
 <td><i>Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction</i> 
 <br/>Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao and Shaoyi Chen</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:30 - 09:40</td>
 <td><i>A Large-Scale Chinese Multimodal NER Dataset with Speech Clues</i> 
 <br/>Dianbo Sui, Zhengkun Tian, Yubo Chen, Kang Liu and Jun Zhao</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:40 - 09:50</td>
 <td><i>A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization</i> 
 <br/>Zongcheng Ji, Tian Xia, Mei Han and Jing Xiao</td>
 </tr><tr>
-<td>09:00 - 09:10</td>
+<td>09:50 - 10:00</td>
 <td><i>OntoED: Low-resource Event Detection with Ontology Embedding</i> 
 <br/>Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, tou huaixiao, Mosha Chen, Fei Huang and Huajun Chen</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 8B: Machine Translation and Multilinguality 4
+<br/>(Session Chair: Tao Qin)</b></td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation</i> 
+<br/>Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael Lyu and Irwin King</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Breaking the Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training</i> 
+<br/>Linqing Chen, Junhui Li, Zhengxian Gong, Boxing Chen, Weihua Luo, Min Zhang and Guodong Zhou</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation</i> 
+<br/>Yang Feng, Shuhao Gu, Dengji Guo, Zhengxin Yang and Chenze Shao</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Cascade versus Direct Speech Translation: Do the Differences Still Make a Difference?</i> 
+<br/>Luisa Bentivogli, Mauro Cettolo, Marco Gaido, Alina Karakanta, Alberto Martinelli, Matteo Negri and Marco Turchi</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning</i> 
+<br/>Cheonbok Park, Yunwon Tae, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>An Exploratory Analysis of Multilingual Word-Level Quality Estimation with Cross-Lingual Transformers</i> 
+<br/>Tharindu Ranasinghe, Constantin Orasan and Ruslan Mitkov</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i></i> 
+<br/></td>
 </tr>
 <tr>
 <td>09:00 - 09:10</td>
