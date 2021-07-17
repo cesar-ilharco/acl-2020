@@ -119,6 +119,18 @@ dichampion:
     image_path: /assets/images/logos/amazon-logo.png
     alt: "Amazon Logo"
     title: "Amazon"
+  - url: https://microsoft.com
+    image_path: /assets/images/logos/microsoft-logo.png
+    alt: "Microsoft Logo"
+    title: "Microsoft"
+  - url: https://deepmind.com
+    image_path: /assets/images/logos/deepmind-logo.png
+    alt: "Deepmind Logo"
+    title: "Deepmind"
+  - url: https://research.google
+    image_path: /assets/images/logos/google-logo.png
+    alt: "Google Logo"
+    title: "Google"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
