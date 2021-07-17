@@ -2223,30 +2223,65 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Yilin Niu, Fei Huang, Jiaming Liang, Wenkai Chen, Xiaoyan Zhu and Minlie Huang</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:10 - 09:20</td>
 <td><i>Explanations for CommonsenseQA: New Dataset and Models</i> 
 <br/>Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla and Dinesh Garg</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:20 - 09:30</td>
 <td><i>Few-Shot Question Answering by Pretraining Span Selection</i> 
 <br/>Ori Ram, Yuval Kirstain, Jonathan Berant, Amir Globerson and Omer Levy</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:30 - 09:40</td>
 <td><i>UnitedQA: A Hybrid Approach for Open Domain Question Answering</i> 
 <br/>Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen and Jianfeng Gao</td>
 </tr><tr>
-<td>09:00 - 09:10</td>
+<td>09:40 - 09:50</td>
 <td><i>Database reasoning over text</i> 
 <br/>James Thorne, Majid Yazdani, Marzieh Saeidi, Fabrizio Silvestri, Sebastian Riedel and Alon Halevy</td>
 </tr><tr>
-<td>09:00 - 09:10</td>
+<td>09:50 - 09:57</td>
 <td><i>Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints</i> 
 <br/>Yuxiang Wu, Pasquale Minervini, Pontus Stenetorp and Sebastian Riedel</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>&nbsp;</td>
+<td><b>Session 9A: Machine Translation and Multilinguality 5
+<br/>(Session Chair: Lijun Wu)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort</i> 
+<br/>Vania Mendonca, Ricardo Rei, Luisa Coheur, Alberto Sardinha and Ana Lucia Santos</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models</i> 
+<br/>Phillip Rust, Jonas Pfeiffer, Ivan Vulic, Sebastian Ruder and Iryna Gurevych</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Evaluating morphological typology in zero-shot cross-lingual transfer</i> 
+<br/>Antonio Martínez-García, Toni Badia and Jeremy Barnes</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text</i> 
+<br/>Ishan Tarunesh, Syamantak Kumar and Preethi Jyothi</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Fast and Accurate Neural Machine Translation with Translation Memory</i> 
+<br/>Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter</i> 
+<br/>Zhiyuan Zeng and Deyi Xiong</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
