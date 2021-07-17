@@ -1672,29 +1672,59 @@ Jiao Sun and Nanyun Peng
 <br/>Lei Ji, Xianglin Guo, Haoyang Huang and Xilin Chen</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:10 - 00:20</td>
 <td><i>Control Image Captioning Spatially and Temporally</i>
 <br/>Kun Yan, Lei Ji, Huaishao Luo, Ming Zhou, Nan Duan and Shuai Ma</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:20 - 00:30</td>
 <td><i>Edited Media Understanding Frames: Reasoning About the Intent and Implications of Visual Misinformation</i>
 <br/>Jeff Da, Maxwell Forbes, Rowan Zellers, Anthony Zheng, Jena D. Hwang, Antoine Bosselut and Yejin Choi</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:30 - 00:40</td>
 <td><i>PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World</i>
 <br/>Rowan Zellers, Ari Holtzman, Matthew Peters, Roozbeh Mottaghi, Aniruddha Kembhavi, Ali Farhadi and Yejin Choi</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:40 - 00:50</td>
 <td><i>Neural Event Semantics for Grounded Language Understanding</i>
 <br/>Shyamal Buch, Li Fei-Fei and Noah Goodman</td>
 </tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 5C: Machine Learning for NLP 2 
+<br/>(Session Chair: Lili Mou)</b></td>
+</tr>
+<tr>
 <td>00:00 - 00:10</td>
-<td><i></i>
-<br/></td>
+<td><i>Modeling Fine-Grained Entity Types with Box Embeddings</i>
+<br/>Yasumasa Onoe, Michael Boratko, Andrew McCallum and Greg Durrett</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information</i>
+<br/>zijun sun, Xiaoya Li, Xiaofei Sun, Yuxian Meng, Xiang Ao, Qing He, Fei Wu and Jiwei Li</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Weight Distillation: Transferring the Knowledge in Neural Network Parameters</i>
+<br/>Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao and Jingbo Zhu</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Optimizing Deeper Transformers on Small Datasets</i>
+<br/>Peng Xu, Dhruv Kumar, Wei Yang, Wenjie Zi, Keyi Tang, Chenyang Huang, Jackie Chi Kit Cheung, Simon J.D. Prince and Yanshuai Cao</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks</i>
+<br/>Jong-Hoon Oh, Ryu Iida, Julien Kloetzer and Kentaro Torisawa</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>On Orthogonality Constraints for Transformers</i>
+<br/>Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, Shuai Zhang, Huajie Shao, Shuochao Yao and Roy Ka-Wei Lee</td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
