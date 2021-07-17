@@ -1702,34 +1702,64 @@ Jiao Sun and Nanyun Peng
 <br/>Yasumasa Onoe, Michael Boratko, Andrew McCallum and Greg Durrett</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:10 - 00:20</td>
 <td><i>ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information</i>
 <br/>zijun sun, Xiaoya Li, Xiaofei Sun, Yuxian Meng, Xiang Ao, Qing He, Fei Wu and Jiwei Li</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:20 - 00:30</td>
 <td><i>Weight Distillation: Transferring the Knowledge in Neural Network Parameters</i>
 <br/>Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao and Jingbo Zhu</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:30 - 00:40</td>
 <td><i>Optimizing Deeper Transformers on Small Datasets</i>
 <br/>Peng Xu, Dhruv Kumar, Wei Yang, Wenjie Zi, Keyi Tang, Chenyang Huang, Jackie Chi Kit Cheung, Simon J.D. Prince and Yanshuai Cao</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:40 - 00:50</td>
 <td><i>BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks</i>
 <br/>Jong-Hoon Oh, Ryu Iida, Julien Kloetzer and Kentaro Torisawa</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:50 - 00:57</td>
 <td><i>On Orthogonality Constraints for Transformers</i>
 <br/>Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, Shuai Zhang, Huajie Shao, Shuochao Yao and Roy Ka-Wei Lee</td>
 </tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 5D: NLP Applications 1 and Ethics 
+<br/>(Session Chair: Vinodkumar Prabhakaran)</b></td>
+</tr>
+<tr>
 <td>00:00 - 00:10</td>
-<td><i></i>
-<br/></td>
+<td><i>COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic</i>
+<br/>Arkadiy Saakyan, Tuhin Chakrabarty and Smaranda Muresan</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Explaining Relationships Between Scientific Documents</i>
+<br/>Kelvin Luu, Xinyi Wu, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola and Noah A. Smith</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>IrEne: Interpretable Energy Prediction for Transformers</i>
+<br/>Qingqing Cao, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach</i>
+<br/>Lu Cheng, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall and Huan Liu</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context</i>
+<br/>Xinyun Chen, Linyuan Gong, Alvin Cheung and Dawn Song</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Changing the World by Changing the Data</i>
+<br/>Anna Rogers</td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
