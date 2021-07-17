@@ -1666,8 +1666,6 @@ Jiao Sun and Nanyun Peng
 <td><i></i><b> 
 <br/></b></td>
 </tr>
-<tr>
-
 
 <tr>
 <td>&nbsp;</td>
@@ -1677,9 +1675,7 @@ Jiao Sun and Nanyun Peng
 <tr>
 <td></td>
 <td><i>
-
 </i><br/>
-
 </td></tr>
 </table>
 	
