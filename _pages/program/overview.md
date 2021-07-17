@@ -2321,36 +2321,70 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Cunxiang Wang, Pai Liu and Yue Zhang</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:10 - 10:20</td>
 <td><i>Joint Models for Answer Verification in Question Answering Systems</i> 
 <br/>Zeyu Zhang, Thuy Vu and Alessandro Moschitti</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:20 - 10:30</td>
 <td><i>Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction</i> 
 <br/>Yifan Gao, Henghui Zhu, Patrick Ng, Cicero Nogueira dos Santos, Zhiguo Wang, Feng Nan, Dejiao Zhang, Ramesh Nallapati, Andrew O. Arnold and Bing Xiang</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:30 - 10:40</td>
 <td><i>TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance</i> 
 <br/>Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng and Tat-Seng Chua</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:40 - 10:50</td>
 <td><i>Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering</i> 
 <br/>Yunshi Lan and Jing Jiang</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:50 - 10:57</td>
 <td><i>In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering</i> 
 <br/>Peter Vickers, Nikolaos Aletras, Emilio Monti and Loic Barrault</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 9D: Semantics: Sentence-level Semantics, Textual Inference and Other areas 3
+<br/>(Session Chair: Jacob Andreas)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Evidence-based Factual Error Correction</i> 
+<br/>James Thorne and Andreas Vlachos</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Probabilistic, Structure-Aware Algorithms for Improved Variety, Accuracy, and Coverage of AMR Alignments</i> 
+<br/>Austin Blodgett and Nathan Schneider</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Meta-Learning to Compositionally Generalize</i> 
+<br/>Henry Conklin, Bailin Wang, Kenny Smith and Ivan Titov</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation</i> 
+<br/>Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song and Tong Zhang</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning</i> 
+<br/>Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Zero-shot Fact Verification by Claim Generation</i> 
+<br/>Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan and William Yang Wang</td>
 </tr>
 <tr>
 <td>10:00 - 10:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
-
 <tr>
 <td>09:00 - 09:10</td>
 <td><i></i> 
