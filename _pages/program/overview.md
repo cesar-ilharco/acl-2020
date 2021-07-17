@@ -2049,32 +2049,66 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Rishav Hada, Sohi Sudhir, Pushkar Mishra, Helen Yannakoudakis, Saif M. Mohammad and Ekaterina Shutova</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:10 - 08:20</td>
 <td><i>Towards Quantifiable Dialogue Coherence Evaluation</i> 
 <br/>Zheng Ye, Liucun Lu, Lishan Huang, Liang Lin and Xiaodan Liang</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:20 - 08:30</td>
 <td><i>Assessing the Representations of Idiomaticity in Vector Models with a Noun Compound Dataset Labeled at Type and Token Levels</i> 
 <br/>Marcos Garcia, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart and Aline Villavicencio</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:30 - 08:40</td>
 <td><i>Factoring Statutory Reasoning as Language Understanding Challenges</i> 
 <br/>Nils Holzenberger and Benjamin Van Durme</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:40 - 08:50</td>
 <td><i>Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantification</i> 
 <br/>Tetsuya Sakai</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>08:50 - 08:57</td>
 <td><i>AligNarr: Aligning Narratives on Movies</i> 
 <br/>Paramita Mirza, Mostafa Abouhamra and Gerhard Weikum</td>
 </tr>
 <tr>
-<td>08:00 - 08:10</td>
+<td>&nbsp;</td>
+<td><b>Session 8A: Information Extraction 4
+<br/>(Session Chair: Danushka Bollegala)</b></td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making</i> 
+<br/>Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, YICHI ZHANG and zelin Dai</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</i> 
+<br/>Yongliang Shen, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang and Weiming Lu</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction</i> 
+<br/>Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao and Shaoyi Chen</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>A Large-Scale Chinese Multimodal NER Dataset with Speech Clues</i> 
+<br/>Dianbo Sui, Zhengkun Tian, Yubo Chen, Kang Liu and Jun Zhao</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization</i> 
+<br/>Zongcheng Ji, Tian Xia, Mei Han and Jing Xiao</td>
+</tr><tr>
+<td>09:00 - 09:10</td>
+<td><i>OntoED: Low-resource Event Detection with Ontology Embedding</i> 
+<br/>Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, tou huaixiao, Mosha Chen, Fei Huang and Huajun Chen</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
