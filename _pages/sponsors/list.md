@@ -95,7 +95,10 @@ bronze:
     image_path: /assets/images/logos/ets-logo.png
     alt: "ETS Logo"
     title: "ETS"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe-logo.png
+    alt: "Adobe Logo"
+    title: "Adobe"
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
   - url: https://research.adobe.com/
