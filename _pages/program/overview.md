@@ -1908,38 +1908,74 @@ Jiao Sun and Nanyun Peng
 <br/>(Session Chair: Yun-Nung Chen)</b></td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>08:00 - 08:10</td>
 <td><i>Discovering Dialogue Slots with Weak Supervision
 Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i> 
 <br/></td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>08:10 - 08:20</td>
 <td><i>Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU</i> 
 <br/>Yilin Shen, Yen-Chang Hsu, Avik Ray and Hongxia Jin</td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>08:20 - 08:30</td>
 <td><i>ProtAugment: Intent Detection Meta-Learning through Unsupervised Diverse Paraphrasing</i> 
 <br/>Thomas Dopierre, Christophe Gravier and Wilfried Logerais</td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>08:30 - 08:40</td>
 <td><i>Robustness Testing of Language Understanding in Task-Oriented Dialog</i> 
 <br/>Jiexi Liu, Ryuichi Takanobu, Jiaxin Wen, Dazhen Wan, hongguang li, weiran nie, Cheng LI, Wei Peng and Minlie Huang</td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>08:40 - 08:50</td>
 <td><i>Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?</i> 
 <br/>Puhai Yang, Heyan Huang and Xian-Ling Mao</td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>08:50 - 09:00</td>
 <td><i>OTTers: One-turn Topic Transitions for Open-Domain Dialogue</i> 
 <br/>Karin Sevegnani, David M. Howcroft, Ioannis Konstas and Verena Rieser</td>
 </tr>
 <tr>
-<td>01:00 - 01:10</td>
+<td>&nbsp;</td>
+<td> 	<b>Session 7B: Semantics: Sentence-level Semantics, Textual Inference and Other areas 2
+<br/>(Session Chair: Nafise Sadat Moosavi)</b></td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Towards Robustness of Text-to-SQL Models against Synonym Substitution</i> 
+<br/>Yujian Gan, Xinyun Chen, Qiuping Huang, Matthew Purver, John R. Woodward, Jinxia Xie and Pengsheng Huang</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference</i> 
+<br/>Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen and Yin Zhang</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Self-Guided Contrastive Learning for BERT Sentence Representations</i> 
+<br/>Taeuk Kim, Kang Min Yoo and Sang-goo Lee</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations</i> 
+<br/>Ruisheng Cao, Lu Chen, Zhi Chen, Yanbin Zhao, Su Zhu and Kai Yu</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>DefSent: Sentence Embeddings using Definition Sentences</i> 
+<br/>Hayato Tsukagoshi, Ryohei Sasano and Koichi Takeda</td>
+</tr>
+<tr>
+<td>08:00 - 08:10</td>
+<td><i>Discrete Cosine Transform as Universal Sentence Encoder</i> 
+<br/>Nada Almarwani and Mona Diab</td>
+</tr>
+
+<tr>
+<td>08:00 - 08:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
