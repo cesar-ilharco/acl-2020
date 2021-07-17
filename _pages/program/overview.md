@@ -2391,32 +2391,67 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Hanqi Yan, Lin Gui, Gabriele Pergola and Yulan He</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:10 - 10:20</td>
 <td><i>Every Bite Is an Experience: Key Point Analysis of Business Reviews</i> 
 <br/>Roy Bar-Haim, Lilach Eden, Yoav Kantor, Roni Friedman and Noam Slonim</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:20 - 10:30</td>
 <td><i>Structured Sentiment Analysis as Dependency Graph Parsing</i> 
 <br/>Jeremy Barnes, Robin Kurtz, Stephan Oepen, Lilja Ovrelid and Erik Velldal</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:30 - 10:37</td>
 <td><i>Thank you BART! Rewarding Pre-Trained Models Improves Formality Style Transfer</i> 
 <br/>Huiyuan Lai, Antonio Toral and Malvina Nissim</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:37 - 10:44</td>
 <td><i>Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis</i> 
 <br/>Shinhyeok Oh, Dongyub Lee, Taesun Whang, IlNam Park, Seo Gaeun, EungGyun Kim and Harksoo Kim</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:44 - 10:51</td>
 <td><i>Towards Generative Aspect-Based Sentiment Analysis</i> 
 <br/>Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing and Wai Lam</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>&nbsp;</td>
+<td><b>Session 10A: Machine Translation and Multilinguality 6
+<br/>(Session Chair: Tong Xiao)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Consistency Regularization for Cross-Lingual Fine-Tuning</i> 
+<br/>Bo Zheng, Li Dong, Shaohan Huang, Wenhui Wang, Zewen Chi, Saksham Singhal, Wanxiang Che, Ting Liu, Xia Song and Furu Wei</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment</i> 
+<br/>Zewen Chi, Li Dong, Bo Zheng, Shaohan Huang, Xian-Ling Mao, Heyan Huang and Furu Wei</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation</i> 
+<br/>Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao and Zhaopeng Tu</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>G-Transformer for Document-Level Machine Translation</i> 
+<br/>Guangsheng Bao, Yue Zhang, Zhiyang Teng, Boxing Chen and Weihua Luo</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Prevent the Language Model from being Overconfident in Neural Machine Translation</i> 
+<br/>Mengqi Miao, Fandong Meng, Yijin Liu, Xiao-Hua Zhou and Jie Zhou</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation</i> 
+<br/>Yangyifan Xu, Yijin Liu, Fandong Meng, Jiajun Zhang, Jinan Xu and Jie Zhou</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
