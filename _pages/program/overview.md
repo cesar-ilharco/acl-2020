@@ -2356,29 +2356,64 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>James Thorne and Andreas Vlachos</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:10 - 10:20</td>
 <td><i>Probabilistic, Structure-Aware Algorithms for Improved Variety, Accuracy, and Coverage of AMR Alignments</i> 
 <br/>Austin Blodgett and Nathan Schneider</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:20 - 10:30</td>
 <td><i>Meta-Learning to Compositionally Generalize</i> 
 <br/>Henry Conklin, Bailin Wang, Kenny Smith and Ivan Titov</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:30 - 10:40</td>
 <td><i>Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation</i> 
 <br/>Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song and Tong Zhang</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:40 - 10:50</td>
 <td><i>ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning</i> 
 <br/>Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:50 - 10:57</td>
 <td><i>Zero-shot Fact Verification by Claim Generation</i> 
 <br/>Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan and William Yang Wang</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 9E: Sentiment Analysis, Stylistic Analysis, and Argument Mining 3
+<br/>(Session Chair: Sadao Kurohashi)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction</i> 
+<br/>Hanqi Yan, Lin Gui, Gabriele Pergola and Yulan He</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Every Bite Is an Experience: Key Point Analysis of Business Reviews</i> 
+<br/>Roy Bar-Haim, Lilach Eden, Yoav Kantor, Roni Friedman and Noam Slonim</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Structured Sentiment Analysis as Dependency Graph Parsing</i> 
+<br/>Jeremy Barnes, Robin Kurtz, Stephan Oepen, Lilja Ovrelid and Erik Velldal</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Thank you BART! Rewarding Pre-Trained Models Improves Formality Style Transfer</i> 
+<br/>Huiyuan Lai, Antonio Toral and Malvina Nissim</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis</i> 
+<br/>Shinhyeok Oh, Dongyub Lee, Taesun Whang, IlNam Park, Seo Gaeun, EungGyun Kim and Harksoo Kim</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Towards Generative Aspect-Based Sentiment Analysis</i> 
+<br/>Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing and Wai Lam</td>
 </tr>
 <tr>
 <td>10:00 - 10:10</td>
