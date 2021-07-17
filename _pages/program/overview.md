@@ -1633,33 +1633,33 @@ Jiao Sun and Nanyun Peng
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
-<td><i>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</i><b> 
-<br/>Weicheng Ma, Kai Zhang, Renze Lou, Lili Wang and Soroush Vosoughi</b></td>
+<td><i>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</i>
+<br/>Weicheng Ma, Kai Zhang, Renze Lou, Lili Wang and Soroush Vosoughi</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
-<td><i>Crafting Adversarial Examples for Neural Machine Translation</i><b> 
-<br/>Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He</b></td>
+<td>00:10 - 00:20</td>
+<td><i>Crafting Adversarial Examples for Neural Machine Translation</i>
+<br/>Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
-<td><i>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP</i><b> 
-<br/>M Saiful Bari, Tasnim Mohiuddin and Shafiq Joty</b></td>
+<td>00:20 - 00:30</td>
+<td><i>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP</i>
+<br/>M Saiful Bari, Tasnim Mohiuddin and Shafiq Joty</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
-<td><i>Glancing Transformer for Non-Autoregressive Neural Machine Translation</i><b> 
-<br/>Lihua Qian, Hao Zhou, Yu Bao, Mingxuan Wang, Lin Qiu, Weinan Zhang, Yong Yu and Lei Li</b></td>
+<td>00:30 - 00:40</td>
+<td><i>Glancing Transformer for Non-Autoregressive Neural Machine Translation</i>
+<br/>Lihua Qian, Hao Zhou, Yu Bao, Mingxuan Wang, Lin Qiu, Weinan Zhang, Yong Yu and Lei Li</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
-<td><i>Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation</i><b> 
-<br/>Hongfei Xu, Qiuhui Liu, Josef van Genabith and Deyi Xiong</b></td>
+<td>00:40 - 00:47</td>
+<td><i>Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation</i> 
+<br/>Hongfei Xu, Qiuhui Liu, Josef van Genabith and Deyi Xiong</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
-<td><i>Adaptive Nearest Neighbor Machine Translation</i><b> 
-<br/>Xin Zheng, Zhirui Zhang, Junliang Guo, Shujian Huang, Boxing Chen, Weihua Luo and Jiajun CHEN</b></td>
+<td>00:47 - 00:54</td>
+<td><i>Adaptive Nearest Neighbor Machine Translation</i>
+<br/>Xin Zheng, Zhirui Zhang, Junliang Guo, Shujian Huang, Boxing Chen, Weihua Luo and Jiajun CHEN</td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
