@@ -22,10 +22,7 @@ diamond:
     image_path: /assets/images/logos/google-logo.png
     alt: "Google Logo"
     title: "Google"
-  - url: https://ai.tencent.com/
-    image_path: /assets/images/logos/tencent-logo.png
-    alt: "Tencent Logo"
-    title: "Tencent"
+  - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://www.amazon.science/
@@ -52,6 +49,12 @@ platinum:
     image_path: /assets/images/logos/deepmind-logo.png
     alt: "Deepmind Logo"
     title: "Deepmind"
+  - url: https://ai.tencent.com/
+    image_path: /assets/images/logos/tencent-logo.png
+    alt: "Tencent Logo"
+    title: "Tencent"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.research.ibm.com/
     image_path: /assets/images/logos/ibm-logo.png
