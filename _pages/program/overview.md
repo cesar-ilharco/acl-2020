@@ -1632,37 +1632,37 @@ Jiao Sun and Nanyun Peng
 <br/>(Session Chair: Tong Xiao)</b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</i><b> 
 <br/>Weicheng Ma, Kai Zhang, Renze Lou, Lili Wang and Soroush Vosoughi</b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i>Crafting Adversarial Examples for Neural Machine Translation</i><b> 
 <br/>Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He</b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i>UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP</i><b> 
 <br/>M Saiful Bari, Tasnim Mohiuddin and Shafiq Joty</b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i></i><b> 
 <br/></b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i></i><b> 
 <br/></b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i></i><b> 
 <br/></b></td>
 </tr>
 <tr>
-<td>00:00–00:10</td>
+<td>00:00 - 00:10</td>
 <td><i></i><b> 
 <br/></b></td>
 </tr>
