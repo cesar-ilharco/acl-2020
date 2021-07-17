@@ -2118,29 +2118,70 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael Lyu and Irwin King</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:10 - 09:20</td>
 <td><i>Breaking the Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training</i> 
 <br/>Linqing Chen, Junhui Li, Zhengxian Gong, Boxing Chen, Weihua Luo, Min Zhang and Guodong Zhou</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:20 - 09:30</td>
 <td><i>Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation</i> 
 <br/>Yang Feng, Shuhao Gu, Dengji Guo, Zhengxin Yang and Chenze Shao</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:30 - 09:40</td>
 <td><i>Cascade versus Direct Speech Translation: Do the Differences Still Make a Difference?</i> 
 <br/>Luisa Bentivogli, Mauro Cettolo, Marco Gaido, Alina Karakanta, Alberto Martinelli, Matteo Negri and Marco Turchi</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:40 - 09:50</td>
 <td><i>Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning</i> 
 <br/>Cheonbok Park, Yunwon Tae, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:50 - 09:57</td>
 <td><i>An Exploratory Analysis of Multilingual Word-Level Quality Estimation with Cross-Lingual Transformers</i> 
 <br/>Tharindu Ranasinghe, Constantin Orasan and Ruslan Mitkov</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 8C: Machine Learning for NLP 4
+<br/>(Session Chair: Matthias Gallé)</b></td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Lightweight Cross-Lingual Sentence Representation Learning</i> 
+<br/>Zhuoyuan Mao, Prakhar Gupta, Chenhui Chu, Martin Jaggi and Sadao Kurohashi</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>ERNIE-Doc: A Retrospective Long-Document Modeling Transformer</i> 
+<br/>SiYu Ding, Junyuan Shang, Shuohuan Wang, Yu Sun, Hao Tian, Hua Wu and Haifeng Wang</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation</i> 
+<br/>Yuanxin LIU, Fandong Meng, Zheng Lin, Weiping Wang and Jie Zhou</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Rational LAMOL: A Rationale-based Lifelong Learning Framework</i> 
+<br/>Kasidis Kanwatchara, Thanapapas Horsuwan, Piyawat Lertvittayakumjorn, Boonserm Kijsirikul and Peerapon Vateekul</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>EnsLM: Ensemble Language Model for Data Diversity by Semantic Clustering</i> 
+<br/>Zhibin Duan, Hao Zhang, Chaojie Wang, Zhengjue Wang, Bo Chen and Mingyuan Zhou</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>LeeBERT: Learned Early Exit for BERT with cross-level optimization</i> 
+<br/>Wei Zhu</td>
+</tr>
+
+<tr>
+<td>09:00 - 09:10</td>
+<td><i></i> 
+<br/></td>
 </tr>
 <tr>
 <td>09:00 - 09:10</td>
