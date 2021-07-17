@@ -53,7 +53,10 @@ platinum:
     image_path: /assets/images/logos/tencent-logo.png
     alt: "Tencent Logo"
     title: "Tencent"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.gresearch.co.uk/
+    image_path: /assets/images/logos/g-logo.png
+    alt: "G-RESEARCH Logo"
+    title: "G-RESEARCH"
   - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.research.ibm.com/
