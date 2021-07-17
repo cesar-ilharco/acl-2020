@@ -1772,35 +1772,65 @@ Jiao Sun and Nanyun Peng
 <br/>Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Zhangyang Wang and Jingjing Liu</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:10 - 00:20</td>
 <td><i>On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation</i>
 <br/>Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, BOSHENG DING, Liying Cheng, Jiawei Low, Lidong Bing and Luo Si</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:20 - 00:30</td>
 <td><i>Data Augmentation for Text Generation Without Any Augmented Data</i>
 <br/>Wei Bi, Huayang Li and Jiacheng Huang</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:30 - 00:40</td>
 <td><i>KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation</i>
 <br/>Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li and Jian Tang</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:40 - 00:50</td>
 <td><i>Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval
 </i>
 <br/>Zijing Ou, Qinliang Su, Jianxing Yu, Bang Liu, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:50 - 00:57</td>
 <td><i>Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning.</i>
 <br/>Piotr Piekos, Mateusz Malinowski and Henryk Michalewski</td>
 </tr>
 <tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 6B: Resources and Evaluation 1
+<br/>(Session Chair: Jackie CK Cheung)</b></td>
+</tr>
+<tr>
 <td>00:00 - 00:10</td>
-<td><i></i>
-<br/></td>
+<td><i>SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis</i>
+<br/>Joshua Feinglass and Yezhou Yang</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers</i>
+<br/>Chia-Hsuan Lee, Oleksandr Polozov and Matthew Richardson</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus</i>
+<br/>Hamdy Mubarak, Amir Hussein, Shammur Absar Chowdhury and Ahmed Ali</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>An Empirical Study on Hyperparameter Optimization for Fine-Tuning Pre-trained Language Models</i>
+<br/>Xueqing Liu and Chi Wang</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Better than Average: Paired Evaluation of NLP systems</i>
+<br/>Maxime Peyrard, Wei Zhao, Steffen Eger and Robert West</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Happy Dance, Slow Clap: Using Reaction GIFs to Predict Induced Affect on Twitter</i>
+<br/>Boaz Shmueli, Soumya Ray and Lun-Wei Ku</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
