@@ -1767,33 +1767,33 @@ Jiao Sun and Nanyun Peng
 <br/>(Session Chair: Iz Beltagy)</b></td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:00 - 01:10</td>
 <td><i>EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets</i>
 <br/>Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Zhangyang Wang and Jingjing Liu</td>
 </tr>
 <tr>
-<td>00:10 - 00:20</td>
+<td>01:10 - 01:20</td>
 <td><i>On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation</i>
 <br/>Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, BOSHENG DING, Liying Cheng, Jiawei Low, Lidong Bing and Luo Si</td>
 </tr>
 <tr>
-<td>00:20 - 00:30</td>
+<td>01:20 - 01:30</td>
 <td><i>Data Augmentation for Text Generation Without Any Augmented Data</i>
 <br/>Wei Bi, Huayang Li and Jiacheng Huang</td>
 </tr>
 <tr>
-<td>00:30 - 00:40</td>
+<td>01:30 - 01:40</td>
 <td><i>KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation</i>
 <br/>Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li and Jian Tang</td>
 </tr>
 <tr>
-<td>00:40 - 00:50</td>
+<td>01:40 - 01:50</td>
 <td><i>Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval
 </i>
 <br/>Zijing Ou, Qinliang Su, Jianxing Yu, Bang Liu, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng</td>
 </tr>
 <tr>
-<td>00:50 - 00:57</td>
+<td>01:50 - 01:57</td>
 <td><i>Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning.</i>
 <br/>Piotr Piekos, Mateusz Malinowski and Henryk Michalewski</td>
 </tr>
@@ -1803,32 +1803,32 @@ Jiao Sun and Nanyun Peng
 <br/>(Session Chair: Jackie CK Cheung)</b></td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:00 - 01:10</td>
 <td><i>SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis</i>
 <br/>Joshua Feinglass and Yezhou Yang</td>
 </tr>
 <tr>
-<td>00:10 - 00:20</td>
+<td>01:10 - 01:20</td>
 <td><i>KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers</i>
 <br/>Chia-Hsuan Lee, Oleksandr Polozov and Matthew Richardson</td>
 </tr>
 <tr>
-<td>00:20 - 00:30</td>
+<td>01:20 - 01:30</td>
 <td><i>QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus</i>
 <br/>Hamdy Mubarak, Amir Hussein, Shammur Absar Chowdhury and Ahmed Ali</td>
 </tr>
 <tr>
-<td>00:30 - 00:40</td>
+<td>01:30 - 01:40</td>
 <td><i>An Empirical Study on Hyperparameter Optimization for Fine-Tuning Pre-trained Language Models</i>
 <br/>Xueqing Liu and Chi Wang</td>
 </tr>
 <tr>
-<td>00:40 - 00:50</td>
+<td>01:40 - 01:50</td>
 <td><i>Better than Average: Paired Evaluation of NLP systems</i>
 <br/>Maxime Peyrard, Wei Zhao, Steffen Eger and Robert West</td>
 </tr>
 <tr>
-<td>00:50 - 00:57</td>
+<td>01:50 - 01:57</td>
 <td><i>Happy Dance, Slow Clap: Using Reaction GIFs to Predict Induced Affect on Twitter</i>
 <br/>Boaz Shmueli, Soumya Ray and Lun-Wei Ku</td>
 </tr>
@@ -1838,32 +1838,32 @@ Jiao Sun and Nanyun Peng
 <br/>(Session Chair: Elior Sulem)</b></td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:00 - 01:10</td>
 <td><i>Chase: A Large-Scale and Pragmatic Chinese Dataset for Cross-Database Context-Dependent Text-to-SQL</i> 
 <br/>Jiaqi Guo, Ziliang Si, Yu Wang, Qian Liu, Ming Fan, Jian-Guang LOU, Zijiang Yang and Ting Liu</td>
 </tr>
 <tr>
-<td>00:10 - 00:20</td>
+<td>01:10 - 01:20</td>
 <td><i>CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding</i>
 <br/>Dong Wang, Ning Ding, Piji Li and Haitao Zheng</td>
 </tr>
 <tr>
-<td>00:20 - 00:30</td>
+<td>01:20 - 01:30</td>
 <td><i>Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference</i> 
 <br/>Ziye Chen, Cheng Ding, Zusheng Zhang, Yanghui Rao and Haoran Xie</td>
 </tr>
 <tr>
-<td>00:30 - 00:40</td>
+<td>01:30 - 01:40</td>
 <td><i>ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning</i> 
 <br/>Li Du, Xiao Ding, Kai Xiong, Ting Liu and Bing Qin</td>
 </tr>
 <tr>
-<td>00:40 - 00:50</td>
+<td>01:40 - 01:50</td>
 <td><i>Infusing Finetuning with Semantic Dependencies</i>
 <br/>Zhaofeng Wu, Hao Peng and Noah Smith</td>
 </tr>
 <tr>
-<td>00:50 - 00:57</td>
+<td>01:50 - 01:57</td>
 <td><i>Exploring Listwise Evidence Reasoning with T5 for Fact Verification</i>
 <br/>Kelvin Jiang, Ronak Pradeep and Jimmy Lin</td>
 </tr>
@@ -1873,40 +1873,78 @@ Jiao Sun and Nanyun Peng
 <br/>(Session Chair: Kentaro Inui)</b></td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:00 - 01:10</td>
 <td><i>Distributed Representations of Emotion Categories in Emotion Space</i> 
 <br/>Xiangyu Wang and Chengqing Zong</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:10 - 01:20</td>
 <td><i>Style is NOT a single variable: Case Studies for Cross-Stylistic Language Understanding</i> 
 <br/>Dongyeop Kang and Eduard Hovy</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:20 - 01:30</td>
 <td><i>DynaSent: A Dynamic Benchmark for Sentiment Analysis</i> 
 <br/>Christopher Potts, Zhengxuan Wu, Atticus Geiger and Douwe Kiela</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:30 - 01:40</td>
 <td><i>A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow</i> 
 <br/>Bidisha Samanta, Mohit Agrawal and NIloy Ganguly</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:40 - 01:50</td>
 <td><i>A Unified Generative Framework for Aspect-based Sentiment Analysis</i> 
 <br/>Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu and Zheng Zhang</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>01:50 - 02:00</td>
 <td><i>Classifying Argumentative Relations Using Logical Mechanisms and Argumentation Schemes</i> 
 <br/>Yohan Jo, Seojin Bang, Chris Reed and Eduard Hovy</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>&nbsp;</td>
+<td> 	<b>Session 7A: Dialog and Interactive Systems 4
+<br/>(Session Chair: Yun-Nung Chen)</b></td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
+<td><i>Discovering Dialogue Slots with Weak Supervision
+Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i> 
+<br/></td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
+<td><i>Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU</i> 
+<br/>Yilin Shen, Yen-Chang Hsu, Avik Ray and Hongxia Jin</td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
+<td><i>ProtAugment: Intent Detection Meta-Learning through Unsupervised Diverse Paraphrasing</i> 
+<br/>Thomas Dopierre, Christophe Gravier and Wilfried Logerais</td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
+<td><i>Robustness Testing of Language Understanding in Task-Oriented Dialog</i> 
+<br/>Jiexi Liu, Ryuichi Takanobu, Jiaxin Wen, Dazhen Wan, hongguang li, weiran nie, Cheng LI, Wei Peng and Minlie Huang</td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
+<td><i>Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?</i> 
+<br/>Puhai Yang, Heyan Huang and Xian-Ling Mao</td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
+<td><i>OTTers: One-turn Topic Transitions for Open-Domain Dialogue</i> 
+<br/>Karin Sevegnani, David M. Howcroft, Ioannis Konstas and Verena Rieser</td>
+</tr>
+<tr>
+<td>01:00 - 01:10</td>
 <td><i></i> 
 <br/></td>
 </tr>
+
+
 <tr>
 <td></td>
 <td><i>
