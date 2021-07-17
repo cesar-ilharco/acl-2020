@@ -1737,29 +1737,65 @@ Jiao Sun and Nanyun Peng
 <br/>Arkadiy Saakyan, Tuhin Chakrabarty and Smaranda Muresan</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:10 - 00:20</td>
 <td><i>Explaining Relationships Between Scientific Documents</i>
 <br/>Kelvin Luu, Xinyi Wu, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola and Noah A. Smith</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:20 - 00:30</td>
 <td><i>IrEne: Interpretable Energy Prediction for Transformers</i>
 <br/>Qingqing Cao, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:30 - 00:40</td>
 <td><i>Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach</i>
 <br/>Lu Cheng, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall and Huan Liu</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:40 - 00:50</td>
 <td><i>PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context</i>
 <br/>Xinyun Chen, Linyuan Gong, Alvin Cheung and Dawn Song</td>
 </tr>
 <tr>
-<td>00:00 - 00:10</td>
+<td>00:50 - 01:00</td>
 <td><i>Changing the World by Changing the Data</i>
 <br/>Anna Rogers</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> 	<b>Session 6A: Machine Learning for NLP 3
+<br/>(Session Chair: Iz Beltagy)</b></td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets</i>
+<br/>Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Zhangyang Wang and Jingjing Liu</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation</i>
+<br/>Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, BOSHENG DING, Liying Cheng, Jiawei Low, Lidong Bing and Luo Si</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Data Augmentation for Text Generation Without Any Augmented Data</i>
+<br/>Wei Bi, Huayang Li and Jiacheng Huang</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation</i>
+<br/>Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li and Jian Tang</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval
+</i>
+<br/>Zijing Ou, Qinliang Su, Jianxing Yu, Bang Liu, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng</td>
+</tr>
+<tr>
+<td>00:00 - 00:10</td>
+<td><i>Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning.</i>
+<br/>Piotr Piekos, Mateusz Malinowski and Henryk Michalewski</td>
 </tr>
 <tr>
 <td>00:00 - 00:10</td>
