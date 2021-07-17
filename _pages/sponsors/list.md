@@ -103,6 +103,10 @@ socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dichampion:
+  - url: https://www.amazon.science/
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
