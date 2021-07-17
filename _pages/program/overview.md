@@ -2153,35 +2153,64 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Zhuoyuan Mao, Prakhar Gupta, Chenhui Chu, Martin Jaggi and Sadao Kurohashi</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:10 - 09:20</td>
 <td><i>ERNIE-Doc: A Retrospective Long-Document Modeling Transformer</i> 
 <br/>SiYu Ding, Junyuan Shang, Shuohuan Wang, Yu Sun, Hao Tian, Hua Wu and Haifeng Wang</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:20 - 09:30</td>
 <td><i>Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation</i> 
 <br/>Yuanxin LIU, Fandong Meng, Zheng Lin, Weiping Wang and Jie Zhou</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:30 - 09:40</td>
 <td><i>Rational LAMOL: A Rationale-based Lifelong Learning Framework</i> 
 <br/>Kasidis Kanwatchara, Thanapapas Horsuwan, Piyawat Lertvittayakumjorn, Boonserm Kijsirikul and Peerapon Vateekul</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:40 - 09:50</td>
 <td><i>EnsLM: Ensemble Language Model for Data Diversity by Semantic Clustering</i> 
 <br/>Zhibin Duan, Hao Zhang, Chaojie Wang, Zhengjue Wang, Bo Chen and Mingyuan Zhou</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:50 - 10:00</td>
 <td><i>LeeBERT: Learned Early Exit for BERT with cross-level optimization</i> 
 <br/>Wei Zhu</td>
 </tr>
-
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 8D: NLP Applications 2
+<br/>(Session Chair: Preslav Nakov)</b></td>
+</tr>
 <tr>
 <td>09:00 - 09:10</td>
-<td><i></i> 
-<br/></td>
+<td><i>Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering</i> 
+<br/>Reinald Adrian Pugoy and Hung-Yu Kao</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction</i> 
+<br/>Shulin Liu, Tao Yang, Tianchi Yue, Feng Zhang and Di Wang</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Competence-based Multimodal Curriculum Learning for Medical Report Generation</i> 
+<br/>Fenglin Liu, Shen Ge and Xian Wu</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Learning Syntactic Dense Embedding with Correlation Graph for Automatic Readability Assessment</i> 
+<br/>Xinying Qiu, Yuan Chen, Hanwu Chen, Jian-Yun Nie, Yuming Shen and Dawei Lu</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains</i> 
+<br/>Haojie Pan, Chengyu Wang, Minghui Qiu, Yichang Zhang, Yaliang Li and jun huang</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models</i> 
+<br/>Chong Li, Cenyuan Zhang, Xiaoqing Zheng and Xuanjing Huang</td>
 </tr>
 <tr>
 <td>09:00 - 09:10</td>
