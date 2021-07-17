@@ -2485,6 +2485,51 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <td><i>Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking</i> 
 <br/>Binzong Geng, Fajie Yuan, Qiancheng Xu, Ying Shen, Ruifeng Xu and Min Yang</td>
 </tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 10C: Information Extraction 5
+<br/>(Session Chair: Tristan Naumann)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker</i> 
+<br/>Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path</i> 
+<br/>Yiran Wang, Hiroyuki Shindo, Yuji Matsumoto and Taro Watanabe</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification</i> 
+<br/>Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng and Yuguang Chen</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Revisiting the Negative Data of Distantly Supervised Relation Extraction</i> 
+<br/>Chenhao Xie, Jiaqing Liang, Jingping Liu, Chengsong Huang, Wenhao Huang and Yanghua Xiao</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Knowing the No-match: Entity Alignment with Dangling Cases</i> 
+<br/>Zequn Sun, Muhao Chen and Wei Hu</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>TIMERS: Document-level Temporal Relation Extraction</i> 
+<br/>Puneet Mathur, Rajiv Jain, Franck Dernoncourt, Vlad Morariu, Quan Hung Tran and Dinesh Manocha</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i></i> 
+<br/></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i></i> 
+<br/></td>
+</tr>
 </table>
 	
 
