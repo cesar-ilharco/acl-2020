@@ -134,6 +134,10 @@ dichampion:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe-logo.jpg
+    alt: "Adobe Logo"
+    title: "Adobe"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 inkind:
@@ -178,7 +182,7 @@ This year’s sponsor list includes two initiatives created last year.  These ca
 
 {% include gallery id="dichampion" class="fourth" %}
 
-## Diversity &amp; Inclusion: Ally
+## Diversity &amp; Inclusion: Supporter
 
 {% include gallery id="dially" class="fourth" %}
 
