@@ -2496,29 +2496,64 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:10 - 11:20</td>
 <td><i>Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path</i> 
 <br/>Yiran Wang, Hiroyuki Shindo, Yuji Matsumoto and Taro Watanabe</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:20 - 11:30</td>
 <td><i>LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification</i> 
 <br/>Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng and Yuguang Chen</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:30 - 11:40</td>
 <td><i>Revisiting the Negative Data of Distantly Supervised Relation Extraction</i> 
 <br/>Chenhao Xie, Jiaqing Liang, Jingping Liu, Chengsong Huang, Wenhao Huang and Yanghua Xiao</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:40 - 11:50</td>
 <td><i>Knowing the No-match: Entity Alignment with Dangling Cases</i> 
 <br/>Zequn Sun, Muhao Chen and Wei Hu</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:50 - 11:57</td>
 <td><i>TIMERS: Document-level Temporal Relation Extraction</i> 
 <br/>Puneet Mathur, Rajiv Jain, Franck Dernoncourt, Vlad Morariu, Quan Hung Tran and Dinesh Manocha</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 10D: Phonology, Morphology and Word Segmentation 1
+<br/>(Session Chair: TBC)</b></td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation of Complex Words</i> 
+<br/>Valentin Hofmann, Janet Pierrehumbert and Hinrich Schutze</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Optimizing over Subsequences Generates Context-Sensitive Languages</i> 
+<br/>Andrew Lamont</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Morphology Matters: A Multilingual Language Modeling Analysis</i> 
+<br/>Hyunji Hayley Park, Katherine J. Zhang, Coleman Haley, Kenneth Steimel, Han Liu and Lane Schwartz</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>Improving Arabic Diacritization with Regularized Decoding and Adversarial Training</i> 
+<br/>Han Qin, Guimin Chen, Yuanhe Tian and Yan Song</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>When is Char Better Than Subword: A Systematic Study of Segmentation Algorithms for Neural Machine Translation</i> 
+<br/>Jiahuan Li, Yutong Shen, Shujian Huang, Xinyu Dai and Jiajun CHEN</td>
+</tr>
+<tr>
+<td>11:00 - 11:10</td>
+<td><i>More than Text: Multi-modal Chinese Word Segmentation</i> 
+<br/>Dong Zhang, Zheng Hu, Shoushan Li, Hanqian Wu, Qiaoming Zhu and Guodong Zhou</td>
 </tr>
 <tr>
 <td>11:00 - 11:10</td>
