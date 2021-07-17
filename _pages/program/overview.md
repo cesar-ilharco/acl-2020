@@ -2461,60 +2461,30 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang and Minlie Huang</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:10 - 11:20</td>
 <td><i>Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System</i> 
 <br/>Yanan Wu, Zhiyuan Zeng, Keqing He, Hong Xu, Yuanmeng Yan, Huixing Jiang and Weiran Xu</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:20 - 11:30</td>
 <td><i>GTM: A Generative Triple-wise Model for Conversational Question Generation</i> 
 <br/>Lei Shen, Fandong Meng, Jinchao Zhang, Yang Feng and Jie Zhou</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:30 - 11:40</td>
 <td><i>Diversifying Dialog Generation via Adaptive Label Smoothing</i> 
 <br/>Yida Wang, Yinhe Zheng, Yong Jiang and Minlie Huang</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:40 - 11:50</td>
 <td><i>Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training</i> 
 <br/>Li-Ming Zhan, Haowen Liang, Bo LIU, Lu Fan, Xiao-Ming Wu and Albert Y.S. Lam</td>
 </tr>
 <tr>
-<td>11:00 - 11:10</td>
+<td>11:50 - 11:57</td>
 <td><i>Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking</i> 
 <br/>Binzong Geng, Fajie Yuan, Qiancheng Xu, Ying Shen, Ruifeng Xu and Min Yang</td>
 </tr>
-<tr>
-<td>11:00 - 11:10</td>
-<td><i></i> 
-<br/></td>
-</tr>
-<tr>
-<td>09:00 - 09:10</td>
-<td><i></i> 
-<br/></td>
-</tr>
-
-
-
-<tr>
-<td>08:00 - 08:10</td>
-<td><i></i> 
-<br/></td>
-</tr>
-
-<tr>
-<td>08:00 - 08:10</td>
-<td><i></i> 
-<br/></td>
-</tr>
-
-<tr>
-<td></td>
-<td><i>
-</i><br/>
-</td></tr>
 </table>
 	
 
