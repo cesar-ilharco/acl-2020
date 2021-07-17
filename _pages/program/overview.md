@@ -2291,24 +2291,59 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Philine Zeinert, Nanna Inie and Leon Derczynski</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:10 - 10:20</td>
 <td><i>Few-NERD: A Few-shot Named Entity Recognition Dataset</i> 
 <br/>Ning Ding, Guangwei Xu, Yulin Chen, Xiaobin Wang, Xu Han, Pengjun Xie, Haitao Zheng and Zhiyuan Liu</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:20 - 10:30</td>
 <td><i>MultiMET: A Multimodal Dataset for Metaphor Understanding</i> 
 <br/>Dongyu Zhang, Minghao Zhang, Heting Zhang, Liang Yang and Hongfei LIN</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:30 - 10:40</td>
 <td><i>Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech</i> 
 <br/>Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroglu and Marco Guerini</td>
 </tr>
 <tr>
-<td>10:00 - 10:10</td>
+<td>10:40 - 10:47</td>
 <td><i>OntoGUM: Evaluating Contextualized SOTA Coreference Resolution on 12 More Genres</i> 
 <br/>Yilun Zhu, Sameer Pradhan and Amir Zeldes</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 9C: Question Answering 2
+<br/>(Session Chair: Minjoon Seo)</b></td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Can Generative Pre-trained Language Models Serve As Knowledge Bases for Closed-book QA?</i> 
+<br/>Cunxiang Wang, Pai Liu and Yue Zhang</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Joint Models for Answer Verification in Question Answering Systems</i> 
+<br/>Zeyu Zhang, Thuy Vu and Alessandro Moschitti</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction</i> 
+<br/>Yifan Gao, Henghui Zhu, Patrick Ng, Cicero Nogueira dos Santos, Zhiguo Wang, Feng Nan, Dejiao Zhang, Ramesh Nallapati, Andrew O. Arnold and Bing Xiang</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance</i> 
+<br/>Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng and Tat-Seng Chua</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering</i> 
+<br/>Yunshi Lan and Jing Jiang</td>
+</tr>
+<tr>
+<td>10:00 - 10:10</td>
+<td><i>In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering</i> 
+<br/>Peter Vickers, Nikolaos Aletras, Emilio Monti and Loic Barrault</td>
 </tr>
 <tr>
 <td>10:00 - 10:10</td>
