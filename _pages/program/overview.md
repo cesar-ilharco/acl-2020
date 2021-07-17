@@ -2188,29 +2188,62 @@ Vojtech Hudecek, Ondrej Dusek and Zhou Yu</i>
 <br/>Reinald Adrian Pugoy and Hung-Yu Kao</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:10 - 09:20</td>
 <td><i>PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction</i> 
 <br/>Shulin Liu, Tao Yang, Tianchi Yue, Feng Zhang and Di Wang</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:20 - 09:30</td>
 <td><i>Competence-based Multimodal Curriculum Learning for Medical Report Generation</i> 
 <br/>Fenglin Liu, Shen Ge and Xian Wu</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:30 - 09:40</td>
 <td><i>Learning Syntactic Dense Embedding with Correlation Graph for Automatic Readability Assessment</i> 
 <br/>Xinying Qiu, Yuan Chen, Hanwu Chen, Jian-Yun Nie, Yuming Shen and Dawei Lu</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:40 - 09:50</td>
 <td><i>Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains</i> 
 <br/>Haojie Pan, Chengyu Wang, Minghui Qiu, Yichang Zhang, Yaliang Li and jun huang</td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:50 - 09:57</td>
 <td><i>Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models</i> 
 <br/>Chong Li, Cenyuan Zhang, Xiaoqing Zheng and Xuanjing Huang</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><b>Session 8E: Question Answering 1
+<br/>(Session Chair: Mrinmaya Sachan)</b></td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>A Semantic-based Method for Unsupervised Commonsense Question Answering</i> 
+<br/>Yilin Niu, Fei Huang, Jiaming Liang, Wenkai Chen, Xiaoyan Zhu and Minlie Huang</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Explanations for CommonsenseQA: New Dataset and Models</i> 
+<br/>Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla and Dinesh Garg</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>Few-Shot Question Answering by Pretraining Span Selection</i> 
+<br/>Ori Ram, Yuval Kirstain, Jonathan Berant, Amir Globerson and Omer Levy</td>
+</tr>
+<tr>
+<td>09:00 - 09:10</td>
+<td><i>UnitedQA: A Hybrid Approach for Open Domain Question Answering</i> 
+<br/>Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen and Jianfeng Gao</td>
+</tr><tr>
+<td>09:00 - 09:10</td>
+<td><i>Database reasoning over text</i> 
+<br/>James Thorne, Majid Yazdani, Marzieh Saeidi, Fabrizio Silvestri, Sebastian Riedel and Alon Halevy</td>
+</tr><tr>
+<td>09:00 - 09:10</td>
+<td><i>Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints</i> 
+<br/>Yuxiang Wu, Pasquale Minervini, Pontus Stenetorp and Sebastian Riedel</td>
 </tr>
 <tr>
 <td>09:00 - 09:10</td>
