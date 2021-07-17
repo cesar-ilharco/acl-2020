@@ -27,9 +27,39 @@ Instructors: Nigel Ward, Gina-Anne Levow</td>
 <td colspan="2">Sunday, August 1, 2021 (all times UTC+0)</td>
 </tr>
 <tr>
-<td>02:00-03:00</td>
+<td>02:00 - 03:00</td>
 <td><i> T4: Pre-training Methods for Neural Machine Translation (recorded; live Q&A)</i><br/>
 Instructors: Mingxuan Wang, Lei Li
+</td>
+</tr>
+<tr>
+<td>13:00 - 14:00</td>
+<td><i>T1: Advances in Debating Technologies: Building AI That Can Debate Humans (recorded; live Q&A)</i><br/>
+Instructors: Roy Bar-Haim , Liat Ein-Dor , Matan Orbach , Elad Venezian and Noam Slonim
+</td>
+</tr>
+<tr>
+<td>13:00 - 14:00</td>
+<td><i>T4: Pre-training Methods for Neural Machine Translation (recorded; live Q&A)</i><br/>
+Instructors: Mingxuan Wang, Lei Li
+</td>
+</tr>
+<tr>
+<td>13:00 - 14:00</td>
+<td><i>T6: Recognizing Multimodal Entailment (recorded; live Q&A)</i><br/>
+Instructors: Cesar Ilharco, Vaiva Imbrasaite, Ricardo Marino, Jannis Bulian, Chen Sun, Afsaneh Shirazi, Gabriel Ilharco, Georg Osang, Lucas Smaira and Cordelia Schmid
+</td>
+</tr>
+<tr>
+<td>13:00 - 17:00</td>
+<td><i> T3: Meta Learning and Its Applications to Natural Language Processing (live)</i><br/>
+Instructors: Hung-yi Lee, Ngoc Thang Vu, Shang-Wen Li
+</td>
+</tr>
+<tr>
+<td>13:00 - 17:00</td>
+<td><i>T5: Prosody: Models, Methods, and Applications (live)</i><br/>
+Instructors: Nigel Ward, Gina-Anne Levow
 </td>
 </tr>
 </table>
