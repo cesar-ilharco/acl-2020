@@ -16,7 +16,7 @@ sidebar:
 
 <h3>Local Organization Committee Co-Chairs:</h3>
 Priscilla Rasmussen, Association for Computational Linguistics (ACL) <br/>
-[Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), National Electronics and Computer Technology Center, Thailand<br/>
+[Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59), NECTEC, NSTDA, Thailand<br/>
 [Thanaruk Theeramunkong](https://aiat.or.th/thanaruk/), The Artificial Intelligence Association of Thailand and Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand
 
 <h3>Sponsorship Co-Chairs:</h3>
@@ -119,7 +119,7 @@ Haitao Lin, Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines<br/>
 [Jianfei Yu](https://sites.google.com/site/jfyu1990/ ), Nanjing University of Science and Technology, China<br/>
 [Liang-Chih Yu](http://nlp.innobic.yzu.edu.tw/~lcyu/), Yuan Ze University, Taiwan<br/>
-Krich Nasingkun, National Electronics and Computer Technology Center, Thailand <br/>
+[Krich Nasingkun](https://www.nectec.or.th/hccru/staff/view/6), NECTEC, NSTDA, Thailand<br/>
 [Shaonan Wang](https://wangshaonan.github.io/), Institute of Automation, Chinese Academy of Sciences, China<br/>
 [Wei Lu](http://statnlp.org/), Singapore University of Technology and Design, Singapore<br/>
 
