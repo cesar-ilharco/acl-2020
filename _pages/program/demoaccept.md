@@ -16,13 +16,26 @@ Congratulations to the recipients of the Best Demo Award at ACL 2021!
 **EXPLAINABOARD: An Explainable Leaderboard for NLP**<br/>
 *Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye and Graham Neubig*
 
->This very useful demo allows the user to compare state of the art papers (or your own output)  from both a theoretical (explanatory) perspective AND actual output perspecitves, as shown in as many as 6 tasks (they claim they implemented 74 NER systems) on 3 dimensions: Interpretability (single-system analysis, pair-wise analysis, data bias analysis), Interactivity (Fine-graine error analysis, system combination), and reliability (Confidence and calibration). It is really a good tool to use on your own systems as you tune them!   
+>This very useful demo allows the user to compare state of the art papers (or your own output)  from both a theoretical (explanatory) perspective AND actual output perspecitves, as shown in as many as 6 tasks (they claim they implemented 74 NER systems) on 3 dimensions: Interpretability (single-system analysis, pair-wise analysis, data bias analysis), Interactivity (Fine-graine error analysis, system combination), and reliability (Confidence and calibration). It is really a good tool to use on your own systems as you tune them!  
 ### Best Demo Runner-up
 
 **ESRA: Explainable Scientific Research Assistant**<br/>
 *Pollawat Hongwimol, Peeranuth Kehasukcharoen, Pasit Laohawarutchai, Piyawat Lertvittayakumjorn, Aik Beng Ng, Zhangsheng Lai, Timothy Liu and Peerapon Vateekul*
 
->The demo provides interesting insights into a body of research articles, by ingesting a large amount of them. It allows the user to search for keyphrases and displays in return a graph with nodes representing papers, research topics, authors, affiliations, tasks, metrics, etc, and relations among them. This allows the user to explore the research space in interesting ways, for instance navigating from BERT to Transformers to RoBERTa, LongFormer.      
+>The demo provides interesting insights into a body of research articles, by ingesting a large amount of them. It allows the user to search for keyphrases and displays in return a graph with nodes representing papers, research topics, authors, affiliations, tasks, metrics, etc, and relations among them. This allows the user to explore the research space in interesting ways, for instance navigating from BERT to Transformers to RoBERTa, LongFormer.  
+
+### Best Demo Award Committee
+
+- Radu Florian (IBM Research, Chair)  
+- Elizabeth Boschee (ISI)  
+- Ying Lin (Apple) 
+- Nazneen Rajani (Salesforce)
+- Han Wang (Amazon Alexa AI)
+- Diyi Yang (Georgia Tech) 
+
+We'd like to express great thanks to the Best Demo Paper Award committee for all of their time and efforts at reviewing the papers, their reviews and pre-recorded demo videos, extensive discussions and justifications for selecting the award.
+
+Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 
 ## ACL-IJCNLP Demo Track 2021 
 ### Accepted Submissions
