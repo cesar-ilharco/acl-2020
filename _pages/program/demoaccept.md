@@ -12,8 +12,8 @@ toc_max_header: 4
 ## Best Demo Award at ACL2021
 Congratulations to the recipients of the Best Demo Award at ACL 2021!
 ### Best Demo Award
-**EXPLAINABOARD: An Explainable Leaderboard for NLP **<br/>
-*Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye and Graham Neubig*
+** EXPLAINABOARD: An Explainable Leaderboard for NLP **<br/>
+* Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye and Graham Neubig *
 >This very useful demo allows the user to compare state of the art papers (or your own output)  from both a theoretical (explanatory) perspective AND actual output perspecitves, as shown in as many as 6 tasks (they claim they implemented 74 NER systems) on 3 dimensions: Interpretability (single-system analysis, pair-wise analysis, data bias analysis), Interactivity (Fine-graine error analysis, system combination), and reliability (Confidence and calibration). It is really a good tool to use on your own systems as you tune them!   
 
 
