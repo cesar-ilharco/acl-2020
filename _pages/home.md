@@ -9,18 +9,20 @@ excerpt: "<br/><br/>"
 ---
 
 <h2>News</h2>
+**July 17, 2021**. <b>[Here](https://2021.aclweb.org/program/overview/) is the Main Conference Schedule</b> <font color="red">** Update **</font>
+{: .notice--info}
 **July 12, 2021**. <b>[Here](https://2021.aclweb.org/blog/reviewer-list/) is the list of outstanding reviewers</b> <font color="red">** Update **</font>
 {: .notice--info}
-**July 08, 2021**. <b>[Here](https://2021.aclweb.org/downloads/keynotes1.pdf) is the info of our keynote speakers</b> <font color="red">** Update **</font>
+**July 08, 2021**. <b>[Here](https://2021.aclweb.org/downloads/keynotes1.pdf) is the information of our keynote speakers</b> <font color="red">** Update **</font>
 {: .notice--info}
 
-**July 05, 2021**. <b>Annoucement of ACL-IJCNLP 2021 Paper Awards are [here](https://2021.aclweb.org/program/accept/)</b> <font color="red">** Update **</font>
+**July 05, 2021**. <b>Annoucement of ACL-IJCNLP 2021 Paper Awards are [here](https://2021.aclweb.org/program/accept/)</b>
 {: .notice--info}
 
-**July 01, 2021**. <b>List of Accepted ACL-IJCNLP 2021 Paper are [here](https://2021.aclweb.org/program/accept/)</b> <font color="red">** Update **</font>
+**July 01, 2021**. <b>List of Accepted ACL-IJCNLP 2021 Paper are [here](https://2021.aclweb.org/program/accept/)</b>
 {: .notice--info}
 
-**June 18, 2021**. <b>Online Registration for ACL-IJCNLP 2021 are [here](https://2021.aclweb.org/registration/page/)</b> <font color="red">** Update **</font>
+**June 18, 2021**. <b>Online Registration for ACL-IJCNLP 2021 are [here](https://2021.aclweb.org/registration/page/)</b>
 {: .notice--info}
 
 **June 15, 2021**. <b>Call for VOLUNTEER/SCHOLARSHIP PROGRAM [here](https://2021.aclweb.org/registration/volunteer/)</b>
