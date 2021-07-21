@@ -1,5 +1,5 @@
 ---
-title: Demo 
+title: ACL-IJCNLP 2021: Demo Schedule  
 layout: single
 excerpt: "ACL Demo Schedule"
 permalink: /program/demo/
@@ -7,7 +7,6 @@ sidebar:
     nav: program
 ---
 
-## ACL-IJCNLP 2021: Demo Schedule 
 Demo Session 1, Demo Session 2, and Demo Session 3, followed by Paper IDs and their titles
 
 ### Demo Session 1: Day 2 (Aug 3), 8-12 UTC
