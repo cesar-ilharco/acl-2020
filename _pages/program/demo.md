@@ -1,5 +1,5 @@
 ---
-title: ACL-IJCNLP 2021: Demo Schedule  
+title: Demo 
 layout: single
 excerpt: "ACL Demo Schedule"
 permalink: /program/demo/
@@ -7,10 +7,10 @@ sidebar:
     nav: program
 ---
 
-### Demo Session 1, Demo Session 2, and Demo Session 3, followed by Paper IDs and their titles
+## ACL-IJCNLP 2021: Demo Schedule 
+Demo Session 1, Demo Session 2, and Demo Session 3, followed by Paper IDs and their titles
 
 ### Demo Session 1: Day 2 (Aug 3), 8-12 UTC
-
 5 TexSmart: A System for Enhanced Natural Language Understanding
 
 6 IntelliCAT: Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion
