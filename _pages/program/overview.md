@@ -1713,7 +1713,7 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
      </tr> 
      <tr> 
       <td valign="top"></td> 
-      <td valign="top"><p> <strong> Session 10D: Phonology, Morphology and Word Segmentation 1 </strong> </p> <p> <strong>(Session Chair: TBC)</strong> </p></td> 
+      <td valign="top"><p> <strong> Session 10D: Phonology, Morphology and Word Segmentation 1 </strong> </p> <p> <strong>(Session Chair: Xuanjing Huang)</strong> </p></td> 
      </tr> 
      <tr> 
       <td width="100" valign="top"><p> 11:00&ndash;11:10 </p></td> 
