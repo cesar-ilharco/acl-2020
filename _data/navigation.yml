@@ -97,6 +97,8 @@ program:
          url: /program/tutorials/
        - title: "Main Conference Schedule"
          url: /program/overview/
+       - title: "SRW Schedule"
+         url: https://sites.google.com/view/acl-ijcnlp-2021-srw/schedule
        - title: "Accepted Papers"
          url: /program/accept/
        - title: "Accepted Demo Track"
