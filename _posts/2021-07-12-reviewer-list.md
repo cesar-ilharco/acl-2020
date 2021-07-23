@@ -139,7 +139,7 @@ We would like to advertise outstanding reviewers, listed below
 - Alex Warstadt,
 - Gail Weiss,
 - Alina Wr&#243;blewska,
-- Jorn Wuebker,
+- Joern Wuebker,
 - Jiacheng Xu,
 - Michael Yoder,
 - Naoki Yoshinaga,
