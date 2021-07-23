@@ -866,7 +866,7 @@ The 59th Annual Meeting of the Association for Computational Linguistics and the
      </tr> 
      <tr> 
       <td width="100" valign="top"><p> 23:20&ndash;23:30 </p></td> 
-      <td valign="top"><p> <em> A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies </em> <br> A. Seza Doğru&ouml;z, Sunayana Sitaram, Barbara E. Bullock and Almedia Jacqueline Toribio </p></td> 
+      <td valign="top"><p> <em> A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies </em> <br> A. Seza Doğru&ouml;z, Sunayana Sitaram, Barbara E. Bullock and Almeida Jacqueline Toribio </p></td> 
      </tr> 
      <tr> 
       <td width="100" valign="top"><p> 23:30&ndash;23:40 </p></td> 
