@@ -45,6 +45,75 @@ Inside ASCENT: Exploring a Deep Commonsense Knowledge Base and its Usage in Ques
 </tr>
 <tr>
 <td valign="top"></td> 
+<td><b>NeurST: Neural Speech Translation Toolkit</b><br/>
+<i>Chengqi Zhao, Mingxuan Wang, Qianqian Dong, Rong Ye and Lei Li</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus</b><br/>
+<i>Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou and Hinrich Schütze</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+MT-Telescope: An interactive platform for contrastive evaluation of MT systems</b><br/>
+<i>Ricardo Rei, Ana C Farinha, Craig Stewart, Luisa Coheur and Alon Lavie</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Supporting Complaints Investigation for Nursing and Midwifery Regulatory Agencies</b><br/>
+<i>Piyawat Lertvittayakumjorn, Ivan Petej, Yang Gao, Yamuna Krishnamurthy, Anna van der Gaag, Robert Jago and Kostas Stathis
+</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>CogIE: An Information Extraction Toolkit for Bridging Texts and CogNet</b><br/>
+<i>Zhuoran Jin, Yubo Chen, Dianbo Sui, Chenhao Wang, Zhipeng Xue and Jun Zhao</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>fastHan: A BERT-based Multi-Task Toolkit for Chinese NLP</b><br/>
+<i>Zhichao Geng, Hang Yan, Xipeng Qiu and Xuanjing Huang</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Erase and Rewind: Manual Correction of NLP Output through a Web Interface</b><br/>
+<i>Valentino Frasnelli, Lorenzo Bocchi and Alessio Palmero Aprosio</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>ESRA: Explainable Scientific Research Assistant [Best Demo Runner-up]</b><br/>
+<i>Pollawat Hongwimol, Peeranuth Kehasukcharoen, Pasit Laohawarutchai, Piyawat Lertvittayakumjorn, Aik Beng Ng, Zhangsheng Lai, Timothy Liu and Peerapon Vateekul</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction</b><br/>
+<i>Adrien Barbaresi</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>REM: Efficient Semi-Automated Real-Time Moderation of Online Forums</b><br/>
+<i>Jakob Smedegaard Andersen, Olaf Zukunft and Walid Maalej</i>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
 <td><b></b><br/>
 <i></i>
 </td>
