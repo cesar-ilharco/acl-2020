@@ -60,7 +60,7 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 *Zijie J. Wang, Robert Turko and Duen Horng Chau*
 
 **Does My Representation Capture X? Probe-Ably**<br/>
-*Deborah Ferreira, Julia Rozanova, Mokanarangan Thayaparan, Marco Valentino and Andre Freitas*
+*Deborah Ferreira, Julia Rozanova, Mokanarangan Thayaparan, Marco Valentino and Andr&#233; Freitas*
 
 **Ecco: An Open Source Library for the Explainability of Transformer Language Models**<br/>
 *J Alammar*
@@ -81,7 +81,7 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 *Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi and Ruofei Zhang*
 
 **IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation**<br/>
-*Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, bo Zhu, Shijin Wang and Ting Liu*
+*Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang and Ting Liu*
 
 **Inside ASCENT: Exploring a Deep Commonsense Knowledge Base and its Usage in Question Answering**<br/>
 *Tuan-Phong Nguyen, Simon Razniewski and Gerhard Weikum*
@@ -90,7 +90,7 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 *Dongjun Lee, Junhyeong Ahn, Heesoo Park and Jaemin Jo*
 
 **KuiLeiXi: a Chinese Open-Ended Text Adventure Game**<br/>
-*Yadong Xi, Xiaoxi Mao, Le Li, Lei Lin, Yanjiang Chen, Shuhan Yang, Xuhan Chen, Kailun Tao, Zhi Li, Gongzheng Li, Lin Jiang, Siyan Liu, Zeng Zhao, Minlie Huang, changjie fan and Zhipeng Hu*
+*Yadong Xi, Xiaoxi Mao, Le Li, Lei Lin, Yanjiang Chen, Shuhan Yang, Xuhan Chen, Kailun Tao, Zhi Li, Gongzheng Li, Lin Jiang, Siyan Liu, Zeng Zhao, Minlie Huang, Changjie Fan and Zhipeng Hu*
 
 **LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing**<br/>
 *Yu Li, Josh Arnold, Feifan Yan, Weiyan Shi and Zhou Yu*
@@ -111,7 +111,7 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Zixian Ma, Bairu Hou, Yuan Zang, Zhiyuan Liu and Maosong Sun*
 
 **ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus**<br/>
-*Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou and Hinrich Schutze*
+*Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou and Hinrich Sch&#252;tze*
 
 **PAWLS: PDF Annotation With Labels and Structure**<br/>
 *Mark Neumann, Zejiang Shen and Sam Skjonsberg*
@@ -123,7 +123,7 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 *Jakob Smedegaard Andersen, Olaf Zukunft and Walid Maalej*
 
 **ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering**<br/>
-*Shuang Chen, Qian Liu, Zhiwei Yu, Chin-Yew Lin, Jian-Guang LOU and Feng Jiang*
+*Shuang Chen, Qian Liu, Zhiwei Yu, Chin-Yew Lin, Jian-Guang Lou and Feng Jiang*
 
 **SciConceptMiner: A system for large-scale scientific concept discovery**<br/>
 *Zhihong Shen, Chieh-Han Wu, Li Ma, Chien-Pang Chen and Kuansan Wang*
@@ -135,31 +135,31 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 *Chi-yang Hsu, Yun-Wei Chu, Tsai-Lun Yang, Ting-Hao Huang and Lun-Wei Ku*
 
 **SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization**<br/>
-*Jesse Vig, Wojciech Kryscinski, Karan Goel and Nazneen Fatema Rajani*
+*Jesse Vig, Wojciech Kry&#347;ci&#324;ski, Karan Goel and Nazneen Fatema Rajani*
 
 **Supporting Complaints Investigation for Nursing and Midwifery Regulatory Agencies**<br/>
 *Piyawat Lertvittayakumjorn, Ivan Petej, Yang Gao, Yamuna Krishnamurthy, Anna van der Gaag, Robert Jago and Kostas Stathis*
 
 **TexSmart: A System for Enhanced Natural Language Understanding**<br/>
-*Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi*
+*Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, Dick Zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi*
 
 **TextBox: A Unified, Modularized, and Extensible Framework for Text Generation**<br/>
-*Junyi Li, Tianyi Tang, Gaole He, Jinhao Jiang, Xiaoxuan HU, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao and Ji-Rong Wen*
+*Junyi Li, Tianyi Tang, Gaole He, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao and Ji-Rong Wen*
 
 **TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing**<br/>
-*Xiao Wang, Qin Liu, Tao Gui, Qi Zhang, Yicheng Zou, Xin Zhou, Jiacheng Ye, Zhang Yongxin, Rui Zheng, Zexiong Pang, Qinzhuo Wu, Zhengyan Li, Chong Zhang, Ruotian Ma, Zichu Fei, Ruijian Cai, Jun Zhao, Xingwu Hu, Zhiheng Yan, Yiding Tan, Yuan Hu, Qiyuan Bian, Zhihua Liu, Shan Qin, Bolin Zhu, Xiaoyu Xing, Jinlan Fu, Yue Zhang, Minlong Peng, Xiaoqing Zheng, Yaqian Zhou, Zhongyu Wei, Xipeng Qiu and Xuanjing Huang*
+*Xiao Wang, Qin Liu, Tao Gui, Qi Zhang, Yicheng Zou, Xin Zhou, Jiacheng Ye, Yongxin Zhang, Rui Zheng, Zexiong Pang, Qinzhuo Wu, Zhengyan Li, Chong Zhang, Ruotian Ma, Zichu Fei, Ruijian Cai, Jun Zhao, Xingwu Hu, Zhiheng Yan, Yiding Tan, Yuan Hu, Qiyuan Bian, Zhihua Liu, Shan Qin, Bolin Zhu, Xiaoyu Xing, Jinlan Fu, Yue Zhang, Minlong Peng, Xiaoqing Zheng, Yaqian Zhou, Zhongyu Wei, Xipeng Qiu and Xuanjing Huang*
 
 **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**<br/>
 *Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao and Kai Gao*
 
 **The {C}lassical {L}anguage {T}oolkit: {A}n {NLP} Framework for Pre-Modern Languages**<br/>
-*Kyle P. P. Johnson, Patrick J. Burns, John D. Stewart, Todd G. Cook, Clement Besnier and William J. B. J.B. Mattingly*
+*Kyle P. Johnson, Patrick J. Burns, John D. Stewart, Todd G. Cook, Cl&#233;ment Besnier and William J. B. Mattingly*
 
 **Trafilatura: {A} Web Scraping Library and Command-Line Tool for Text Discovery and Extraction**<br/>
 *Adrien Barbaresi*
 
 **TURING: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface**<br/>
-*Peng Xu, Wenjie Zi, Hamidreza Shahidi, Akos Kadar, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon and Yanshuai Cao*
+*Peng Xu, Wenjie Zi, Hamidreza Shahidi, &#193;kos K&#225;d&#225;r, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon and Yanshuai Cao*
 
 **TweeNLP: A Twitter Exploration Portal for Natural Language Processing**<br/>
 *Viraj Shah, Shruti Singh and Mayank Singh*
