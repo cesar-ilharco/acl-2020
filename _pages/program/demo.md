@@ -149,6 +149,55 @@ Does My Representation Capture X? Probe-Ably</b><br/>
 </tr>
 <tr>
 <td valign="top"></td> 
+<td><b>CLTR: An End-to-End, Transformer-Based System for Cell-Level Table Retrieval and Table Question Answering</b><br/>
+<i>Feifei Pan, Mustafa Canim, Michael Glass, Alfio Gliozzo and Peter Fox</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Neural Extractive Search</b><br/>
+<i>Shauli Ravfogel, Hillel Taub-Tabib and Yoav Goldberg</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Ecco: An Open Source Library for the Explainability of Transformer Language Models</b><br/>
+<i>J Alammar</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>PAWLS: PDF Annotation With Labels and Structure</b><br/>
+<i>Mark Neumann, Zejiang Shen and Sam Skjonsberg</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>ChrEnTranslate: Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback</b><br/>
+<i>Shiyue Zhang, Benjamin Frey and Mohit Bansal</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Exploring Word Usage Change with Continuously Evolving Embeddings</b><br/>
+<i>Franziska Horn</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+Many-to-English Machine Translation Tools, Data, and Pretrained Models</b><br/>
+<i>Thamme Gowda, Zhao Zhang, Chris Mattmann and Jonathan May</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>skweak: Weak Supervision Made Easy for NLP</b><br/>
+<i>Pierre Lison, Jeremy Barnes and Aliaksandr Hubin</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
 <td><b></b><br/>
 <i></i>
 </td>
