@@ -261,7 +261,7 @@ TweeNLP: A Twitter Exploration Portal for Natural Language Processing</b><br/>
 <tr>
 <td valign="top"></td> 
 <td><b>TURING: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface</b><br/>
-<i>Peng Xu, Wenjie Zi, Hamidreza Shahidi, Ákos Kádár, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon and Yanshuai Cao</i>
+<i>Peng Xu, Wenjie Zi, Hamidreza Shahidi, &#193;kos K&#225;d&#225;r, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon and Yanshuai Cao</i>
 </td>
 </tr>
 <tr>
