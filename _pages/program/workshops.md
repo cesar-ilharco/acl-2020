@@ -28,7 +28,7 @@ w07 [Workshop on Natural Language Processing for Programming](https://nlp4prog.g
 Graham Neubig, Yu Su, Huan Sun and Reut Tsarfaty</i><br/><br/>
 w08 [The 4th Workshop on e-Commerce and NLP (ECNLP 4)](https://sites.google.com/view/ecnlp/enclp-4-acl-2021#h.bq7kga3xivp0)<br/>
 <i>Shervin Malmasi, Eugene Agichtein, Nicola Ueffing, Surya Kallumadi, Oleg Rokhlenko and Ido Guy</i><br/><br/>
-w09 [Interactive Learning for Natural Language Processing](https://sites.google.com/view/internlp2021/home)<br/>
+w09 [Interactive Learning for Natural Language Processing](https://sites.google.com/view/internlp2021/schedule)<br/>
 <i>Kianté Brantley, Soham Dan, Iryna Gurevych, Ji-Ung Lee, Filip Radlinski, Hinrich Schütze, 
 Edwin Simpson and Lili Yu</i><br/><br/>
 w10 [GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/workshop#schedule)<br/>
