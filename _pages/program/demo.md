@@ -144,7 +144,7 @@ Dodrio: Exploring Transformer Models with Interactive Visualization</b><br/>
 <td valign="top"></td> 
 <td><b>
 Does My Representation Capture X? Probe-Ably</b><br/>
-<i>Deborah Ferreira, Julia Rozanova, Mokanarangan Thayaparan, Marco Valentino and André Freitas</i>
+<i>Deborah Ferreira, Julia Rozanova, Mokanarangan Thayaparan, Marco Valentino and Andr&#233; Freitas</i>
 </td>
 </tr>
 <tr>
