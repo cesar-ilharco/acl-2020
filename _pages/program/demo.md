@@ -105,7 +105,72 @@ MT-Telescope: An interactive platform for contrastive evaluation of MT systems</
 <i>Jakob Smedegaard Andersen, Olaf Zukunft and Walid Maalej</i>
 </td>
 </tr>
-
+<tr>
+<td width="25%">14:00 - 18:00</td>
+<td><b>Demo Session 2</b></td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages</b><br/>
+<i>Kyle P. Johnson, Patrick J. Burns, John D. Stewart, Todd G. Cook, Clément Besnier and William J. B. Mattingly</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>SciConceptMiner: A system for large-scale scientific concept discovery</b><br/>
+<i>Zhihong Shen, Chieh-Han Wu, Li Ma, Chien-Pang Chen and Kuansan Wang</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+Dodrio: Exploring Transformer Models with Interactive Visualization</b><br/>
+<i>Zijie J. Wang, Robert Turko and Duen Horng Chau</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization</b><br/>
+<i>Jesse Vig, Wojciech Kry&#347;ci&#324;ski, Karan Goel and Nazneen Fatema Rajani</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>A Graphical Interface for Curating Schemas</b><br/>
+<i>Piyush Mishra, Akanksha Malhotra, Susan Windisch Brown, Martha Palmer and Ghazaleh Kazeminejad</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+Does My Representation Capture X? Probe-Ably</b><br/>
+<i>Deborah Ferreira, Julia Rozanova, Mokanarangan Thayaparan, Marco Valentino and André Freitas</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
 <tr>
 <td valign="top"></td> 
 <td><b></b><br/>
