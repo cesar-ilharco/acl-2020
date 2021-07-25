@@ -197,6 +197,61 @@ Many-to-English Machine Translation Tools, Data, and Pretrained Models</b><br/>
 </td>
 </tr>
 <tr>
+<td width="25%">23:00 - 03:00</td>
+<td><b>Demo Session 3</b></td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition</b><br/>
+<i>Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao and Kai Gao</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>KuiLeiXi: a Chinese Open-Ended Text Adventure Game</b><br/>
+<i>Yadong Xi, Xiaoxi Mao, Le Li, Lei Lin, Yanjiang Chen, Shuhan Yang, Xuhan Chen, Kailun Tao, Zhi Li, Gongzheng Li, Lin Jiang, Siyan Liu, Zeng Zhao, Minlie Huang, Changjie Fan and Zhipeng Hu</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>CRSLab: An Open-Source Toolkit for Building Conversational Recommender System</b><br/>
+<i>Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen
+</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>FastSeq: Make Sequence Generation Faster</b><br/>
+<i>Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi and Ruofei Zhang</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+LOA: Logical Optimal Actions for Text-based Interaction Games</b><br/>
+<i>Daiki Kimura, Subhajit Chaudhury, Masaki Ono, Michiaki Tatsubori, Don Joven Agravante, Asim Munawar, Akifumi Wachi, Ryosuke Kohita and Alexander Gray</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation</b><br/>
+<i>Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li and Nan Duan</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation</b><br/>
+<i>Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang and Ting Liu</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+TweeNLP: A Twitter Exploration Portal for Natural Language Processing</b><br/>
+<i>Viraj Shah, Shruti Singh and Mayank Singh</i>
+</td>
+</tr>
+<tr>
 <td valign="top"></td> 
 <td><b></b><br/>
 <i></i>
