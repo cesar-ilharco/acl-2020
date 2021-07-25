@@ -52,7 +52,7 @@ Inside ASCENT: Exploring a Deep Commonsense Knowledge Base and its Usage in Ques
 <tr>
 <td valign="top"></td> 
 <td><b>ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus</b><br/>
-<i>Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou and Hinrich Schütze</i>
+<i>Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou and Hinrich Sch&#252;tze</i>
 </td>
 </tr>
 <tr>
