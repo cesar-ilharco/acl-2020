@@ -152,10 +152,10 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**<br/>
 *Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao and Kai Gao*
 
-**The {C}lassical {L}anguage {T}oolkit: {A}n {NLP} Framework for Pre-Modern Languages**<br/>
+**The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages**<br/>
 *Kyle P. Johnson, Patrick J. Burns, John D. Stewart, Todd G. Cook, Cl&#233;ment Besnier and William J. B. Mattingly*
 
-**Trafilatura: {A} Web Scraping Library and Command-Line Tool for Text Discovery and Extraction**<br/>
+**Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction**<br/>
 *Adrien Barbaresi*
 
 **TURING: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface**<br/>
@@ -164,8 +164,8 @@ Heng Ji, Jong C. Park and Rui Xia (ACL2021 Demo Co-Chairs)
 **TweeNLP: A Twitter Exploration Portal for Natural Language Processing**<br/>
 *Viraj Shah, Shruti Singh and Mayank Singh*
 
-**{ESRA}: Explainable Scientific Research Assistant**<br/>
+**ESRA: Explainable Scientific Research Assistant**<br/>
 *Pollawat Hongwimol, Peeranuth Kehasukcharoen, Pasit Laohawarutchai, Piyawat Lertvittayakumjorn, Aik Beng Ng, Zhangsheng Lai, Timothy Liu and Peerapon Vateekul*
 
-**{MT}-{T}elescope: {A}n interactive platform for contrastive evaluation of {MT} systems**<br/>
+**MT-Telescope: An interactive platform for contrastive evaluation of MT systems**<br/>
 *Ricardo Rei, Ana C Farinha, Craig Stewart, Luisa Coheur and Alon Lavie*
