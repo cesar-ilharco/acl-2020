@@ -14,7 +14,7 @@ ACL-IJCNLP 2021: Demo Schedule
 <td colspan="2">Tuesday, August 3, 2021 (all times UTC+0)</td>
 </tr>
 <tr>
-<td width="25%">08:00 – 12:00</td>
+<td width="25%">08:00 - 12:00</td>
 <td><b>Demo Session 1</b></td>
 </tr>
 <tr>
