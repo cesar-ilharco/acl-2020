@@ -23,4 +23,36 @@ ACL-IJCNLP 2021: Demo Schedule
 <i>Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, Dick Zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi</i>
 </td>
 </tr>
+<tr>
+<td valign="top"></td> 
+<td><b>IntelliCAT: Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion</b><br/>
+<i>Dongjun Lee, Junhyeong Ahn, Heesoo Park and Jaemin Jo</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>TextBox: A Unified, Modularized, and Extensible Framework for Text Generation</b><br/>
+<i>Junyi Li, Tianyi Tang, Gaole He, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao and Ji-Rong Wen
+</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>
+Inside ASCENT: Exploring a Deep Commonsense Knowledge Base and its Usage in Question Answering</b><br/>
+<i>Tuan-Phong Nguyen, Simon Razniewski and Gerhard Weikum</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b></b><br/>
+<i></i>
+</td>
+</tr>
 </table>
