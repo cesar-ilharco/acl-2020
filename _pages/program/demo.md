@@ -253,44 +253,48 @@ TweeNLP: A Twitter Exploration Portal for Natural Language Processing</b><br/>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>EXPLAINABOARD: An Explainable Leaderboard for NLP [Best Demo Award]</b><br/>
+<i>Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye and Graham Neubig
+</i>
 </td>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>TURING: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface</b><br/>
+<i>Peng Xu, Wenjie Zi, Hamidreza Shahidi, Ákos Kádár, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon and Yanshuai Cao</i>
 </td>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing</b><br/>
+<i>Yu Li, Josh Arnold, Feifan Yan, Weiyan Shi and Zhou Yu</i>
 </td>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>
+ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering</b><br/>
+<i>Shuang Chen, Qian Liu, Zhiwei Yu, Chin-Yew Lin, Jian-Guang Lou and Feng Jiang
+</i>
 </td>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing</b><br/>
+<i>Xiao Wang, Qin Liu, Tao Gui, Qi Zhang, Yicheng Zou, Xin Zhou, Jiacheng Ye, Yongxin Zhang, Rui Zheng, Zexiong Pang, Qinzhuo Wu, Zhengyan Li, Chong Zhang, Ruotian Ma, Zichu Fei, Ruijian Cai, Jun Zhao, Xingwu Hu, Zhiheng Yan, Yiding Tan, Yuan Hu, Qiyuan Bian, Zhihua Liu, Shan Qin, Bolin Zhu, Xiaoyu Xing, Jinlan Fu, Yue Zhang, Minlong Peng, Xiaoqing Zheng, Yaqian Zhou, Zhongyu Wei, Xipeng Qiu and Xuanjing Huang
+</i>
 </td>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>Stretch-VST: Getting Flexible With Visual Stories</b><br/>
+<i>Chi-yang Hsu, Yun-Wei Chu, Tsai-Lun Yang, Ting-Hao Huang and Lun-Wei Ku</i>
 </td>
 </tr>
 <tr>
 <td valign="top"></td> 
-<td><b></b><br/>
-<i></i>
+<td><b>OpenAttack: An Open-source Textual Adversarial Attack Toolkit</b><br/>
+<i>Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Zixian Ma, Bairu Hou, Yuan Zang, Zhiyuan Liu and Maosong Sun</i>
 </td>
 </tr>
 </table>
