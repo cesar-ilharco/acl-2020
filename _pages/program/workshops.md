@@ -3,9 +3,6 @@ title: Workshops
 layout: single
 excerpt: "ACL 2021 Workshops."
 permalink: /program/workshops/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
 sidebar: 
     nav: program
 ---
