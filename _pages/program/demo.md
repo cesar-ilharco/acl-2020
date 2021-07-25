@@ -87,5 +87,23 @@ MT-Telescope: An interactive platform for contrastive evaluation of MT systems</
 <i>Valentino Frasnelli, Lorenzo Bocchi and Alessio Palmero Aprosio</i>
 </td>
 </tr>
+<tr>
+<td valign="top"></td> 
+<td><b>ESRA: Explainable Scientific Research Assistant [Best Demo Runner-up]</b><br/>
+<i>Pollawat Hongwimol, Peeranuth Kehasukcharoen, Pasit Laohawarutchai, Piyawat Lertvittayakumjorn, Aik Beng Ng, Zhangsheng Lai, Timothy Liu and Peerapon Vateekul</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction</b><br/>
+<i>Adrien Barbaresi</i>
+</td>
+</tr>
+<tr>
+<td valign="top"></td> 
+<td><b>REM: Efficient Semi-Automated Real-Time Moderation of Online Forums</b><br/>
+<i>Jakob Smedegaard Andersen, Olaf Zukunft and Walid Maalej</i>
+</td>
+</tr>
 
 </table>
