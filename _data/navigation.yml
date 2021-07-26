@@ -101,7 +101,7 @@ program:
          url: /program/demo/
        - title: "SRW Schedule"
          url: https://sites.google.com/view/acl-ijcnlp-2021-srw/schedule
-       - title: "Workshop Schedule"
+       - title: "Workshop Schedules"
          url: /program/workshops/
        - title: "Accepted Papers"
          url: /program/accept/
