@@ -60,7 +60,7 @@ w20 [*SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics
 <i>Ivan Vulic and Vivi Nastase</i><br/><br/>
 w21 [SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
 Communication for Robotics]( https://splu-robonlp2021.github.io/#schedule)<br/><br/>
-<i>Malihe Alikhani, Valts Blukis, Parisa Kordjamshidi, Aishwarya Padmakumar, and Hao Tan</i><br/>
+<i>Malihe Alikhani, Valts Blukis, Parisa Kordjamshidi, Aishwarya Padmakumar, and Hao Tan</i><br/><br/>
 w22 [Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)](https://emw.ku.edu.tr/case-2021/)<br/>
 <i>Ali Hürriyetoglu, Hristo Tanev, Vanni Zavarella, Deniz Yuret, Erdem Yörük, Aline Villavicencio, 
 Jakub Piskorski and Gautam Kishore Shahi</i><br/><br/>
