@@ -9,7 +9,7 @@ sidebar:
 
 w01 [Benchmarking: Past, Present and Future](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#draft-schedule)<br/>
 <i>Kenneth Church, Mark Liberman and Valia Kordoni</i><br/><br/>
-w02 [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home)<br/>
+w02 [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home#h.czplpodomjyq)<br/>
 <i>Aida Mostafazadeh Davani, Douwe Kiela, Lambert Mathias, Vinodkumar Prabhakaran, 
 Bertie Vidgen and Zeerak Waseem</i><br/><br/>
 w03 [2nd International Workshop on Computational Approaches to Historical Language Change (LChange'21)](https://languagechange.org/events/2021-acl-lchange/#programme)<br/>
@@ -59,7 +59,7 @@ w19 [Understanding Implicit and Underspecified Language](https://unimplicit.gith
 w20 [*SEM 2021: The 10th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2021/programme_1) (2 days) <br/>
 <i>Ivan Vulic and Vivi Nastase</i><br/><br/>
 w21 [SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded 
-Communication for Robotics]( https://splu-robonlp2021.github.io/#schedule)<br/><br/>
+Communication for Robotics]( https://splu-robonlp2021.github.io/#schedule)<br/>
 <i>Malihe Alikhani, Valts Blukis, Parisa Kordjamshidi, Aishwarya Padmakumar, and Hao Tan</i><br/><br/>
 w22 [Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)](https://emw.ku.edu.tr/case-2021/)<br/>
 <i>Ali Hürriyetoglu, Hristo Tanev, Vanni Zavarella, Deniz Yuret, Erdem Yörük, Aline Villavicencio, 
