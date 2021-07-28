@@ -22,7 +22,10 @@ diamond:
     image_path: /assets/images/logos/google-logo.png
     alt: "Google Logo"
     title: "Google"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.businesseventsthailand.com/en
+    image_path: /assets/images/logos/tceb-logo.png
+    alt: "TCEB Logo"
+    title: "TCEB"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://www.amazon.science/
