@@ -177,7 +177,7 @@ This year’s sponsor list includes two initiatives created last year.  These ca
 
 ## Supporter
 
-<!--{% include gallery id="supporter" class="fourth" %}-->
+{% include gallery id="supporter" class="fourth" %}
 
 ## Social Event Entertainment
 
