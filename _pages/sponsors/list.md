@@ -107,13 +107,15 @@ bronze:
     title: "Adobe"
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
-  - url: https://research.adobe.com/
-    image_path: /assets/images/logos/adobe-logo.png
-    alt: "Adobe Logo"
-    title: "Adobe"
+  - url: https://www.nstda.or.th/en/
+    image_path: /assets/images/logos/nectec-logo.png
+    alt: "NECTEC Logo"
+    title: "NECTEC"
+  - url: https://www.aiat.or.th/en/
+    image_path: /assets/images/logos/aiat-logo.png
+    alt: "AIAT Logo"
+    title: "AIAT"
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
-supporter:
 socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
