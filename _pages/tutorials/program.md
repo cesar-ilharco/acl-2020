@@ -70,7 +70,7 @@ Prosody is essential in human interaction, enabling people  to  show  interest, 
 ### T6: Recognizing Multimodal Entailment
 
 Live, 2021-08-01 13:00&ndash;17:00 (UTC)<br/>
-*Instructors: Cesar Ilharco, Afsaneh Shirazi, Arjun Gopalan, Arsha Nagrani, Blaz Bratanic, Christina Funk, Felipe Ferreira, Gabriel Barcik, Jannis Bulian, Jared Frank, Lucas Smaira, Qin Cao, Ricardo Marino, Roma Patel*
+*Instructors: Cesar Ilharco, Afsaneh Shirazi, Arjun Gopalan, Arsha Nagrani, Christina Liu, Felipe Ferreira, Gabriel Barcik, Jannis Bulian, Jared Frank, Lucas Smaira, Qin Cao, Ricardo Marino, Roma Patel*
 
 ![t6](/assets/images/t6.png)        
 
